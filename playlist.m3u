@@ -19,20 +19,12 @@ https://jmp2.uk/stvp-FRBD410000783
 https://d1ib1gsg71oarf.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-scp7wda722jph/BFM2_FR.m3u8
 #EXTINF:-1 channel-id="6430aa45fc3be5947780904e-64c91830ea7db2f52688c52c" tvg-id="6430aa45fc3be5947780904e-64c91830ea7db2f52688c52c" tvg-chno="" tvg-name="CBC News" tvg-logo="https://provider-static.plex.tv/d/epg/channels/logos/gracenote/d300a0c0dd6ffb82aca554ff87e8a364.png" group-title="01 - INFOS",CBC News
 https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-64c91830ea7db2f52688c52c/?X-Plex-Token=g3EZxNuuFrv_ASYC64AP
-#EXTINF:-1 channel-id="6231ec93779a9d00079ba8e2" tvg-id="6231ec93779a9d00079ba8e2" tvg-chno="1410" tvg-name="CBS News 24/7" tvg-logo="https://images.pluto.tv/channels/6231ec93779a9d00079ba8e2/colorLogoPNG.png" group-title="01 - INFOS",CBS News 24/7
-https://jmp2.uk/plu-6231ec93779a9d00079ba8e2.m3u8
 #EXTINF:-1 tvg-id="CNews.fr@SD" tvg-logo="https://i.imgur.com/sSNhk2g.png" group-title="01 - INFOS",CNews (1080p)
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/cnews-dm.m3u8
 #EXTINF:-1 tvg-id="CNEWSPRIME.fr@HD" tvg-logo="https://www.cnews.fr/themes/cnews/img/cnews-prime.png" group-title="01 - INFOS",CNEWS PRIME (1080p)
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/cnews-prime-dm.m3u8
 #EXTINF:-1 tvg-id="CRTVNews.cm@SD" tvg-logo="https://i.imgur.com/5CshVf9.png" group-title="01 - INFOS",CRTV News
 https://live1.acangroup.org:1929/publiclive/crtv_news/playlist.m3u8
-#EXTINF:-1 channel-id="6430aa45fc3be5947780904e-60089d90f682a3002c348299" tvg-id="6430aa45fc3be5947780904e-60089d90f682a3002c348299" tvg-chno="" tvg-name="Euronews" tvg-logo="https://provider-static.plex.tv/epg/cms/production/4d63af64-c260-4f5f-aac1-240aeaa36e90/Plex-WURL_Euronews-Logos_EN_-_astrid_collomb.png" group-title="01 - INFOS",Euronews
-https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-60089d90f682a3002c348299/?X-Plex-Token=g3EZxNuuFrv_ASYC64AP
-#EXTINF:-1 channel-id="60d35bcaf1ff4a00078af0a6" tvg-id="60d35bcaf1ff4a00078af0a6" tvg-chno="1415" tvg-name="Euronews" tvg-logo="https://images.pluto.tv/channels/60d35bcaf1ff4a00078af0a6/colorLogoPNG.png" group-title="01 - INFOS",Euronews
-https://jmp2.uk/plu-60d35bcaf1ff4a00078af0a6.m3u8
-#EXTINF:-1 channel-id="FR2600004SS" tvg-id="FR2600004SS" tvg-chno="4560" tvg-name="Euronews EN DIRECT" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR2600004SS_20260707T051656SQUARE.png" group-title="01 - INFOS",Euronews EN DIRECT
-https://jmp2.uk/stvp-FR2600004SS
 #EXTINF:-1 channel-id="6430aa45fc3be5947780904e-6245f06793b402a3d1097787" tvg-id="6430aa45fc3be5947780904e-6245f06793b402a3d1097787" tvg-chno="" tvg-name="Euronews Français" tvg-logo="https://provider-static.plex.tv/epg/cms/production/2be15415-4f0d-4d23-a4d4-3ec22445740a/Plex-WURL_Euronews-Logos_FR_-_astrid_collomb.png" group-title="01 - INFOS",Euronews Français
 https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-6245f06793b402a3d1097787/?X-Plex-Token=g3EZxNuuFrv_ASYC64AP
 #EXTINF:-1 tvg-id="EuronewsFrench.fr@SD" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="01 - INFOS",Euronews French (720p)
@@ -100,8 +92,6 @@ https://hls.newworldtv.com/nw-info/video/live.m3u8
 https://jmp2.uk/stvp-FR300005WY
 #EXTINF:-1 tvg-id="RTSInfo.ch@SD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/switzerland/rts-info-ch.png" group-title="01 - INFOS",RTS Info (1080p)
 https://rtsinfo-d.akamaized.net/out/v1/2b7ae2e1ba3f43c6aba15bced153baf5/index.m3u8
-#EXTINF:-1 channel-id="FR3400002VW" tvg-id="FR3400002VW" tvg-chno="4571" tvg-name="Sky News International" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR3400002VW_20250624T020534SQUARE.png" group-title="01 - INFOS",Sky News International
-https://jmp2.uk/stvp-FR3400002VW
 #EXTINF:-1 channel-id="FR1800005X0" tvg-id="FR1800005X0" tvg-chno="4561" tvg-name="TV5 Monde Info" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR1800005X0_20251013T054015SQUARE.png" group-title="01 - INFOS",TV5 Monde Info
 https://jmp2.uk/stvp-FR1800005X0
 #EXTINF:-1 channel-id="6430aa45fc3be5947780904e-68a799722895f21006e758e4" tvg-id="6430aa45fc3be5947780904e-68a799722895f21006e758e4" tvg-chno="" tvg-name="TV5MONDE Info" tvg-logo="https://provider-static.plex.tv/epg/cms/production/1ac1bf6b-ab6e-4a44-9268-c8c2374befce/TV5MONDE_INFO_WHT_1500x1000_-_Patrice.png" group-title="01 - INFOS",TV5MONDE Info
@@ -218,10 +208,6 @@ https://zylo-cinenanar-rakuten.amagi.tv/playlist.m3u8
 https://amg00711-zylo-amg00711c8-rakuten-uk-2686.playouts.now.amagi.tv/playlist/amg00711-zylofast-cinewestern-rakutenuk/playlist.m3u8
 #EXTINF:-1 channel-id="6430aa45fc3be5947780904e-685f27cca7111a932d28f1ae" tvg-id="6430aa45fc3be5947780904e-685f27cca7111a932d28f1ae" tvg-chno="" tvg-name="Asian Drama" tvg-logo="https://provider-static.plex.tv/epg/cms/production/4d7c5e34-9335-479e-8d6a-e7a80565e45b/Asian_Drama_whtLogo.png" group-title="03 - SERIES",Asian Drama
 https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-685f27cca7111a932d28f1ae/?X-Plex-Token=g3EZxNuuFrv_ASYC64AP
-#EXTINF:-1 channel-id="60d35a74c63c3c0008df6a90" tvg-id="60d35a74c63c3c0008df6a90" tvg-chno="160" tvg-name="BBC Series" tvg-logo="https://images.pluto.tv/channels/60d35a74c63c3c0008df6a90/colorLogoPNG_1771579997925.png" group-title="03 - SERIES",BBC Series
-https://jmp2.uk/plu-60d35a74c63c3c0008df6a90.m3u8
-#EXTINF:-1 channel-id="FR2900001UF" tvg-id="FR2900001UF" tvg-chno="4239" tvg-name="BBC Series" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR2900001UF_20250916T003553SQUARE.png" group-title="03 - SERIES",BBC Series
-https://jmp2.uk/stvp-FR2900001UF
 #EXTINF:-1 channel-id="FR3700003N4" tvg-id="FR3700003N4" tvg-chno="4961" tvg-name="Box Office Drama" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR3700003N4_20250610T011321SQUARE.png" group-title="03 - SERIES",Box Office Drama
 https://jmp2.uk/stvp-FR3700003N4
 #EXTINF:-1 channel-id="691b332aa4385c191ee44b57" tvg-id="691b332aa4385c191ee44b57" tvg-chno="36" tvg-name="Rex, chien flic" tvg-logo="https://images.pluto.tv/channels/691b332aa4385c191ee44b57/colorLogoPNG_1771923791904.png" group-title="03 - SERIES",Rex chien flic
@@ -298,8 +284,6 @@ https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-64ac687b4192
 https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-61a945156547ba4d6d238dc9/?X-Plex-Token=g3EZxNuuFrv_ASYC64AP
 #EXTINF:-1 channel-id="FR12000040D" tvg-id="FR12000040D" tvg-chno="4635" tvg-name="So Foot+" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR12000040D_20260528T055451SQUARE.png" group-title="05 - SPORT",So Foot+
 https://jmp2.uk/stvp-FR12000040D
-#EXTINF:-1 channel-id="6430aa45fc3be5947780904e-6216ae22c3bbca2de8704f65" tvg-id="6430aa45fc3be5947780904e-6216ae22c3bbca2de8704f65" tvg-chno="" tvg-name="Sports Illustrated TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/61e78adf-40b3-4a6f-9d75-6c9db47248de/SITV_LOGO_PRIMARY_1500X1000.png" group-title="05 - SPORT",Sports Illustrated TV
-https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-6216ae22c3bbca2de8704f65/?X-Plex-Token=g3EZxNuuFrv_ASYC64AP
 #EXTINF:-1 channel-id="6430aa45fc3be5947780904e-5ef11485d33ab9004048a1ca" tvg-id="6430aa45fc3be5947780904e-5ef11485d33ab9004048a1ca" tvg-chno="" tvg-name="SportsGrid" tvg-logo="https://provider-static.plex.tv/epg/cms/production/ed88a8cc-a1f4-445a-a2bc-9fbb4c7104de/SG-LIVE-WHITE-ON-ALPHA-1500x1000.png" group-title="05 - SPORT",SportsGrid
 https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-5ef11485d33ab9004048a1ca/?X-Plex-Token=g3EZxNuuFrv_ASYC64AP
 #EXTINF:-1 channel-id="6430aa45fc3be5947780904e-5f6b8e7900b0950040d0f2b2" tvg-id="6430aa45fc3be5947780904e-5f6b8e7900b0950040d0f2b2" tvg-chno="" tvg-name="The World Poker Tour" tvg-logo="https://provider-static.plex.tv/epg/cms/production/c40e4f88-6f5c-4f2a-8d54-e6812e25771c/wpt_logo.png" group-title="05 - SPORT",The World Poker Tour
@@ -425,10 +409,6 @@ https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-671ff50c922f
 https://jmp2.uk/stvp-FR3600005C7
 #EXTINF:-1 tvg-id="20MinutesTV.fr@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/20_Minutes_TV_IDF_logo_%282023%29.png/960px-20_Minutes_TV_IDF_logo_%282023%29.png" group-title="10 - GENERALISTES FR",20 Minutes TV (1080p)
 https://live-20minutestv.digiteka.com/1961167769/index.m3u8
-#EXTINF:-1 tvg-id="2MMonde.ma@SD" tvg-logo="https://i.imgur.com/MvpntzA.png" http-referrer="http://www.radio2m.ma/" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0" group-title="10 - GENERALISTES FR",2M Monde (360p)
-#EXTVLCOPT:http-referrer=http://www.radio2m.ma/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
-https://cdn-globecast.akamaized.net/live/eds/2m_monde/hls_video_ts_tuhawxpiemz257adfc/2m_monde.m3u8
 #EXTINF:-1 tvg-id="2MMonde.ma@Plus1" tvg-logo="https://i.imgur.com/MvpntzA.png" group-title="10 - GENERALISTES FR",2M Monde +1 (1080p)
 https://d2qh3gh0k5vp3v.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-n6pess5lwbghr/2M_ES.m3u8
 #EXTINF:-1 tvg-id="3ABNFrench.us@SD" tvg-logo="https://i.imgur.com/B5gsM7m.png" group-title="10 - GENERALISTES FR",3ABN French
@@ -484,8 +464,6 @@ http://145.239.5.177/300/index.m3u8
 https://guineetvdirect.online:3320/live/atvguineelive.m3u8
 #EXTINF:-1 tvg-id="BabyFirst.us@US" tvg-logo="https://i.imgur.com/WxLHBwu.png" group-title="10 - GENERALISTES FR",BabyFirst (720p)
 https://cdn.fast.jwp.services/v1/channel/1_jB6940Ei_TvhvIHDL/manifest.m3u8
-#EXTINF:-1 tvg-id="BAMTV.be@SD" tvg-logo="https://i.imgur.com/9UmR6cs.png" group-title="10 - GENERALISTES FR",BAM-TV
-https://belafrikamediatv.vedge.infomaniak.com/livecast/ik:belafrikamediatv/manifest.m3u8
 #EXTINF:-1 tvg-id="MrBeanAnimated.uk@FR" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/25/Mr._Bean_Animated_Series_stacked_logo.png" group-title="10 - GENERALISTES FR",Banijay Mr Bean Animé (1080p)
 https://amg00627-amg00627c31-rakuten-fr-3991.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanfrcc-rakutenfr/playlist.m3u8
 #EXTINF:-1 tvg-id="BarakaTelevision.cd@SD" tvg-logo="https://i.imgur.com/IKXddHN.png" group-title="10 - GENERALISTES FR",Baraka Television (720p) [Not 24/7]
@@ -542,8 +520,6 @@ https://lfmhd.vedge.infomaniak.com/livecast/lfmhd/playlist.m3u8
 https://edge17.vedge.infomaniak.com/livecast/ik:compack_media_1/playlist.m3u8
 #EXTINF:-1 tvg-id="Carac5.ch@SD" tvg-logo="https://i.imgur.com/giDfku4.png" group-title="10 - GENERALISTES FR",Carac 5
 https://lfmmd.vedge.infomaniak.com/livecast/ik:carac5/manifest.m3u8
-#EXTINF:-1 tvg-id="MTVCatfishTVShow.de@FR" tvg-logo="https://images.pluto.tv/channels/6093f9ed2c75660007322bb7/colorLogoPNG_1750862971704.png" group-title="10 - GENERALISTES FR",CATFISH TV (720p)
-https://jmp2.uk/plu-5f8eb66537867f0007146953.m3u8
 #EXTINF:-1 tvg-id="CGTNFrench.cn@SD" tvg-logo="https://i.imgur.com/BwhledK.png" group-title="10 - GENERALISTES FR",CGTN French (1080p)
 http://145.239.5.177/214/index.m3u8
 #EXTINF:-1 tvg-id="ChabibaTV.sn@SD" tvg-logo="https://i.imgur.com/qVTOklV.png" group-title="10 - GENERALISTES FR",Chabiba TV (360p) [Not 24/7]
@@ -558,8 +534,6 @@ https://jmp2.uk/plu-65cce14060eb870008dbd003.m3u8
 https://d1j2csarxnwazk.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-uze1m6xh4fiyr-ssai-prd/master.m3u8
 #EXTINF:-1 tvg-id="CNA.dz@SD" tvg-logo="https://i.imgur.com/Ki3ySUE.png" group-title="10 - GENERALISTES FR",CNA (360p) [Not 24/7]
 https://live.creacast.com/cna/stream/playlist.m3u8
-#EXTINF:-1 tvg-id="CNMTV.sn@SD" tvg-logo="https://i.ibb.co/0cfdGKv/1630802325205.jpg" group-title="10 - GENERALISTES FR",CNM TV (720p) [Not 24/7]
-https://stream.sen-gt.com/cnmtv/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="CongoPlanetTelevision.cd@SD" tvg-logo="https://i.imgur.com/9IIIvPf.png" group-title="10 - GENERALISTES FR",Congo Planet Télévision (1080p) [Not 24/7]
 https://radio.congoplanet.com/Congo_Planet_TV.sdp/Congo_Planet_TV/playlist.m3u8
 #EXTINF:-1 tvg-id="Couleur3.ch@SD" tvg-logo="https://i.imgur.com/VOIwYYd.png" group-title="10 - GENERALISTES FR",Couleur 3 (720p)
@@ -584,8 +558,6 @@ http://51.254.199.122:8080/DigitalCongoTV/index.m3u8
 http://151.80.18.177:86/Disney_Junior_HD/index.m3u8
 #EXTINF:-1 tvg-id="DossiersFBI.us@France" tvg-logo="https://i.imgur.com/8Zx6dA7.png" group-title="10 - GENERALISTES FR",Dossiers FBI
 https://jmp2.uk/plu-5f8edad922b10b000753bc37.m3u8
-#EXTINF:-1 tvg-id="DouniaTV.ne@SD" tvg-logo="https://i.imgur.com/ENBCDaQ.png" group-title="10 - GENERALISTES FR",Dounia TV
-https://live20.bozztv.com/dvrfl06/astv/astv-douniatv/index.m3u8
 #EXTINF:-1 tvg-id="DRTVInternational.cg@SD" tvg-logo="https://i.imgur.com/rGbTvtZ.png" group-title="10 - GENERALISTES FR",DRTV International
 https://vps122407.serveur-vps.net/hls/drtv.m3u8
 #EXTINF:-1 tvg-id="DynamicGospelTV.tg@SD" tvg-logo="https://i.imgur.com/e36BNNK.jpg" group-title="10 - GENERALISTES FR",Dynamic Gospel TV (480p) [Not 24/7]
@@ -681,8 +653,6 @@ https://playlist.fasttvcdn.com/pl/dlkqw1ftuvuuzkcb4pxdcg/Iqraafasttv2/playlist.m
 https://video1.getstreamhosting.com:1936/8244/8244/playlist.m3u8
 #EXTINF:-1 tvg-id="JAG.de@FR" tvg-logo="https://images.pluto.tv/channels/65ccd26060eb870008db95fc/colorLogoPNG.png" group-title="10 - GENERALISTES FR",JAG
 https://jmp2.uk/plu-65ccd26060eb870008db95fc.m3u8
-#EXTINF:-1 tvg-id="JapanimTV.be@SD" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/6b97e19f-4243-4d48-b794-ff8cf54d795f-profile_image-300x300.png" group-title="10 - GENERALISTES FR",Japanim TV (1080p)
-https://foxkidstv.be:3369/stream/play.m3u8
 #EXTINF:-1 tvg-id="KajouTV.us@SD" tvg-logo="https://i.imgur.com/2XzghdT.png" group-title="10 - GENERALISTES FR",Kajou TV (720p) [Not 24/7]
 https://video1.getstreamhosting.com:1936/8055/8055/playlist.m3u8
 #EXTINF:-1 tvg-id="KalacTV.gn@SD" tvg-logo="https://i.imgur.com/FgKJiHZ.png" group-title="10 - GENERALISTES FR",Kalac TV (1080p)
@@ -762,8 +732,6 @@ https://jmp2.uk/plu-5f8ed6d569d2d4000864a976.m3u8
 http://103.154.3.101:5001/live/1736.m3u8
 #EXTINF:-1 tvg-id="MacGyver.de@FR" tvg-logo="https://images.pluto.tv/channels/6245ccd0c6cdb800074632e4/colorLogoPNG.png" group-title="10 - GENERALISTES FR",MacGyver
 https://jmp2.uk/plu-6245ccd0c6cdb800074632e4.m3u8
-#EXTINF:-1 tvg-id="MadrasFMTV.gp@SD" tvg-logo="https://i.imgur.com/spGg1CZ.png" group-title="10 - GENERALISTES FR",Madras FM TV (1080p)
-https://edge12.vedge.infomaniak.com/livecast/ik:madrasfmtv/manifest.m3u8
 #EXTINF:-1 tvg-id="ManaEgliseOnline.pt@SD" tvg-logo="https://i.imgur.com/xQYly8O.png" group-title="10 - GENERALISTES FR",Maná Église Online (1080p) [Not 24/7]
 https://w2.manasat.com/eglise-online/smil:eglise-online.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Matele.be@SD" tvg-logo="https://i.imgur.com/rw72POr.png" group-title="10 - GENERALISTES FR",MaTele (1080p) [Not 24/7]
@@ -792,8 +760,6 @@ https://chlivemta1.akamaized.net/hls/live/2008145/mta2/playlist.m3u8
 https://chlivemta.akamaized.net/hls/live/2010555/mtaafrica1/playlist.m3u8
 #EXTINF:-1 tvg-id="MTA5Africa.uk@SD" tvg-logo="https://i.imgur.com/9Cobb2i.png" group-title="10 - GENERALISTES FR",MTA5 Africa (1080p)
 https://chlivemta.akamaized.net/hls/live/2010555/mtaafrica2/playlist.m3u8
-#EXTINF:-1 tvg-id="MTVCLASSICS.de@FR" tvg-logo="https://images.pluto.tv/channels/5f92b56a367e170007cd43f4/colorLogoPNG.png" group-title="10 - GENERALISTES FR",MTV CLASSICS
-https://jmp2.uk/plu-5f92b56a367e170007cd43f4.m3u8
 #EXTINF:-1 tvg-id="MuseumTVFrench.fr@SD" tvg-logo="https://i.imgur.com/WbjURLo.png" group-title="10 - GENERALISTES FR",Museum TV [Geo-blocked]
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01492-secomsasmediart-museumtv-eng-samsungit/playlist.m3u8
 #EXTINF:-1 tvg-id="MyTVChannel.cm@SD" tvg-logo="https://i.imgur.com/vh2373L.png" group-title="10 - GENERALISTES FR",My TV Channel (720p) [Not 24/7]
@@ -1172,10 +1138,6 @@ https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-6334a8e48a7b
 https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-689e1f0dd84bfb3d54b6756f/?X-Plex-Token=g3EZxNuuFrv_ASYC64AP
 #EXTINF:-1 channel-id="6430aa45fc3be5947780904e-69222c105cbe620c1f9b6bbf" tvg-id="6430aa45fc3be5947780904e-69222c105cbe620c1f9b6bbf" tvg-chno="" tvg-name="Blacklist" tvg-logo="https://provider-static.plex.tv/epg/cms/production/0b9da3e6-169d-4033-9e7b-0b49c11136eb/FR_FAST_Plex_Blacklist_logo_dark.png" group-title="20 - PLEX FR",Blacklist
 https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-69222c105cbe620c1f9b6bbf/?X-Plex-Token=g3EZxNuuFrv_ASYC64AP
-#EXTINF:-1 channel-id="6430aa45fc3be5947780904e-61d73c3ca7b7c7f703418518" tvg-id="6430aa45fc3be5947780904e-61d73c3ca7b7c7f703418518" tvg-chno="" tvg-name="Bloomberg Originals" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a69341a2-fce3-4a05-af2e-469540b25d73/BBOriginals_2023_Plex_Stacked_WHTrdx.png" group-title="20 - PLEX FR",Bloomberg Originals
-https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-61d73c3ca7b7c7f703418518/?X-Plex-Token=g3EZxNuuFrv_ASYC64AP
-#EXTINF:-1 channel-id="6430aa45fc3be5947780904e-61d73ab0a7b7c7f703418516" tvg-id="6430aa45fc3be5947780904e-61d73ab0a7b7c7f703418516" tvg-chno="" tvg-name="Bloomberg TV" tvg-logo="https://provider-static.plex.tv/6/epg/channels/logos/gracenote/66a30548bffdf5f5e158e3baf755afad.png" group-title="20 - PLEX FR",Bloomberg TV
-https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-61d73ab0a7b7c7f703418516/?X-Plex-Token=g3EZxNuuFrv_ASYC64AP
 #EXTINF:-1 channel-id="6430aa45fc3be5947780904e-69ae4f38e657bab5f7a9b7ec" tvg-id="6430aa45fc3be5947780904e-69ae4f38e657bab5f7a9b7ec" tvg-chno="" tvg-name="Bondi Rescue" tvg-logo="https://provider-static.plex.tv/epg/cms/production/91ffbeaa-df66-4074-83d6-94cacb9622fa/Plex_Totem_BondiRescue_Logo_White_-_Rowan_Williams.png" group-title="20 - PLEX FR",Bondi Rescue
 https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-69ae4f38e657bab5f7a9b7ec/?X-Plex-Token=g3EZxNuuFrv_ASYC64AP
 #EXTINF:-1 channel-id="6430aa45fc3be5947780904e-5ef11487d33ab9004048a1d3" tvg-id="6430aa45fc3be5947780904e-5ef11487d33ab9004048a1d3" tvg-chno="" tvg-name="BOOT" tvg-logo="https://provider-static.plex.tv/epg/cms/production/5e31e123-a40b-41c6-9153-67c983c6d9e6/boot_all-white_1500X1000_PNG_transparent_background.png" group-title="20 - PLEX FR",BOOT
@@ -1192,8 +1154,6 @@ https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-6164a963766a
 https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-693cbba358076a970420f597/?X-Plex-Token=g3EZxNuuFrv_ASYC64AP
 #EXTINF:-1 channel-id="6430aa45fc3be5947780904e-61aaa0cc784a2161d3caf7ff" tvg-id="6430aa45fc3be5947780904e-61aaa0cc784a2161d3caf7ff" tvg-chno="" tvg-name="Classic Rock" tvg-logo="https://provider-static.plex.tv/epg/cms/production/393a107b-669d-4e64-9b1f-6fc06e5b858b/Classic_ROCK.png" group-title="20 - PLEX FR",Classic Rock
 https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-61aaa0cc784a2161d3caf7ff/?X-Plex-Token=g3EZxNuuFrv_ASYC64AP
-#EXTINF:-1 channel-id="6430aa45fc3be5947780904e-69b164bc87340e48b7b72247" tvg-id="6430aa45fc3be5947780904e-69b164bc87340e48b7b72247" tvg-chno="" tvg-name="CNN Headlines International" tvg-logo="https://provider-static.plex.tv/epg/cms/production/c6b66b76-8050-4cc8-9e61-1ab6cc2b0015/CNN_HeadlinesInternational_RED_wht_logo.png" group-title="20 - PLEX FR",CNN Headlines International
-https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-69b164bc87340e48b7b72247/?X-Plex-Token=g3EZxNuuFrv_ASYC64AP
 #EXTINF:-1 channel-id="6430aa45fc3be5947780904e-63f0ca427b78030ed9990309" tvg-id="6430aa45fc3be5947780904e-63f0ca427b78030ed9990309" tvg-chno="" tvg-name="CombaTV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/2230b4ec-e410-4f49-b5b2-8ac4dfd20c5c/combatv_logo_dark_-_Jordan_Warkol.png" group-title="20 - PLEX FR",CombaTV
 https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-63f0ca427b78030ed9990309/?X-Plex-Token=g3EZxNuuFrv_ASYC64AP
 #EXTINF:-1 channel-id="6430aa45fc3be5947780904e-5f07e9fdf313eb0041bbecda" tvg-id="6430aa45fc3be5947780904e-5f07e9fdf313eb0041bbecda" tvg-chno="" tvg-name="Cooking Panda" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/cooking-panda.png" group-title="20 - PLEX FR",Cooking Panda
@@ -1252,8 +1212,6 @@ https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-666340ce76ca
 https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-606605549dbfca002d2ae877/?X-Plex-Token=g3EZxNuuFrv_ASYC64AP
 #EXTINF:-1 channel-id="6430aa45fc3be5947780904e-62f15810a3ffe928ef806c75" tvg-id="6430aa45fc3be5947780904e-62f15810a3ffe928ef806c75" tvg-chno="" tvg-name="Flashback 70s" tvg-logo="https://provider-static.plex.tv/epg/cms/production/32c9c7ca-8544-4434-92c5-9a5dd9577746/flashback_70srdx.png" group-title="20 - PLEX FR",Flashback 70s
 https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-62f15810a3ffe928ef806c75/?X-Plex-Token=g3EZxNuuFrv_ASYC64AP
-#EXTINF:-1 channel-id="6430aa45fc3be5947780904e-6490e6ae18a55242eea95997" tvg-id="6430aa45fc3be5947780904e-6490e6ae18a55242eea95997" tvg-chno="" tvg-name="Fréquence Novelas" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f61db6fd-8b5e-41c9-bbcb-0135d9d9635d/FREQUENCE_NOVELAS_-_Logo_1500x1000.png" group-title="20 - PLEX FR",Fréquence Novelas
-https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-6490e6ae18a55242eea95997/?X-Plex-Token=g3EZxNuuFrv_ASYC64AP
 #EXTINF:-1 channel-id="6430aa45fc3be5947780904e-621674502c2627c068e73ada" tvg-id="6430aa45fc3be5947780904e-621674502c2627c068e73ada" tvg-chno="" tvg-name="FrightFlix" tvg-logo="https://provider-static.plex.tv/epg/cms/production/889dcf7a-99ec-425f-8044-087c84e8eefc/FrightFlix_logo_dark.png" group-title="20 - PLEX FR",FrightFlix
 https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-621674502c2627c068e73ada/?X-Plex-Token=g3EZxNuuFrv_ASYC64AP
 #EXTINF:-1 channel-id="6430aa45fc3be5947780904e-62ffc5cfa6cad6f2991745c2" tvg-id="6430aa45fc3be5947780904e-62ffc5cfa6cad6f2991745c2" tvg-chno="" tvg-name="FUEL TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/b3f56031-6337-4d19-a487-9edefea3ce28/CHANNEL_LOGO_3X2.png" group-title="20 - PLEX FR",FUEL TV
@@ -1322,8 +1280,6 @@ https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-6196c9241d31
 https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-67a1a8ef2358ef4dd5c3018e/?X-Plex-Token=g3EZxNuuFrv_ASYC64AP
 #EXTINF:-1 channel-id="6430aa45fc3be5947780904e-60db63d29ec966002c9ea6f0" tvg-id="6430aa45fc3be5947780904e-60db63d29ec966002c9ea6f0" tvg-chno="" tvg-name="Made In Hollywood" tvg-logo="https://provider-static.plex.tv/epg/cms/production/cd2f9be3-7222-4b75-9653-1c9a988258dc/WHITE_LOGO_Made_Mona_Lapides.png" group-title="20 - PLEX FR",Made In Hollywood
 https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-60db63d29ec966002c9ea6f0/?X-Plex-Token=g3EZxNuuFrv_ASYC64AP
-#EXTINF:-1 channel-id="6430aa45fc3be5947780904e-65b80306e5cf85050598aba4" tvg-id="6430aa45fc3be5947780904e-65b80306e5cf85050598aba4" tvg-chno="" tvg-name="Made It Myself TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/89dc782a-d85c-468c-8e3c-a5973d824ec6/MIMTV_Logo_1500x1000_LightBackgrounds.png" group-title="20 - PLEX FR",Made It Myself TV
-https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-65b80306e5cf85050598aba4/?X-Plex-Token=g3EZxNuuFrv_ASYC64AP
 #EXTINF:-1 channel-id="6430aa45fc3be5947780904e-693caec5e2cae3f1bc73ae28" tvg-id="6430aa45fc3be5947780904e-693caec5e2cae3f1bc73ae28" tvg-chno="" tvg-name="Mayday: Catastrophe Aérienne" tvg-logo="https://provider-static.plex.tv/epg/cms/production/053a9dcb-a667-4aa2-9476-373bfc023f56/Logo_MaydayFR_1500x1500_AllWhite_-_Belen_BrunoRDX.png" group-title="20 - PLEX FR",Mayday: Catastrophe Aérienne
 https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-693caec5e2cae3f1bc73ae28/?X-Plex-Token=g3EZxNuuFrv_ASYC64AP
 #EXTINF:-1 channel-id="6430aa45fc3be5947780904e-68e9436dda6bb987138625c7" tvg-id="6430aa45fc3be5947780904e-68e9436dda6bb987138625c7" tvg-chno="" tvg-name="Metal.Rocks" tvg-logo="https://provider-static.plex.tv/epg/cms/production/4171a6a6-6d73-481a-ad91-15166befee06/Channel_Logo_MetalRocks_Color_-_Ricardo_RivasRDX.png" group-title="20 - PLEX FR",Metal.Rocks
@@ -1336,8 +1292,6 @@ https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-6615885e1eab
 https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-6112a9139894c8002c6cb87f/?X-Plex-Token=g3EZxNuuFrv_ASYC64AP
 #EXTINF:-1 channel-id="6430aa45fc3be5947780904e-63ac5e95c7cce47c86164bca" tvg-id="6430aa45fc3be5947780904e-63ac5e95c7cce47c86164bca" tvg-chno="" tvg-name="MOTUS La Chaine" tvg-logo="https://provider-static.plex.tv/epg/cms/production/e801e089-970e-46db-ab14-46c4b99c8311/MOTUS_LOGO_-_RICHARD_MAROKO.png" group-title="20 - PLEX FR",MOTUS La Chaine
 https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-63ac5e95c7cce47c86164bca/?X-Plex-Token=g3EZxNuuFrv_ASYC64AP
-#EXTINF:-1 channel-id="6430aa45fc3be5947780904e-650b5bb3f4b2d9579946a500" tvg-id="6430aa45fc3be5947780904e-650b5bb3f4b2d9579946a500" tvg-chno="" tvg-name="Mythical 24/7" tvg-logo="https://provider-static.plex.tv/epg/cms/production/cbce9562-c7a6-460c-9d07-02ab8724bbc5/Light_Logo__Mythical_24_7_1500x1000.png" group-title="20 - PLEX FR",Mythical 24/7
-https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-650b5bb3f4b2d9579946a500/?X-Plex-Token=g3EZxNuuFrv_ASYC64AP
 #EXTINF:-1 channel-id="6430aa45fc3be5947780904e-69f4f6c2647c1d14cc38677b" tvg-id="6430aa45fc3be5947780904e-69f4f6c2647c1d14cc38677b" tvg-chno="" tvg-name="NFL Channel" tvg-logo="https://provider-static.plex.tv/epg/cms/production/585a58ca-c568-4bb8-bfc7-3000ac8d5fc5/NFL_WHITE.png" group-title="20 - PLEX FR",NFL Channel
 https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-69f4f6c2647c1d14cc38677b/?X-Plex-Token=g3EZxNuuFrv_ASYC64AP
 #EXTINF:-1 channel-id="6430aa45fc3be5947780904e-60aeb5cd87f9b1002ce12323" tvg-id="6430aa45fc3be5947780904e-60aeb5cd87f9b1002ce12323" tvg-chno="" tvg-name="NHRA TV" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/NHRA_logo_dark.png" group-title="20 - PLEX FR",NHRA TV
@@ -1444,8 +1398,6 @@ https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-672948f0297d
 https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-5f170d61b898490041b49369/?X-Plex-Token=g3EZxNuuFrv_ASYC64AP
 #EXTINF:-1 channel-id="6430aa45fc3be5947780904e-69f52ffb6e5708fb20d36d9c" tvg-id="6430aa45fc3be5947780904e-69f52ffb6e5708fb20d36d9c" tvg-chno="" tvg-name="The Prof G Channel" tvg-logo="https://provider-static.plex.tv/epg/cms/production/883ee6c5-8ed3-41ed-b45f-b39af995fe37/TPGC-Logos_97_.ai_-_Steve_Shannon_WHT_TEXTRDX2.png" group-title="20 - PLEX FR",The Prof G Channel
 https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-69f52ffb6e5708fb20d36d9c/?X-Plex-Token=g3EZxNuuFrv_ASYC64AP
-#EXTINF:-1 channel-id="6430aa45fc3be5947780904e-5eea71d65252710041e0ccbc" tvg-id="6430aa45fc3be5947780904e-5eea71d65252710041e0ccbc" tvg-chno="" tvg-name="The Reuters 60" tvg-logo="https://provider-static.plex.tv/epg/cms/production/8cf9c131-2d92-4d91-86b1-22ef458d703f/reuters_reutersnow_1RDX.png" group-title="20 - PLEX FR",The Reuters 60
-https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-5eea71d65252710041e0ccbc/?X-Plex-Token=g3EZxNuuFrv_ASYC64AP
 #EXTINF:-1 channel-id="6430aa45fc3be5947780904e-62f11395586633e88e3a3274" tvg-id="6430aa45fc3be5947780904e-62f11395586633e88e3a3274" tvg-chno="" tvg-name="The Spa" tvg-logo="https://provider-static.plex.tv/epg/cms/production/59eb2e05-e614-4880-a463-5cb254800db9/SPA.png" group-title="20 - PLEX FR",The Spa
 https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-62f11395586633e88e3a3274/?X-Plex-Token=g3EZxNuuFrv_ASYC64AP
 #EXTINF:-1 channel-id="6430aa45fc3be5947780904e-68e0371d8bbd79d66c631ab2" tvg-id="6430aa45fc3be5947780904e-68e0371d8bbd79d66c631ab2" tvg-chno="" tvg-name="The Wiggles" tvg-logo="https://provider-static.plex.tv/epg/cms/production/38d8759c-fb94-4154-ba4d-8450e99662cd/FilmRiseLogo_WigglesClassic_Color_Logo.png" group-title="20 - PLEX FR",The Wiggles
@@ -1518,8 +1470,6 @@ https://jmp2.uk/plu-664c8ba33d173b00080ef0c8.m3u8
 https://jmp2.uk/plu-63b579961bdba100071214cb.m3u8
 #EXTINF:-1 channel-id="60dc6937b450ad0007377e48" tvg-id="60dc6937b450ad0007377e48" tvg-chno="1010" tvg-name="Charlotte aux Fraises" tvg-logo="https://images.pluto.tv/channels/60dc6937b450ad0007377e48/colorLogoPNG.png" group-title="21 - PLUTO TV FR",Charlotte aux Fraises
 https://jmp2.uk/plu-60dc6937b450ad0007377e48.m3u8
-#EXTINF:-1 channel-id="66c45b36a72e7b0008a2b291" tvg-id="66c45b36a72e7b0008a2b291" tvg-chno="1405" tvg-name="CNN Headlines International" tvg-logo="https://images.pluto.tv/channels/66c45b36a72e7b0008a2b291/colorLogoPNG_1775159909058.png" group-title="21 - PLUTO TV FR",CNN Headlines International
-https://jmp2.uk/plu-66c45b36a72e7b0008a2b291.m3u8
 #EXTINF:-1 channel-id="691b351d427d68a118fdda13" tvg-id="691b351d427d68a118fdda13" tvg-chno="211" tvg-name="Cut" tvg-logo="https://images.pluto.tv/channels/691b351d427d68a118fdda13/colorLogoPNG_1771923741719.png" group-title="21 - PLUTO TV FR",Cut
 https://jmp2.uk/plu-691b351d427d68a118fdda13.m3u8
 #EXTINF:-1 channel-id="69aadc5551df9542f2521e1a" tvg-id="69aadc5551df9542f2521e1a" tvg-chno="106" tvg-name="Dawson" tvg-logo="https://images.pluto.tv/channels/69aadc5551df9542f2521e1a/colorLogoPNG_1775658935857.png" group-title="21 - PLUTO TV FR",Dawson
@@ -1636,8 +1586,6 @@ https://jmp2.uk/stvp-FR3400004L5
 https://jmp2.uk/stvp-FRBD4100002R7
 #EXTINF:-1 channel-id="FRBD5100001ZA" tvg-id="FRBD5100001ZA" tvg-chno="4188" tvg-name="ADN" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD5100001ZA_20260721T035849SQUARE.png" group-title="22 - SAMSUNG TV PLUS FR",ADN
 https://jmp2.uk/stvp-FRBD5100001ZA
-#EXTINF:-1 channel-id="FR23000013B" tvg-id="FR23000013B" tvg-chno="4564" tvg-name="Al Jazeera" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR23000013B_20251118T015405SQUARE.png" group-title="22 - SAMSUNG TV PLUS FR",Al Jazeera
-https://jmp2.uk/stvp-FR23000013B
 #EXTINF:-1 channel-id="FRBC4700002RF" tvg-id="FRBC4700002RF" tvg-chno="4242" tvg-name="Alerte à Malibu" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBC4700002RF_20260818T050743SQUARE.png" group-title="22 - SAMSUNG TV PLUS FR",Alerte à Malibu
 https://jmp2.uk/stvp-FRBC4700002RF
 #EXTINF:-1 channel-id="FR3600007GW" tvg-id="FR3600007GW" tvg-chno="4291" tvg-name="Alerte Cobra" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR3600007GW_20260622T063931SQUARE.png" group-title="22 - SAMSUNG TV PLUS FR",Alerte Cobra
@@ -1646,12 +1594,8 @@ https://jmp2.uk/stvp-FR3600007GW
 https://jmp2.uk/stvp-FRBD300000170
 #EXTINF:-1 channel-id="FR3900002FW" tvg-id="FR3900002FW" tvg-chno="4372" tvg-name="Au coeur du danger" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR3900002FW_20260310T031715SQUARE.png" group-title="22 - SAMSUNG TV PLUS FR",Au coeur du danger
 https://jmp2.uk/stvp-FR3900002FW
-#EXTINF:-1 channel-id="FR3200001NQ" tvg-id="FR3200001NQ" tvg-chno="4489" tvg-name="BBC Earth" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR3200001NQ_20260505T035829SQUARE.png" group-title="22 - SAMSUNG TV PLUS FR",BBC Earth
-https://jmp2.uk/stvp-FR3200001NQ
 #EXTINF:-1 channel-id="FR1400001VU" tvg-id="FR1400001VU" tvg-chno="4192" tvg-name="Beyblade" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR1400001VU_20260421T125702SQUARE.png" group-title="22 - SAMSUNG TV PLUS FR",Beyblade
 https://jmp2.uk/stvp-FR1400001VU
-#EXTINF:-1 channel-id="FR1400004VF" tvg-id="FR1400004VF" tvg-chno="4574" tvg-name="Bloomberg TV+" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR1400004VF_20260421T123944SQUARE.png" group-title="22 - SAMSUNG TV PLUS FR",Bloomberg TV+
-https://jmp2.uk/stvp-FR1400004VF
 #EXTINF:-1 channel-id="FRAJ3800010QO" tvg-id="FRAJ3800010QO" tvg-chno="4811" tvg-name="Bob l’éponge" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRAJ3800010QO_20260622T063917SQUARE.png" group-title="22 - SAMSUNG TV PLUS FR",Bob l’éponge
 https://jmp2.uk/stvp-FRAJ3800010QO
 #EXTINF:-1 channel-id="FRBC3900003ZH" tvg-id="FRBC3900003ZH" tvg-chno="4201" tvg-name="Bons Plans et Arnaques" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBC3900003ZH_20260616T034218SQUARE.png" group-title="22 - SAMSUNG TV PLUS FR",Bons Plans et Arnaques
@@ -1666,8 +1610,6 @@ https://jmp2.uk/stvp-FRBC3900004DS
 https://jmp2.uk/stvp-FRBD1900012T7
 #EXTINF:-1 channel-id="FR3900001AC" tvg-id="FR3900001AC" tvg-chno="4750" tvg-name="CJ ENM K-POP" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR3900001AC_20260804T051416SQUARE.png" group-title="22 - SAMSUNG TV PLUS FR",CJ ENM K-POP
 https://jmp2.uk/stvp-FR3900001AC
-#EXTINF:-1 channel-id="FRBD190001055" tvg-id="FRBD190001055" tvg-chno="4569" tvg-name="CNN Headlines International" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD190001055_20260331T032339SQUARE.png" group-title="22 - SAMSUNG TV PLUS FR",CNN Headlines International
-https://jmp2.uk/stvp-FRBD190001055
 #EXTINF:-1 channel-id="FR26000068C" tvg-id="FR26000068C" tvg-chno="4910" tvg-name="Comédies - Rakuten TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR26000068C_20241022T044043SQUARE.png" group-title="22 - SAMSUNG TV PLUS FR",Comédies - Rakuten TV
 https://jmp2.uk/stvp-FR26000068C
 #EXTINF:-1 channel-id="FR2500001BS" tvg-id="FR2500001BS" tvg-chno="4744" tvg-name="Cool Summer Channel" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR2500001BS_20241015T040238SQUARE.png" group-title="22 - SAMSUNG TV PLUS FR",Cool Summer Channel
@@ -1782,10 +1724,6 @@ https://jmp2.uk/stvp-FR700002UP
 https://jmp2.uk/stvp-FRBB490000412
 #EXTINF:-1 channel-id="FR90000160" tvg-id="FR90000160" tvg-chno="4260" tvg-name="Mr Bean Animated" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR90000160_20251028T011422SQUARE.png" group-title="22 - SAMSUNG TV PLUS FR",Mr Bean Animated
 https://jmp2.uk/stvp-FR90000160
-#EXTINF:-1 channel-id="FRAJ38000050Z" tvg-id="FRAJ38000050Z" tvg-chno="4070" tvg-name="MTV Catfish" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRAJ38000050Z_20241015T042517SQUARE.png" group-title="22 - SAMSUNG TV PLUS FR",MTV Catfish
-https://jmp2.uk/stvp-FRAJ38000050Z
-#EXTINF:-1 channel-id="FRAJ3800004CC" tvg-id="FRAJ3800004CC" tvg-chno="4207" tvg-name="MTV Classics" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRAJ3800004CC_20241015T042519SQUARE.png" group-title="22 - SAMSUNG TV PLUS FR",MTV Classics
-https://jmp2.uk/stvp-FRAJ3800004CC
 #EXTINF:-1 channel-id="FR1700002OZ" tvg-id="FR1700002OZ" tvg-chno="4749" tvg-name="NEW KPOP" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR1700002OZ_20251013T054040SQUARE.png" group-title="22 - SAMSUNG TV PLUS FR",NEW KPOP
 https://jmp2.uk/stvp-FR1700002OZ
 #EXTINF:-1 channel-id="FR1800009U0" tvg-id="FR1800009U0" tvg-chno="4768" tvg-name="Ocean Vibes" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR1800009U0_20260528T055422SQUARE.png" group-title="22 - SAMSUNG TV PLUS FR",Ocean Vibes
@@ -1812,8 +1750,6 @@ https://jmp2.uk/stvp-FRBD1900007PQ
 https://jmp2.uk/stvp-FR1800007VM
 #EXTINF:-1 channel-id="FR1700004PK" tvg-id="FR1700004PK" tvg-chno="4614" tvg-name="Red Bull TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR1700004PK_20260818T050835SQUARE.png" group-title="22 - SAMSUNG TV PLUS FR",Red Bull TV
 https://jmp2.uk/stvp-FR1700004PK
-#EXTINF:-1 channel-id="FRBD490000195" tvg-id="FRBD490000195" tvg-chno="4573" tvg-name="Reuters" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD490000195_20241015T042818SQUARE.png" group-title="22 - SAMSUNG TV PLUS FR",Reuters
-https://jmp2.uk/stvp-FRBD490000195
 #EXTINF:-1 channel-id="FR30000271" tvg-id="FR30000271" tvg-chno="4356" tvg-name="RMC alerte secours" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR30000271_20260721T035912SQUARE.png" group-title="22 - SAMSUNG TV PLUS FR",RMC alerte secours
 https://jmp2.uk/stvp-FR30000271
 #EXTINF:-1 channel-id="FR4000003O1" tvg-id="FR4000003O1" tvg-chno="4031" tvg-name="RMC Life" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR4000003O1_20260707T051731SQUARE.png" group-title="22 - SAMSUNG TV PLUS FR",RMC Life
