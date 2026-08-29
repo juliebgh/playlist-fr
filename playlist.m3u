@@ -155,6 +155,12 @@ https://jmp2.uk/stvp-FRBD110000181
 https://jmp2.uk/stvp-FRBC4000001IO
 #EXTINF:-1 channel-id="6430aa45fc3be5947780904e-614e286b2bac097ffd6fd6ab" tvg-id="6430aa45fc3be5947780904e-614e286b2bac097ffd6fd6ab" tvg-chno="" tvg-name="Documentary+" tvg-logo="https://provider-static.plex.tv/epg/cms/production/24df67bc-967c-4662-a975-6f54c9c0657a/documentaryplus_logo_dark_1_WHT.png" group-title="04 - REPORTAGES & DOCS",Documentary+
 https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-614e286b2bac097ffd6fd6ab/?X-Plex-Token=g3EZxNuuFrv_ASYC64AP
+#EXTINF:-1 tvg-id="EvasionTV.gn@SD" tvg-logo="https://i.imgur.com/TTWl2Iy.png" group-title="04 - REPORTAGES & DOCS",Evasion TV
+https://kali.vdopanel.com:3788/hybrid/play.m3u8
+#EXTINF:-1 channel-id="FR3700004HZ" tvg-id="FR3700004HZ" tvg-chno="4526" tvg-name="Invitation au voyage" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR3700004HZ_20260721T035806SQUARE.png" group-title="04 - REPORTAGES & DOCS",Invitation au voyage
+https://jmp2.uk/stvp-FR3700004HZ
+#EXTINF:-1 channel-id="FRBD4800001P4" tvg-id="FRBD4800001P4" tvg-chno="4354" tvg-name="J'irai dormir chez vous" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD4800001P4_20260310T031732SQUARE.png" group-title="04 - REPORTAGES & DOCS",J'irai dormir chez vous
+https://jmp2.uk/stvp-FRBD4800001P4
 #EXTINF:-1 channel-id="FRBD410000436" tvg-id="FRBD410000436" tvg-chno="4358" tvg-name="Les secrets de nos régions" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD410000436_20260407T040140SQUARE.png" group-title="04 - REPORTAGES & DOCS",Les secrets de nos régions
 https://jmp2.uk/stvp-FRBD410000436
 #EXTINF:-1 channel-id="6430aa45fc3be5947780904e-6827c34ca5c6e573c6904444" tvg-id="6430aa45fc3be5947780904e-6827c34ca5c6e573c6904444" tvg-chno="" tvg-name="Nature Time" tvg-logo="https://provider-static.plex.tv/epg/cms/production/3fbb9b2b-7f53-440d-8f41-6492fe676ea5/NATURE_TIMEWHITE_LOGO.png" group-title="04 - REPORTAGES & DOCS",Nature Time
@@ -177,6 +183,16 @@ https://jmp2.uk/stvp-FRBD4100008QS
 https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-62fbf36c1567211fdb82e920/?X-Plex-Token=g3EZxNuuFrv_ASYC64AP
 #EXTINF:-1 channel-id="6430aa45fc3be5947780904e-614398a08f30fa61e0da7c97" tvg-id="6430aa45fc3be5947780904e-614398a08f30fa61e0da7c97" tvg-chno="" tvg-name="True History" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f37684ab-5eb6-48dd-8999-fbb6345689d4/1500x1000-DarkBG.png" group-title="04 - REPORTAGES & DOCS",True History
 https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-614398a08f30fa61e0da7c97/?X-Plex-Token=g3EZxNuuFrv_ASYC64AP
+#EXTINF:-1 channel-id="FR1800004EP" tvg-id="FR1800004EP" tvg-chno="4528" tvg-name="TV5 Monde Voyage" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR1800004EP_20251013T054046SQUARE.png" group-title="04 - REPORTAGES & DOCS",TV5 Monde Voyage
+https://jmp2.uk/stvp-FR1800004EP
+#EXTINF:-1 channel-id="6430aa45fc3be5947780904e-68b74a235dc5413c905efd62" tvg-id="6430aa45fc3be5947780904e-68b74a235dc5413c905efd62" tvg-chno="" tvg-name="TV5MONDE Voyage" tvg-logo="https://provider-static.plex.tv/epg/cms/production/1fbf682f-90ba-4318-a649-12c7f89cdc48/LOGO_PLEX_VOYAGE_1500X1000_WHITE.png" group-title="04 - REPORTAGES & DOCS",TV5MONDE Voyage
+https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-68b74a235dc5413c905efd62/?X-Plex-Token=g3EZxNuuFrv_ASYC64AP
+#EXTINF:-1 channel-id="6430aa45fc3be5947780904e-671ff50c922f0674c9398afb" tvg-id="6430aa45fc3be5947780904e-671ff50c922f0674c9398afb" tvg-chno="" tvg-name="Voyages & Saveurs" tvg-logo="https://provider-static.plex.tv/epg/cms/production/b65d39bb-f29d-4045-8571-401b0c1862a9/Logo_Voyages_Saveurs_1500x1000_DarkBackground_-_David_Mar__n.png" group-title="04 - REPORTAGES & DOCS",Voyages & Saveurs
+https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-671ff50c922f0674c9398afb/?X-Plex-Token=g3EZxNuuFrv_ASYC64AP
+#EXTINF:-1 channel-id="FR3600005C7" tvg-id="FR3600005C7" tvg-chno="4524" tvg-name="Voyages & Saveurs" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR3600005C7_20260707T051824SQUARE.png" group-title="04 - REPORTAGES & DOCS",Voyages & Saveurs
+https://jmp2.uk/stvp-FR3600005C7
+#EXTINF:-1 tvg-id="VoyagesSaveurs.es@FR" tvg-logo="https://images.pluto.tv/channels/680291e38e1ff89c2427aefd/colorLogoPNG_1749650211442.png" group-title="04 - REPORTAGES & DOCS",Voyages & Saveurs (720p)
+https://jmp2.uk/plu-680291e38e1ff89c2427aefd.m3u8
 #EXTINF:-1 channel-id="6430aa45fc3be5947780904e-60d4edddb2fdec002c141135" tvg-id="6430aa45fc3be5947780904e-60d4edddb2fdec002c141135" tvg-chno="" tvg-name="WildEarth" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/wildearth_logo_dark.png" group-title="04 - REPORTAGES & DOCS",WildEarth
 https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-60d4edddb2fdec002c141135/?X-Plex-Token=g3EZxNuuFrv_ASYC64AP
 #EXTINF:-1 channel-id="FRBC3900004DS" tvg-id="FRBC3900004DS" tvg-chno="4493" tvg-name="Cap Terre" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBC3900004DS_20260528T055150SQUARE.png" group-title="05 - ANIMAUX & NATURE",Cap Terre
@@ -187,22 +203,6 @@ http://145.239.5.177/359a/index.m3u8
 https://rcavlive.akamaized.net/hls/live/704014/cancbaft/master.m3u8
 #EXTINF:-1 tvg-id="RadioTVBasseTerre.gp@SD" tvg-logo="https://i.imgur.com/OvnRplq.png" group-title="05 - ANIMAUX & NATURE",Radio TV Basse-Terre (720p)
 https://vdo.ssl-stream.com:3412/stream/play.m3u8
-#EXTINF:-1 tvg-id="EvasionTV.gn@SD" tvg-logo="https://i.imgur.com/TTWl2Iy.png" group-title="06 - VOYAGE & DECOUVERTE",Evasion TV
-https://kali.vdopanel.com:3788/hybrid/play.m3u8
-#EXTINF:-1 channel-id="FR3700004HZ" tvg-id="FR3700004HZ" tvg-chno="4526" tvg-name="Invitation au voyage" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR3700004HZ_20260721T035806SQUARE.png" group-title="06 - VOYAGE & DECOUVERTE",Invitation au voyage
-https://jmp2.uk/stvp-FR3700004HZ
-#EXTINF:-1 channel-id="FRBD4800001P4" tvg-id="FRBD4800001P4" tvg-chno="4354" tvg-name="J'irai dormir chez vous" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD4800001P4_20260310T031732SQUARE.png" group-title="06 - VOYAGE & DECOUVERTE",J'irai dormir chez vous
-https://jmp2.uk/stvp-FRBD4800001P4
-#EXTINF:-1 channel-id="FR1800004EP" tvg-id="FR1800004EP" tvg-chno="4528" tvg-name="TV5 Monde Voyage" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR1800004EP_20251013T054046SQUARE.png" group-title="06 - VOYAGE & DECOUVERTE",TV5 Monde Voyage
-https://jmp2.uk/stvp-FR1800004EP
-#EXTINF:-1 channel-id="6430aa45fc3be5947780904e-68b74a235dc5413c905efd62" tvg-id="6430aa45fc3be5947780904e-68b74a235dc5413c905efd62" tvg-chno="" tvg-name="TV5MONDE Voyage" tvg-logo="https://provider-static.plex.tv/epg/cms/production/1fbf682f-90ba-4318-a649-12c7f89cdc48/LOGO_PLEX_VOYAGE_1500X1000_WHITE.png" group-title="06 - VOYAGE & DECOUVERTE",TV5MONDE Voyage
-https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-68b74a235dc5413c905efd62/?X-Plex-Token=g3EZxNuuFrv_ASYC64AP
-#EXTINF:-1 channel-id="6430aa45fc3be5947780904e-671ff50c922f0674c9398afb" tvg-id="6430aa45fc3be5947780904e-671ff50c922f0674c9398afb" tvg-chno="" tvg-name="Voyages & Saveurs" tvg-logo="https://provider-static.plex.tv/epg/cms/production/b65d39bb-f29d-4045-8571-401b0c1862a9/Logo_Voyages_Saveurs_1500x1000_DarkBackground_-_David_Mar__n.png" group-title="06 - VOYAGE & DECOUVERTE",Voyages & Saveurs
-https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-671ff50c922f0674c9398afb/?X-Plex-Token=g3EZxNuuFrv_ASYC64AP
-#EXTINF:-1 channel-id="FR3600005C7" tvg-id="FR3600005C7" tvg-chno="4524" tvg-name="Voyages & Saveurs" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR3600005C7_20260707T051824SQUARE.png" group-title="06 - VOYAGE & DECOUVERTE",Voyages & Saveurs
-https://jmp2.uk/stvp-FR3600005C7
-#EXTINF:-1 tvg-id="VoyagesSaveurs.es@FR" tvg-logo="https://images.pluto.tv/channels/680291e38e1ff89c2427aefd/colorLogoPNG_1749650211442.png" group-title="06 - VOYAGE & DECOUVERTE",Voyages & Saveurs (720p)
-https://jmp2.uk/plu-680291e38e1ff89c2427aefd.m3u8
 #EXTINF:-1 channel-id="FR34000032F" tvg-id="FR34000032F" tvg-chno="4519" tvg-name="Ça Chauffe en Cuisine" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR34000032F_20260127T040246SQUARE.png" group-title="07 - CUISINE",Ça Chauffe en Cuisine
 https://jmp2.uk/stvp-FR34000032F
 #EXTINF:-1 channel-id="6430aa45fc3be5947780904e-5f07e9fdf313eb0041bbecda" tvg-id="6430aa45fc3be5947780904e-5f07e9fdf313eb0041bbecda" tvg-chno="" tvg-name="Cooking Panda" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/cooking-panda.png" group-title="07 - CUISINE",Cooking Panda
@@ -219,7 +219,7 @@ https://jmp2.uk/stvp-FR1300003HM
 https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-68b74890b5b437bf872b6b72/?X-Plex-Token=g3EZxNuuFrv_ASYC64AP
 #EXTINF:-1 tvg-id="TV5MONDEChefs.fr@SD" tvg-logo="https://psi.tv5monde.com/media/static/default/lives/tv5monde-chef.png" group-title="07 - CUISINE",TV5MONDE Chefs (1080p)
 https://tvf-tv5ch.otteravision.com/tvf/tv5ch/tv5ch.m3u8
-#EXTINF:-1 channel-id="6430aa45fc3be5947780904e-63894c1965b848bf2c8a7800" tvg-id="6430aa45fc3be5947780904e-63894c1965b848bf2c8a7800" tvg-chno="" tvg-name="5-Minute Crafts" tvg-logo="https://provider-static.plex.tv/epg/cms/production/52b33d5e-f48e-472d-896c-94759eccc1e4/5-Minute_Crafts_1500x1000_White.png" group-title="09 - MAISON BRICOLAGE DECO",5-Minute Crafts
+#EXTINF:-1 channel-id="6430aa45fc3be5947780904e-63894c1965b848bf2c8a7800" tvg-id="6430aa45fc3be5947780904e-63894c1965b848bf2c8a7800" tvg-chno="" tvg-name="5-Minute Crafts" tvg-logo="https://provider-static.plex.tv/epg/cms/production/52b33d5e-f48e-472d-896c-94759eccc1e4/5-Minute_Crafts_1500x1000_White.png" group-title="08 - MAISON BRICOLAGE DECO",5-Minute Crafts
 https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-63894c1965b848bf2c8a7800/?X-Plex-Token=g3EZxNuuFrv_ASYC64AP
 #EXTINF:-1 channel-id="FR13000020W" tvg-id="FR13000020W" tvg-chno="4871" tvg-name="100% Cinema" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR13000020W_20260528T055246SQUARE.png" group-title="09 - CINEMA",100% Cinema
 https://jmp2.uk/stvp-FR13000020W
