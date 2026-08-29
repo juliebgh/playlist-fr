@@ -1,0 +1,102 @@
+name: V10 nettoyage final FR
+
+on:
+  push:
+    paths:
+      - '.github/workflows/v10-cleanup.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  cleanup:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Nettoyer et reclasser la playlist
+        run: |
+          python3 <<'PY'
+          from pathlib import Path
+          import re
+          import unicodedata
+
+          p = Path('playlist.m3u')
+          lines = p.read_text(errors='ignore').splitlines()
+
+          def norm(s):
+              s = unicodedata.normalize('NFKD', s)
+              return ''.join(c for c in s if not unicodedata.combining(c)).lower()
+
+          confirmed_fr = {
+              'ado tv': '25 - AFRIQUE FRANCOPHONE',
+              'drtv international': '25 - AFRIQUE FRANCOPHONE',
+              'cam 10 tv': '25 - AFRIQUE FRANCOPHONE',
+              'evi tv': '25 - AFRIQUE FRANCOPHONE',
+              'gms tv': '25 - AFRIQUE FRANCOPHONE',
+          }
+
+          confirmed_non_fr = [
+              'bruzz',
+              'ebs (1080p)',
+              'ebs plus',
+              'd3 tv',
+          ]
+
+          out = ['#EXTM3U']
+          ext = None
+          extras = []
+          removed = []
+          reclassed = []
+
+          for raw in lines:
+              line = raw.strip()
+              if not line or line == '#EXTM3U':
+                  continue
+              if line.startswith('#EXTINF:'):
+                  ext = line
+                  extras = []
+                  continue
+              if line.startswith('#'):
+                  if ext:
+                      extras.append(line)
+                  continue
+              if ext and (line.startswith('http://') or line.startswith('https://')):
+                  name = ext.split(',', 1)[1].strip() if ',' in ext else ''
+                  n = norm(name)
+
+                  if any(x in n for x in confirmed_non_fr):
+                      removed.append(name)
+                      ext = None
+                      extras = []
+                      continue
+
+                  for key, group in confirmed_fr.items():
+                      if key in n:
+                          ext = re.sub(r'group-title="[^"]*"', f'group-title="{group}"', ext)
+                          reclassed.append(name)
+                          break
+
+                  out.append(ext)
+                  out.extend(extras)
+                  out.append(line)
+                  ext = None
+                  extras = []
+
+          p.write_text('\n'.join(out) + '\n', encoding='utf-8')
+
+          print('Supprimees:', len(removed))
+          for x in removed:
+              print(' -', x)
+          print('Reclassees:', len(reclassed))
+          for x in reclassed:
+              print(' +', x)
+          PY
+
+      - name: Commit V10
+        run: |
+          git config user.name "playlist-fr-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add playlist.m3u
+          git diff --cached --quiet || git commit -m "V10 nettoyage final FR"
+          git push
