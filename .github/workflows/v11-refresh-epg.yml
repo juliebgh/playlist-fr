@@ -1,0 +1,141 @@
+name: V11 refresh flux et EPG
+
+on:
+  push:
+    paths:
+      - '.github/workflows/v11-refresh-epg.yml'
+  workflow_dispatch:
+  schedule:
+    - cron: '17 */6 * * *'
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Refresh FAST URLs and build EPG
+        run: |
+          python3 - <<'PY'
+          from pathlib import Path
+          import urllib.request, gzip, re, xml.etree.ElementTree as ET
+
+          UA = {'User-Agent':'Mozilla/5.0'}
+          def get(url, timeout=45):
+              req = urllib.request.Request(url, headers=UA)
+              with urllib.request.urlopen(req, timeout=timeout) as r:
+                  return r.read()
+
+          def parse_m3u(text):
+              rows=[]; ext=None; extras=[]
+              for raw in text.splitlines():
+                  line=raw.strip()
+                  if not line or line.startswith('#EXTM3U'): continue
+                  if line.startswith('#EXTINF:'):
+                      ext=line; extras=[]; continue
+                  if line.startswith('#'):
+                      if ext: extras.append(line)
+                      continue
+                  if ext and (line.startswith('http://') or line.startswith('https://')):
+                      attrs=dict(re.findall(r'([\w-]+)="([^"]*)"', ext))
+                      name=ext.split(',',1)[1].strip() if ',' in ext else ''
+                      rows.append((attrs,name,line,extras[:]))
+                      ext=None; extras=[]
+              return rows
+
+          master=Path('playlist.m3u')
+          current=master.read_text(errors='ignore')
+
+          feeds={
+            'pluto':'https://raw.githubusercontent.com/BuddyChewChew/app-m3u-generator/main/playlists/plutotv_fr.m3u',
+            'plex':'https://raw.githubusercontent.com/BuddyChewChew/app-m3u-generator/main/playlists/plex_fr.m3u',
+            'samsung':'https://raw.githubusercontent.com/BuddyChewChew/app-m3u-generator/main/playlists/samsungtvplus_fr.m3u',
+          }
+
+          fresh=[]
+          for kind,url in feeds.items():
+              try:
+                  txt=get(url).decode('utf-8','ignore')
+                  for attrs,name,stream,extras in parse_m3u(txt):
+                      fresh.append((kind,attrs,name,stream))
+                  print(kind, 'fresh rows', len(parse_m3u(txt)))
+              except Exception as e:
+                  print('WARN feed', kind, e)
+
+          by_channel={}; by_tvg={}; by_name={}
+          for kind,attrs,name,stream in fresh:
+              if attrs.get('channel-id'): by_channel[attrs['channel-id']]=stream
+              if attrs.get('tvg-id'): by_tvg[attrs['tvg-id']]=stream
+              by_name[name.casefold()]=stream
+
+          out=[]; ext=None; extras=[]; updated=0
+          for raw in current.splitlines():
+              line=raw.rstrip('\n')
+              if line.startswith('#EXTM3U'):
+                  continue
+              if line.startswith('#EXTINF:'):
+                  ext=line; extras=[]; continue
+              if line.startswith('#'):
+                  if ext: extras.append(line)
+                  else: out.append(line)
+                  continue
+              if ext and (line.startswith('http://') or line.startswith('https://')):
+                  attrs=dict(re.findall(r'([\w-]+)="([^"]*)"', ext))
+                  name=ext.split(',',1)[1].strip() if ',' in ext else ''
+                  repl=(by_channel.get(attrs.get('channel-id','')) or by_tvg.get(attrs.get('tvg-id','')) or by_name.get(name.casefold()))
+                  if repl and repl != line:
+                      line=repl; updated+=1
+                  # normalise common quality/variant suffix so external FR EPG matches more channels
+                  if 'tvg-id=' in ext:
+                      def fix_id(m):
+                          val=m.group(1)
+                          base=re.sub(r'@(SD|HD|FHD|UHD|French)$','',val,flags=re.I)
+                          return f'tvg-id="{base}"'
+                      ext=re.sub(r'tvg-id="([^"]+)"', fix_id, ext)
+                  out.append(ext); out.extend(extras); out.append(line)
+                  ext=None; extras=[]
+              elif line:
+                  out.append(line)
+
+          epg_urls=[
+            'https://i.mjh.nz/PlutoTV/fr.xml.gz',
+            'https://i.mjh.nz/Plex/fr.xml.gz',
+            'https://i.mjh.nz/SamsungTVPlus/fr.xml.gz',
+            'https://epgshare01.online/epgshare01/epg_ripper_FR1.xml.gz',
+          ]
+          tv=ET.Element('tv', {'generator-info-name':'playlist-fr V11'})
+          seen_channels=set(); programmes=0
+          for url in epg_urls:
+              try:
+                  raw=get(url,60)
+                  if url.endswith('.gz'): raw=gzip.decompress(raw)
+                  root=ET.fromstring(raw)
+                  for ch in root.findall('channel'):
+                      cid=ch.get('id','')
+                      if cid and cid not in seen_channels:
+                          tv.append(ch); seen_channels.add(cid)
+                  for pr in root.findall('programme'):
+                      tv.append(pr); programmes+=1
+                  print('EPG OK', url, 'channels total', len(seen_channels))
+              except Exception as e:
+                  print('WARN EPG', url, e)
+
+          xml=ET.tostring(tv, encoding='utf-8', xml_declaration=True)
+          with gzip.open('epg.xml.gz','wb',compresslevel=6) as f: f.write(xml)
+
+          epg='https://raw.githubusercontent.com/juliebgh/playlist-fr/main/epg.xml.gz'
+          master.write_text('#EXTM3U url-tvg="'+epg+'"\n'+'\n'.join(out)+'\n', encoding='utf-8')
+          print('Updated stream URLs:', updated)
+          print('EPG channels:',len(seen_channels),'programmes:',programmes)
+          PY
+
+      - name: Commit refreshed playlist and EPG
+        run: |
+          git config user.name "playlist-fr-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add playlist.m3u epg.xml.gz
+          git diff --cached --quiet || git commit -m "V11 refresh flux FAST et EPG"
+          git push
