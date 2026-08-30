@@ -1,0 +1,159 @@
+name: V13 DIY et EPG France
+
+on:
+  push:
+    paths:
+      - '.github/workflows/v13-diy-epg-france.yml'
+  workflow_dispatch:
+  schedule:
+    - cron: '37 */6 * * *'
+
+permissions:
+  contents: write
+
+jobs:
+  enrich:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Ajouter chaines DIY France et enrichir EPG
+        run: |
+          python3 <<'PY'
+          from pathlib import Path
+          import urllib.request, gzip, re, unicodedata, xml.etree.ElementTree as ET
+
+          UA={'User-Agent':'Mozilla/5.0'}
+          def get(url, timeout=60):
+              req=urllib.request.Request(url,headers=UA)
+              with urllib.request.urlopen(req,timeout=timeout) as r:
+                  return r.read()
+
+          def norm(s):
+              s=unicodedata.normalize('NFKD',s)
+              s=''.join(c for c in s if not unicodedata.combining(c)).lower()
+              s=re.sub(r'\([^)]*\)|\[[^]]*\]',' ',s)
+              s=re.sub(r'[^a-z0-9]+',' ',s)
+              return re.sub(r'\s+',' ',s).strip()
+
+          def parse_m3u(text):
+              rows=[]; ext=None; extras=[]
+              for raw in text.splitlines():
+                  line=raw.strip()
+                  if not line or line.startswith('#EXTM3U'): continue
+                  if line.startswith('#EXTINF:'):
+                      ext=line; extras=[]; continue
+                  if line.startswith('#'):
+                      if ext: extras.append(line)
+                      continue
+                  if ext and (line.startswith('http://') or line.startswith('https://')):
+                      name=ext.split(',',1)[1].strip() if ',' in ext else ''
+                      attrs=dict(re.findall(r'([\w-]+)="([^"]*)"',ext))
+                      rows.append([ext,extras[:],line,name,attrs])
+                      ext=None; extras=[]
+              return rows
+
+          p=Path('playlist.m3u')
+          text=p.read_text(errors='ignore')
+          rows=parse_m3u(text)
+          existing={norm(r[3]) for r in rows}
+
+          wanted={
+              '5 minute crafts':'08 - MAISON BRICOLAGE DECO',
+              'craftsytv':'08 - MAISON BRICOLAGE DECO',
+              'creator television':'08 - MAISON BRICOLAGE DECO',
+              'million dollar dream home':'08 - MAISON BRICOLAGE DECO',
+              'la maison france 5':'08 - MAISON BRICOLAGE DECO',
+          }
+
+          feeds=[
+              'https://raw.githubusercontent.com/BuddyChewChew/app-m3u-generator/main/playlists/plex_fr.m3u',
+              'https://raw.githubusercontent.com/BuddyChewChew/app-m3u-generator/main/playlists/samsungtvplus_fr.m3u',
+          ]
+
+          added=[]
+          for url in feeds:
+              try:
+                  fresh=parse_m3u(get(url).decode('utf-8','ignore'))
+              except Exception as e:
+                  print('WARN feed',url,e); continue
+              for ext,extras,stream,name,attrs in fresh:
+                  n=norm(name)
+                  if n in wanted and n not in existing:
+                      group=wanted[n]
+                      if 'group-title="' in ext:
+                          ext=re.sub(r'group-title="[^"]*"',f'group-title="{group}"',ext)
+                      else:
+                          ext=ext.replace('#EXTINF:-1',f'#EXTINF:-1 group-title="{group}"',1)
+                      rows.append([ext,extras,stream,name,attrs])
+                      existing.add(n); added.append(name)
+
+          epg_urls=[
+              'https://i.mjh.nz/PlutoTV/fr.xml.gz',
+              'https://i.mjh.nz/Plex/fr.xml.gz',
+              'https://i.mjh.nz/SamsungTVPlus/fr.xml.gz',
+              'https://epgshare01.online/epgshare01/epg_ripper_FR1.xml.gz',
+          ]
+          tv=ET.Element('tv',{'generator-info-name':'playlist-fr V13 France'})
+          channels_by_id={}; display_index={}; programmes=[]
+          for url in epg_urls:
+              try:
+                  raw=get(url)
+                  if url.endswith('.gz'): raw=gzip.decompress(raw)
+                  root=ET.fromstring(raw)
+                  for ch in root.findall('channel'):
+                      cid=ch.get('id','')
+                      if cid and cid not in channels_by_id:
+                          channels_by_id[cid]=ch
+                          tv.append(ch)
+                      for dn in ch.findall('display-name'):
+                          k=norm(dn.text or '')
+                          if k and k not in display_index: display_index[k]=cid
+                  programmes.extend(root.findall('programme'))
+              except Exception as e:
+                  print('WARN EPG',url,e)
+
+          prog_by_ch={}
+          for pr in programmes:
+              prog_by_ch.setdefault(pr.get('channel',''),[]).append(pr)
+
+          aliases=0
+          for ext,extras,stream,name,attrs in rows:
+              pid=attrs.get('tvg-id','')
+              if not pid or pid in channels_by_id: continue
+              src_id=display_index.get(norm(name))
+              if not src_id: continue
+              src=channels_by_id.get(src_id)
+              if src is None: continue
+              alias=ET.Element('channel',{'id':pid})
+              for child in list(src):
+                  alias.append(ET.fromstring(ET.tostring(child,encoding='unicode')))
+              tv.append(alias); channels_by_id[pid]=alias
+              for pr in prog_by_ch.get(src_id,[]):
+                  clone=ET.fromstring(ET.tostring(pr,encoding='unicode'))
+                  clone.set('channel',pid); tv.append(clone)
+              aliases+=1
+
+          for pr in programmes:
+              tv.append(pr)
+
+          xml=ET.tostring(tv,encoding='utf-8',xml_declaration=True)
+          with gzip.open('epg.xml.gz','wb',compresslevel=6) as f: f.write(xml)
+
+          header='#EXTM3U url-tvg="https://raw.githubusercontent.com/juliebgh/playlist-fr/main/epg.xml.gz"'
+          out=[header]
+          for ext,extras,stream,name,attrs in sorted(rows,key=lambda r:(re.search(r'group-title="([^"]*)"',r[0]).group(1) if re.search(r'group-title="([^"]*)"',r[0]) else '',norm(r[3]))):
+              out.append(ext); out.extend(extras); out.append(stream)
+          p.write_text('\n'.join(out)+'\n',encoding='utf-8')
+          print('DIY ajoutees:',len(added),added)
+          print('Aliases EPG ajoutes:',aliases)
+          print('EPG channels:',len(channels_by_id))
+          PY
+
+      - name: Commit V13
+        run: |
+          git config user.name "playlist-fr-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add playlist.m3u epg.xml.gz
+          git diff --cached --quiet || git commit -m "V13 ajoute DIY et enrichit EPG France"
+          git push
