@@ -133,10 +133,10 @@ https://live4.presstv.ir/live/smil:presstvfr.smil/playlist.m3u8
 https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-61d738b5a7b7c7f703418514/?X-Plex-Token=g3EZxNuuFrv_ASYC64AP
 #EXTINF:-1 channel-id="FRBD39000064E" tvg-id="FRBD39000064E" tvg-chno="4310" tvg-name="100% Docs Crime" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD39000064E_20251118T015629SQUARE.png" group-title="03 - CRIME & ENQUETES",100% Docs Crime
 https://jmp2.uk/stvp-FRBD39000064E
-#EXTINF:-1 channel-id="FR2600009UG" tvg-id="FR2600009UG" tvg-chno="4305" tvg-name="Crime - Rakuten TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR2600009UG_20241126T043134SQUARE.png" group-title="03 - CRIME & ENQUETES",Crime - Rakuten TV
-https://jmp2.uk/stvp-FR2600009UG
 #EXTINF:-1 channel-id="6430aa45fc3be5947780904e-68c98e7460586565cc56baab" tvg-id="6430aa45fc3be5947780904e-68c98e7460586565cc56baab" tvg-chno="" tvg-name="Crime Beat TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/6d933fc7-172f-463f-a4f4-4d08bca2694a/CrimeBeatTV_TT_1500x1000RDX_White_Letters.png" group-title="03 - CRIME & ENQUETES",Crime Beat TV
 https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-68c98e7460586565cc56baab/?X-Plex-Token=g3EZxNuuFrv_ASYC64AP
+#EXTINF:-1 channel-id="FR2600009UG" tvg-id="FR2600009UG" tvg-chno="4305" tvg-name="Crime - Rakuten TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR2600009UG_20241126T043134SQUARE.png" group-title="03 - CRIME & ENQUETES",Crime - Rakuten TV
+https://jmp2.uk/stvp-FR2600009UG
 #EXTINF:-1 channel-id="6430aa45fc3be5947780904e-685f150c593aba51f211823f" tvg-id="6430aa45fc3be5947780904e-685f150c593aba51f211823f" tvg-chno="" tvg-name="Crime Scene TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/d5f7971e-9d1c-4084-a9b9-5f5e3d40c9d5/crime_scene_tv_white.png" group-title="03 - CRIME & ENQUETES",Crime Scene TV
 https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-685f150c593aba51f211823f/?X-Plex-Token=g3EZxNuuFrv_ASYC64AP
 #EXTINF:-1 channel-id="FR600002ZR" tvg-id="FR600002ZR" tvg-chno="4308" tvg-name="Crimes Enquêtes Faits Divers" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR600002ZR_20251202T002626SQUARE.png" group-title="03 - CRIME & ENQUETES",Crimes Enquêtes Faits Divers
@@ -305,6 +305,8 @@ https://jmp2.uk/plu-65a69ef53af63d000825e0ee.m3u8
 https://jmp2.uk/plu-6a31608fac88749b9cb85dd8.m3u8
 #EXTINF:-1 tvg-id="CinedAsiebyPlutoTV.de@FR" tvg-logo="https://images.pluto.tv/channels/62f3e2d000418d00070f7dbc/colorLogoPNG_1751272759694.png" group-title="09 - CINEMA",Ciné d'Asie by Pluto TV
 https://jmp2.uk/plu-62f3e2d000418d00070f7dbc.m3u8
+#EXTINF:-1 tvg-id="CinePlusEmotion.fr" tvg-logo="https://i.imgur.com/upYjPvc.jpeg" group-title="09 - CINEMA",Cine+ Emotion (720p)
+http://145.239.5.177/337/index.m3u8
 #EXTINF:-1 tvg-id="CineHorreurbyPlutoTV.de@FR" tvg-logo="https://images.pluto.tv/channels/66e1978babec540008ce41ac/colorLogoPNG_1751272165674.png" group-title="09 - CINEMA",Ciné Horreur by Pluto TV
 https://jmp2.uk/plu-66e1978babec540008ce41ac.m3u8
 #EXTINF:-1 channel-id="6430aa45fc3be5947780904e-6490e44818a55242eea95993" tvg-id="6430aa45fc3be5947780904e-6490e44818a55242eea95993" tvg-chno="" tvg-name="Ciné Nanar" tvg-logo="https://provider-static.plex.tv/epg/cms/production/94b0d05e-8bb5-4bbb-a10d-1710b1970e2f/CINE_NANAR_-_Logo_1500x1000.png" group-title="09 - CINEMA",Ciné Nanar
@@ -325,8 +327,6 @@ https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-65847f56d608
 https://jmp2.uk/stvp-FRBD19000095S
 #EXTINF:-1 tvg-id="CineWesternbyPlutoTV.de@FR" tvg-logo="https://images.pluto.tv/channels/65cca3e2ec452d0008af3a65/colorLogoPNG_1751272826143.png" group-title="09 - CINEMA",Ciné Western by Pluto TV
 https://jmp2.uk/plu-65cca3e2ec452d0008af3a65.m3u8
-#EXTINF:-1 tvg-id="CinePlusEmotion.fr" tvg-logo="https://i.imgur.com/upYjPvc.jpeg" group-title="09 - CINEMA",Cine+ Emotion (720p)
-http://145.239.5.177/337/index.m3u8
 #EXTINF:-1 channel-id="6430aa45fc3be5947780904e-62167144ab2095ca85353ad6" tvg-id="6430aa45fc3be5947780904e-62167144ab2095ca85353ad6" tvg-chno="" tvg-name="CINEPRIDE" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f9b44328-8571-4e8a-9066-022bd8665082/cinepride-logo.png" group-title="09 - CINEMA",CINEPRIDE
 https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-62167144ab2095ca85353ad6/?X-Plex-Token=g3EZxNuuFrv_ASYC64AP
 #EXTINF:-1 channel-id="FR26000068C" tvg-id="FR26000068C" tvg-chno="4910" tvg-name="Comédies - Rakuten TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR26000068C_20241022T044043SQUARE.png" group-title="09 - CINEMA",Comédies - Rakuten TV
@@ -375,12 +375,12 @@ https://jmp2.uk/plu-67b4b2d976a934282e92d71c.m3u8
 https://jmp2.uk/stvp-FR3000139Z
 #EXTINF:-1 tvg-id="SonyOneHitsAction.fr" tvg-logo="https://i.imgur.com/pXsZEsR.png" group-title="09 - CINEMA",Sony One Hits Action (1080p)
 https://5098a8b860504a3690fd2e7c0a18d68f.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-817-FR-SONYONEHITSACTION-LG_FR/playlist.m3u8
+#EXTINF:-1 channel-id="6430aa45fc3be5947780904e-692227f850fe592fd6d5b7e0" tvg-id="6430aa45fc3be5947780904e-692227f850fe592fd6d5b7e0" tvg-chno="" tvg-name="Sony One | Hits Action" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a3ead00d-7fdc-4f0f-a531-1cc3af6863c5/FR_FAST_Plex_ActionHits_logo_dark.png" group-title="09 - CINEMA",Sony One | Hits Action
+https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-692227f850fe592fd6d5b7e0/?X-Plex-Token=g3EZxNuuFrv_ASYC64AP
 #EXTINF:-1 channel-id="FR300009JQ" tvg-id="FR300009JQ" tvg-chno="4908" tvg-name="Sony One HITS Comédie" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR300009JQ_20260421T123919SQUARE.png" group-title="09 - CINEMA",Sony One HITS Comédie
 https://jmp2.uk/stvp-FR300009JQ
 #EXTINF:-1 tvg-id="SonyOneHitsComedie.fr" tvg-logo="https://i.imgur.com/8sHuxxS.png" group-title="09 - CINEMA",Sony One Hits Comedie (1080p)
 https://7aa9671895264ec9a384dfed1b992171.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-818-FR-SONYONEHITSCOMDIE-LG_FR/playlist.m3u8
-#EXTINF:-1 channel-id="6430aa45fc3be5947780904e-692227f850fe592fd6d5b7e0" tvg-id="6430aa45fc3be5947780904e-692227f850fe592fd6d5b7e0" tvg-chno="" tvg-name="Sony One | Hits Action" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a3ead00d-7fdc-4f0f-a531-1cc3af6863c5/FR_FAST_Plex_ActionHits_logo_dark.png" group-title="09 - CINEMA",Sony One | Hits Action
-https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-692227f850fe592fd6d5b7e0/?X-Plex-Token=g3EZxNuuFrv_ASYC64AP
 #EXTINF:-1 channel-id="6430aa45fc3be5947780904e-692228985cbe620c1f9b6bb9" tvg-id="6430aa45fc3be5947780904e-692228985cbe620c1f9b6bb9" tvg-chno="" tvg-name="Sony One | Hits Comédie" tvg-logo="https://provider-static.plex.tv/epg/cms/production/fde6237a-3a8c-4d2a-b14f-ab390baeef69/FR_FAST_Plex_ComedyHits_logo_dark.png" group-title="09 - CINEMA",Sony One | Hits Comédie
 https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-692228985cbe620c1f9b6bb9/?X-Plex-Token=g3EZxNuuFrv_ASYC64AP
 #EXTINF:-1 channel-id="6430aa45fc3be5947780904e-6922294e5cbe620c1f9b6bbb" tvg-id="6430aa45fc3be5947780904e-6922294e5cbe620c1f9b6bbb" tvg-chno="" tvg-name="Sony One | Séries Comédie" tvg-logo="https://provider-static.plex.tv/epg/cms/production/5ed0013a-150b-42cf-8ea2-4a3369386946/FR_FAST_Plex_ComedyTV_logo_dark.png" group-title="09 - CINEMA",Sony One | Séries Comédie
@@ -1174,6 +1174,8 @@ https://cdn.mycloudstream.io/hls/live/broadcast/s6nitpvn/index.m3u8
 https://streamer01.myvideoplace.tv/streamer02/hls/ATV_DIRECT_EV_111018.m3u8
 #EXTINF:-1 tvg-id="A2iNaija.sn" tvg-logo="https://i.imgur.com/yq7ghPE.jpg" group-title="25 - AFRIQUE FRANCOPHONE",A2i Naija (720p) [Not 24/7]
 https://stream.sen-gt.com/A2iNaija/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="ADOTV.bj" tvg-logo="https://i.imgur.com/pxFamLr.png" group-title="25 - AFRIQUE FRANCOPHONE",ADO TV (720p)
+https://strhls.streamakaci.tv/ortb/ortb2-multi/playlist.m3u8
 #EXTINF:-1 tvg-id="Africa24.fr" tvg-logo="https://africa24tv.com/wp-content/uploads/2021/09/logo.png" group-title="25 - AFRIQUE FRANCOPHONE",Africa 24 (1080p)
 https://africa24.vedge.infomaniak.com/livecast/ik:africa24/manifest.m3u8
 #EXTINF:-1 tvg-id="AfrikInfoTV.gn" tvg-logo="https://i.imgur.com/hz2LOD8.jpeg" group-title="25 - AFRIQUE FRANCOPHONE",Afrik Info TV
@@ -1191,6 +1193,8 @@ https://goccn.cloud/hls/amanitv/index.m3u8
 https://stream.berosat.live:19360/baraka-hd/baraka-hd.m3u8
 #EXTINF:-1 tvg-id="BeninWebTV.bj" tvg-logo="https://i.imgur.com/CYy4n0N.png" group-title="25 - AFRIQUE FRANCOPHONE",Bénin Web TV (720p)
 https://stream.beninwebtv.bj/2/live/stream.m3u8
+#EXTINF:-1 tvg-id="CAM10TV.cm" tvg-logo="https://i.imgur.com/xspb9uY.png" group-title="25 - AFRIQUE FRANCOPHONE",CAM 10 TV (720p)
+https://stream.it-innov.com/cam10tv/index.m3u8
 #EXTINF:-1 tvg-id="Canaf54TV.uk" tvg-logo="https://i.imgur.com/viB0FS2.png" group-title="25 - AFRIQUE FRANCOPHONE",Canaf54 TV
 https://5caf24a595d94.streamlock.net:1937/pvyugfkzkc/pvyugfkzkc/playlist.m3u8
 #EXTINF:-1 tvg-id="CRTV.cm" tvg-logo="https://i.imgur.com/cQWNh3L.png" group-title="25 - AFRIQUE FRANCOPHONE",CRTV (576p)
@@ -1199,14 +1203,20 @@ http://145.239.5.177/147/index.m3u8
 https://live1.acangroup.org:1929/publiclive/crtv_news/playlist.m3u8
 #EXTINF:-1 tvg-id="DigitalCongoTV.cd" tvg-logo="https://i.imgur.com/uz2Rsu7.png" group-title="25 - AFRIQUE FRANCOPHONE",Digital Congo TV
 http://51.254.199.122:8080/DigitalCongoTV/index.m3u8
+#EXTINF:-1 tvg-id="DRTVInternational.cg" tvg-logo="https://i.imgur.com/rGbTvtZ.png" group-title="25 - AFRIQUE FRANCOPHONE",DRTV International
+https://vps122407.serveur-vps.net/hls/drtv.m3u8
 #EXTINF:-1 tvg-id="EdenTV.bj" tvg-logo="https://i.imgur.com/4ClnG0x.png" group-title="25 - AFRIQUE FRANCOPHONE",Eden TV (540p) [Not 24/7]
 https://rtmp.edentv.bj/hls/stream.m3u8
 #EXTINF:-1 tvg-id="EspaceTV.gn" tvg-logo="https://i.imgur.com/R5tbzFI.png" group-title="25 - AFRIQUE FRANCOPHONE",Espace TV (1080p)
 https://edge11.vedge.infomaniak.com/livecast/ik:espacetv/manifest.m3u8
+#EXTINF:-1 tvg-id="EVITV.cd" tvg-logo="https://i.imgur.com/fBc9JSM.png" group-title="25 - AFRIQUE FRANCOPHONE",EVI TV (720p)
+https://mistserver.evi-tv.com/hls/evi_tv_live/index.m3u8
 #EXTINF:-1 tvg-id="ExploitsTV.ci" tvg-logo="https://i.imgur.com/3wC7tSG.jpeg" group-title="25 - AFRIQUE FRANCOPHONE",Exploits TV
 https://stream.berosat.live/hls/exploits-tv/exploits-tv.m3u8
 #EXTINF:-1 tvg-id="Francophonie24.fr" tvg-logo="https://i.imgur.com/uM1v1sd.png" group-title="25 - AFRIQUE FRANCOPHONE",Francophonie24 (1080p)
 https://5421175365ea3.streamlock.net/live/smil:switch.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="GMSTV.sn" tvg-logo="https://i.imgur.com/Ue02CIH.png" group-title="25 - AFRIQUE FRANCOPHONE",GMS TV
+https://acasmedia6.acangroup.org/gmstv/gmstv_output/playlist.m3u8
 #EXTINF:-1 tvg-id="ImpactTV.bf" tvg-logo="https://i.imgur.com/nynh5LY.png" group-title="25 - AFRIQUE FRANCOPHONE",Impact TV
 https://edge11.vedge.infomaniak.com/livecast/ik:impacttv-2/manifest.m3u8
 #EXTINF:-1 tvg-id="IvoireChannel.ci" tvg-logo="https://i.imgur.com/gKbNqQv.png" group-title="25 - AFRIQUE FRANCOPHONE",Ivoire Channel (720p)
@@ -1761,26 +1771,16 @@ https://live.azenagroup.com/zenith/index.ll.m3u8
 https://stream.sen-gt.com/A2itv/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="ACTV.tg" tvg-logo="https://i.imgur.com/SYugK7Y.png" group-title="99 - A VERIFIER LANGUE",AC TV (480p) [Not 24/7]
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/actvstream/playlist.m3u8
-#EXTINF:-1 tvg-id="ADOTV.bj" tvg-logo="https://i.imgur.com/pxFamLr.png" group-title="25 - AFRIQUE FRANCOPHONE",ADO TV (720p)
-https://strhls.streamakaci.tv/ortb/ortb2-multi/playlist.m3u8
 #EXTINF:-1 tvg-id="ATV.gn" tvg-logo="https://i.imgur.com/YkJPCfR.jpeg" group-title="99 - A VERIFIER LANGUE",ATV (400p) [Not 24/7]
 https://guineetvdirect.online:3320/live/atvguineelive.m3u8
 #EXTINF:-1 tvg-id="BebTV.cg" tvg-logo="https://i.imgur.com/3XOk1lP.jpeg" group-title="99 - A VERIFIER LANGUE",Beb TV (720p)
 https://live-hls-qunv.livepush.io/live_cdn/em8A-kbzIfHqu73/index.m3u8
-#EXTINF:-1 tvg-id="CAM10TV.cm" tvg-logo="https://i.imgur.com/xspb9uY.png" group-title="25 - AFRIQUE FRANCOPHONE",CAM 10 TV (720p)
-https://stream.it-innov.com/cam10tv/index.m3u8
 #EXTINF:-1 tvg-id="ChabibaTV.sn" tvg-logo="https://i.imgur.com/qVTOklV.png" group-title="99 - A VERIFIER LANGUE",Chabiba TV (360p) [Not 24/7]
 https://endour.net/hls/RUgLAPCbPdF5oPSTX2Hvl/index.m3u8
 #EXTINF:-1 tvg-id="DegaTV.us" tvg-logo="https://i.ibb.co/ZTYvHyR/DEGA-TV-TELEPACK.jpg" group-title="99 - A VERIFIER LANGUE",Dega TV (720p) [Not 24/7]
 https://59d39900ebfb8.streamlock.net/saintlouisltv/saintlouisltv/playlist.m3u8
-#EXTINF:-1 tvg-id="DRTVInternational.cg" tvg-logo="https://i.imgur.com/rGbTvtZ.png" group-title="25 - AFRIQUE FRANCOPHONE",DRTV International
-https://vps122407.serveur-vps.net/hls/drtv.m3u8
 #EXTINF:-1 tvg-id="ETV.gp" tvg-logo="https://i.imgur.com/m5E2VP0.png" group-title="99 - A VERIFIER LANGUE",ETV (1080p)
 https://edge12.vedge.infomaniak.com/livecast/ik:etvgp/manifest.m3u8
-#EXTINF:-1 tvg-id="EVITV.cd" tvg-logo="https://i.imgur.com/fBc9JSM.png" group-title="25 - AFRIQUE FRANCOPHONE",EVI TV (720p)
-https://mistserver.evi-tv.com/hls/evi_tv_live/index.m3u8
-#EXTINF:-1 tvg-id="GMSTV.sn" tvg-logo="https://i.imgur.com/Ue02CIH.png" group-title="25 - AFRIQUE FRANCOPHONE",GMS TV
-https://acasmedia6.acangroup.org/gmstv/gmstv_output/playlist.m3u8
 #EXTINF:-1 tvg-id="GTV.gh" tvg-logo="https://i.imgur.com/5cFLWKO.png" http-referrer="https://liveghanatv.com/" group-title="99 - A VERIFIER LANGUE",GTV (540p)
 #EXTVLCOPT:http-referrer=https://liveghanatv.com/
 https://g2qd3exjy7an-hls-live.5centscdn.com/gtvghana/ghanaweb.stream/playlist.m3u8
