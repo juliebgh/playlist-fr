@@ -1,0 +1,161 @@
+name: V14 DIY docs FAST publics
+
+on:
+  push:
+    paths:
+      - '.github/workflows/v14-enrich-fast-legal.yml'
+  workflow_dispatch:
+  schedule:
+    - cron: '7 */6 * * *'
+
+permissions:
+  contents: write
+
+jobs:
+  enrich:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Enrichir les chaines FAST publiques
+        run: |
+          python3 <<'PY'
+          from pathlib import Path
+          import urllib.request, re, unicodedata
+
+          UA={'User-Agent':'Mozilla/5.0'}
+          def get(url, timeout=60):
+              req=urllib.request.Request(url,headers=UA)
+              with urllib.request.urlopen(req,timeout=timeout) as r:
+                  return r.read().decode('utf-8','ignore')
+
+          def norm(s):
+              s=unicodedata.normalize('NFKD',s)
+              s=''.join(c for c in s if not unicodedata.combining(c)).lower()
+              s=re.sub(r'\([^)]*\)|\[[^]]*\]',' ',s)
+              s=re.sub(r'[^a-z0-9]+',' ',s)
+              return re.sub(r'\s+',' ',s).strip()
+
+          def parse_m3u(text):
+              rows=[]; ext=None; extras=[]
+              for raw in text.splitlines():
+                  line=raw.strip()
+                  if not line or line.startswith('#EXTM3U'): continue
+                  if line.startswith('#EXTINF:'):
+                      ext=line; extras=[]; continue
+                  if line.startswith('#'):
+                      if ext: extras.append(line)
+                      continue
+                  if ext and (line.startswith('http://') or line.startswith('https://')):
+                      name=ext.rsplit(',',1)[1].strip() if ',' in ext else ''
+                      rows.append([ext,extras[:],line,name])
+                      ext=None; extras=[]
+              return rows
+
+          p=Path('playlist.m3u')
+          rows=parse_m3u(p.read_text(errors='ignore'))
+
+          # Chaines FAST publiques a privilegier. On ne rajoute pas de flux premium/DRM.
+          wanted={
+              '5 minute crafts':'08 - MAISON BRICOLAGE DECO',
+              'craftsytv':'08 - MAISON BRICOLAGE DECO',
+              'creator television':'08 - MAISON BRICOLAGE DECO',
+              'million dollar dream home':'08 - MAISON BRICOLAGE DECO',
+              'la maison france 5':'08 - MAISON BRICOLAGE DECO',
+              '123go':'08 - MAISON BRICOLAGE DECO',
+              'documentary':'04 - REPORTAGES & DOCS',
+              'documentary plus':'04 - REPORTAGES & DOCS',
+              'humanity':'04 - REPORTAGES & DOCS',
+              'j irai dormir chez vous':'04 - REPORTAGES & DOCS',
+              'love nature':'05 - ANIMAUX & NATURE',
+              'nature time':'05 - ANIMAUX & NATURE',
+              'true crime by pluto tv':'03 - CRIME & ENQUETES',
+              'docs enquetes by society':'04 - REPORTAGES & DOCS',
+          }
+
+          feeds=[
+              'https://raw.githubusercontent.com/BuddyChewChew/plex-alt-fast-channels/main/playlists/plex_fr.m3u',
+              'https://raw.githubusercontent.com/BuddyChewChew/app-m3u-generator/main/playlists/plutotv_fr.m3u',
+              'https://raw.githubusercontent.com/BuddyChewChew/app-m3u-generator/main/playlists/samsungtvplus_fr.m3u',
+          ]
+
+          # Index frais par nom normalise.
+          fresh={}
+          for url in feeds:
+              try:
+                  for ext,extras,stream,name in parse_m3u(get(url)):
+                      fresh.setdefault(norm(name),(ext,extras,stream,name))
+              except Exception as e:
+                  print('WARN',url,e)
+
+          # Remplace les variantes existantes des chaines ciblees par les URL FAST fraiches
+          # et corrige leur groupe. Ne touche pas aux autres chaines.
+          seen=set(); outrows=[]; updated=[]
+          for ext,extras,stream,name in rows:
+              n=norm(name)
+              group=wanted.get(n)
+              if group:
+                  if n in fresh:
+                      fext,fextras,fstream,fname=fresh[n]
+                      stream=fstream
+                      # garde les metadonnees fraiches, mais impose notre groupe
+                      ext=fext
+                      extras=fextras
+                      name=fname
+                  if 'group-title="' in ext:
+                      ext=re.sub(r'group-title="[^"]*"',f'group-title="{group}"',ext)
+                  else:
+                      ext=ext.replace('#EXTINF:-1',f'#EXTINF:-1 group-title="{group}"',1)
+                  updated.append(name)
+                  seen.add(n)
+              outrows.append([ext,extras,stream,name])
+
+          # Ajoute les chaines ciblees absentes si elles existent dans les catalogues FR publics.
+          added=[]
+          for n,group in wanted.items():
+              if n in seen or n not in fresh: continue
+              ext,extras,stream,name=fresh[n]
+              if 'group-title="' in ext:
+                  ext=re.sub(r'group-title="[^"]*"',f'group-title="{group}"',ext)
+              else:
+                  ext=ext.replace('#EXTINF:-1',f'#EXTINF:-1 group-title="{group}"',1)
+              outrows.append([ext,extras,stream,name]); added.append(name); seen.add(n)
+
+          # Reclasse aussi les chaines deja presentes qui correspondent clairement aux themes.
+          for row in outrows:
+              ext,extras,stream,name=row
+              n=norm(name)
+              group=None
+              if any(k in n for k in ['craft','bricol','diy','maison france 5']):
+                  group='08 - MAISON BRICOLAGE DECO'
+              elif any(k in n for k in ['documentary','documentaire','docs ', 'reportage','society']):
+                  group='04 - REPORTAGES & DOCS'
+              if group:
+                  if 'group-title="' in ext:
+                      row[0]=re.sub(r'group-title="[^"]*"',f'group-title="{group}"',ext)
+                  else:
+                      row[0]=ext.replace('#EXTINF:-1',f'#EXTINF:-1 group-title="{group}"',1)
+
+          def grp(ext):
+              m=re.search(r'group-title="([^"]*)"',ext)
+              return m.group(1) if m else ''
+
+          out=['#EXTM3U url-tvg="https://raw.githubusercontent.com/juliebgh/playlist-fr/main/epg.xml.gz"']
+          for ext,extras,stream,name in sorted(outrows,key=lambda r:(grp(r[0]),norm(r[3]))):
+              out.append(ext); out.extend(extras); out.append(stream)
+          p.write_text('\n'.join(out)+'\n',encoding='utf-8')
+
+          print('Ajoutees:',added)
+          print('Mises a jour/reclassees:',sorted(set(updated)))
+          print('NOTE LCI: aucun flux public officiel non-DRM ajoute automatiquement')
+          print('NOTE Hulu/National Geographic: aucun flux premium/DRM ajoute')
+          PY
+
+      - name: Commit
+        run: |
+          git config user.name "playlist-fr-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add playlist.m3u
+          git diff --cached --quiet || git commit -m "V14 ajoute DIY et docs FAST publics"
+          git pull --rebase origin main
+          git push origin main
