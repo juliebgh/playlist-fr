@@ -1,0 +1,94 @@
+name: V12 controle sante des flux
+
+on:
+  push:
+    paths:
+      - '.github/workflows/v12-healthcheck.yml'
+  workflow_dispatch:
+  schedule:
+    - cron: '43 3 * * *'
+
+permissions:
+  contents: write
+
+jobs:
+  healthcheck:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Installer ffmpeg
+        run: sudo apt-get update && sudo apt-get install -y ffmpeg
+
+      - name: Tester les flux sans supprimer la playlist principale
+        run: |
+          python3 <<'PY'
+          from pathlib import Path
+          import csv, re, subprocess, concurrent.futures
+
+          src=Path('playlist.m3u')
+          lines=src.read_text(errors='ignore').splitlines()
+          entries=[]; ext=None; extras=[]
+          for raw in lines:
+              line=raw.strip()
+              if not line or line.startswith('#EXTM3U'): continue
+              if line.startswith('#EXTINF:'):
+                  ext=line; extras=[]; continue
+              if line.startswith('#'):
+                  if ext: extras.append(line)
+                  continue
+              if ext and (line.startswith('http://') or line.startswith('https://')):
+                  name=ext.split(',',1)[1].strip() if ',' in ext else 'Sans nom'
+                  group=(re.search(r'group-title="([^"]*)"', ext) or [None,''])[1]
+                  entries.append((name,group,ext,extras[:],line))
+                  ext=None; extras=[]
+
+          def test(item):
+              name,group,ext,extras,url=item
+              cmd=['ffprobe','-v','error','-rw_timeout','7000000','-timeout','7000000','-show_entries','stream=codec_type','-of','csv=p=0',url]
+              try:
+                  p=subprocess.run(cmd, stdout=subprocess.PIPE, stderr=subprocess.PIPE, text=True, timeout=10)
+                  err=(p.stderr or '').strip().replace('\n',' ')[:300]
+                  ok=(p.returncode==0 and bool((p.stdout or '').strip()))
+                  status='OK' if ok else 'FAIL'
+                  if '403' in err: status='403'
+                  elif '404' in err: status='404'
+                  elif '504' in err: status='504'
+                  elif 'timed out' in err.lower() or 'timeout' in err.lower(): status='TIMEOUT'
+                  return item,status,err
+              except subprocess.TimeoutExpired:
+                  return item,'TIMEOUT','ffprobe timeout 10s'
+              except Exception as e:
+                  return item,'FAIL',str(e)[:300]
+
+          results=[]
+          with concurrent.futures.ThreadPoolExecutor(max_workers=24) as ex:
+              for r in ex.map(test, entries): results.append(r)
+
+          with open('health-report.csv','w',newline='',encoding='utf-8') as f:
+              w=csv.writer(f)
+              w.writerow(['name','group','status','url','error'])
+              for item,status,err in results:
+                  w.writerow([item[0],item[1],status,item[4],err])
+
+          reliable=['#EXTM3U']
+          failed=['#EXTM3U']
+          counts={}
+          for item,status,err in results:
+              counts[status]=counts.get(status,0)+1
+              target = reliable if status=='OK' else failed
+              target.append(item[2]); target.extend(item[3]); target.append(item[4])
+
+          Path('playlist-reliable.m3u').write_text('\n'.join(reliable)+'\n',encoding='utf-8')
+          Path('playlist-problematic.m3u').write_text('\n'.join(failed)+'\n',encoding='utf-8')
+          print('TOTAL',len(results))
+          for k in sorted(counts): print(k,counts[k])
+          PY
+
+      - name: Commit rapports
+        run: |
+          git config user.name "playlist-fr-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add health-report.csv playlist-reliable.m3u playlist-problematic.m3u
+          git diff --cached --quiet || git commit -m "V12 controle sante flux"
+          git push
