@@ -39,7 +39,8 @@ jobs:
                   continue
               if ext and (line.startswith('http://') or line.startswith('https://')):
                   name=ext.split(',',1)[1].strip() if ',' in ext else 'Sans nom'
-                  group=(re.search(r'group-title="([^"]*)"', ext) or [None,''])[1]
+                  m=re.search(r'group-title="([^"]*)"', ext)
+                  group=m.group(1) if m else ''
                   entries.append((name,group,ext,extras[:],line))
                   ext=None; extras=[]
 
@@ -71,8 +72,8 @@ jobs:
               for item,status,err in results:
                   w.writerow([item[0],item[1],status,item[4],err])
 
-          reliable=['#EXTM3U']
-          failed=['#EXTM3U']
+          reliable=['#EXTM3U url-tvg="https://raw.githubusercontent.com/juliebgh/playlist-fr/main/epg.xml.gz"']
+          failed=['#EXTM3U url-tvg="https://raw.githubusercontent.com/juliebgh/playlist-fr/main/epg.xml.gz"']
           counts={}
           for item,status,err in results:
               counts[status]=counts.get(status,0)+1
@@ -91,4 +92,5 @@ jobs:
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add health-report.csv playlist-reliable.m3u playlist-problematic.m3u
           git diff --cached --quiet || git commit -m "V12 controle sante flux"
-          git push
+          git pull --rebase origin main
+          git push origin main
