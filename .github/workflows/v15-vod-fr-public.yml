@@ -1,0 +1,73 @@
+name: V15 VOD FR publics - catalogue test
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '23 */12 * * *'
+
+permissions:
+  contents: write
+
+jobs:
+  build-vod-catalog:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Construire un catalogue VOD FR prudent
+        run: |
+          python3 <<'PY'
+          from pathlib import Path
+          import urllib.request, re, csv, io
+
+          # V15 est volontairement separee de playlist.m3u.
+          # Une chaine FAST n'est PAS une VOD. On ne convertit pas artificiellement
+          # les chaines live en films et on n'extrait pas les URLs internes de services
+          # de streaming (ARTE, france.tv, Plex, Pluto, etc.) sans source explicitement
+          # redistribuable sous forme de flux direct.
+          #
+          # Les futures sources VOD doivent etre ajoutees ci-dessous uniquement si :
+          # 1. URL media directe publiquement documentee / redistribuable,
+          # 2. pas de DRM, token prive, compte ou contournement,
+          # 3. langue FR/VF confirmee,
+          # 4. test HTTP reussi.
+          candidates = []
+
+          rows=[]
+          for item in candidates:
+              rows.append(item)
+
+          out=Path('vod-fr-public.m3u')
+          lines=['#EXTM3U']
+          for r in rows:
+              lines += [
+                f'#EXTINF:-1 group-title="{r["group"]}",{r["name"]}',
+                r['url']
+              ]
+          out.write_text('\n'.join(lines)+'\n', encoding='utf-8')
+
+          report=Path('vod-fr-report.csv')
+          with report.open('w', newline='', encoding='utf-8') as f:
+              w=csv.writer(f)
+              w.writerow(['name','group','url','status','note'])
+              if not rows:
+                  w.writerow(['','','','SAFE_EMPTY','Aucune VOD directe redistribuable validee: playlist principale inchangee'])
+
+          print('V15 catalogue entries:', len(rows))
+          print('SAFE MODE: playlist.m3u n est jamais modifiee par ce workflow')
+          PY
+
+      - name: Verifier que V15 ne modifie pas la playlist principale
+        run: |
+          git diff --exit-code -- playlist.m3u
+          test -f vod-fr-public.m3u
+          test -f vod-fr-report.csv
+
+      - name: Commit catalogue V15 uniquement
+        run: |
+          git config user.name "playlist-fr-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add vod-fr-public.m3u vod-fr-report.csv
+          git diff --cached --quiet || git commit -m "V15 actualise catalogue VOD FR public"
+          git pull --rebase origin v15-vod-fr-public
+          git push origin v15-vod-fr-public
