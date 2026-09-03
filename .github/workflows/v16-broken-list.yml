@@ -1,0 +1,57 @@
+name: V16 liste chaines a reparer
+
+on:
+  push:
+    paths:
+      - '.github/workflows/v16-broken-list.yml'
+  workflow_dispatch:
+  schedule:
+    - cron: '53 4 * * *'
+
+permissions:
+  contents: write
+
+jobs:
+  broken-list:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Extraire les chaines en panne
+        run: |
+          python3 <<'PY'
+          import csv
+          from pathlib import Path
+
+          src=Path('health-report.csv')
+          rows=[]
+          with src.open(newline='',encoding='utf-8') as f:
+              for r in csv.DictReader(f):
+                  status=(r.get('status') or '').strip().upper()
+                  if status != 'OK':
+                      rows.append({
+                          'name': r.get('name',''),
+                          'group': r.get('group',''),
+                          'status': status,
+                          'current_url': r.get('url','')
+                      })
+
+          with open('broken-channels.csv','w',newline='',encoding='utf-8') as f:
+              w=csv.DictWriter(f,fieldnames=['name','group','status','current_url'])
+              w.writeheader(); w.writerows(rows)
+
+          Path('broken-channels.txt').write_text(
+              '\n'.join(f"{r['status']} | {r['group']} | {r['name']}" for r in rows)+'\n',
+              encoding='utf-8'
+          )
+          print('CHAINES_A_REPARER',len(rows))
+          PY
+
+      - name: Commit liste
+        run: |
+          git config user.name "playlist-fr-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add broken-channels.csv broken-channels.txt
+          git diff --cached --quiet || git commit -m "V16 met a jour la liste des chaines a reparer"
+          git pull --rebase origin main
+          git push origin main
