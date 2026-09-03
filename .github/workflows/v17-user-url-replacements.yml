@@ -1,0 +1,104 @@
+name: V17 remplacements URL utilisateur
+
+on:
+  push:
+    paths:
+      - '.github/workflows/v17-user-url-replacements.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  replace:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Installer ffmpeg
+        run: sudo apt-get update && sudo apt-get install -y ffmpeg
+
+      - name: Tester puis remplacer uniquement les URL valides
+        run: |
+          python3 <<'PY'
+          from pathlib import Path
+          import subprocess
+
+          playlist = Path('playlist.m3u')
+          text = playlist.read_text(encoding='utf-8', errors='ignore')
+
+          replacements = {
+              'LCI HD (1080p)': 'http://185.245.0.148/live/play/V0VSb1NHRnhiRFJvVUZOcFdFbEVWVXBFTW1sd2NrOXhWVlZLSzB0R1UwVnFkbTFMUVRFelMySnhhejA9/553994',
+              'France 3': 'http://103.176.90.136/live/play/WkRsekwwWnlZVlp5YjBWWlJFcElORFpMYm1oWlpGTmxSbGRNYWxSSWFETnZOSGQwVDBWVVYzVXlSVDA9/553961',
+              'France 4': 'http://103.176.90.55/live/play/VlhoV2NIZFBaRkpxS3pBMU1sQmFWWGx6ZWs0MFlYUkhibkZPYVVWa1p6RTRjbG8xYVhob1UyaFBTVDA9/553962',
+              'France 5 (720p)': 'http://185.243.7.56/live/play/TmxoMVozTkVkQzlPUnpGNVUwbFFhbUphVjNkSVQyTlRlbEp2YTI5TVJtSk9aVEIwVjBGM1RHWlhPRDA9/553963',
+              'W9 (1080p)': 'http://103.176.90.55/live/play/ZHl0MlV6WlVSbGwxVDFGc2NVMVRObTVYWVhOSFUwaGpUamN3UlU1UE0zTk5Tbm96YjNSRWMyeGFXVDA9/543166',
+              'TFX (720p)': 'http://103.176.90.55/live/play/Y25NdlEwZFZTR3AzZVcxV01GRlpWM1ZoTDNoa1ptWkJNUzl5ZDBFclFVbEtXRUZGVFRaUE1IaG5VVDA9/543160',
+          }
+
+          rejected_segments = {
+              'TF1 (576p)': 'http://151.80.18.177:86/TF1_HD/tracks-v1a1/2026/09/03/21/05/06-07680.ts',
+              'arte (720p)': 'https://dash4.antik.sk/live/test_arte_avc_25p/1788469598.ts',
+          }
+
+          def test(url):
+              cmd = ['ffprobe','-v','error','-rw_timeout','8000000','-timeout','8000000',
+                     '-show_entries','stream=codec_type','-of','csv=p=0',url]
+              try:
+                  p = subprocess.run(cmd, stdout=subprocess.PIPE, stderr=subprocess.PIPE,
+                                     text=True, timeout=12)
+                  return p.returncode == 0 and bool((p.stdout or '').strip()), (p.stderr or '').strip()[:300]
+              except subprocess.TimeoutExpired:
+                  return False, 'timeout'
+              except Exception as e:
+                  return False, str(e)[:300]
+
+          lines = text.splitlines()
+          applied=[]; failed=[]; missing=[]
+
+          for name, new_url in replacements.items():
+              ok, err = test(new_url)
+              if not ok:
+                  failed.append((name,new_url,err))
+                  continue
+
+              found=False
+              for i,line in enumerate(lines):
+                  if line.startswith('#EXTINF:') and line.rstrip().endswith(','+name):
+                      # URL = première ligne HTTP(S) suivant EXTINF, en ignorant les options #EXTVLCOPT.
+                      j=i+1
+                      while j < len(lines) and lines[j].startswith('#'):
+                          j+=1
+                      if j < len(lines) and (lines[j].startswith('http://') or lines[j].startswith('https://')):
+                          old=lines[j]
+                          lines[j]=new_url
+                          applied.append((name,old,new_url))
+                          found=True
+                          break
+              if not found:
+                  missing.append(name)
+
+          playlist.write_text('\n'.join(lines)+'\n', encoding='utf-8')
+
+          report=['V17 remplacements URL utilisateur','']
+          for name,old,new in applied:
+              report.append(f'APPLIED | {name} | {old} -> {new}')
+          for name,url,err in failed:
+              report.append(f'FAILED_TEST | {name} | {url} | {err}')
+          for name in missing:
+              report.append(f'NOT_FOUND | {name}')
+          for name,url in rejected_segments.items():
+              report.append(f'REJECTED_SEGMENT | {name} | {url} | URL .ts = segment video, pas un flux live continu')
+          Path('user-replacement-report.txt').write_text('\n'.join(report)+'\n',encoding='utf-8')
+
+          print('\n'.join(report))
+          PY
+
+      - name: Commit remplacements valides
+        run: |
+          git config user.name "playlist-fr-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add playlist.m3u user-replacement-report.txt
+          git diff --cached --quiet || git commit -m "V17 applique les URL utilisateur validees"
+          git pull --rebase origin main
+          git push origin main
