@@ -88,7 +88,11 @@ jobs:
                       rows.append([ext,extras,stream,name,attrs])
                       existing.add(n); added.append(name)
 
+          # EPG publics/FAST + XMLTV France. XMLTV France est prioritaire car
+          # ses identifiants (France2.fr, France3.fr, RTSUn.ch, etc.) sont utiles
+          # pour les chaines francophones classiques dans TiviMate.
           epg_urls=[
+              'https://xmltvfr.fr/xmltv/xmltv_fr.xml.gz',
               'https://i.mjh.nz/PlutoTV/fr.xml.gz',
               'https://i.mjh.nz/Plex/fr.xml.gz',
               'https://i.mjh.nz/SamsungTVPlus/fr.xml.gz',
