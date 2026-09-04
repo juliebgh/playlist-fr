@@ -1,0 +1,520 @@
+NO_REPLACEMENT | 6ter (1080p)
+NO_REPLACEMENT | arte (720p)
+NO_REPLACEMENT | C Star (1080p)
+NO_REPLACEMENT | Clubbing TV France
+TEST | France 4 | https://sv1.data-stream.top/8c0a287e56a6e1843143904778be3775b4d3edd4fba4ffcc3f72638c7a71d4d4/hls/francetv4.m3u8 | FAIL | 
+NO_REPLACEMENT | France 4
+NO_REPLACEMENT | France 5 (720p)
+NO_REPLACEMENT | like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="01 - TNT & GENERALISTES",France 3
+NO_REPLACEMENT | like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="01 - TNT & GENERALISTES",TF1 (576p)
+NO_REPLACEMENT | like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="01 - TNT & GENERALISTES",TMC (1080p)
+NO_REPLACEMENT | M6 Music (720p)
+NO_REPLACEMENT | TFX (720p)
+NO_REPLACEMENT | TVM 3 (1080p)
+NO_REPLACEMENT | W9 (1080p)
+NO_REPLACEMENT | CNA (360p) [Not 24/7]
+NO_REPLACEMENT | LCI HD (1080p)
+NO_REPLACEMENT | like Gecko) Chrome/108.0.0.0 Safari/537.36" group-title="02 - INFOS",BFM Alsace (1080p)
+NO_REPLACEMENT | like Gecko) Chrome/108.0.0.0 Safari/537.36" group-title="02 - INFOS",BFM DICI Alpes du Sud (1080p)
+NO_REPLACEMENT | like Gecko) Chrome/108.0.0.0 Safari/537.36" group-title="02 - INFOS",BFM DICI Haute-Provence (1080p)
+NO_REPLACEMENT | like Gecko) Chrome/108.0.0.0 Safari/537.36" group-title="02 - INFOS",BFM Grand Lille (1080p)
+NO_REPLACEMENT | like Gecko) Chrome/108.0.0.0 Safari/537.36" group-title="02 - INFOS",BFM Grand Littoral (1080p)
+NO_REPLACEMENT | like Gecko) Chrome/108.0.0.0 Safari/537.36" group-title="02 - INFOS",BFM Lyon (1080p)
+NO_REPLACEMENT | like Gecko) Chrome/108.0.0.0 Safari/537.36" group-title="02 - INFOS",BFM Marseille (1080p)
+NO_REPLACEMENT | like Gecko) Chrome/108.0.0.0 Safari/537.36" group-title="02 - INFOS",BFM Nice Côte d'Azur (1080p)
+NO_REPLACEMENT | like Gecko) Chrome/108.0.0.0 Safari/537.36" group-title="02 - INFOS",BFM Normandie (1080p)
+NO_REPLACEMENT | like Gecko) Chrome/108.0.0.0 Safari/537.36" group-title="02 - INFOS",BFM Tech & Co (1080p)
+NO_REPLACEMENT | like Gecko) Chrome/108.0.0.0 Safari/537.36" group-title="02 - INFOS",BFM Toulon Var (1080p)
+NO_REPLACEMENT | NW Info FR (576p)
+NO_REPLACEMENT | Press TV French (1080p)
+NO_REPLACEMENT | Crime Scene TV
+NO_REPLACEMENT | Documentary+
+NO_REPLACEMENT | Evasion TV
+NO_REPLACEMENT | Stingray Naturescape
+NO_REPLACEMENT | TV5MONDE Voyage
+NO_REPLACEMENT | Ici Radio-Canada Télé Terre-Neuve-et-Labrador (CBAFT-DT) [Geo-blocked]
+NO_REPLACEMENT | TiVi5 Monde [Geo-blocked]
+NO_REPLACEMENT | TV5Monde Asia (1080p)
+NO_REPLACEMENT | TV5Monde Info (1080p) [Geo-blocked]
+NO_REPLACEMENT | TV5Monde Latin America (720p)
+NO_REPLACEMENT | TV5Monde Pacifique (1080p) [Geo-blocked]
+NO_REPLACEMENT | TV5Monde Style (1080p) [Geo-blocked]
+NO_REPLACEMENT | Cooking Panda
+TEST | TV5MONDE Chefs | https://tvf-tv5ch.otteravision.com/tvf/tv5ch/tv5ch.m3u8 | OK | video,1920,1080
+audio
+data
+data
+
+video,1280,720
+audio
+data
+data
+
+video,960,540
+audio
+data
+data
+
+video,854,480
+audio
+data
+data
+
+video,640,360
+audio
+data
+data
+
+video,1920,1080
+audio
+data
+data
+video,1280
+APPLIED | TV5MONDE Chefs | https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-68b74890b5b437bf872b6b72/?X-Plex-Token=Ha_Pno3Pjk88bia1EmNh -> https://tvf-tv5ch.otteravision.com/tvf/tv5ch/tv5ch.m3u8
+NO_REPLACEMENT | Box Office Action
+NO_REPLACEMENT | Ciné Charme by Pluto TV
+NO_REPLACEMENT | Cine+ Emotion (720p)
+NO_REPLACEMENT | CINEPRIDE
+NO_REPLACEMENT | FilmRise Série Populaire
+NO_REPLACEMENT | like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="09 - CINEMA",Cine+ Frisson (1080p)
+NO_REPLACEMENT | Moviesphere
+NO_REPLACEMENT | MOVIESPHERE
+NO_REPLACEMENT | Sony One Action HITS
+TEST | Sony One | Hits Action | https://5098a8b860504a3690fd2e7c0a18d68f.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-817-FR-SONYONEHITSACTION-LG_FR/playlist.m3u8 | OK | video,1920,1080
+audio
+data
+data
+
+video,1280,720
+audio
+data
+data
+
+video,1024,576
+audio
+data
+data
+
+video,640,360
+audio
+data
+data
+
+video,384,216
+audio
+data
+data
+
+video,1920,1080
+audio
+data
+data
+video,128
+APPLIED | Sony One | Hits Action | https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-692227f850fe592fd6d5b7e0/?X-Plex-Token=Ha_Pno3Pjk88bia1EmNh -> https://5098a8b860504a3690fd2e7c0a18d68f.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-817-FR-SONYONEHITSACTION-LG_FR/playlist.m3u8
+TEST | Sony One HITS Comédie | https://7aa9671895264ec9a384dfed1b992171.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-818-FR-SONYONEHITSCOMDIE-LG_FR/playlist.m3u8 | OK | video,1920,1080
+audio
+data
+data
+
+video,1280,720
+audio
+data
+data
+
+video,1024,576
+audio
+data
+data
+
+video,640,360
+audio
+data
+data
+
+video,384,216
+audio
+data
+data
+
+video,1920,1080
+audio
+data
+data
+video,128
+APPLIED | Sony One HITS Comédie | https://jmp2.uk/stvp-FR300009JQ -> https://7aa9671895264ec9a384dfed1b992171.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-818-FR-SONYONEHITSCOMDIE-LG_FR/playlist.m3u8
+TEST | Sony One | Hits Comédie | https://7aa9671895264ec9a384dfed1b992171.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-818-FR-SONYONEHITSCOMDIE-LG_FR/playlist.m3u8 | OK | video,1920,1080
+audio
+data
+data
+
+video,1280,720
+audio
+data
+data
+
+video,1024,576
+audio
+data
+data
+
+video,640,360
+audio
+data
+data
+
+video,384,216
+audio
+data
+data
+
+video,1920,1080
+audio
+data
+data
+video,128
+APPLIED | Sony One | Hits Comédie | https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-692228985cbe620c1f9b6bb9/?X-Plex-Token=Ha_Pno3Pjk88bia1EmNh -> https://7aa9671895264ec9a384dfed1b992171.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-818-FR-SONYONEHITSCOMDIE-LG_FR/playlist.m3u8
+NO_REPLACEMENT | Sony One | Séries Comédie
+NO_REPLACEMENT | Sony One | Séries Thriller
+NO_REPLACEMENT | Surf Cinema
+NO_REPLACEMENT | AB1 (720p)
+NO_REPLACEMENT | Nollywood TV (720p)
+NO_REPLACEMENT | Novela Channel (720p) [Not 24/7]
+NO_REPLACEMENT | RTL9 (720p)
+NO_REPLACEMENT | TV Breizh (1080p)
+NO_REPLACEMENT | Asian Drama
+NO_REPLACEMENT | Génération Sitcoms TV
+NO_REPLACEMENT | Serie Club (720p)
+NO_REPLACEMENT | Serie Max
+NO_REPLACEMENT | Soap
+NO_REPLACEMENT | Animation+
+NO_REPLACEMENT | Boss Brothers TV (1080p)
+NO_REPLACEMENT | Pluto TV Junior (720p)
+NO_REPLACEMENT | TG Junior
+NO_REPLACEMENT | Equidia (1080p)
+NO_REPLACEMENT | Foot+
+NO_REPLACEMENT | FTF Sports
+NO_REPLACEMENT | GFN Football TV
+NO_REPLACEMENT | like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21" group-title="12 - SPORT",RMC Sport 1
+NO_REPLACEMENT | like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="12 - SPORT",Canal+ Sport 360
+NO_REPLACEMENT | Poker Night TV
+NO_REPLACEMENT | PokerGO
+NO_REPLACEMENT | Racing America
+NO_REPLACEMENT | SportsGrid
+NO_REPLACEMENT | The World Poker Tour
+NO_REPLACEMENT | The World Poker Tour
+NO_REPLACEMENT | Women's Sports Network
+NO_REPLACEMENT | A2i Music (720p) [Not 24/7]
+NO_REPLACEMENT | Congo Planet Télévision (1080p) [Not 24/7]
+NO_REPLACEMENT | Couleur 3 (720p)
+NO_REPLACEMENT | Ici Radio-Canada Télé (1080p) [Geo-blocked]
+NO_REPLACEMENT | Ici Radio-Canada Télé Colombie-Britannique/Yukon (CBUFT-DT) [Geo-blocked]
+NO_REPLACEMENT | Ici Radio-Canada Télé Est du Québec (CJBR-DT) [Geo-blocked]
+NO_REPLACEMENT | Ici Radio-Canada Télé Estrie (CKSH-DT) [Geo-blocked]
+NO_REPLACEMENT | Ici Radio-Canada Télé Manitoba (CBWFT-DT) [Geo-blocked]
+NO_REPLACEMENT | Ici Radio-Canada Télé Mauricie/Centre-du-Québec (CKTM-DT) [Geo-blocked]
+NO_REPLACEMENT | Ici Radio-Canada Télé Ontario (CBLFT-DT) [Geo-blocked]
+NO_REPLACEMENT | Ici Radio-Canada Télé Ottawa/Gatineau (CBOFT-DT) [Geo-blocked]
+NO_REPLACEMENT | Ici Radio-Canada Télé Québec (CBVT-DT) [Geo-blocked]
+NO_REPLACEMENT | Ici Radio-Canada Télé Saguenay/Lac-St-Jean (CKTV-DT) [Geo-blocked]
+NO_REPLACEMENT | Ici Radio-Canada Télé Saskatchewan (CBKFT-DT) [Geo-blocked]
+TEST | MCM Top (1080p) | http://46.32.176.50/mcmtop/index.m3u8 | FAIL | 
+NO_REPLACEMENT | MCM Top (1080p)
+NO_REPLACEMENT | Museum TV [Geo-blocked]
+NO_REPLACEMENT | NRJ Hits
+NO_REPLACEMENT | Qello Concerts
+NO_REPLACEMENT | Radio Contact (1080p)
+NO_REPLACEMENT | Radio Télé Amen FM (360p) [Not 24/7]
+NO_REPLACEMENT | Radio Télé Kajou (480p) [Not 24/7]
+NO_REPLACEMENT | Radio Tele Planet Compas (720p) [Not 24/7]
+NO_REPLACEMENT | Radio Télé Wisdom (360p) [Not 24/7]
+NO_REPLACEMENT | Radio Télévision Shilo (720p) [Not 24/7]
+NO_REPLACEMENT | RFM TV [Not 24/7]
+NO_REPLACEMENT | TeleMusik Senegal (720p)
+NO_REPLACEMENT | Le Nouveau Manager TV
+NO_REPLACEMENT | Luxe TV (1080p)
+NO_REPLACEMENT | Dynamic Gospel TV (480p) [Not 24/7]
+NO_REPLACEMENT | Ecclesia TV
+NO_REPLACEMENT | Iqraa Quran (1080p)
+NO_REPLACEMENT | KTO (504p)
+NO_REPLACEMENT | Miracle TV+ (720p)
+NO_REPLACEMENT | MTA1 World (720p)
+NO_REPLACEMENT | MTA2 Europe (720p)
+NO_REPLACEMENT | ACL Cornhole TV
+NO_REPLACEMENT | AddictaTV
+NO_REPLACEMENT | ADRENALINE SPICA LIFE
+NO_REPLACEMENT | AfroLandTV
+NO_REPLACEMENT | Alerte à Malibu TV
+NO_REPLACEMENT | Alternative
+NO_REPLACEMENT | Baby Einstein
+NO_REPLACEMENT | Bassmaster
+NO_REPLACEMENT | Blacklist
+NO_REPLACEMENT | Canal 9 en Français (1080p)
+NO_REPLACEMENT | Carac 1 (1080p)
+NO_REPLACEMENT | COPS
+NO_REPLACEMENT | Cosmic Frontiers
+NO_REPLACEMENT | Dude Perfect
+NO_REPLACEMENT | Easy Listening
+NO_REPLACEMENT | Echos du Monde
+NO_REPLACEMENT | Eddie's Wonderland
+NO_REPLACEMENT | El Conflicto TV
+NO_REPLACEMENT | Éxitos del Momento
+NO_REPLACEMENT | Farscape
+TEST | FashionTV | http://45.190.28.50/FASHION_TV_HD/index.m3u8 | OK | audio
+video,1280,720
+
+audio
+video,1280,720
+APPLIED | FashionTV | https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-6490c01f3b3ce9e1aaad95be/?X-Plex-Token=Ha_Pno3Pjk88bia1EmNh -> http://45.190.28.50/FASHION_TV_HD/index.m3u8
+NO_REPLACEMENT | Fight Network
+NO_REPLACEMENT | Flashback 70s
+NO_REPLACEMENT | FUEL TV
+NO_REPLACEMENT | Galxy TV
+NO_REPLACEMENT | Glewed TV
+NO_REPLACEMENT | GLORY Kickboxing
+NO_REPLACEMENT | GrowthDay Network
+NO_REPLACEMENT | JDS.TV
+NO_REPLACEMENT | Journy
+NO_REPLACEMENT | Kidoodle TV
+NO_REPLACEMENT | Legacy
+NO_REPLACEMENT | Léman Bleu (1080p)
+NO_REPLACEMENT | Les filles d’à côtés TV
+NO_REPLACEMENT | Life Down Under
+NO_REPLACEMENT | Lone Star
+NO_REPLACEMENT | Lucha Plus
+NO_REPLACEMENT | Made In Hollywood
+NO_REPLACEMENT | Monster Jam
+NO_REPLACEMENT | More U
+NO_REPLACEMENT | MOTUS La Chaine
+NO_REPLACEMENT | Newsmax2
+NO_REPLACEMENT | NewsWorld
+NO_REPLACEMENT | NHRA TV
+NO_REPLACEMENT | Nolly Africa HD
+NO_REPLACEMENT | Nosey
+NO_REPLACEMENT | Nosey Escándalos
+NO_REPLACEMENT | Nothin' But 90s
+NO_REPLACEMENT | Novelisima
+NO_REPLACEMENT | Operation Repo
+NO_REPLACEMENT | Pac-12 Insider
+NO_REPLACEMENT | PeliMex
+NO_REPLACEMENT | People Are Awesome
+NO_REPLACEMENT | Pitufo TV
+NO_REPLACEMENT | PLL Network
+NO_REPLACEMENT | Powernation
+NO_REPLACEMENT | Qwest TV
+NO_REPLACEMENT | RACER International
+NO_REPLACEMENT | RCM
+NO_REPLACEMENT | Revry
+NO_REPLACEMENT | RTS 3 (720p)
+NO_REPLACEMENT | RTS Info (1080p)
+NO_REPLACEMENT | Shemaroo Bollywood
+NO_REPLACEMENT | SKWAD
+NO_REPLACEMENT | Smurf TV
+TEST | Sony One | Favoris | https://49d735318d6b4c30a24a7997ea594e1b.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-820-FR-SONYONEFAVORIS-LG_FR/playlist.m3u8 | OK | video,1920,1080
+audio
+data
+data
+
+video,1280,720
+audio
+data
+data
+
+video,1024,576
+audio
+data
+data
+
+video,640,360
+audio
+data
+data
+
+video,384,216
+audio
+data
+data
+
+video,1920,1080
+audio
+data
+data
+video,128
+APPLIED | Sony One | Favoris | https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-692229df50fe592fd6d5b7e2/?X-Plex-Token=Ha_Pno3Pjk88bia1EmNh -> https://49d735318d6b4c30a24a7997ea594e1b.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-820-FR-SONYONEFAVORIS-LG_FR/playlist.m3u8
+NO_REPLACEMENT | SPEEDVISION
+NO_REPLACEMENT | Startalk TV
+NO_REPLACEMENT | Stingray Classica Stream
+NO_REPLACEMENT | Stingray Greatest Hits
+NO_REPLACEMENT | Stingray Holidayscapes
+NO_REPLACEMENT | Stingray Hot Country
+NO_REPLACEMENT | Stingray Karaoke
+NO_REPLACEMENT | Stingray Soul Storm
+NO_REPLACEMENT | Strongman Champions
+NO_REPLACEMENT | The Design Network
+NO_REPLACEMENT | Toon Goggles
+NO_REPLACEMENT | TRACE UK
+NO_REPLACEMENT | TV5Monde France Belgique Suisse Monaco (1080p) [Geo-blocked]
+TEST | TV5MONDE Info | https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8 | FAIL | 
+NO_REPLACEMENT | TV5MONDE Info
+NO_REPLACEMENT | Unbeaten
+NO_REPLACEMENT | USA TODAY
+NO_REPLACEMENT | Watch it Kid
+NO_REPLACEMENT | Watch it SCREAM
+NO_REPLACEMENT | Waypoint TV
+NO_REPLACEMENT | XFC TV
+NO_REPLACEMENT | Ya Que La Vérité La Chaine
+NO_REPLACEMENT | Yahoo Finance
+NO_REPLACEMENT | ZenLIFE by Stingray
+NO_REPLACEMENT | Bel RTL (1080p)
+NO_REPLACEMENT | Bouke (504p)
+NO_REPLACEMENT | Canal Zoom [Geo-blocked]
+NO_REPLACEMENT | La Trois (1080p)
+NO_REPLACEMENT | La Une (720p)
+NO_REPLACEMENT | like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21" group-title="21 - BELGIQUE FR",RTL Club
+NO_REPLACEMENT | Qu4tre (1080p)
+NO_REPLACEMENT | RTL-TVI (1080p) [Not 24/7]
+NO_REPLACEMENT | TeleMB (1080p)
+NO_REPLACEMENT | Telesambre (504p)
+NO_REPLACEMENT | TVcom (1080p)
+NO_REPLACEMENT | Vedia (1080p)
+NO_REPLACEMENT | TV5 Quebec Canada (1080p)
+NO_REPLACEMENT | TVA [Geo-blocked]
+NO_REPLACEMENT | LCN [Geo-blocked]
+NO_REPLACEMENT | Legislative Assembly of Ontario
+NO_REPLACEMENT | ILTV (720p)
+NO_REPLACEMENT | Rhône TV (1080p) [Geo-blocked]
+NO_REPLACEMENT | TéléGohelle
+NO_REPLACEMENT | TV78 (720p)
+NO_REPLACEMENT | TVR (Bretagne) (720p)
+NO_REPLACEMENT | viàMoselleTV (720p) [Not 24/7]
+NO_REPLACEMENT | viàOccitanie (540p) [Not 24/7]
+NO_REPLACEMENT | viàTéléPaese (720p)
+NO_REPLACEMENT | Antenne Réunion (720p) [Not 24/7]
+NO_REPLACEMENT | TNTV (1080p)
+NO_REPLACEMENT | TVCARiB (720p) [Not 24/7]
+NO_REPLACEMENT | ViàATV (1080p) [Geo-blocked]
+NO_REPLACEMENT | A2i Naija (720p) [Not 24/7]
+NO_REPLACEMENT | ADO TV (720p)
+NO_REPLACEMENT | Afrique Media (720p)
+NO_REPLACEMENT | Afrique54 TV (720p)
+NO_REPLACEMENT | Amani TV (1080p) [Not 24/7]
+NO_REPLACEMENT | Bénin Web TV (720p)
+NO_REPLACEMENT | Canaf54 TV
+NO_REPLACEMENT | CRTV (576p)
+NO_REPLACEMENT | Digital Congo TV
+NO_REPLACEMENT | Exploits TV
+NO_REPLACEMENT | Impact TV
+NO_REPLACEMENT | KassouaTV (720p)
+NO_REPLACEMENT | Kemet TV
+NO_REPLACEMENT | Kin24
+NO_REPLACEMENT | NTV Afrique (1080p) [Not 24/7]
+NO_REPLACEMENT | ORTM 1 (540p) [Not 24/7]
+NO_REPLACEMENT | RTNC 3
+NO_REPLACEMENT | Saraounia TV
+NO_REPLACEMENT | Télé Congo (720p)
+NO_REPLACEMENT | Tele Sahel (1080p)
+NO_REPLACEMENT | Tele Tchad (1080p)
+NO_REPLACEMENT | Avatar
+NO_REPLACEMENT | 100% Kidz
+NO_REPLACEMENT | Dhar Mann TV
+NO_REPLACEMENT | Red Bull TV
+NO_REPLACEMENT | Rookie Blue
+TEST | Sony One Blacklist | https://06cb85ad6ccb4a6b97f561e62d16ad3f.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-822-FR-SONYONETHEBLACKLIST-LG_FR/playlist.m3u8 | OK | video,1920,1080
+audio
+data
+data
+
+video,1280,720
+audio
+data
+data
+
+video,1024,576
+audio
+data
+data
+
+video,640,360
+audio
+data
+data
+
+video,384,216
+audio
+data
+data
+
+video,1920,1080
+audio
+data
+data
+video,128
+APPLIED | Sony One Blacklist | https://jmp2.uk/stvp-FR300010HD -> https://06cb85ad6ccb4a6b97f561e62d16ad3f.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-822-FR-SONYONETHEBLACKLIST-LG_FR/playlist.m3u8
+TEST | Sony One Favoris | https://49d735318d6b4c30a24a7997ea594e1b.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-820-FR-SONYONEFAVORIS-LG_FR/playlist.m3u8 | OK | video,1920,1080
+audio
+data
+data
+
+video,1280,720
+audio
+data
+data
+
+video,1024,576
+audio
+data
+data
+
+video,640,360
+audio
+data
+data
+
+video,384,216
+audio
+data
+data
+
+video,1920,1080
+audio
+data
+data
+video,128
+APPLIED | Sony One Favoris | https://jmp2.uk/stvp-FR300011G9 -> https://49d735318d6b4c30a24a7997ea594e1b.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-820-FR-SONYONEFAVORIS-LG_FR/playlist.m3u8
+NO_REPLACEMENT | Tennis Channel
+NO_REPLACEMENT | Top Barça
+NO_REPLACEMENT | Vevo Pop
+NO_REPLACEMENT | Vevo Rétro
+NO_REPLACEMENT | Antenne A
+NO_REPLACEMENT | Canal 3
+NO_REPLACEMENT | Ev-tele (720p)
+NO_REPLACEMENT | Natural TV (720p) [Not 24/7]
+NO_REPLACEMENT | NW Economie (576p)
+NO_REPLACEMENT | NW Magazine (576p)
+NO_REPLACEMENT | One Nation TV (720p) [Not 24/7]
+NO_REPLACEMENT | Play TV (720p) [Not 24/7]
+NO_REPLACEMENT | PLEX TV
+NO_REPLACEMENT | PSTV HD (480p) [Not 24/7]
+NO_REPLACEMENT | RT France (1080p) [Geo-blocked]
+NO_REPLACEMENT | RTVS1
+NO_REPLACEMENT | SOS Docteur TV (480p) [Not 24/7]
+NO_REPLACEMENT | Sunu Label TV (480p) [Not 24/7]
+NO_REPLACEMENT | Tal TV (1080p)
+NO_REPLACEMENT | Tele Haiti (1088p) [Not 24/7]
+NO_REPLACEMENT | Teva (1080p)
+NO_REPLACEMENT | TM1 (360p) [Not 24/7]
+NO_REPLACEMENT | TNH (720p)
+NO_REPLACEMENT | Trends Z (1080p)
+NO_REPLACEMENT | Türkmenistan (406p) [Not 24/7]
+NO_REPLACEMENT | TV Lux (1080p)
+NO_REPLACEMENT | TVT (720p) [Not 24/7]
+NO_REPLACEMENT | AC TV (480p) [Not 24/7]
+NO_REPLACEMENT | ATV (400p) [Not 24/7]
+NO_REPLACEMENT | Beb TV (720p)
+NO_REPLACEMENT | Chabiba TV (360p) [Not 24/7]
+NO_REPLACEMENT | Dega TV (720p) [Not 24/7]
+NO_REPLACEMENT | GTV (540p)
+NO_REPLACEMENT | HC2 TV
+NO_REPLACEMENT | LBFD RTV (1080p)
+NO_REPLACEMENT | Mikuba TV (480p) [Not 24/7]
+NO_REPLACEMENT | NETALKOLE TV (720p) [Not 24/7]
+NO_REPLACEMENT | ONE-TV (720p) [Not 24/7]
