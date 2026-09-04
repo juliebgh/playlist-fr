@@ -164,7 +164,7 @@ https://jmp2.uk/stvp-FRBC4000001IO
 #EXTINF:-1 channel-id="FR15000010E" tvg-id="FR15000010E" tvg-chno="4001" tvg-name="Docs & enquêtes by Society+" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR15000010E_20260901T054441SQUARE.png" group-title="04 - REPORTAGES & DOCS",Docs & enquêtes by Society+
 https://jmp2.uk/stvp-FR15000010E
 #EXTINF:-1 channel-id="plex-614e286b2bac097ffd6fd6ab" tvg-id="614e286b2bac097ffd6fd6ab" tvg-name="Documentary+" tvg-logo="https://provider-static.plex.tv/epg/cms/production/24df67bc-967c-4662-a975-6f54c9c0657a/documentaryplus_logo_dark_1_WHT.png" group-title="04 - REPORTAGES & DOCS",Documentary+
-https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-614e286b2bac097ffd6fd6ab.m3u8?X-Plex-Token=rR6S4maWnQ49iDtuDANx
+https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-614e286b2bac097ffd6fd6ab/?X-Plex-Token=Ha_Pno3Pjk88bia1EmNh
 #EXTINF:-1 tvg-id="EvasionTV.gn" tvg-logo="https://i.imgur.com/TTWl2Iy.png" group-title="04 - REPORTAGES & DOCS",Evasion TV
 https://kali.vdopanel.com:3788/hybrid/play.m3u8
 #EXTINF:-1 channel-id="FR3700004HZ" tvg-id="FR3700004HZ" tvg-chno="4526" tvg-name="Invitation au voyage" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR3700004HZ_20260721T035806SQUARE.png" group-title="04 - REPORTAGES & DOCS",Invitation au voyage
@@ -204,7 +204,7 @@ https://jmp2.uk/stvp-FRBC3900004DS
 #EXTINF:-1 tvg-id="CBAFTDT.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/ICI_Acadie_logo_2018.svg/960px-ICI_Acadie_logo_2018.svg.png" group-title="05 - ANIMAUX & NATURE",Ici Radio-Canada Télé Terre-Neuve-et-Labrador (CBAFT-DT) [Geo-blocked]
 https://rcavlive.akamaized.net/hls/live/704014/cancbaft/master.m3u8
 #EXTINF:-1 channel-id="plex-6827c34ca5c6e573c6904444" tvg-id="6827c34ca5c6e573c6904444" tvg-name="Nature Time" tvg-logo="https://provider-static.plex.tv/epg/cms/production/3fbb9b2b-7f53-440d-8f41-6492fe676ea5/NATURE_TIMEWHITE_LOGO.png" group-title="05 - ANIMAUX & NATURE",Nature Time
-https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-6827c34ca5c6e573c6904444.m3u8?X-Plex-Token=rR6S4maWnQ49iDtuDANx
+https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-6827c34ca5c6e573c6904444/?X-Plex-Token=Ha_Pno3Pjk88bia1EmNh
 #EXTINF:-1 tvg-id="RadioTVBasseTerre.gp" tvg-logo="https://i.imgur.com/OvnRplq.png" group-title="05 - ANIMAUX & NATURE",Radio TV Basse-Terre (720p)
 https://vdo.ssl-stream.com:3412/stream/play.m3u8
 #EXTINF:-1 tvg-id="TraceUrban.fr@CaribbeanAndIndianOcean" tvg-logo="https://i.imgur.com/DLIbUMx.png" group-title="05 - ANIMAUX & NATURE",Trace Urban Caribbean and Indian Ocean (1080p)
@@ -246,17 +246,17 @@ https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-68b74890b5b4
 #EXTINF:-1 tvg-id="TV5MONDEChefs.fr" tvg-logo="https://psi.tv5monde.com/media/static/default/lives/tv5monde-chef.png" group-title="07 - CUISINE",TV5MONDE Chefs (1080p)
 https://tvf-tv5ch.otteravision.com/tvf/tv5ch/tv5ch.m3u8
 #EXTINF:-1 channel-id="plex-63eecb32ac23d1ee072087cb" tvg-id="63eecb32ac23d1ee072087cb" tvg-name="123GO!" tvg-logo="https://provider-static.plex.tv/epg/cms/production/59623ed1-b641-4001-b634-b25e307c3c49/123GO_-_Jonathan_Shrank1500x1000.png" group-title="08 - MAISON BRICOLAGE DECO",123GO!
-https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-63eecb32ac23d1ee072087cb.m3u8?X-Plex-Token=rR6S4maWnQ49iDtuDANx
+https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-63eecb32ac23d1ee072087cb/?X-Plex-Token=Ha_Pno3Pjk88bia1EmNh
 #EXTINF:-1 channel-id="plex-63894c1965b848bf2c8a7800" tvg-id="63894c1965b848bf2c8a7800" tvg-name="5-Minute Crafts" tvg-logo="https://provider-static.plex.tv/epg/cms/production/52b33d5e-f48e-472d-896c-94759eccc1e4/5-Minute_Crafts_1500x1000_White.png" group-title="08 - MAISON BRICOLAGE DECO",5-Minute Crafts
-https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-63894c1965b848bf2c8a7800.m3u8?X-Plex-Token=rR6S4maWnQ49iDtuDANx
+https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-63894c1965b848bf2c8a7800/?X-Plex-Token=Ha_Pno3Pjk88bia1EmNh
 #EXTINF:-1 channel-id="plex-6365779dde08f8eec6c3f21f" tvg-id="6365779dde08f8eec6c3f21f" tvg-name="CraftsyTV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/7887d400-2355-41eb-9e9f-3ea13b3f949c/Craftsy_logo_color.png" group-title="08 - MAISON BRICOLAGE DECO",CraftsyTV
-https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-6365779dde08f8eec6c3f21f.m3u8?X-Plex-Token=rR6S4maWnQ49iDtuDANx
+https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-6365779dde08f8eec6c3f21f/?X-Plex-Token=Ha_Pno3Pjk88bia1EmNh
 #EXTINF:-1 channel-id="plex-67884bd6d37f2fd48d6220db" tvg-id="67884bd6d37f2fd48d6220db" tvg-name="Creator Television" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f33d90dc-14d4-4034-8959-30dac5ed085c/CTV-WHITE_PINK_4RDXx.png" group-title="08 - MAISON BRICOLAGE DECO",Creator Television
-https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-67884bd6d37f2fd48d6220db.m3u8?X-Plex-Token=rR6S4maWnQ49iDtuDANx
+https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-67884bd6d37f2fd48d6220db/?X-Plex-Token=Ha_Pno3Pjk88bia1EmNh
 #EXTINF:-1 channel-id="685a999bd33909bdd7d2fb1e" tvg-id="685a999bd33909bdd7d2fb1e" tvg-chno="806" tvg-name="La maison France 5" tvg-logo="https://images.pluto.tv/channels/685a999bd33909bdd7d2fb1e/colorLogoPNG_1751876562614.png" group-title="08 - MAISON BRICOLAGE DECO",La maison France 5
 https://jmp2.uk/plu-685a999bd33909bdd7d2fb1e.m3u8
 #EXTINF:-1 channel-id="plex-684c2379e32026b0c1f53793" tvg-id="684c2379e32026b0c1f53793" tvg-name="Million Dollar Dream Home" tvg-logo="https://provider-static.plex.tv/epg/cms/production/305dc437-2a99-4e98-a872-08ae23e102f6/MDDH_WHITE_-_Principal_MediaRDX__1_.png" group-title="08 - MAISON BRICOLAGE DECO",Million Dollar Dream Home
-https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-684c2379e32026b0c1f53793.m3u8?X-Plex-Token=rR6S4maWnQ49iDtuDANx
+https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-684c2379e32026b0c1f53793/?X-Plex-Token=Ha_Pno3Pjk88bia1EmNh
 #EXTINF:-1 channel-id="FR13000020W" tvg-id="FR13000020W" tvg-chno="4871" tvg-name="100% Cinema" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR13000020W_20260528T055246SQUARE.png" group-title="09 - CINEMA",100% Cinema
 https://jmp2.uk/stvp-FR13000020W
 #EXTINF:-1 channel-id="FR3600003DS" tvg-id="FR3600003DS" tvg-chno="4156" tvg-name="100% Comedy" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR3600003DS_20260127T040232SQUARE.png" group-title="09 - CINEMA",100% Comedy
