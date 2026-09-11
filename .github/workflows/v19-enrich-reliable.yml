@@ -1,0 +1,165 @@
+name: V19 enrichir playlist fiable FR
+
+on:
+  push:
+    paths:
+      - '.github/workflows/v19-enrich-reliable.yml'
+  workflow_dispatch:
+  schedule:
+    - cron: '27 4,16 * * *'
+
+permissions:
+  contents: write
+
+jobs:
+  enrich:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Installer ffmpeg
+        run: sudo apt-get update && sudo apt-get install -y ffmpeg
+
+      - name: Tester et enrichir les chaines francaises
+        run: |
+          python3 <<'PY'
+          from pathlib import Path
+          import concurrent.futures, csv, re, subprocess, time, unicodedata, urllib.request
+
+          UA='Mozilla/5.0 (compatible; playlist-fr-v19/1.0)'
+          SOURCES=[
+              ('IPTV-ORG France','https://iptv-org.github.io/iptv/countries/fr.m3u'),
+              ('IPTV-ORG Francais','https://iptv-org.github.io/iptv/languages/fra.m3u'),
+          ]
+          IMPORTANT=['TF1','FRANCE 2','FRANCE 3','FRANCE 4','FRANCE 5','M6','ARTE','LCI','CNEWS','BFM TV','TMC','TFX','W9','GULLI','RMC STORY','RMC DECOUVERTE','L EQUIPE']
+
+          def norm(s):
+              s=unicodedata.normalize('NFKD',s or '')
+              s=''.join(c for c in s if not unicodedata.combining(c)).upper()
+              s=s.replace('&',' ET ')
+              s=re.sub(r'\([^)]*\)|\[[^]]*\]',' ',s)
+              s=re.sub(r'\b(2160P|1080P|720P|576P|480P|4K|UHD|FHD|HD|SD)\b',' ',s)
+              s=re.sub(r'[^A-Z0-9]+',' ',s)
+              return re.sub(r'\s+',' ',s).strip()
+
+          def download(url):
+              req=urllib.request.Request(url,headers={'User-Agent':UA})
+              with urllib.request.urlopen(req,timeout=35) as r:
+                  return r.read().decode('utf-8','ignore')
+
+          def parse(text, source):
+              out=[]; ext=None; extras=[]
+              for raw in text.splitlines():
+                  line=raw.strip()
+                  if not line or line.startswith('#EXTM3U'): continue
+                  if line.startswith('#EXTINF:'):
+                      ext=line; extras=[]; continue
+                  if line.startswith('#'):
+                      if ext: extras.append(line)
+                      continue
+                  if ext and (line.startswith('http://') or line.startswith('https://')):
+                      attrs=dict(re.findall(r'([\w-]+)="([^"]*)"',ext))
+                      name=ext.split(',',1)[1].strip() if ',' in ext else attrs.get('tvg-name','Sans nom')
+                      out.append({
+                          'name':name,'url':line,'ext':ext,'extras':extras[:],
+                          'group':attrs.get('group-title',''),'tvg_id':attrs.get('tvg-id',''),
+                          'source':source
+                      })
+                      ext=None; extras=[]
+              return out
+
+          def probe_once(url):
+              cmd=['ffprobe','-v','error','-rw_timeout','9000000','-user_agent',UA,
+                   '-show_entries','stream=codec_type,width,height','-of','csv=p=0',url]
+              try:
+                  p=subprocess.run(cmd,stdout=subprocess.PIPE,stderr=subprocess.PIPE,text=True,timeout=13)
+                  out=(p.stdout or '').strip(); err=(p.stderr or '').strip().replace('\n',' ')[:220]
+                  ok=(p.returncode==0 and ('video' in out.lower() or 'audio' in out.lower()))
+                  return ok,out[:220],err
+              except subprocess.TimeoutExpired:
+                  return False,'','timeout'
+              except Exception as e:
+                  return False,'',str(e)[:220]
+
+          def probe(item):
+              ok1,info1,err1=probe_once(item['url'])
+              if not ok1: return item,False,info1,err1,'FAIL-1'
+              time.sleep(1)
+              ok2,info2,err2=probe_once(item['url'])
+              if not ok2: return item,False,info2,err2,'FAIL-2'
+              return item,True,info2,'','OK-2X'
+
+          candidates=[]
+          # La playlist principale contient deja beaucoup de chaines et sert aussi de reservoir.
+          if Path('playlist.m3u').exists():
+              candidates += parse(Path('playlist.m3u').read_text(encoding='utf-8',errors='ignore'),'playlist.m3u')
+          # Conserver les entrees actuellement fiables comme candidates, mais les retester.
+          if Path('playlist-reliable.m3u').exists():
+              candidates += parse(Path('playlist-reliable.m3u').read_text(encoding='utf-8',errors='ignore'),'playlist-reliable.m3u')
+          for label,url in SOURCES:
+              try:
+                  candidates += parse(download(url),label)
+              except Exception as e:
+                  print('WARN SOURCE',label,e)
+
+          # Dedoublonnage strict par URL avant tests.
+          uniq=[]; seen_urls=set()
+          for c in candidates:
+              if c['url'] in seen_urls: continue
+              seen_urls.add(c['url']); uniq.append(c)
+
+          print('CANDIDATS',len(uniq))
+          results=[]
+          with concurrent.futures.ThreadPoolExecutor(max_workers=24) as ex:
+              for r in ex.map(probe,uniq): results.append(r)
+
+          oks=[r[0] for r in results if r[1]]
+          # Pour un meme nom, conserver plusieurs variantes seulement si URLs distinctes,
+          # mais preferer d'abord la source France puis les entrees existantes.
+          priority={'IPTV-ORG France':0,'playlist-reliable.m3u':1,'playlist.m3u':2,'IPTV-ORG Francais':3}
+          oks.sort(key=lambda x:(norm(x['name']),priority.get(x['source'],9),x['url']))
+
+          final=[]; per_name={}
+          for c in oks:
+              key=norm(c['name']) or c['url']
+              n=per_name.get(key,0)
+              # Jusqu'a 2 flux fiables par chaine afin de garder un secours sans saturer TiviMate.
+              if n>=2: continue
+              per_name[key]=n+1
+              final.append(c)
+
+          header='#EXTM3U url-tvg="https://raw.githubusercontent.com/juliebgh/playlist-fr/main/epg.xml.gz"'
+          out=[header]
+          for c in final:
+              ext=c['ext']
+              # Normaliser les groupes vides pour rendre TiviMate lisible.
+              if 'group-title=' not in ext:
+                  grp='FR - STREAMING / FAST' if c['source']=='IPTV-ORG Francais' else 'FR - AUTRES'
+                  ext=ext.replace('#EXTINF:',f'#EXTINF: group-title="{grp}" ',1)
+              out.append(ext); out.extend(c['extras']); out.append(c['url'])
+          Path('playlist-reliable.m3u').write_text('\n'.join(out)+'\n',encoding='utf-8')
+
+          with open('v19-report.csv','w',newline='',encoding='utf-8') as f:
+              w=csv.writer(f); w.writerow(['name','status','source','url','info','error'])
+              for item,ok,info,err,status in results:
+                  w.writerow([item['name'],status,item['source'],item['url'],info,err])
+
+          available={norm(c['name']) for c in final}
+          missing=[]
+          for x in IMPORTANT:
+              nx=norm(x)
+              if not any(nx==a or nx in a or a in nx for a in available): missing.append(x)
+          Path('v19-missing-important.txt').write_text('\n'.join(missing)+'\n',encoding='utf-8')
+          print('FIABLES',len(final),'NOMS',len(per_name))
+          print('IMPORTANTES_ABSENTES',', '.join(missing) if missing else 'AUCUNE')
+          PY
+
+      - name: Commit resultat
+        run: |
+          git config user.name "playlist-fr-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add playlist-reliable.m3u v19-report.csv v19-missing-important.txt
+          git diff --cached --quiet || git commit -m "V19 enrichit playlist fiable FR apres double test"
+          git pull --rebase origin main
+          git push origin main
