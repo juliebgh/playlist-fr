@@ -10,7 +10,8 @@ FAIL | 01 - TNT & GENERALISTES | like Gecko) Chrome/149.0.0.0 Safari/537.36" gro
 403 | 01 - TNT & GENERALISTES | TFX (720p)
 FAIL | 01 - TNT & GENERALISTES | TVM 3 (1080p)
 403 | 01 - TNT & GENERALISTES | W9 (1080p)
-TIMEOUT | 02 - INFOS | Haiti News Channel (1080p) [Not 24/7]
+403 | 02 - INFOS | CNA (360p) [Not 24/7]
+FAIL | 02 - INFOS | CNews (1080p)
 403 | 02 - INFOS | LCI HD (1080p)
 403 | 02 - INFOS | like Gecko) Chrome/108.0.0.0 Safari/537.36" group-title="02 - INFOS",BFM Alsace (1080p)
 403 | 02 - INFOS | like Gecko) Chrome/108.0.0.0 Safari/537.36" group-title="02 - INFOS",BFM DICI Alpes du Sud (1080p)
@@ -24,10 +25,11 @@ TIMEOUT | 02 - INFOS | Haiti News Channel (1080p) [Not 24/7]
 403 | 02 - INFOS | like Gecko) Chrome/108.0.0.0 Safari/537.36" group-title="02 - INFOS",BFM Tech & Co (1080p)
 403 | 02 - INFOS | like Gecko) Chrome/108.0.0.0 Safari/537.36" group-title="02 - INFOS",BFM Toulon Var (1080p)
 403 | 02 - INFOS | NW Info FR (576p)
-TIMEOUT | 02 - INFOS | Press TV French (1080p)
+FAIL | 02 - INFOS | Press TV French (1080p)
 404 | 03 - CRIME & ENQUETES | Crime Scene TV
 404 | 04 - REPORTAGES & DOCS | Documentary+
 FAIL | 04 - REPORTAGES & DOCS | Evasion TV
+FAIL | 04 - REPORTAGES & DOCS | Popular Science
 404 | 04 - REPORTAGES & DOCS | Stingray Naturescape
 404 | 04 - REPORTAGES & DOCS | TV5MONDE Voyage
 403 | 05 - ANIMAUX & NATURE | Ici Radio-Canada Télé Terre-Neuve-et-Labrador (CBAFT-DT) [Geo-blocked]
@@ -37,7 +39,6 @@ FAIL | 06 - VOYAGE & DECOUVERTE | TV5Monde Asia (1080p)
 403 | 06 - VOYAGE & DECOUVERTE | TV5Monde Info (1080p) [Geo-blocked]
 404 | 06 - VOYAGE & DECOUVERTE | TV5Monde Latin America (720p)
 403 | 06 - VOYAGE & DECOUVERTE | TV5Monde Pacifique (1080p) [Geo-blocked]
-TIMEOUT | 06 - VOYAGE & DECOUVERTE | TV5Monde Style (1080p) [Geo-blocked]
 404 | 07 - CUISINE | Cooking Panda
 404 | 07 - CUISINE | TV5MONDE Chefs
 404 | 09 - CINEMA | Action Totale
@@ -67,6 +68,7 @@ FAIL | 09 - CINEMA | The Wiggles
 404 | 09 - CINEMA & SERIES | Novela Channel (720p) [Not 24/7]
 403 | 09 - CINEMA & SERIES | RTL9 (720p)
 403 | 09 - CINEMA & SERIES | TV Breizh (1080p)
+TIMEOUT | 09 - CINEMA & SERIES | Zylo Emotion' L (1080p)
 FAIL | 10 - SERIES | Asian Drama
 404 | 10 - SERIES | Génération Sitcoms TV
 403 | 10 - SERIES | Serie Club (720p)
@@ -115,6 +117,7 @@ TIMEOUT | 14 - MUSIQUE | Radio Télé Amen FM (360p) [Not 24/7]
 FAIL | 14 - MUSIQUE | RFM TV [Not 24/7]
 404 | 15 - CULTURE | TeleMusik Senegal (720p)
 FAIL | 16 - LIFESTYLE & BIEN-ETRE | FashionTV
+404 | 16 - LIFESTYLE & BIEN-ETRE | Le Nouveau Manager TV
 TIMEOUT | 16 - LIFESTYLE & BIEN-ETRE | Luxe TV (1080p)
 FAIL | 17 - SPIRITUALITE | Dynamic Gospel TV (480p) [Not 24/7]
 403 | 17 - SPIRITUALITE | Ecclesia TV
@@ -232,6 +235,7 @@ FAIL | 20 - SUISSE FR | Stingray Hot Country
 404 | 20 - SUISSE FR | Stingray Karaoke
 FAIL | 20 - SUISSE FR | Stingray Soul Storm
 FAIL | 20 - SUISSE FR | Strongman Champions
+TIMEOUT | 20 - SUISSE FR | Tennis+
 FAIL | 20 - SUISSE FR | The Bob Ross Channel
 FAIL | 20 - SUISSE FR | The Bold and the Beautiful
 FAIL | 20 - SUISSE FR | The Carol Burnett Show
@@ -297,6 +301,7 @@ FAIL | 24 - OUTRE-MER & CARAIBES | ViàATV (1080p) [Geo-blocked]
 403 | 25 - AFRIQUE FRANCOPHONE | Afrique Media (720p)
 403 | 25 - AFRIQUE FRANCOPHONE | Afrique54 TV (720p)
 TIMEOUT | 25 - AFRIQUE FRANCOPHONE | Amani TV (1080p) [Not 24/7]
+404 | 25 - AFRIQUE FRANCOPHONE | Baraka Television (720p) [Not 24/7]
 FAIL | 25 - AFRIQUE FRANCOPHONE | Bénin Web TV (720p)
 403 | 25 - AFRIQUE FRANCOPHONE | CRTV (576p)
 TIMEOUT | 25 - AFRIQUE FRANCOPHONE | Digital Congo TV
@@ -311,6 +316,7 @@ TIMEOUT | 25 - AFRIQUE FRANCOPHONE | RTNC 3
 403 | 25 - AFRIQUE FRANCOPHONE | Saraounia TV
 TIMEOUT | 25 - AFRIQUE FRANCOPHONE | Télé Congo (720p)
 403 | 25 - AFRIQUE FRANCOPHONE | Tele Tchad (1080p)
+404 | 25 - AFRIQUE FRANCOPHONE | TVC Bénin (720p)
 404 | 31 - PLUTO TV FR | Avatar
 TIMEOUT | 32 - SAMSUNG TV PLUS FR | Dhar Mann TV
 TIMEOUT | 32 - SAMSUNG TV PLUS FR | Red Bull TV
@@ -337,6 +343,7 @@ TIMEOUT | 40 - AUTRES FRANCOPHONES | Tele Haiti (1088p) [Not 24/7]
 403 | 40 - AUTRES FRANCOPHONES | TNH (720p)
 403 | 40 - AUTRES FRANCOPHONES | Trends Z (1080p)
 TIMEOUT | 40 - AUTRES FRANCOPHONES | Türkmenistan (406p) [Not 24/7]
+TIMEOUT | 40 - AUTRES FRANCOPHONES | TV Famille (720p)
 403 | 40 - AUTRES FRANCOPHONES | TV Lux (1080p)
 404 | 40 - AUTRES FRANCOPHONES | TVT (720p) [Not 24/7]
 FAIL | 99 - A VERIFIER LANGUE | AC TV (480p) [Not 24/7]
@@ -346,6 +353,7 @@ FAIL | 99 - A VERIFIER LANGUE | AC TV (480p) [Not 24/7]
 404 | 99 - A VERIFIER LANGUE | Dega TV (720p) [Not 24/7]
 403 | 99 - A VERIFIER LANGUE | GTV (540p)
 TIMEOUT | 99 - A VERIFIER LANGUE | HC2 TV
+TIMEOUT | 99 - A VERIFIER LANGUE | Laura Dave Media TV (720p)
 404 | 99 - A VERIFIER LANGUE | LBFD RTV (1080p)
 TIMEOUT | 99 - A VERIFIER LANGUE | Mikuba TV (480p) [Not 24/7]
 TIMEOUT | 99 - A VERIFIER LANGUE | NETALKOLE TV (720p) [Not 24/7]
