@@ -4,4 +4,3 @@ ARTE
 LCI
 TFX
 W9
-GULLI
