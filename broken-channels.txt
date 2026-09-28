@@ -5,7 +5,6 @@ FAIL | 01 - TNT & GENERALISTES | Clubbing TV France
 TIMEOUT | 01 - TNT & GENERALISTES | France 4
 403 | 01 - TNT & GENERALISTES | France 5 (720p)
 TIMEOUT | 01 - TNT & GENERALISTES | like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="01 - TNT & GENERALISTES",France 3
-TIMEOUT | 01 - TNT & GENERALISTES | like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="01 - TNT & GENERALISTES",M6 (1080p)
 404 | 01 - TNT & GENERALISTES | like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="01 - TNT & GENERALISTES",TF1 (576p)
 403 | 01 - TNT & GENERALISTES | M6 Music (720p)
 403 | 01 - TNT & GENERALISTES | TFX (720p)
@@ -13,7 +12,6 @@ FAIL | 01 - TNT & GENERALISTES | TVM 3 (1080p)
 403 | 01 - TNT & GENERALISTES | W9 (1080p)
 TIMEOUT | 02 - INFOS | Africanews French (720p)
 403 | 02 - INFOS | CNA (360p) [Not 24/7]
-TIMEOUT | 02 - INFOS | CNews (1080p)
 403 | 02 - INFOS | LCI HD (1080p)
 403 | 02 - INFOS | like Gecko) Chrome/108.0.0.0 Safari/537.36" group-title="02 - INFOS",BFM Alsace (1080p)
 403 | 02 - INFOS | like Gecko) Chrome/108.0.0.0 Safari/537.36" group-title="02 - INFOS",BFM DICI Alpes du Sud (1080p)
@@ -26,9 +24,10 @@ TIMEOUT | 02 - INFOS | CNews (1080p)
 403 | 02 - INFOS | like Gecko) Chrome/108.0.0.0 Safari/537.36" group-title="02 - INFOS",BFM Normandie (1080p)
 403 | 02 - INFOS | like Gecko) Chrome/108.0.0.0 Safari/537.36" group-title="02 - INFOS",BFM Tech & Co (1080p)
 403 | 02 - INFOS | like Gecko) Chrome/108.0.0.0 Safari/537.36" group-title="02 - INFOS",BFM Toulon Var (1080p)
+404 | 02 - INFOS | Monaco Info (1080p)
 403 | 02 - INFOS | NW Info FR (576p)
+TIMEOUT | 02 - INFOS | Press TV French (1080p)
 404 | 03 - CRIME & ENQUETES | Crime Scene TV
-TIMEOUT | 04 - REPORTAGES & DOCS | Docs & enquêtes by Society+
 404 | 04 - REPORTAGES & DOCS | Documentary+
 FAIL | 04 - REPORTAGES & DOCS | Evasion TV
 404 | 04 - REPORTAGES & DOCS | Stingray Naturescape
@@ -44,6 +43,7 @@ TIMEOUT | 06 - VOYAGE & DECOUVERTE | TV5Monde Latin America (720p)
 TIMEOUT | 06 - VOYAGE & DECOUVERTE | TV5Monde Style (1080p) [Geo-blocked]
 404 | 07 - CUISINE | Cooking Panda
 404 | 07 - CUISINE | TV5MONDE Chefs
+FAIL | 08 - MAISON BRICOLAGE DECO | Creator Television
 404 | 09 - CINEMA | Action Totale
 TIMEOUT | 09 - CINEMA | Box Office Action
 404 | 09 - CINEMA | Ciné Charme by Pluto TV
@@ -52,7 +52,6 @@ TIMEOUT | 09 - CINEMA | Box Office Action
 FAIL | 09 - CINEMA | Death Valley Days
 FAIL | 09 - CINEMA | Dick Van Dyke
 404 | 09 - CINEMA | FilmRise Série Populaire
-TIMEOUT | 09 - CINEMA | Films Romantiques - Rakuten TV
 FAIL | 09 - CINEMA | Grjngo - Western Movies
 FAIL | 09 - CINEMA | Hot Ones
 TIMEOUT | 09 - CINEMA | like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="09 - CINEMA",Cine+ Classic
@@ -74,8 +73,8 @@ TIMEOUT | 09 - CINEMA & SERIES | like Gecko) Chrome/149.0.0.0 Safari/537.3" grou
 403 | 09 - CINEMA & SERIES | Nollywood TV (720p)
 404 | 09 - CINEMA & SERIES | Novela Channel (720p) [Not 24/7]
 403 | 09 - CINEMA & SERIES | RTL9 (720p)
+404 | 09 - CINEMA & SERIES | SciFi (720p)
 403 | 09 - CINEMA & SERIES | TV Breizh (1080p)
-TIMEOUT | 09 - CINEMA & SERIES | Zylo ScreamIN (1080p)
 FAIL | 10 - SERIES | Asian Drama
 404 | 10 - SERIES | Génération Sitcoms TV
 403 | 10 - SERIES | Serie Club (720p)
@@ -84,7 +83,6 @@ FAIL | 10 - SERIES | Asian Drama
 FAIL | 11 - EMISSIONS & DIVERTISSEMENT | Animation+
 TIMEOUT | 11 - EMISSIONS & DIVERTISSEMENT | Boss Brothers TV (1080p)
 TIMEOUT | 11 - EMISSIONS & DIVERTISSEMENT | ICONE TV
-404 | 11 - EMISSIONS & DIVERTISSEMENT | SenJeunes TV (480p) [Not 24/7]
 404 | 11 - EMISSIONS & DIVERTISSEMENT | TG Junior
 TIMEOUT | 12 - SPORT | Equidia (1080p)
 403 | 12 - SPORT | Foot+
@@ -119,20 +117,17 @@ FAIL | 14 - MUSIQUE | Museum TV [Geo-blocked]
 FAIL | 14 - MUSIQUE | NRJ Hits
 404 | 14 - MUSIQUE | Qello Concerts
 FAIL | 14 - MUSIQUE | Radio Contact (1080p)
-404 | 14 - MUSIQUE | Radio Télé 4VEH (720p)
 TIMEOUT | 14 - MUSIQUE | Radio Télé Amen FM (360p) [Not 24/7]
+TIMEOUT | 14 - MUSIQUE | Radio Télé Hit (480p)
 404 | 14 - MUSIQUE | Radio Télé Kajou (480p) [Not 24/7]
 404 | 14 - MUSIQUE | Radio Tele Planet Compas (720p) [Not 24/7]
-404 | 14 - MUSIQUE | Radio Tele Sentinel
 404 | 14 - MUSIQUE | Radio Télé Wisdom (360p) [Not 24/7]
 404 | 14 - MUSIQUE | Radio Télévision Shilo (720p) [Not 24/7]
 404 | 15 - CULTURE | TeleMusik Senegal (720p)
 FAIL | 16 - LIFESTYLE & BIEN-ETRE | FashionTV
-TIMEOUT | 16 - LIFESTYLE & BIEN-ETRE | Le Nouveau Manager TV
 TIMEOUT | 16 - LIFESTYLE & BIEN-ETRE | Luxe TV (1080p)
 FAIL | 17 - SPIRITUALITE | Dynamic Gospel TV (480p) [Not 24/7]
 403 | 17 - SPIRITUALITE | Ecclesia TV
-TIMEOUT | 17 - SPIRITUALITE | Iqraa Africa & Europe (1080p)
 TIMEOUT | 17 - SPIRITUALITE | Iqraa Quran (1080p)
 403 | 17 - SPIRITUALITE | KTO (504p)
 403 | 17 - SPIRITUALITE | Miracle TV+ (720p)
@@ -198,12 +193,30 @@ FAIL | 20 - SUISSE FR | Johnny Carson TV
 FAIL | 20 - SUISSE FR | Judge Nosey
 FAIL | 20 - SUISSE FR | Just For Laughs Gags
 404 | 20 - SUISSE FR | Kidoodle TV
+FAIL | 20 - SUISSE FR | Legacy
 403 | 20 - SUISSE FR | Léman Bleu (1080p)
 404 | 20 - SUISSE FR | Les filles d’à côtés TV
 404 | 20 - SUISSE FR | Life Down Under
+FAIL | 20 - SUISSE FR | Lone Star
+FAIL | 20 - SUISSE FR | Lucha Plus
+FAIL | 20 - SUISSE FR | Made In Hollywood
 403 | 20 - SUISSE FR | Metal.Rocks
+FAIL | 20 - SUISSE FR | Monster Jam
+FAIL | 20 - SUISSE FR | More U
 404 | 20 - SUISSE FR | MOTUS La Chaine
+FAIL | 20 - SUISSE FR | Newsmax2
 404 | 20 - SUISSE FR | NewsWorld
+FAIL | 20 - SUISSE FR | NHRA TV
+FAIL | 20 - SUISSE FR | Nolly Africa HD
+FAIL | 20 - SUISSE FR | Nosey
+FAIL | 20 - SUISSE FR | Nosey Escándalos
+FAIL | 20 - SUISSE FR | Nothin' But 90s
+FAIL | 20 - SUISSE FR | Novelisima
+FAIL | 20 - SUISSE FR | Operation Repo
+FAIL | 20 - SUISSE FR | Pac-12 Insider
+FAIL | 20 - SUISSE FR | PeliMex
+FAIL | 20 - SUISSE FR | People are Awesome
+FAIL | 20 - SUISSE FR | PFL MMA
 FAIL | 20 - SUISSE FR | PickleTV
 404 | 20 - SUISSE FR | Pitufo TV
 404 | 20 - SUISSE FR | PLL Network
@@ -234,6 +247,7 @@ FAIL | 20 - SUISSE FR | Stingray Hot Country
 404 | 20 - SUISSE FR | Stingray Karaoke
 FAIL | 20 - SUISSE FR | Stingray Soul Storm
 FAIL | 20 - SUISSE FR | Strongman Champions
+TIMEOUT | 20 - SUISSE FR | Tennis+
 FAIL | 20 - SUISSE FR | The Bob Ross Channel
 FAIL | 20 - SUISSE FR | The Bold and the Beautiful
 FAIL | 20 - SUISSE FR | The Carol Burnett Show
@@ -293,6 +307,7 @@ TIMEOUT | 23 - FRANCE REGIONS | Puissance TV
 403 | 23 - FRANCE REGIONS | viàMoselleTV (720p) [Not 24/7]
 FAIL | 23 - FRANCE REGIONS | viàOccitanie (540p) [Not 24/7]
 TIMEOUT | 24 - OUTRE-MER & CARAIBES | Antenne Réunion (720p) [Not 24/7]
+TIMEOUT | 24 - OUTRE-MER & CARAIBES | Télé Péyi (720p)
 FAIL | 24 - OUTRE-MER & CARAIBES | TNTV (1080p)
 404 | 24 - OUTRE-MER & CARAIBES | TVCARiB (720p) [Not 24/7]
 FAIL | 24 - OUTRE-MER & CARAIBES | ViàATV (1080p) [Geo-blocked]
@@ -301,8 +316,8 @@ FAIL | 24 - OUTRE-MER & CARAIBES | ViàATV (1080p) [Geo-blocked]
 403 | 25 - AFRIQUE FRANCOPHONE | Afrique Media (720p)
 403 | 25 - AFRIQUE FRANCOPHONE | Afrique54 TV (720p)
 TIMEOUT | 25 - AFRIQUE FRANCOPHONE | Amani TV (1080p) [Not 24/7]
-404 | 25 - AFRIQUE FRANCOPHONE | Baraka Television (720p) [Not 24/7]
 FAIL | 25 - AFRIQUE FRANCOPHONE | Bénin Web TV (720p)
+404 | 25 - AFRIQUE FRANCOPHONE | Canaf54 TV
 403 | 25 - AFRIQUE FRANCOPHONE | CRTV (576p)
 TIMEOUT | 25 - AFRIQUE FRANCOPHONE | Digital Congo TV
 404 | 25 - AFRIQUE FRANCOPHONE | Exploits TV
@@ -311,17 +326,16 @@ TIMEOUT | 25 - AFRIQUE FRANCOPHONE | Impact TV
 404 | 25 - AFRIQUE FRANCOPHONE | KassouaTV (720p)
 404 | 25 - AFRIQUE FRANCOPHONE | Kemet TV
 TIMEOUT | 25 - AFRIQUE FRANCOPHONE | Kin24
+404 | 25 - AFRIQUE FRANCOPHONE | Louga TV (480p)
 403 | 25 - AFRIQUE FRANCOPHONE | NTV Afrique (1080p) [Not 24/7]
 TIMEOUT | 25 - AFRIQUE FRANCOPHONE | ORTM 1 (540p) [Not 24/7]
+TIMEOUT | 25 - AFRIQUE FRANCOPHONE | RTB (360p) [Not 24/7]
 TIMEOUT | 25 - AFRIQUE FRANCOPHONE | RTNC 3
 403 | 25 - AFRIQUE FRANCOPHONE | Saraounia TV
-TIMEOUT | 25 - AFRIQUE FRANCOPHONE | Savane TV
 TIMEOUT | 25 - AFRIQUE FRANCOPHONE | Télé Congo (720p)
-TIMEOUT | 25 - AFRIQUE FRANCOPHONE | Tele Sahel (1080p)
 403 | 25 - AFRIQUE FRANCOPHONE | Tele Tchad (1080p)
 404 | 31 - PLUTO TV FR | Avatar
 TIMEOUT | 32 - SAMSUNG TV PLUS FR | Dhar Mann TV
-TIMEOUT | 32 - SAMSUNG TV PLUS FR | Quantum Makers
 TIMEOUT | 32 - SAMSUNG TV PLUS FR | Red Bull TV
 403 | 32 - SAMSUNG TV PLUS FR | Rookie Blue
 FAIL | 32 - SAMSUNG TV PLUS FR | Sony One Blacklist
@@ -329,6 +343,7 @@ FAIL | 32 - SAMSUNG TV PLUS FR | Sony One Favoris
 403 | 32 - SAMSUNG TV PLUS FR | Top Barça
 TIMEOUT | 40 - AUTRES FRANCOPHONES | Antenne A
 403 | 40 - AUTRES FRANCOPHONES | Canal 3
+404 | 40 - AUTRES FRANCOPHONES | Ev-tele (720p)
 TIMEOUT | 40 - AUTRES FRANCOPHONES | Natural TV (720p) [Not 24/7]
 403 | 40 - AUTRES FRANCOPHONES | NW Economie (576p)
 403 | 40 - AUTRES FRANCOPHONES | NW Magazine (576p)
