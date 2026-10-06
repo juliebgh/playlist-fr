@@ -26,18 +26,24 @@ LCI HD (1080p),02 - INFOS,403,http://145.239.5.177/368/index.m3u8
 "like Gecko) Chrome/108.0.0.0 Safari/537.36"" group-title=""02 - INFOS"",BFM Tech & Co (1080p)",02 - INFOS,403,https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TECHANDCO/index.m3u8?end=END&start=LIVE
 "like Gecko) Chrome/108.0.0.0 Safari/537.36"" group-title=""02 - INFOS"",BFM Toulon Var (1080p)",02 - INFOS,403,https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TOULONVAR/index.m3u8?end=END&start=LIVE
 NW Info FR (576p),02 - INFOS,403,https://hls.newworldtv.com/nw-info/video/live.m3u8
+Press TV French (1080p),02 - INFOS,TIMEOUT,https://live4.presstv.ir/live/smil:presstvfr.smil/playlist.m3u8
 Crime Beat TV,03 - CRIME & ENQUETES,404,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-68c98e7460586565cc56baab/?X-Plex-Token=MQj5gsQsF79CdBy-xJez
-Crime Scene TV,03 - CRIME & ENQUETES,404,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-685f150c593aba51f211823f/?X-Plex-Token=b8ucL7rmMCcw3eku1ZXn
+Crime Scene TV,03 - CRIME & ENQUETES,404,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-685f150c593aba51f211823f/?X-Plex-Token=YmWA29qqrm_RsAzHctJw
+Enquêtes Criminelles,03 - CRIME & ENQUETES,403,https://jmp2.uk/plu-66f55d0b5e4a6e0008c2b920.m3u8
+Enquêtes de Choc,03 - CRIME & ENQUETES,403,https://jmp2.uk/plu-63921a1bf76e7d0007c998a6.m3u8
+Investigation by Pluto TV,03 - CRIME & ENQUETES,403,https://jmp2.uk/plu-6683cd2fca74680008772545.m3u8
+Pluto TV Brigade Criminelle,03 - CRIME & ENQUETES,403,https://jmp2.uk/plu-684bf01df7d8b74b625b7dd1.m3u8
+True Crime by Pluto TV,03 - CRIME & ENQUETES,403,https://jmp2.uk/plu-5f914f4b36d67d0007a91a04.m3u8
 Culture Pub,04 - REPORTAGES & DOCS,404,https://jmp2.uk/stvp-FRBD110000181
-Documentary+,04 - REPORTAGES & DOCS,404,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-614e286b2bac097ffd6fd6ab/?X-Plex-Token=b8ucL7rmMCcw3eku1ZXn
+Documentary+,04 - REPORTAGES & DOCS,404,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-614e286b2bac097ffd6fd6ab/?X-Plex-Token=YmWA29qqrm_RsAzHctJw
 Evasion TV,04 - REPORTAGES & DOCS,FAIL,https://kali.vdopanel.com:3788/hybrid/play.m3u8
-RMC Découverte,04 - REPORTAGES & DOCS,TIMEOUT,https://jmp2.uk/stvp-FRBD4100008QS
-Stingray Naturescape,04 - REPORTAGES & DOCS,404,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-62fbf36c1567211fdb82e920/?X-Plex-Token=b8ucL7rmMCcw3eku1ZXn
-TV5MONDE Voyage,04 - REPORTAGES & DOCS,404,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-68b74a235dc5413c905efd62/?X-Plex-Token=b8ucL7rmMCcw3eku1ZXn
-Cap Terre,05 - ANIMAUX & NATURE,TIMEOUT,https://jmp2.uk/stvp-FRBC3900004DS
+Pluto TV Animaux,04 - REPORTAGES & DOCS,403,https://jmp2.uk/plu-60925a44f0350600075a1fdc.m3u8
+Pluto TV Histoire (720p),04 - REPORTAGES & DOCS,403,https://jmp2.uk/plu-611e771e2f5f180007002224.m3u8
+Stingray Naturescape,04 - REPORTAGES & DOCS,404,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-62fbf36c1567211fdb82e920/?X-Plex-Token=YmWA29qqrm_RsAzHctJw
+TV5MONDE Voyage,04 - REPORTAGES & DOCS,404,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-68b74a235dc5413c905efd62/?X-Plex-Token=YmWA29qqrm_RsAzHctJw
+Voyages & Saveurs,04 - REPORTAGES & DOCS,403,https://jmp2.uk/plu-680291e38e1ff89c2427aefd.m3u8
 Ici Radio-Canada Télé Terre-Neuve-et-Labrador (CBAFT-DT) [Geo-blocked],05 - ANIMAUX & NATURE,403,https://rcavlive.akamaized.net/hls/live/704014/cancbaft/master.m3u8
-Nature Time,05 - ANIMAUX & NATURE,404,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-6827c34ca5c6e573c6904444/?X-Plex-Token=b8ucL7rmMCcw3eku1ZXn
-Trace Urban Caribbean and Indian Ocean (1080p),05 - ANIMAUX & NATURE,FAIL,https://channels.trace.plus/Traceprod/URBAN_DOM_hd/index.m3u8
+Nature Time,05 - ANIMAUX & NATURE,404,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-6827c34ca5c6e573c6904444/?X-Plex-Token=YmWA29qqrm_RsAzHctJw
 Le Monde en 24h,06 - VOYAGE & DECOUVERTE,404,https://stream.berosat.live/hls/monde24h-tv-index/monde24h-tv-index.m3u8
 MDL (720p),06 - VOYAGE & DECOUVERTE,TIMEOUT,http://tv.mondeduloisir.fr:1935/tixtv/smil:web.smil/playlist.m3u8
 TiVi5 Monde [Geo-blocked],06 - VOYAGE & DECOUVERTE,403,https://ott.tv5monde.com/Content/HLS/Live/channel(tivi5)/variant.m3u8
@@ -46,58 +52,90 @@ TV5Monde Info (1080p) [Geo-blocked],06 - VOYAGE & DECOUVERTE,403,https://ott.tv5
 TV5Monde Latin America (720p),06 - VOYAGE & DECOUVERTE,TIMEOUT,http://45.162.231.38:7779/TV5_Monde/index.m3u8
 TV5Monde Pacifique (1080p) [Geo-blocked],06 - VOYAGE & DECOUVERTE,403,https://ott.tv5monde.com/Content/HLS/Live/channel(pacifique)/variant.m3u8
 TV5Monde Style (1080p) [Geo-blocked],06 - VOYAGE & DECOUVERTE,TIMEOUT,https://ott.tv5monde.com/Content/HLS/Live/channel(style1)/variant.m3u8
-Cooking Panda,07 - CUISINE,404,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-5f07e9fdf313eb0041bbecda/?X-Plex-Token=b8ucL7rmMCcw3eku1ZXn
-TV5MONDE Chefs,07 - CUISINE,404,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-68b74890b5b437bf872b6b72/?X-Plex-Token=b8ucL7rmMCcw3eku1ZXn
+Cooking Panda,07 - CUISINE,404,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-5f07e9fdf313eb0041bbecda/?X-Plex-Token=YmWA29qqrm_RsAzHctJw
+TV5MONDE Chefs,07 - CUISINE,404,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-68b74890b5b437bf872b6b72/?X-Plex-Token=YmWA29qqrm_RsAzHctJw
+La maison France 5,08 - MAISON BRICOLAGE DECO,403,https://jmp2.uk/plu-685a999bd33909bdd7d2fb1e.m3u8
 Action Totale,09 - CINEMA,404,https://jmp2.uk/stvp-FR220000105
-Box Office Action,09 - CINEMA,TIMEOUT,https://jmp2.uk/stvp-FR370000288
+Allociné,09 - CINEMA,403,https://jmp2.uk/plu-6618e3037bcd8600089b62a8.m3u8
+Box Office Action,09 - CINEMA,FAIL,https://jmp2.uk/stvp-FR370000288
+Ciné 666 by Pluto TV,09 - CINEMA,403,https://jmp2.uk/plu-6823648580b2665220d9e69a.m3u8
+Ciné Action by Pluto TV,09 - CINEMA,403,https://jmp2.uk/plu-5f8ed1ff5c39700007e2204a.m3u8
+Ciné by Pluto TV,09 - CINEMA,403,https://jmp2.uk/plu-5f8ed0f17564a300082b676a.m3u8
+Ciné Catastrophe by Pluto TV,09 - CINEMA,403,https://jmp2.uk/plu-65a69ef53af63d000825e0ee.m3u8
 Ciné Charme by Pluto TV,09 - CINEMA,404,https://jmp2.uk/plu-6a31608fac88749b9cb85dd8.m3u8
+Ciné d'Asie by Pluto TV,09 - CINEMA,403,https://jmp2.uk/plu-62f3e2d000418d00070f7dbc.m3u8
 Cine+ Emotion (720p),09 - CINEMA,403,http://145.239.5.177/337/index.m3u8
-CINEPRIDE,09 - CINEMA,404,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-62167144ab2095ca85353ad6/?X-Plex-Token=b8ucL7rmMCcw3eku1ZXn
-FilmRise Série Populaire,09 - CINEMA,404,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-65e9d0ad8fe4ef7053c3c870/?X-Plex-Token=b8ucL7rmMCcw3eku1ZXn
-Grjngo - Western Movies,09 - CINEMA,FAIL,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-63489a771159f6a5ce819b7b/?X-Plex-Token=b8ucL7rmMCcw3eku1ZXn
-Hot Ones,09 - CINEMA,FAIL,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-6582a1316b91be4547aa153c/?X-Plex-Token=b8ucL7rmMCcw3eku1ZXn
+Ciné Horreur by Pluto TV,09 - CINEMA,403,https://jmp2.uk/plu-66e1978babec540008ce41ac.m3u8
+Ciné Rétro by Pluto TV,09 - CINEMA,403,https://jmp2.uk/plu-5f8ed168f72fcd0007e56269.m3u8
+Ciné Romance by Pluto TV,09 - CINEMA,403,https://jmp2.uk/plu-60812fc8539963000707d1e1.m3u8
+Ciné Sci-Fi by Pluto TV,09 - CINEMA,403,https://jmp2.uk/plu-60c34592c911890007f29a73.m3u8
+Ciné Thrillers by Pluto TV,09 - CINEMA,403,https://jmp2.uk/plu-60c3472a51a2050008dad272.m3u8
+Ciné Western by Pluto TV,09 - CINEMA,403,https://jmp2.uk/plu-65cca3e2ec452d0008af3a65.m3u8
+CINEPRIDE,09 - CINEMA,404,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-62167144ab2095ca85353ad6/?X-Plex-Token=YmWA29qqrm_RsAzHctJw
+FilmRise Série Populaire,09 - CINEMA,404,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-65e9d0ad8fe4ef7053c3c870/?X-Plex-Token=YmWA29qqrm_RsAzHctJw
+Grjngo - Western Movies,09 - CINEMA,FAIL,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-63489a771159f6a5ce819b7b/?X-Plex-Token=YmWA29qqrm_RsAzHctJw
+Hot Ones,09 - CINEMA,FAIL,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-6582a1316b91be4547aa153c/?X-Plex-Token=YmWA29qqrm_RsAzHctJw
 "like Gecko) Chrome/149.0.0.0 Safari/537.3"" group-title=""09 - CINEMA"",Cine+ Classic",09 - CINEMA,TIMEOUT,http://99.27.51.147/CineClassic/index.m3u8
 "like Gecko) Chrome/149.0.0.0 Safari/537.3"" group-title=""09 - CINEMA"",Cine+ Frisson (1080p)",09 - CINEMA,403,http://99.27.51.147:8080/CineFrisson/index.m3u8
-Maverick Black Cinema,09 - CINEMA,FAIL,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-5ef4e1b40d9ad000423c4430/?X-Plex-Token=b8ucL7rmMCcw3eku1ZXn
-Movie Music by Stingray,09 - CINEMA,FAIL,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-62fbf197c67d52bddf74cc87/?X-Plex-Token=b8ucL7rmMCcw3eku1ZXn
+Maverick Black Cinema,09 - CINEMA,FAIL,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-5ef4e1b40d9ad000423c4430/?X-Plex-Token=YmWA29qqrm_RsAzHctJw
+Movie Music by Stingray,09 - CINEMA,FAIL,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-62fbf197c67d52bddf74cc87/?X-Plex-Token=YmWA29qqrm_RsAzHctJw
 Moviesphere,09 - CINEMA,403,https://jmp2.uk/stvp-FR42000023H
-MOVIESPHERE,09 - CINEMA,404,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-695d5c1d6e5de3b17595a267/?X-Plex-Token=b8ucL7rmMCcw3eku1ZXn
+MOVIESPHERE,09 - CINEMA,404,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-695d5c1d6e5de3b17595a267/?X-Plex-Token=YmWA29qqrm_RsAzHctJw
+Pluto TV Comédie,09 - CINEMA,403,https://jmp2.uk/plu-5f8eb91bb9b9e7000817e67f.m3u8
+Pluto TV Comédies Cultes,09 - CINEMA,403,https://jmp2.uk/plu-67b4b2d976a934282e92d71c.m3u8
 Sony One Action HITS,09 - CINEMA,FAIL,https://jmp2.uk/stvp-FR3000139Z
-Sony One | Hits Action,09 - CINEMA,404,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-692227f850fe592fd6d5b7e0/?X-Plex-Token=b8ucL7rmMCcw3eku1ZXn
+Sony One | Hits Action,09 - CINEMA,404,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-692227f850fe592fd6d5b7e0/?X-Plex-Token=YmWA29qqrm_RsAzHctJw
 Sony One HITS Comédie,09 - CINEMA,FAIL,https://jmp2.uk/stvp-FR300009JQ
-Sony One | Hits Comédie,09 - CINEMA,404,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-692228985cbe620c1f9b6bb9/?X-Plex-Token=b8ucL7rmMCcw3eku1ZXn
-Sony One | Séries Comédie,09 - CINEMA,404,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-6922294e5cbe620c1f9b6bbb/?X-Plex-Token=b8ucL7rmMCcw3eku1ZXn
-Sony One | Séries Thriller,09 - CINEMA,404,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-69222b5c5cbe620c1f9b6bbd/?X-Plex-Token=b8ucL7rmMCcw3eku1ZXn
-Surf Cinema,09 - CINEMA,FAIL,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-656fbbd6dbcce28c3a41741b/?X-Plex-Token=b8ucL7rmMCcw3eku1ZXn
-The Wiggles,09 - CINEMA,FAIL,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-68e0371d8bbd79d66c631ab2/?X-Plex-Token=b8ucL7rmMCcw3eku1ZXn
+Sony One | Hits Comédie,09 - CINEMA,404,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-692228985cbe620c1f9b6bb9/?X-Plex-Token=YmWA29qqrm_RsAzHctJw
+Sony One | Séries Comédie,09 - CINEMA,404,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-6922294e5cbe620c1f9b6bbb/?X-Plex-Token=YmWA29qqrm_RsAzHctJw
+Sony One | Séries Thriller,09 - CINEMA,404,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-69222b5c5cbe620c1f9b6bbd/?X-Plex-Token=YmWA29qqrm_RsAzHctJw
+Surf Cinema,09 - CINEMA,FAIL,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-656fbbd6dbcce28c3a41741b/?X-Plex-Token=YmWA29qqrm_RsAzHctJw
+The Wiggles,09 - CINEMA,FAIL,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-68e0371d8bbd79d66c631ab2/?X-Plex-Token=YmWA29qqrm_RsAzHctJw
+Un Si Grand Soleil,09 - CINEMA,403,https://jmp2.uk/plu-6683cd0f63a5f20008fb84a3.m3u8
 AB1 (720p),09 - CINEMA & SERIES,403,http://145.239.5.177/332/index.m3u8
 "like Gecko) Chrome/149.0.0.0 Safari/537.3"" group-title=""09 - CINEMA & SERIES"",Syfy",09 - CINEMA & SERIES,403,http://99.27.51.147:8080/SYFY/index.m3u8
 Nollywood TV (720p),09 - CINEMA & SERIES,403,http://145.239.5.177/148/index.m3u8
 Novela Channel (720p) [Not 24/7],09 - CINEMA & SERIES,404,https://video1.getstreamhosting.com:1936/8284/8284/playlist.m3u8
 RTL9 (720p),09 - CINEMA & SERIES,403,http://145.239.5.177/308/index.m3u8
 TV Breizh (1080p),09 - CINEMA & SERIES,403,http://145.239.5.177/318/index.m3u8
-Asian Drama,10 - SERIES,FAIL,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-685f27cca7111a932d28f1ae/?X-Plex-Token=b8ucL7rmMCcw3eku1ZXn
+Asian Drama,10 - SERIES,FAIL,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-685f27cca7111a932d28f1ae/?X-Plex-Token=YmWA29qqrm_RsAzHctJw
+"chien flic"" tvg-logo=""https://images.pluto.tv/channels/691b332aa4385c191ee44b57/colorLogoPNG_1771923791904.png"" group-title=""10 - SERIES"",Rex chien flic",10 - SERIES,403,https://jmp2.uk/plu-691b332aa4385c191ee44b57.m3u8
+"femme flic"" tvg-logo=""https://images.pluto.tv/channels/6671b26836a2f90008d9333c/colorLogoPNG.png"" group-title=""10 - SERIES"",Diane femme flic",10 - SERIES,403,https://jmp2.uk/plu-6671b26836a2f90008d9333c.m3u8
+Génération Sitcoms,10 - SERIES,403,https://jmp2.uk/plu-60afb203ec391c00070ea1bf.m3u8
 Génération Sitcoms TV,10 - SERIES,404,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-68e03d842cbc7a5d3189394a/?X-Plex-Token=MQj5gsQsF79CdBy-xJez
+MODUS Super Series Darts,10 - SERIES,403,https://jmp2.uk/plu-671643fc5534bb00089187ad.m3u8
+Pluto TV Séries Fantastiques,10 - SERIES,403,https://jmp2.uk/plu-625ec7a1c853fd00073b38fd.m3u8
 Serie Club (720p),10 - SERIES,403,http://145.239.5.177/355/index.m3u8
-Soap,10 - SERIES,404,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-695d48094ba349f255911f92/?X-Plex-Token=b8ucL7rmMCcw3eku1ZXn
-Animation+,11 - EMISSIONS & DIVERTISSEMENT,FAIL,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-674f6a6cf44561420465f9f3/?X-Plex-Token=b8ucL7rmMCcw3eku1ZXn
+Serie Max,10 - SERIES,403,https://video1.getstreamhosting.com:1936/8330/8330/playlist.m3u8
+Series by Pluto TV,10 - SERIES,403,https://jmp2.uk/plu-5f8ed2d1c34c2300073bf02c.m3u8
+Soap,10 - SERIES,404,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-695d48094ba349f255911f92/?X-Plex-Token=YmWA29qqrm_RsAzHctJw
+Animation+,11 - EMISSIONS & DIVERTISSEMENT,FAIL,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-674f6a6cf44561420465f9f3/?X-Plex-Token=YmWA29qqrm_RsAzHctJw
+Beyblade,11 - EMISSIONS & DIVERTISSEMENT,403,https://jmp2.uk/plu-664c8ba33d173b00080ef0c8.m3u8
+Bob l'éponge (720p),11 - EMISSIONS & DIVERTISSEMENT,403,https://jmp2.uk/plu-66588931a3865300085ca800.m3u8
 Boss Brothers TV (1080p),11 - EMISSIONS & DIVERTISSEMENT,TIMEOUT,http://51.254.199.122:8080/bossbrothersTV/index.m3u8
+For You TV,11 - EMISSIONS & DIVERTISSEMENT,404,https://stream.az-multimedia.com:3325/live/foryoutvlive.m3u8
 ICONE TV,11 - EMISSIONS & DIVERTISSEMENT,TIMEOUT,https://lecteur.iconetv.bj/hls/stream.m3u8
+Mattel Junior,11 - EMISSIONS & DIVERTISSEMENT,403,https://jmp2.uk/plu-686e74b0e48af72bc266e798.m3u8
+Pluto TV Junior (720p),11 - EMISSIONS & DIVERTISSEMENT,403,https://jmp2.uk/plu-5f8ecb336537e8000764a17f.m3u8
+Pluto TV Kids Classics (720p),11 - EMISSIONS & DIVERTISSEMENT,403,https://jmp2.uk/plu-654a58dbf9cc82000868f0fb.m3u8
+Pluto TV Kids Club,11 - EMISSIONS & DIVERTISSEMENT,403,https://jmp2.uk/plu-611e6ddc7fcd580007d1eb5f.m3u8
+Pluto TV Reality,11 - EMISSIONS & DIVERTISSEMENT,403,https://jmp2.uk/plu-6092544e7639460007d4835e.m3u8
+Pluto TV Super Kids,11 - EMISSIONS & DIVERTISSEMENT,403,https://jmp2.uk/plu-652557d93fd33c000802f995.m3u8
 SenJeunes TV (480p) [Not 24/7],11 - EMISSIONS & DIVERTISSEMENT,404,https://stream.sen-gt.com/senjeunestv/myStream/playlist.m3u8
-TG Junior,11 - EMISSIONS & DIVERTISSEMENT,404,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-5f123330eca6a20040b328e8/?X-Plex-Token=b8ucL7rmMCcw3eku1ZXn
+TG Junior,11 - EMISSIONS & DIVERTISSEMENT,404,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-5f123330eca6a20040b328e8/?X-Plex-Token=YmWA29qqrm_RsAzHctJw
 Equidia (1080p),12 - SPORT,TIMEOUT,https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/equidia/live2.m3u8
 Foot+,12 - SPORT,403,http://145.239.5.177/556a/index.m3u8
-FTF Sports,12 - SPORT,FAIL,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-605a309dc5acdc002c7a20aa/?X-Plex-Token=b8ucL7rmMCcw3eku1ZXn
-GFN Football TV,12 - SPORT,404,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-67c247c345ae99120c071586/?X-Plex-Token=b8ucL7rmMCcw3eku1ZXn
+FTF Sports,12 - SPORT,FAIL,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-605a309dc5acdc002c7a20aa/?X-Plex-Token=YmWA29qqrm_RsAzHctJw
+GFN Football TV,12 - SPORT,404,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-67c247c345ae99120c071586/?X-Plex-Token=YmWA29qqrm_RsAzHctJw
 "like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21"" group-title=""12 - SPORT"",RMC Sport 1",12 - SPORT,403,https://7nyaler.streamhostingcdn.top/stream/59/index.m3u8
 "like Gecko) Chrome/149.0.0.0 Safari/537.36"" group-title=""12 - SPORT"",Canal+ Sport 360",12 - SPORT,404,https://futbol9865.ultratv13.workers.dev/deportivo111/14.m3u8
-Poker Night TV,12 - SPORT,FAIL,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-60afc726623f2f002c5bb49f/?X-Plex-Token=b8ucL7rmMCcw3eku1ZXn
-PokerGO,12 - SPORT,FAIL,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-64ac687b4192b4e1bab96279/?X-Plex-Token=b8ucL7rmMCcw3eku1ZXn
-Racing America,12 - SPORT,FAIL,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-61a945156547ba4d6d238dc9/?X-Plex-Token=b8ucL7rmMCcw3eku1ZXn
-SportsGrid,12 - SPORT,FAIL,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-5ef11485d33ab9004048a1ca/?X-Plex-Token=b8ucL7rmMCcw3eku1ZXn
-The World Poker Tour,12 - SPORT,FAIL,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-5f6b8e7900b0950040d0f2b2/?X-Plex-Token=b8ucL7rmMCcw3eku1ZXn
-The World Poker Tour,12 - SPORT,FAIL,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-656fa24bdbcce28c3a417415/?X-Plex-Token=b8ucL7rmMCcw3eku1ZXn
-Women's Sports Network,12 - SPORT,FAIL,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-630fa9e577ec3866def38fa2/?X-Plex-Token=b8ucL7rmMCcw3eku1ZXn
+Poker Night TV,12 - SPORT,FAIL,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-60afc726623f2f002c5bb49f/?X-Plex-Token=YmWA29qqrm_RsAzHctJw
+PokerGO,12 - SPORT,FAIL,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-64ac687b4192b4e1bab96279/?X-Plex-Token=YmWA29qqrm_RsAzHctJw
+Racing America,12 - SPORT,FAIL,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-61a945156547ba4d6d238dc9/?X-Plex-Token=YmWA29qqrm_RsAzHctJw
+SportsGrid,12 - SPORT,FAIL,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-5ef11485d33ab9004048a1ca/?X-Plex-Token=YmWA29qqrm_RsAzHctJw
+The World Poker Tour,12 - SPORT,FAIL,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-5f6b8e7900b0950040d0f2b2/?X-Plex-Token=YmWA29qqrm_RsAzHctJw
+The World Poker Tour,12 - SPORT,FAIL,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-656fa24bdbcce28c3a417415/?X-Plex-Token=YmWA29qqrm_RsAzHctJw
+Women's Sports Network,12 - SPORT,FAIL,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-630fa9e577ec3866def38fa2/?X-Plex-Token=YmWA29qqrm_RsAzHctJw
 Congo Planet Télévision (1080p) [Not 24/7],14 - MUSIQUE,TIMEOUT,https://radio.congoplanet.com/Congo_Planet_TV.sdp/Congo_Planet_TV/playlist.m3u8
 Couleur 3 (720p),14 - MUSIQUE,403,https://visualradio-rts-couleur3-d.akamaized.net/out/v1/6a1472634ad745f59a9e63ee8adbbc00/index.m3u8
 Fun Vision,14 - MUSIQUE,TIMEOUT,https://funradiovisionhd.vedge.infomaniak.com/livecast/ik:funradiovisionhd/manifest.m3u8
@@ -116,171 +154,170 @@ Ici Radio-Canada Télé Saskatchewan (CBKFT-DT) [Geo-blocked],14 - MUSIQUE,403,h
 MCM Top (1080p),14 - MUSIQUE,TIMEOUT,http://46.32.176.50/mcmtop/index.m3u8
 Museum TV [Geo-blocked],14 - MUSIQUE,FAIL,https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01492-secomsasmediart-museumtv-eng-samsungit/playlist.m3u8
 NRJ Hits,14 - MUSIQUE,FAIL,https://test.946985.filegear-sg.me/proxy/a23981548880f405
-Qello Concerts,14 - MUSIQUE,404,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-62d7f68fb19cbf65dc7bef7c/?X-Plex-Token=b8ucL7rmMCcw3eku1ZXn
+Qello Concerts,14 - MUSIQUE,404,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-62d7f68fb19cbf65dc7bef7c/?X-Plex-Token=YmWA29qqrm_RsAzHctJw
 Radio Contact (1080p),14 - MUSIQUE,FAIL,https://contact-live-hls.akamaized.net/hls/live/2038650/CONTACT-Live-HLS/master.m3u8
-Radio Télé 4VEH (720p),14 - MUSIQUE,404,https://uni01rtmp.tulix.tv/4vehtv/4vehtv-firetv/playlist.m3u8
 Radio Télé Amen FM (360p) [Not 24/7],14 - MUSIQUE,TIMEOUT,http://184.173.179.163:1935/daniel/daniel/playlist.m3u8
 Radio Télé Kajou (480p) [Not 24/7],14 - MUSIQUE,404,https://59d39900ebfb8.streamlock.net/RadioTelekAJOU/RadioTelekAJOU/playlist.m3u8
-Radio Télé Wisdom (360p) [Not 24/7],14 - MUSIQUE,404,https://59d39900ebfb8.streamlock.net/daniel/daniel/playlist.m3u8
+Radio Télé Wisdom (360p) [Not 24/7],14 - MUSIQUE,FAIL,https://59d39900ebfb8.streamlock.net/daniel/daniel/playlist.m3u8
 Radio Télévision Shilo (720p) [Not 24/7],14 - MUSIQUE,404,https://watch.haitilive.net/freehb/rtvs/index.m3u8
-RFM TV [Not 24/7],14 - MUSIQUE,FAIL,http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/1038/index.m3u8
-Trace Latina (1080p),14 - MUSIQUE,FAIL,https://channels.trace.plus/Traceprod/LATINA_hd/index.m3u8
-Trace Urban France (1080p),14 - MUSIQUE,FAIL,https://channels.trace.plus/Traceprod/URBAN_FR_hd/index.m3u8
-Trace Urban Southern Africa (1080p),14 - MUSIQUE,FAIL,https://channels.trace.plus/Traceprod/URBAN_SA_hd/index.m3u8
 TeleMusik Senegal (720p),15 - CULTURE,404,https://58c04fb1d143f.streamlock.net/rezopropartner_1_live/rezopropartner_1_live/playlist.m3u8
-FashionTV,16 - LIFESTYLE & BIEN-ETRE,FAIL,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-6490c01f3b3ce9e1aaad95be/?X-Plex-Token=b8ucL7rmMCcw3eku1ZXn
+FashionTV,16 - LIFESTYLE & BIEN-ETRE,FAIL,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-6490c01f3b3ce9e1aaad95be/?X-Plex-Token=YmWA29qqrm_RsAzHctJw
 Luxe TV (1080p),16 - LIFESTYLE & BIEN-ETRE,TIMEOUT,http://103.154.3.101:5001/live/1736.m3u8
 Dynamic Gospel TV (480p) [Not 24/7],17 - SPIRITUALITE,FAIL,https://ssh101stream.ssh101.com/akamaissh101/ssh101/tvdynamicstream/playlist.m3u8
 Ecclesia TV,17 - SPIRITUALITE,403,https://video1.getstreamhosting.com:1936/8294/8294/playlist.m3u8
 Iqraa Quran (1080p),17 - SPIRITUALITE,TIMEOUT,https://playlist.fasttvcdn.com/pl/dlkqw1ftuvuuzkcb4pxdcg/Iqraafasttv2/playlist.m3u8
 KTO (504p),17 - SPIRITUALITE,403,http://145.239.5.177/354/index.m3u8
 Miracle TV+ (720p),17 - SPIRITUALITE,403,https://strhlslb01.streamakaci.tv/str_mtv_mtv/str_mtv_multi/playlist.m3u8
-MTA1 World (720p),17 - SPIRITUALITE,404,https://chlivemta1.akamaized.net/hls/live/2008145/mta1/playlist.m3u8
-MTA2 Europe (720p),17 - SPIRITUALITE,FAIL,https://chlivemta1.akamaized.net/hls/live/2008145/mta2/playlist.m3u8
-MTA4 Africa (1080p),17 - SPIRITUALITE,TIMEOUT,https://chlivemta.akamaized.net/hls/live/2010555/mtaafrica1/playlist.m3u8
-MTA5 Africa (1080p),17 - SPIRITUALITE,TIMEOUT,https://chlivemta.akamaized.net/hls/live/2010555/mtaafrica2/playlist.m3u8
+MTA1 World (720p),17 - SPIRITUALITE,TIMEOUT,https://chlivemta1.akamaized.net/hls/live/2008145/mta1/playlist.m3u8
+MTA2 Europe (720p),17 - SPIRITUALITE,TIMEOUT,https://chlivemta1.akamaized.net/hls/live/2008145/mta2/playlist.m3u8
 RTH-TV2 Gospel (720p),17 - SPIRITUALITE,FAIL,https://2-fss-2.streamhoster.com/pl_120/amlst:206708-4202592/playlist.m3u8
-Trace Gospel Africa Franco (1080p),17 - SPIRITUALITE,FAIL,https://channels.trace.plus/Traceprod/GOSPEL_FR_hd/index.m3u8
-Trace Gospel Southern Africa (1080p),17 - SPIRITUALITE,FAIL,https://channels.trace.plus/Traceprod/GOSPEL_SA_hd/index.m3u8
-21 Jump Street,20 - SUISSE FR,FAIL,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-66f6b947515e742745f5ca34/?X-Plex-Token=b8ucL7rmMCcw3eku1ZXn
-ACL Cornhole TV,20 - SUISSE FR,FAIL,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-63504925a97bd70eaef54f01/?X-Plex-Token=b8ucL7rmMCcw3eku1ZXn
-AddictaTV,20 - SUISSE FR,FAIL,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-69d6d88b1790acff6189dea5/?X-Plex-Token=b8ucL7rmMCcw3eku1ZXn
-AfroLandTV,20 - SUISSE FR,FAIL,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-60e737a4ebef9d002c4d0a0c/?X-Plex-Token=b8ucL7rmMCcw3eku1ZXn
+21 Jump Street,20 - SUISSE FR,FAIL,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-66f6b947515e742745f5ca34/?X-Plex-Token=YmWA29qqrm_RsAzHctJw
+ACL Cornhole TV,20 - SUISSE FR,FAIL,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-63504925a97bd70eaef54f01/?X-Plex-Token=YmWA29qqrm_RsAzHctJw
+AddictaTV,20 - SUISSE FR,FAIL,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-69d6d88b1790acff6189dea5/?X-Plex-Token=YmWA29qqrm_RsAzHctJw
+AfroLandTV,20 - SUISSE FR,FAIL,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-60e737a4ebef9d002c4d0a0c/?X-Plex-Token=YmWA29qqrm_RsAzHctJw
 Alerte à Malibu TV,20 - SUISSE FR,404,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-68e03cb418c739b4d91a6a59/?X-Plex-Token=MQj5gsQsF79CdBy-xJez
-Alternative,20 - SUISSE FR,FAIL,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-62efbb8652f7d73061eec498/?X-Plex-Token=b8ucL7rmMCcw3eku1ZXn
-Baby Einstein,20 - SUISSE FR,FAIL,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-69333216ac5b3f9f53442374/?X-Plex-Token=b8ucL7rmMCcw3eku1ZXn
-Bassmaster,20 - SUISSE FR,FAIL,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-68caada21fabab6eb2e99331/?X-Plex-Token=b8ucL7rmMCcw3eku1ZXn
-Billiard TV,20 - SUISSE FR,FAIL,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-6334a8e48a7b2a349d903b8c/?X-Plex-Token=b8ucL7rmMCcw3eku1ZXn
-Bizaar,20 - SUISSE FR,FAIL,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-689e1f0dd84bfb3d54b6756f/?X-Plex-Token=b8ucL7rmMCcw3eku1ZXn
-Blacklist,20 - SUISSE FR,404,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-69222c105cbe620c1f9b6bbf/?X-Plex-Token=b8ucL7rmMCcw3eku1ZXn
-Bondi Rescue,20 - SUISSE FR,FAIL,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-69ae4f38e657bab5f7a9b7ec/?X-Plex-Token=b8ucL7rmMCcw3eku1ZXn
-BOOT,20 - SUISSE FR,FAIL,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-5ef11487d33ab9004048a1d3/?X-Plex-Token=b8ucL7rmMCcw3eku1ZXn
-Bowling TV,20 - SUISSE FR,FAIL,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-6970fdabbde579fb71262401/?X-Plex-Token=b8ucL7rmMCcw3eku1ZXn
-Brat TV,20 - SUISSE FR,FAIL,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-63d6f6c5a9e88ee909e7ee1f/?X-Plex-Token=b8ucL7rmMCcw3eku1ZXn
-C4 en Alerta,20 - SUISSE FR,FAIL,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-65b1568052aa31b8f64da064/?X-Plex-Token=b8ucL7rmMCcw3eku1ZXn
-Camp Spoopy,20 - SUISSE FR,FAIL,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-6164a963766ab4f9f57e81b1/?X-Plex-Token=b8ucL7rmMCcw3eku1ZXn
+Alternative,20 - SUISSE FR,FAIL,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-62efbb8652f7d73061eec498/?X-Plex-Token=YmWA29qqrm_RsAzHctJw
+Baby Einstein,20 - SUISSE FR,FAIL,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-69333216ac5b3f9f53442374/?X-Plex-Token=YmWA29qqrm_RsAzHctJw
+Bassmaster,20 - SUISSE FR,FAIL,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-68caada21fabab6eb2e99331/?X-Plex-Token=YmWA29qqrm_RsAzHctJw
+Billiard TV,20 - SUISSE FR,FAIL,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-6334a8e48a7b2a349d903b8c/?X-Plex-Token=YmWA29qqrm_RsAzHctJw
+Bizaar,20 - SUISSE FR,FAIL,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-689e1f0dd84bfb3d54b6756f/?X-Plex-Token=YmWA29qqrm_RsAzHctJw
+Blacklist,20 - SUISSE FR,404,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-69222c105cbe620c1f9b6bbf/?X-Plex-Token=YmWA29qqrm_RsAzHctJw
+Bondi Rescue,20 - SUISSE FR,FAIL,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-69ae4f38e657bab5f7a9b7ec/?X-Plex-Token=YmWA29qqrm_RsAzHctJw
+BOOT,20 - SUISSE FR,FAIL,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-5ef11487d33ab9004048a1d3/?X-Plex-Token=YmWA29qqrm_RsAzHctJw
+Bowling TV,20 - SUISSE FR,FAIL,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-6970fdabbde579fb71262401/?X-Plex-Token=YmWA29qqrm_RsAzHctJw
+Brat TV,20 - SUISSE FR,FAIL,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-63d6f6c5a9e88ee909e7ee1f/?X-Plex-Token=YmWA29qqrm_RsAzHctJw
+C4 en Alerta,20 - SUISSE FR,FAIL,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-65b1568052aa31b8f64da064/?X-Plex-Token=YmWA29qqrm_RsAzHctJw
+Camp Spoopy,20 - SUISSE FR,FAIL,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-6164a963766ab4f9f57e81b1/?X-Plex-Token=YmWA29qqrm_RsAzHctJw
+Canal 9 en Français (1080p),20 - SUISSE FR,403,https://livehd.vedge.infomaniak.com/livecast/livehd/master.m3u8
 Carac 1 (1080p),20 - SUISSE FR,403,http://145.239.5.177/371/index.m3u8
-Carac 5,20 - SUISSE FR,TIMEOUT,https://lfmmd.vedge.infomaniak.com/livecast/ik:carac5/manifest.m3u8
-CBC News,20 - SUISSE FR,FAIL,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-64c91830ea7db2f52688c52c/?X-Plex-Token=b8ucL7rmMCcw3eku1ZXn
-Cesar's Pack Leader TV,20 - SUISSE FR,FAIL,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-693cbba358076a970420f597/?X-Plex-Token=b8ucL7rmMCcw3eku1ZXn
-Classic Rock,20 - SUISSE FR,FAIL,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-61aaa0cc784a2161d3caf7ff/?X-Plex-Token=b8ucL7rmMCcw3eku1ZXn
-CombaTV,20 - SUISSE FR,FAIL,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-63f0ca427b78030ed9990309/?X-Plex-Token=b8ucL7rmMCcw3eku1ZXn
-COPS,20 - SUISSE FR,404,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-6ab2a4694d0a0fea9531956d/?X-Plex-Token=b8ucL7rmMCcw3eku1ZXn
-Cosmic Frontiers,20 - SUISSE FR,404,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-635c61cc797a33fa4193cc93/?X-Plex-Token=b8ucL7rmMCcw3eku1ZXn
-Dr. Phil,20 - SUISSE FR,FAIL,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-66e4cbef38de9754b6b13e90/?X-Plex-Token=b8ucL7rmMCcw3eku1ZXn
+CBC News,20 - SUISSE FR,FAIL,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-64c91830ea7db2f52688c52c/?X-Plex-Token=YmWA29qqrm_RsAzHctJw
+Cesar's Pack Leader TV,20 - SUISSE FR,FAIL,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-693cbba358076a970420f597/?X-Plex-Token=YmWA29qqrm_RsAzHctJw
+Classic Rock,20 - SUISSE FR,FAIL,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-61aaa0cc784a2161d3caf7ff/?X-Plex-Token=YmWA29qqrm_RsAzHctJw
+CombaTV,20 - SUISSE FR,FAIL,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-63f0ca427b78030ed9990309/?X-Plex-Token=YmWA29qqrm_RsAzHctJw
+COPS,20 - SUISSE FR,404,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-6ab2a4694d0a0fea9531956d/?X-Plex-Token=YmWA29qqrm_RsAzHctJw
+Cosmic Frontiers,20 - SUISSE FR,404,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-635c61cc797a33fa4193cc93/?X-Plex-Token=YmWA29qqrm_RsAzHctJw
+Dr. Phil,20 - SUISSE FR,FAIL,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-66e4cbef38de9754b6b13e90/?X-Plex-Token=YmWA29qqrm_RsAzHctJw
 Dude Perfect,20 - SUISSE FR,404,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-68d7f9b53b1f329cea126993/?X-Plex-Token=xWS_L556UswvjHRC_A3V
-Easy Listening,20 - SUISSE FR,FAIL,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-62ee76b5271f393d2d9f709a/?X-Plex-Token=b8ucL7rmMCcw3eku1ZXn
-Echos du Monde,20 - SUISSE FR,404,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-685f1784a7111a932d28f1aa/?X-Plex-Token=b8ucL7rmMCcw3eku1ZXn
-Eddie's Wonderland,20 - SUISSE FR,404,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-618ab2f275913b296fbe56dd/?X-Plex-Token=b8ucL7rmMCcw3eku1ZXn
-El Conflicto TV,20 - SUISSE FR,FAIL,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-621674f168c966be92737ce6/?X-Plex-Token=b8ucL7rmMCcw3eku1ZXn
-Éxitos del Momento,20 - SUISSE FR,FAIL,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-62efba6588a16bb7d6b6fb58/?X-Plex-Token=b8ucL7rmMCcw3eku1ZXn
-Farscape,20 - SUISSE FR,FAIL,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-635195e9ccee3e1547a8831a/?X-Plex-Token=b8ucL7rmMCcw3eku1ZXn
-Fight Network,20 - SUISSE FR,FAIL,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-606605549dbfca002d2ae877/?X-Plex-Token=b8ucL7rmMCcw3eku1ZXn
-Flashback 70s,20 - SUISSE FR,FAIL,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-62f15810a3ffe928ef806c75/?X-Plex-Token=b8ucL7rmMCcw3eku1ZXn
-FUEL TV,20 - SUISSE FR,404,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-62ffc5cfa6cad6f2991745c2/?X-Plex-Token=b8ucL7rmMCcw3eku1ZXn
-Galxy TV,20 - SUISSE FR,404,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-621672e42c2627c068e73ad8/?X-Plex-Token=b8ucL7rmMCcw3eku1ZXn
-Glewed TV,20 - SUISSE FR,FAIL,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-5eea605474085f0040ddc76d/?X-Plex-Token=b8ucL7rmMCcw3eku1ZXn
-GLORY Kickboxing,20 - SUISSE FR,FAIL,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-63f914bffe2c3d32e1a7929f/?X-Plex-Token=b8ucL7rmMCcw3eku1ZXn
-GrowthDay Network,20 - SUISSE FR,FAIL,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-6a8786c4fa0d0293e2681b7c/?X-Plex-Token=b8ucL7rmMCcw3eku1ZXn
-GUSTOTV,20 - SUISSE FR,FAIL,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-5f8746eabd529300418246d9/?X-Plex-Token=b8ucL7rmMCcw3eku1ZXn
-Hard Knocks,20 - SUISSE FR,FAIL,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-5fd115bdb7ef8d002dcf1820/?X-Plex-Token=b8ucL7rmMCcw3eku1ZXn
-Hit List,20 - SUISSE FR,FAIL,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-61aaa014784a2161d3caf7fd/?X-Plex-Token=b8ucL7rmMCcw3eku1ZXn
-Hunter,20 - SUISSE FR,FAIL,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-66f6b6baac1a1890ef197a4b/?X-Plex-Token=b8ucL7rmMCcw3eku1ZXn
-Ice Pilots NWT,20 - SUISSE FR,FAIL,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-666e1820ce73ed6023b55a11/?X-Plex-Token=b8ucL7rmMCcw3eku1ZXn
-Ideas En 5 Minutos,20 - SUISSE FR,FAIL,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-64a355697d24564fba37bab8/?X-Plex-Token=b8ucL7rmMCcw3eku1ZXn
-ITV Deportes,20 - SUISSE FR,FAIL,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-688d3402a6fe30698ab42007/?X-Plex-Token=b8ucL7rmMCcw3eku1ZXn
-JAIL,20 - SUISSE FR,404,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-6ab5681e177d989ab41dfd4d/?X-Plex-Token=b8ucL7rmMCcw3eku1ZXn
-JDS.TV,20 - SUISSE FR,404,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-6a2325c47928efd63cf15995/?X-Plex-Token=b8ucL7rmMCcw3eku1ZXn
-Johnny Carson TV,20 - SUISSE FR,FAIL,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-60d4edd6b2fdec002c141123/?X-Plex-Token=b8ucL7rmMCcw3eku1ZXn
-Journy,20 - SUISSE FR,404,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-60a9d105d162b9002d05a60c/?X-Plex-Token=b8ucL7rmMCcw3eku1ZXn
-Judge Nosey,20 - SUISSE FR,FAIL,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-5f0ff262d71dcb00449ec018/?X-Plex-Token=b8ucL7rmMCcw3eku1ZXn
-Just For Laughs Gags,20 - SUISSE FR,FAIL,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-64704954e536e0faaf10be9f/?X-Plex-Token=b8ucL7rmMCcw3eku1ZXn
+Easy Listening,20 - SUISSE FR,FAIL,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-62ee76b5271f393d2d9f709a/?X-Plex-Token=YmWA29qqrm_RsAzHctJw
+Echos du Monde,20 - SUISSE FR,404,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-685f1784a7111a932d28f1aa/?X-Plex-Token=YmWA29qqrm_RsAzHctJw
+Eddie's Wonderland,20 - SUISSE FR,404,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-618ab2f275913b296fbe56dd/?X-Plex-Token=YmWA29qqrm_RsAzHctJw
+El Conflicto TV,20 - SUISSE FR,FAIL,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-621674f168c966be92737ce6/?X-Plex-Token=YmWA29qqrm_RsAzHctJw
+Éxitos del Momento,20 - SUISSE FR,FAIL,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-62efba6588a16bb7d6b6fb58/?X-Plex-Token=YmWA29qqrm_RsAzHctJw
+FailArmy,20 - SUISSE FR,403,https://jmp2.uk/plu-5f8ecd9169d2d4000864a974.m3u8
+Farscape,20 - SUISSE FR,FAIL,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-635195e9ccee3e1547a8831a/?X-Plex-Token=YmWA29qqrm_RsAzHctJw
+FIFA+,20 - SUISSE FR,403,https://jmp2.uk/plu-660c2a2d2433010008df7e92.m3u8
+Fight Network,20 - SUISSE FR,FAIL,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-606605549dbfca002d2ae877/?X-Plex-Token=YmWA29qqrm_RsAzHctJw
+Flashback 70s,20 - SUISSE FR,FAIL,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-62f15810a3ffe928ef806c75/?X-Plex-Token=YmWA29qqrm_RsAzHctJw
+FUEL TV,20 - SUISSE FR,404,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-62ffc5cfa6cad6f2991745c2/?X-Plex-Token=YmWA29qqrm_RsAzHctJw
+Galxy TV,20 - SUISSE FR,404,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-621672e42c2627c068e73ad8/?X-Plex-Token=YmWA29qqrm_RsAzHctJw
+Glewed TV,20 - SUISSE FR,FAIL,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-5eea605474085f0040ddc76d/?X-Plex-Token=YmWA29qqrm_RsAzHctJw
+GLORY Kickboxing,20 - SUISSE FR,FAIL,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-63f914bffe2c3d32e1a7929f/?X-Plex-Token=YmWA29qqrm_RsAzHctJw
+GrowthDay Network,20 - SUISSE FR,FAIL,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-6a8786c4fa0d0293e2681b7c/?X-Plex-Token=YmWA29qqrm_RsAzHctJw
+GUSTOTV,20 - SUISSE FR,FAIL,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-5f8746eabd529300418246d9/?X-Plex-Token=YmWA29qqrm_RsAzHctJw
+Hard Knocks,20 - SUISSE FR,FAIL,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-5fd115bdb7ef8d002dcf1820/?X-Plex-Token=YmWA29qqrm_RsAzHctJw
+Hit List,20 - SUISSE FR,FAIL,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-61aaa014784a2161d3caf7fd/?X-Plex-Token=YmWA29qqrm_RsAzHctJw
+Hunter,20 - SUISSE FR,FAIL,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-66f6b6baac1a1890ef197a4b/?X-Plex-Token=YmWA29qqrm_RsAzHctJw
+Ice Pilots NWT,20 - SUISSE FR,FAIL,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-666e1820ce73ed6023b55a11/?X-Plex-Token=YmWA29qqrm_RsAzHctJw
+Ideas En 5 Minutos,20 - SUISSE FR,FAIL,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-64a355697d24564fba37bab8/?X-Plex-Token=YmWA29qqrm_RsAzHctJw
+Inazuma Eleven,20 - SUISSE FR,403,https://jmp2.uk/plu-611e75226b7f420007c3f319.m3u8
+ITV Deportes,20 - SUISSE FR,FAIL,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-688d3402a6fe30698ab42007/?X-Plex-Token=YmWA29qqrm_RsAzHctJw
+JAIL,20 - SUISSE FR,404,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-6ab5681e177d989ab41dfd4d/?X-Plex-Token=YmWA29qqrm_RsAzHctJw
+JDS.TV,20 - SUISSE FR,404,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-6a2325c47928efd63cf15995/?X-Plex-Token=YmWA29qqrm_RsAzHctJw
+Johnny Carson TV,20 - SUISSE FR,FAIL,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-60d4edd6b2fdec002c141123/?X-Plex-Token=YmWA29qqrm_RsAzHctJw
+Journy,20 - SUISSE FR,404,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-60a9d105d162b9002d05a60c/?X-Plex-Token=YmWA29qqrm_RsAzHctJw
+Judge Nosey,20 - SUISSE FR,FAIL,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-5f0ff262d71dcb00449ec018/?X-Plex-Token=YmWA29qqrm_RsAzHctJw
+Just For Laughs Gags,20 - SUISSE FR,FAIL,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-64704954e536e0faaf10be9f/?X-Plex-Token=YmWA29qqrm_RsAzHctJw
 Kidoodle TV,20 - SUISSE FR,404,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-5eea605574085f0040ddc79a/?X-Plex-Token=xWS_L556UswvjHRC_A3V
-Legacy,20 - SUISSE FR,FAIL,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-69bb1f002028859eafc637e1/?X-Plex-Token=b8ucL7rmMCcw3eku1ZXn
+Legacy,20 - SUISSE FR,FAIL,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-69bb1f002028859eafc637e1/?X-Plex-Token=YmWA29qqrm_RsAzHctJw
 Les filles d’à côtés TV,20 - SUISSE FR,404,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-68e03beea4f2aa9b08ed5281/?X-Plex-Token=MQj5gsQsF79CdBy-xJez
-Life Down Under,20 - SUISSE FR,404,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-67c2496d45ae99120c071588/?X-Plex-Token=b8ucL7rmMCcw3eku1ZXn
-Lone Star,20 - SUISSE FR,FAIL,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-6196c9241d310bf925e02616/?X-Plex-Token=b8ucL7rmMCcw3eku1ZXn
-Lucha Plus,20 - SUISSE FR,FAIL,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-67a1a8ef2358ef4dd5c3018e/?X-Plex-Token=b8ucL7rmMCcw3eku1ZXn
-Made In Hollywood,20 - SUISSE FR,FAIL,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-60db63d29ec966002c9ea6f0/?X-Plex-Token=b8ucL7rmMCcw3eku1ZXn
+Life Down Under,20 - SUISSE FR,404,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-67c2496d45ae99120c071588/?X-Plex-Token=YmWA29qqrm_RsAzHctJw
+Lone Star,20 - SUISSE FR,FAIL,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-6196c9241d310bf925e02616/?X-Plex-Token=YmWA29qqrm_RsAzHctJw
+Lucha Plus,20 - SUISSE FR,FAIL,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-67a1a8ef2358ef4dd5c3018e/?X-Plex-Token=YmWA29qqrm_RsAzHctJw
+Made In Hollywood,20 - SUISSE FR,FAIL,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-60db63d29ec966002c9ea6f0/?X-Plex-Token=YmWA29qqrm_RsAzHctJw
+Mayday: Catastrophe Aérienne,20 - SUISSE FR,403,https://jmp2.uk/plu-686e74c777ed3360cb6908bf.m3u8
 Metal.Rocks,20 - SUISSE FR,403,https://jmp2.uk/stvp-FR44000015M
-Monster Jam,20 - SUISSE FR,FAIL,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-6615885e1eabecf2c9d56495/?X-Plex-Token=b8ucL7rmMCcw3eku1ZXn
-More U,20 - SUISSE FR,FAIL,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-6112a9139894c8002c6cb87f/?X-Plex-Token=b8ucL7rmMCcw3eku1ZXn
-MOTUS La Chaine,20 - SUISSE FR,404,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-63ac5e95c7cce47c86164bca/?X-Plex-Token=b8ucL7rmMCcw3eku1ZXn
-Newsmax2,20 - SUISSE FR,FAIL,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-5fb81660b7ad2d002dcb7335/?X-Plex-Token=b8ucL7rmMCcw3eku1ZXn
-NewsWorld,20 - SUISSE FR,404,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-66bfb2e6144c201b8b61c10f/?X-Plex-Token=b8ucL7rmMCcw3eku1ZXn
-NHRA TV,20 - SUISSE FR,FAIL,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-60aeb5cd87f9b1002ce12323/?X-Plex-Token=b8ucL7rmMCcw3eku1ZXn
-Nolly Africa HD,20 - SUISSE FR,FAIL,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-64b1e1217d4037206787f384/?X-Plex-Token=b8ucL7rmMCcw3eku1ZXn
-Nosey,20 - SUISSE FR,FAIL,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-5f0ff262d71dcb00449ec015/?X-Plex-Token=b8ucL7rmMCcw3eku1ZXn
-Nosey Escándalos,20 - SUISSE FR,FAIL,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-6154a863e3e4d9577f96b31a/?X-Plex-Token=b8ucL7rmMCcw3eku1ZXn
-Nothin' But 90s,20 - SUISSE FR,FAIL,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-62f13eeded056a1db9ef3d54/?X-Plex-Token=b8ucL7rmMCcw3eku1ZXn
-Novelisima,20 - SUISSE FR,FAIL,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-64d4e82ac5d4668c9cb7b5df/?X-Plex-Token=b8ucL7rmMCcw3eku1ZXn
-Operation Repo,20 - SUISSE FR,FAIL,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-6578e7b5eef129f30fb38df7/?X-Plex-Token=b8ucL7rmMCcw3eku1ZXn
-Pac-12 Insider,20 - SUISSE FR,FAIL,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-646c0dfbfb58444e4e1e262d/?X-Plex-Token=b8ucL7rmMCcw3eku1ZXn
-PeliMex,20 - SUISSE FR,FAIL,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-67db3546d66f778a752f7eaa/?X-Plex-Token=b8ucL7rmMCcw3eku1ZXn
-People are Awesome,20 - SUISSE FR,FAIL,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-5f0ff263d71dcb00449ec021/?X-Plex-Token=b8ucL7rmMCcw3eku1ZXn
-PFL MMA,20 - SUISSE FR,FAIL,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-643f0ecd76de2b4015ae6c01/?X-Plex-Token=b8ucL7rmMCcw3eku1ZXn
-PickleTV,20 - SUISSE FR,FAIL,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-63ec0b739866d8d2120ac759/?X-Plex-Token=b8ucL7rmMCcw3eku1ZXn
-Pitufo TV,20 - SUISSE FR,404,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-639ba57d3f4612cc150a5723/?X-Plex-Token=b8ucL7rmMCcw3eku1ZXn
+Monster Jam,20 - SUISSE FR,FAIL,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-6615885e1eabecf2c9d56495/?X-Plex-Token=YmWA29qqrm_RsAzHctJw
+More U,20 - SUISSE FR,FAIL,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-6112a9139894c8002c6cb87f/?X-Plex-Token=YmWA29qqrm_RsAzHctJw
+MOTUS La Chaine,20 - SUISSE FR,404,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-63ac5e95c7cce47c86164bca/?X-Plex-Token=YmWA29qqrm_RsAzHctJw
+Newsmax2,20 - SUISSE FR,FAIL,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-5fb81660b7ad2d002dcb7335/?X-Plex-Token=YmWA29qqrm_RsAzHctJw
+NewsWorld,20 - SUISSE FR,404,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-66bfb2e6144c201b8b61c10f/?X-Plex-Token=YmWA29qqrm_RsAzHctJw
+NFL Channel,20 - SUISSE FR,403,https://jmp2.uk/plu-6a6a02bd93ac783fe20d1bf7.m3u8
+NHRA TV,20 - SUISSE FR,FAIL,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-60aeb5cd87f9b1002ce12323/?X-Plex-Token=YmWA29qqrm_RsAzHctJw
+Nolly Africa HD,20 - SUISSE FR,FAIL,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-64b1e1217d4037206787f384/?X-Plex-Token=YmWA29qqrm_RsAzHctJw
+Nosey,20 - SUISSE FR,FAIL,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-5f0ff262d71dcb00449ec015/?X-Plex-Token=YmWA29qqrm_RsAzHctJw
+Nosey Escándalos,20 - SUISSE FR,FAIL,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-6154a863e3e4d9577f96b31a/?X-Plex-Token=YmWA29qqrm_RsAzHctJw
+Nothin' But 90s,20 - SUISSE FR,FAIL,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-62f13eeded056a1db9ef3d54/?X-Plex-Token=YmWA29qqrm_RsAzHctJw
+Novelisima,20 - SUISSE FR,FAIL,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-64d4e82ac5d4668c9cb7b5df/?X-Plex-Token=YmWA29qqrm_RsAzHctJw
+Operation Repo,20 - SUISSE FR,FAIL,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-6578e7b5eef129f30fb38df7/?X-Plex-Token=YmWA29qqrm_RsAzHctJw
+Pac-12 Insider,20 - SUISSE FR,FAIL,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-646c0dfbfb58444e4e1e262d/?X-Plex-Token=YmWA29qqrm_RsAzHctJw
+PeliMex,20 - SUISSE FR,FAIL,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-67db3546d66f778a752f7eaa/?X-Plex-Token=YmWA29qqrm_RsAzHctJw
+People are Awesome,20 - SUISSE FR,FAIL,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-5f0ff263d71dcb00449ec021/?X-Plex-Token=YmWA29qqrm_RsAzHctJw
+PFL MMA,20 - SUISSE FR,FAIL,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-643f0ecd76de2b4015ae6c01/?X-Plex-Token=YmWA29qqrm_RsAzHctJw
+PickleTV,20 - SUISSE FR,FAIL,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-63ec0b739866d8d2120ac759/?X-Plex-Token=YmWA29qqrm_RsAzHctJw
+Pitufo TV,20 - SUISSE FR,404,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-639ba57d3f4612cc150a5723/?X-Plex-Token=YmWA29qqrm_RsAzHctJw
 PLL Network,20 - SUISSE FR,404,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-66fbfc8ebde73c589ab2af40/?X-Plex-Token=xWS_L556UswvjHRC_A3V
-Pop Adult,20 - SUISSE FR,FAIL,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-62ee7992271f393d2d9f709c/?X-Plex-Token=b8ucL7rmMCcw3eku1ZXn
-Powernation,20 - SUISSE FR,FAIL,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-69814bbff871095eafc65925/?X-Plex-Token=b8ucL7rmMCcw3eku1ZXn
-PursuitUP,20 - SUISSE FR,FAIL,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-63628eb88e4b18ca22f897dc/?X-Plex-Token=b8ucL7rmMCcw3eku1ZXn
-Qwest TV,20 - SUISSE FR,FAIL,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-60b0f65c0c8ffb002c821a75/?X-Plex-Token=b8ucL7rmMCcw3eku1ZXn
-RACER International,20 - SUISSE FR,404,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-5f90ebc726350a002d40b136/?X-Plex-Token=b8ucL7rmMCcw3eku1ZXn
-RCM,20 - SUISSE FR,FAIL,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-66bfb17c144c201b8b61c10d/?X-Plex-Token=b8ucL7rmMCcw3eku1ZXn
-Remember the ‘80s,20 - SUISSE FR,FAIL,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-61aa9f50784a2161d3caf7fb/?X-Plex-Token=b8ucL7rmMCcw3eku1ZXn
-Revry,20 - SUISSE FR,404,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-5ef11487d33ab9004048a1d9/?X-Plex-Token=b8ucL7rmMCcw3eku1ZXn
-Robot Wars by Mech+,20 - SUISSE FR,FAIL,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-6470477fe536e0faaf10be9d/?X-Plex-Token=b8ucL7rmMCcw3eku1ZXn
+Pop Adult,20 - SUISSE FR,FAIL,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-62ee7992271f393d2d9f709c/?X-Plex-Token=YmWA29qqrm_RsAzHctJw
+Powernation,20 - SUISSE FR,FAIL,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-69814bbff871095eafc65925/?X-Plex-Token=YmWA29qqrm_RsAzHctJw
+PursuitUP,20 - SUISSE FR,FAIL,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-63628eb88e4b18ca22f897dc/?X-Plex-Token=YmWA29qqrm_RsAzHctJw
+Qwest TV,20 - SUISSE FR,FAIL,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-60b0f65c0c8ffb002c821a75/?X-Plex-Token=YmWA29qqrm_RsAzHctJw
+RACER International,20 - SUISSE FR,404,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-5f90ebc726350a002d40b136/?X-Plex-Token=YmWA29qqrm_RsAzHctJw
+RCM,20 - SUISSE FR,FAIL,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-66bfb17c144c201b8b61c10d/?X-Plex-Token=YmWA29qqrm_RsAzHctJw
+Remember the ‘80s,20 - SUISSE FR,FAIL,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-61aa9f50784a2161d3caf7fb/?X-Plex-Token=YmWA29qqrm_RsAzHctJw
+Revry,20 - SUISSE FR,404,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-5ef11487d33ab9004048a1d9/?X-Plex-Token=YmWA29qqrm_RsAzHctJw
+Robot Wars by Mech+,20 - SUISSE FR,FAIL,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-6470477fe536e0faaf10be9d/?X-Plex-Token=YmWA29qqrm_RsAzHctJw
 RTS 3 (720p),20 - SUISSE FR,403,http://145.239.5.177/224/index.m3u8
 RTS Info (1080p),20 - SUISSE FR,403,https://rtsinfo-d.akamaized.net/out/v1/2b7ae2e1ba3f43c6aba15bced153baf5/index.m3u8
-Shemaroo Bollywood,20 - SUISSE FR,FAIL,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-62d1a58e520656fda09e609d/?X-Plex-Token=b8ucL7rmMCcw3eku1ZXn
-SKWAD,20 - SUISSE FR,404,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-5f12332eeca6a20040b328e5/?X-Plex-Token=b8ucL7rmMCcw3eku1ZXn
-SLOPES,20 - SUISSE FR,FAIL,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-616df1be2cf008a748c8cb53/?X-Plex-Token=b8ucL7rmMCcw3eku1ZXn
-Smooth Jazz,20 - SUISSE FR,FAIL,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-62ee784852f7d73061eec493/?X-Plex-Token=b8ucL7rmMCcw3eku1ZXn
-Smurf TV,20 - SUISSE FR,404,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-639b8d803f4612cc150a5721/?X-Plex-Token=b8ucL7rmMCcw3eku1ZXn
-Sonic TV,20 - SUISSE FR,FAIL,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-62ba4aaff663580a7238f327/?X-Plex-Token=b8ucL7rmMCcw3eku1ZXn
-Sony One | Favoris,20 - SUISSE FR,404,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-692229df50fe592fd6d5b7e2/?X-Plex-Token=b8ucL7rmMCcw3eku1ZXn
-SPEEDVISION,20 - SUISSE FR,FAIL,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-6349ed0eb1adc4cfa571fd37/?X-Plex-Token=b8ucL7rmMCcw3eku1ZXn
-Startalk TV,20 - SUISSE FR,FAIL,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-664292a80e0ec7b4ce5eb28c/?X-Plex-Token=b8ucL7rmMCcw3eku1ZXn
-Stingray Classica Stream,20 - SUISSE FR,FAIL,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-62d7f68fb19cbf65dc7bef7d/?X-Plex-Token=b8ucL7rmMCcw3eku1ZXn
-Stingray Greatest Hits,20 - SUISSE FR,FAIL,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-61aa97d4113e1e5137fd5325/?X-Plex-Token=b8ucL7rmMCcw3eku1ZXn
-Stingray Holidayscapes,20 - SUISSE FR,FAIL,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-654eb862dde2222e8ba551f1/?X-Plex-Token=b8ucL7rmMCcw3eku1ZXn
-Stingray Hot Country,20 - SUISSE FR,FAIL,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-61aa9e73784a2161d3caf7f9/?X-Plex-Token=b8ucL7rmMCcw3eku1ZXn
-Stingray Karaoke,20 - SUISSE FR,404,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-62d7f6904d0067dd4d60d0de/?X-Plex-Token=b8ucL7rmMCcw3eku1ZXn
-Stingray Soul Storm,20 - SUISSE FR,FAIL,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-61aaa17a784a2161d3caf801/?X-Plex-Token=b8ucL7rmMCcw3eku1ZXn
-Strongman Champions,20 - SUISSE FR,FAIL,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-644b13a3a1c0a5b2024c8403/?X-Plex-Token=b8ucL7rmMCcw3eku1ZXn
-The Bob Ross Channel,20 - SUISSE FR,FAIL,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-5efe1de6e0b3f5003f5d9f88/?X-Plex-Token=b8ucL7rmMCcw3eku1ZXn
-The Bold and the Beautiful,20 - SUISSE FR,FAIL,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-67d9a3d663c5439aeaf61305/?X-Plex-Token=b8ucL7rmMCcw3eku1ZXn
-The Carol Burnett Show,20 - SUISSE FR,FAIL,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-60d4edd6b2fdec002c141125/?X-Plex-Token=b8ucL7rmMCcw3eku1ZXn
-The Design Network,20 - SUISSE FR,FAIL,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-5f0641d3e8ffda004033b16e/?X-Plex-Token=b8ucL7rmMCcw3eku1ZXn
-The Ed Sullivan Show,20 - SUISSE FR,FAIL,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-640205c68ecb41f2d89d5814/?X-Plex-Token=b8ucL7rmMCcw3eku1ZXn
-The Emeril Lagasse Channel,20 - SUISSE FR,FAIL,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-67294a601055ef3897c73477/?X-Plex-Token=b8ucL7rmMCcw3eku1ZXn
-The Martha Stewart Channel,20 - SUISSE FR,FAIL,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-672948f0297d4ea7584a2e13/?X-Plex-Token=b8ucL7rmMCcw3eku1ZXn
-The Pet Collective,20 - SUISSE FR,FAIL,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-5f170d61b898490041b49369/?X-Plex-Token=b8ucL7rmMCcw3eku1ZXn
-The Prof G Channel,20 - SUISSE FR,FAIL,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-69f52ffb6e5708fb20d36d9c/?X-Plex-Token=b8ucL7rmMCcw3eku1ZXn
-The Spa,20 - SUISSE FR,FAIL,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-62f11395586633e88e3a3274/?X-Plex-Token=b8ucL7rmMCcw3eku1ZXn
-TNA Wrestling Channel,20 - SUISSE FR,FAIL,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-606605549dbfca002d2ae873/?X-Plex-Token=b8ucL7rmMCcw3eku1ZXn
-Today's K-Pop,20 - SUISSE FR,FAIL,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-62ee6eae271f393d2d9f7096/?X-Plex-Token=b8ucL7rmMCcw3eku1ZXn
-Toon Goggles,20 - SUISSE FR,404,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-5eea605574085f0040ddc794/?X-Plex-Token=b8ucL7rmMCcw3eku1ZXn
-TRACE Brazuca,20 - SUISSE FR,FAIL,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-6329474265c8569187176338/?X-Plex-Token=b8ucL7rmMCcw3eku1ZXn
-TRACE UK,20 - SUISSE FR,404,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-66be8cd4871131188099527e/?X-Plex-Token=b8ucL7rmMCcw3eku1ZXn
+Shemaroo Bollywood,20 - SUISSE FR,FAIL,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-62d1a58e520656fda09e609d/?X-Plex-Token=YmWA29qqrm_RsAzHctJw
+SKWAD,20 - SUISSE FR,404,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-5f12332eeca6a20040b328e5/?X-Plex-Token=YmWA29qqrm_RsAzHctJw
+SLOPES,20 - SUISSE FR,FAIL,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-616df1be2cf008a748c8cb53/?X-Plex-Token=YmWA29qqrm_RsAzHctJw
+Smooth Jazz,20 - SUISSE FR,FAIL,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-62ee784852f7d73061eec493/?X-Plex-Token=YmWA29qqrm_RsAzHctJw
+Smurf TV,20 - SUISSE FR,404,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-639b8d803f4612cc150a5721/?X-Plex-Token=YmWA29qqrm_RsAzHctJw
+Sonic TV,20 - SUISSE FR,FAIL,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-62ba4aaff663580a7238f327/?X-Plex-Token=YmWA29qqrm_RsAzHctJw
+Sony One | Favoris,20 - SUISSE FR,404,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-692229df50fe592fd6d5b7e2/?X-Plex-Token=YmWA29qqrm_RsAzHctJw
+SPEEDVISION,20 - SUISSE FR,FAIL,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-6349ed0eb1adc4cfa571fd37/?X-Plex-Token=YmWA29qqrm_RsAzHctJw
+Startalk TV,20 - SUISSE FR,FAIL,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-664292a80e0ec7b4ce5eb28c/?X-Plex-Token=YmWA29qqrm_RsAzHctJw
+Stingray Classica Stream,20 - SUISSE FR,FAIL,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-62d7f68fb19cbf65dc7bef7d/?X-Plex-Token=YmWA29qqrm_RsAzHctJw
+Stingray Greatest Hits,20 - SUISSE FR,FAIL,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-61aa97d4113e1e5137fd5325/?X-Plex-Token=YmWA29qqrm_RsAzHctJw
+Stingray Holidayscapes,20 - SUISSE FR,FAIL,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-654eb862dde2222e8ba551f1/?X-Plex-Token=YmWA29qqrm_RsAzHctJw
+Stingray Hot Country,20 - SUISSE FR,FAIL,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-61aa9e73784a2161d3caf7f9/?X-Plex-Token=YmWA29qqrm_RsAzHctJw
+Stingray Karaoke,20 - SUISSE FR,404,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-62d7f6904d0067dd4d60d0de/?X-Plex-Token=YmWA29qqrm_RsAzHctJw
+Stingray Soul Storm,20 - SUISSE FR,FAIL,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-61aaa17a784a2161d3caf801/?X-Plex-Token=YmWA29qqrm_RsAzHctJw
+Strongman Champions,20 - SUISSE FR,FAIL,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-644b13a3a1c0a5b2024c8403/?X-Plex-Token=YmWA29qqrm_RsAzHctJw
+The Bob Ross Channel,20 - SUISSE FR,FAIL,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-5efe1de6e0b3f5003f5d9f88/?X-Plex-Token=YmWA29qqrm_RsAzHctJw
+The Bold and the Beautiful,20 - SUISSE FR,FAIL,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-67d9a3d663c5439aeaf61305/?X-Plex-Token=YmWA29qqrm_RsAzHctJw
+The Carol Burnett Show,20 - SUISSE FR,FAIL,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-60d4edd6b2fdec002c141125/?X-Plex-Token=YmWA29qqrm_RsAzHctJw
+The Design Network,20 - SUISSE FR,FAIL,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-5f0641d3e8ffda004033b16e/?X-Plex-Token=YmWA29qqrm_RsAzHctJw
+The Ed Sullivan Show,20 - SUISSE FR,FAIL,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-640205c68ecb41f2d89d5814/?X-Plex-Token=YmWA29qqrm_RsAzHctJw
+The Emeril Lagasse Channel,20 - SUISSE FR,FAIL,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-67294a601055ef3897c73477/?X-Plex-Token=YmWA29qqrm_RsAzHctJw
+The Martha Stewart Channel,20 - SUISSE FR,FAIL,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-672948f0297d4ea7584a2e13/?X-Plex-Token=YmWA29qqrm_RsAzHctJw
+The Pet Collective,20 - SUISSE FR,FAIL,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-5f170d61b898490041b49369/?X-Plex-Token=YmWA29qqrm_RsAzHctJw
+The Prof G Channel,20 - SUISSE FR,FAIL,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-69f52ffb6e5708fb20d36d9c/?X-Plex-Token=YmWA29qqrm_RsAzHctJw
+The Spa,20 - SUISSE FR,FAIL,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-62f11395586633e88e3a3274/?X-Plex-Token=YmWA29qqrm_RsAzHctJw
+TNA Wrestling Channel,20 - SUISSE FR,FAIL,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-606605549dbfca002d2ae873/?X-Plex-Token=YmWA29qqrm_RsAzHctJw
+Today's K-Pop,20 - SUISSE FR,FAIL,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-62ee6eae271f393d2d9f7096/?X-Plex-Token=YmWA29qqrm_RsAzHctJw
+Toon Goggles,20 - SUISSE FR,404,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-5eea605574085f0040ddc794/?X-Plex-Token=YmWA29qqrm_RsAzHctJw
+TRACE Brazuca,20 - SUISSE FR,FAIL,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-6329474265c8569187176338/?X-Plex-Token=YmWA29qqrm_RsAzHctJw
+TRACE UK,20 - SUISSE FR,404,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-66be8cd4871131188099527e/?X-Plex-Token=YmWA29qqrm_RsAzHctJw
 TV5Monde France Belgique Suisse Monaco (1080p) [Geo-blocked],20 - SUISSE FR,403,https://ott.tv5monde.com/Content/HLS/Live/channel(fbs)/variant.m3u8
-TV5MONDE Info,20 - SUISSE FR,404,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-68a799722895f21006e758e4/?X-Plex-Token=b8ucL7rmMCcw3eku1ZXn
-Unbeaten,20 - SUISSE FR,404,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-67f45ef989089d917e1b1634/?X-Plex-Token=b8ucL7rmMCcw3eku1ZXn
-USA TODAY,20 - SUISSE FR,FAIL,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-60df3e18541143002f3b8607/?X-Plex-Token=b8ucL7rmMCcw3eku1ZXn
-Watch it Kid,20 - SUISSE FR,404,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-621672612c2627c068e73ad6/?X-Plex-Token=b8ucL7rmMCcw3eku1ZXn
-Watch it SCREAM,20 - SUISSE FR,FAIL,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-621671d05abdd3d5556a1baf/?X-Plex-Token=b8ucL7rmMCcw3eku1ZXn
-Waypoint TV,20 - SUISSE FR,FAIL,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-5fd115b8b7ef8d002dcf1817/?X-Plex-Token=b8ucL7rmMCcw3eku1ZXn
-WeatherSpy,20 - SUISSE FR,FAIL,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-5f0ff266d71dcb00449ec030/?X-Plex-Token=b8ucL7rmMCcw3eku1ZXn
-Wired2Fish,20 - SUISSE FR,FAIL,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-608a2c722957c9002c6a617b/?X-Plex-Token=b8ucL7rmMCcw3eku1ZXn
-World Billiards TV,20 - SUISSE FR,FAIL,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-68b9f334fc12601028c5651e/?X-Plex-Token=b8ucL7rmMCcw3eku1ZXn
-World Surf League 24/7,20 - SUISSE FR,FAIL,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-652875586425fdb1f32d2169/?X-Plex-Token=b8ucL7rmMCcw3eku1ZXn
-XFC TV,20 - SUISSE FR,404,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-621670feab2095ca85353ad4/?X-Plex-Token=b8ucL7rmMCcw3eku1ZXn
-Y2K,20 - SUISSE FR,FAIL,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-62ee72cc271f393d2d9f7098/?X-Plex-Token=b8ucL7rmMCcw3eku1ZXn
-Ya Que La Vérité La Chaine,20 - SUISSE FR,404,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-63ae3c6c6d1144b79ce12224/?X-Plex-Token=b8ucL7rmMCcw3eku1ZXn
-Yahoo Finance,20 - SUISSE FR,FAIL,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-5f170f01b898490041b49dd1/?X-Plex-Token=b8ucL7rmMCcw3eku1ZXn
-ZenLIFE by Stingray,20 - SUISSE FR,404,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-66fd3e25216b603e031725fe/?X-Plex-Token=b8ucL7rmMCcw3eku1ZXn
-ACTV (504p),21 - BELGIQUE FR,TIMEOUT,https://dlgt0tdl2hpq3.cloudfront.net/rtbf/clr-rtbf/4db788c7/index.m3u8
+TV5MONDE Info,20 - SUISSE FR,404,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-68a799722895f21006e758e4/?X-Plex-Token=YmWA29qqrm_RsAzHctJw
+UFC,20 - SUISSE FR,403,https://jmp2.uk/plu-67921b78b83355184c667770.m3u8
+Un Village Français,20 - SUISSE FR,403,https://jmp2.uk/plu-6304f2e2eb10450007298023.m3u8
+Unbeaten,20 - SUISSE FR,404,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-67f45ef989089d917e1b1634/?X-Plex-Token=YmWA29qqrm_RsAzHctJw
+USA TODAY,20 - SUISSE FR,FAIL,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-60df3e18541143002f3b8607/?X-Plex-Token=YmWA29qqrm_RsAzHctJw
+Watch it Kid,20 - SUISSE FR,404,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-621672612c2627c068e73ad6/?X-Plex-Token=YmWA29qqrm_RsAzHctJw
+Watch it SCREAM,20 - SUISSE FR,FAIL,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-621671d05abdd3d5556a1baf/?X-Plex-Token=YmWA29qqrm_RsAzHctJw
+Waypoint TV,20 - SUISSE FR,FAIL,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-5fd115b8b7ef8d002dcf1817/?X-Plex-Token=YmWA29qqrm_RsAzHctJw
+WeatherSpy,20 - SUISSE FR,FAIL,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-5f0ff266d71dcb00449ec030/?X-Plex-Token=YmWA29qqrm_RsAzHctJw
+Wired2Fish,20 - SUISSE FR,FAIL,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-608a2c722957c9002c6a617b/?X-Plex-Token=YmWA29qqrm_RsAzHctJw
+World Billiards TV,20 - SUISSE FR,FAIL,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-68b9f334fc12601028c5651e/?X-Plex-Token=YmWA29qqrm_RsAzHctJw
+World Surf League 24/7,20 - SUISSE FR,FAIL,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-652875586425fdb1f32d2169/?X-Plex-Token=YmWA29qqrm_RsAzHctJw
+XFC TV,20 - SUISSE FR,404,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-621670feab2095ca85353ad4/?X-Plex-Token=YmWA29qqrm_RsAzHctJw
+Y2K,20 - SUISSE FR,FAIL,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-62ee72cc271f393d2d9f7098/?X-Plex-Token=YmWA29qqrm_RsAzHctJw
+Ya Que La Vérité La Chaine,20 - SUISSE FR,404,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-63ae3c6c6d1144b79ce12224/?X-Plex-Token=YmWA29qqrm_RsAzHctJw
+Yahoo Finance,20 - SUISSE FR,FAIL,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-5f170f01b898490041b49dd1/?X-Plex-Token=YmWA29qqrm_RsAzHctJw
+Yu-Gi-Oh!,20 - SUISSE FR,403,https://jmp2.uk/plu-6130d9c712c2b000070abb50.m3u8
+Z Nation,20 - SUISSE FR,403,https://jmp2.uk/plu-66b227b446762a000846c208.m3u8
+ZenLIFE by Stingray,20 - SUISSE FR,404,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-66fd3e25216b603e031725fe/?X-Plex-Token=YmWA29qqrm_RsAzHctJw
 Bel RTL (1080p),21 - BELGIQUE FR,FAIL,https://bel-live-hls.akamaized.net/hls/live/2038650/BEL-Live-HLS/master.m3u8
 Bouke (504p),21 - BELGIQUE FR,TIMEOUT,https://dlgt0tdl2hpq3.cloudfront.net/rtbf/clr-rtbf/e1ccc6aa/index.m3u8
 Canal Zoom [Geo-blocked],21 - BELGIQUE FR,403,https://tvlocales-live.freecaster.com/live/95d2e3af-5ab8-45a9-9dc9-f544d006b5d5/95d2e3af-5ab8-45a9-9dc9-f544d006b5d5.isml/master.m3u8
@@ -294,12 +331,15 @@ Telesambre (504p),21 - BELGIQUE FR,TIMEOUT,https://dlgt0tdl2hpq3.cloudfront.net/
 Tipik (720p),21 - BELGIQUE FR,FAIL,http://193.111.198.85:8589/stream/mstv/rtbftipiklive26/master.m3u8?p=967e33767f592e1aaf3d4019f38f380bf784e113b193d89c412d047059d6300d&u=Oleg
 TVcom (1080p),21 - BELGIQUE FR,403,https://tvlocales-live.freecaster.com/tvcom/95d2f656-ba85-4e13-affc-f1936be1a86d/95d2f656-ba85-4e13-affc-f1936be1a86d.isml/master.m3u8
 Vedia (1080p),21 - BELGIQUE FR,403,https://tvlocales-live.freecaster.com/vedia/95d2f480-b0b0-4027-9f4a-057183312305/95d2f480-b0b0-4027-9f4a-057183312305.isml/master.m3u8
+Pluto TV ANIME GO!,22 - QUEBEC,403,https://jmp2.uk/plu-691b3669c48674840c3b832a.m3u8
+Pluto TV Aventure,22 - QUEBEC,403,https://jmp2.uk/plu-611e7811eb9daf000764cbfd.m3u8
 TV5 Quebec Canada (1080p),22 - QUEBEC,TIMEOUT,http://23.133.220.149/TV5/index.m3u8
 TVA [Geo-blocked],22 - QUEBEC,403,https://tvalive-dai01.akamaized.net/Content/HLS/Live/channel(575b93c5-be31-ee34-6285-14620fd14048)/index.m3u8
 LCN [Geo-blocked],22 - QUEBEC & CANADA FR,403,https://tvalive.akamaized.net/hls/live/2014213/tvan01/tvan01.m3u8
 Legislative Assembly of Ontario,22 - QUEBEC & CANADA FR,FAIL,https://temp3.isilive.ca/live/_definst_/ontla/house-en/playlist.m3u8
 TV5 Unis,22 - QUEBEC & CANADA FR,TIMEOUT,http://23.133.220.149/Unis_TV/index.m3u8
 ILTV (720p),23 - FRANCE REGIONS,403,https://live.creacast.com/iltv/smil:iltv.smil/playlist.m3u8
+Rhône TV (1080p) [Geo-blocked],23 - FRANCE REGIONS,403,https://edge14.vedge.infomaniak.com/livecast/ik:rhonetv/manifest.m3u8
 TéléGohelle,23 - FRANCE REGIONS,404,https://videas.agglo-lenslievin.fr/index.m3u8
 TV78 (720p),23 - FRANCE REGIONS,404,https://streamtv.cdn.dvmr.fr/TV78/ngrp:tv78.stream_all/master.m3u8
 TVR (Bretagne) (720p),23 - FRANCE REGIONS,404,https://streamtv.cdn.dvmr.fr/TVR/ngrp:tvr.stream_all/master.m3u8
@@ -307,9 +347,6 @@ viàMoselleTV (720p) [Not 24/7],23 - FRANCE REGIONS,403,https://live.creacast.co
 viàOccitanie (540p) [Not 24/7],23 - FRANCE REGIONS,FAIL,https://streamer01.myvideoplace.tv/streamer02/hls/MDS_VIA_PAD_301117.m3u8
 Antenne Réunion (720p) [Not 24/7],24 - OUTRE-MER & CARAIBES,TIMEOUT,https://live-antenne-reunion.zeop.tv/live/c3eds/antreunihd/hls_fta/antreunihd.m3u8?location=ZEOP01
 TNTV (1080p),24 - OUTRE-MER & CARAIBES,FAIL,https://tntv-samsung-fr.amagi.tv/playlist.m3u8
-Trace Ayiti (1080p),24 - OUTRE-MER & CARAIBES,FAIL,https://channels.trace.plus/Traceprod/AYITI_hd/index.m3u8
-Trace Caribbean (1080p),24 - OUTRE-MER & CARAIBES,FAIL,https://channels.trace.plus/Traceprod/CARIBBEAN_hd/index.m3u8
-Trace Vanilla Islands (1080p),24 - OUTRE-MER & CARAIBES,FAIL,https://channels.trace.plus/Traceprod/VANILLA_hd/index.m3u8
 TVCARiB (720p) [Not 24/7],24 - OUTRE-MER & CARAIBES,404,https://cdn.mycloudstream.io/hls/live/broadcast/s6nitpvn/index.m3u8
 ViàATV (1080p) [Geo-blocked],24 - OUTRE-MER & CARAIBES,FAIL,https://streamer01.myvideoplace.tv/streamer02/hls/ATV_DIRECT_EV_111018.m3u8
 A2i Naija (720p) [Not 24/7],25 - AFRIQUE FRANCOPHONE,404,https://stream.sen-gt.com/A2iNaija/myStream/playlist.m3u8
@@ -326,26 +363,87 @@ Kemet TV,25 - AFRIQUE FRANCOPHONE,404,https://kemettv.cm/memfs/4e7fb105-9f92-4e8
 Kin24,25 - AFRIQUE FRANCOPHONE,TIMEOUT,http://51.254.199.122:8080/kin24/index.m3u8
 NTV Afrique (1080p) [Not 24/7],25 - AFRIQUE FRANCOPHONE,403,https://strhlslb01.streamakaci.tv/str_ntv_ntv/str_ntv_ntv_multi/playlist.m3u8
 ORTM 1 (540p) [Not 24/7],25 - AFRIQUE FRANCOPHONE,TIMEOUT,http://69.64.57.208/ortm/playlist.m3u8
+RTB (360p) [Not 24/7],25 - AFRIQUE FRANCOPHONE,403,https://edge12.vedge.infomaniak.com/livecast/ik:rtblive1_8/manifest.m3u8
 RTNC 3,25 - AFRIQUE FRANCOPHONE,TIMEOUT,http://51.254.199.122:8080/e-cableRTNC3/index.m3u8
 Saraounia TV,25 - AFRIQUE FRANCOPHONE,403,https://live20.bozztv.com/dvrfl06/astv/astv-saraouna/index.m3u8
 Télé Congo (720p),25 - AFRIQUE FRANCOPHONE,TIMEOUT,http://51.254.199.122:8080/telecongo/index.m3u8
 Tele Tchad (1080p),25 - AFRIQUE FRANCOPHONE,403,https://strhlslb01.streamakaci.tv/str_tchad_tchad/str_tchad_multi/playlist.m3u8
-Trace Ivoire (1080p),25 - AFRIQUE FRANCOPHONE,FAIL,https://channels.trace.plus/Traceprod/TRACE_IVOIRE_hd/index.m3u8
-Trace Kitoko (1080p),25 - AFRIQUE FRANCOPHONE,FAIL,https://channels.trace.plus/Traceprod/KITOKO_hd/index.m3u8
-Trace Mboa (1080p),25 - AFRIQUE FRANCOPHONE,FAIL,https://channels.trace.plus/Traceprod/MBOA_hd/index.m3u8
-Trace Muzika (1080p),25 - AFRIQUE FRANCOPHONE,FAIL,https://channels.trace.plus/Traceprod/MUZIKA_hd/index.m3u8
-Trace Teranga (1080p),25 - AFRIQUE FRANCOPHONE,FAIL,https://channels.trace.plus/Traceprod/TERANGA_hd/index.m3u8
-Trace Urban Africa Franco (1080p),25 - AFRIQUE FRANCOPHONE,FAIL,https://channels.trace.plus/Traceprod/URBAN_AFRIC_FR_hd/index.m3u8
+Alerte Cobra,31 - PLUTO TV FR,403,https://jmp2.uk/plu-62f3e4bc08f5ec000744f552.m3u8
 Avatar,31 - PLUTO TV FR,404,https://jmp2.uk/plu-60b4c17a81e29300071d3a39.m3u8
+Barbie & Friends,31 - PLUTO TV FR,403,https://jmp2.uk/plu-686e7499e0ecf0e0cc25dbe3.m3u8
+Blue Bloods,31 - PLUTO TV FR,403,https://jmp2.uk/plu-66f55a9a747bfa0008521859.m3u8
+C'est pas sorcier,31 - PLUTO TV FR,403,https://jmp2.uk/plu-63b579961bdba100071214cb.m3u8
+Charlotte aux Fraises,31 - PLUTO TV FR,403,https://jmp2.uk/plu-60dc6937b450ad0007377e48.m3u8
+Cheers,31 - PLUTO TV FR,403,https://jmp2.uk/plu-65cce14060eb870008dbd003.m3u8
+Cut,31 - PLUTO TV FR,403,https://jmp2.uk/plu-691b351d427d68a118fdda13.m3u8
+Dawson,31 - PLUTO TV FR,403,https://jmp2.uk/plu-69aadc5551df9542f2521e1a.m3u8
+DAZN Ringside,31 - PLUTO TV FR,403,https://jmp2.uk/plu-64d626ac9b414d000820e2fc.m3u8
+Degrassi,31 - PLUTO TV FR,403,https://jmp2.uk/plu-611e71322f5f180007001dde.m3u8
+Detective Conan France (720p),31 - PLUTO TV FR,403,https://jmp2.uk/plu-62f3e8ad2a8e8000077b013d.m3u8
+Digimon Adventure,31 - PLUTO TV FR,403,https://jmp2.uk/plu-617bae1d69bca3000729561e.m3u8
+Doraemon,31 - PLUTO TV FR,403,https://jmp2.uk/plu-68b17414c23bb80b3c1d5bb5.m3u8
+Dossiers FBI,31 - PLUTO TV FR,403,https://jmp2.uk/plu-5f8edad922b10b000753bc37.m3u8
+Echappées Belles & Co,31 - PLUTO TV FR,403,https://jmp2.uk/plu-63b578b524f0cf00072f2a52.m3u8
+Faites entrer l'accusé,31 - PLUTO TV FR,403,https://jmp2.uk/plu-662a622b5e2370000800f392.m3u8
+Flashpoint,31 - PLUTO TV FR,403,https://jmp2.uk/plu-66d71ff86b63480008cf15c5.m3u8
+Hélène et les garçons,31 - PLUTO TV FR,403,https://jmp2.uk/plu-604f8de01b479400078fb1e7.m3u8
+House of Creators,31 - PLUTO TV FR,403,https://jmp2.uk/plu-6a1ea44109705ebdf73b7c49.m3u8
+INA 70,31 - PLUTO TV FR,403,https://jmp2.uk/plu-639b54404cfdf7000729b3c1.m3u8
+Incroyables Transformations,31 - PLUTO TV FR,403,https://jmp2.uk/plu-66f55d205e4a6e0008c2b92b.m3u8
+Instant Saga,31 - PLUTO TV FR,403,https://jmp2.uk/plu-60549e98061b5f000776866a.m3u8
+JAG,31 - PLUTO TV FR,403,https://jmp2.uk/plu-65ccd26060eb870008db95fc.m3u8
+Juste pour Rire GAGS,31 - PLUTO TV FR,403,https://jmp2.uk/plu-60afa1508284e60007163c08.m3u8
+La Moderna,31 - PLUTO TV FR,403,https://jmp2.uk/plu-691b334a1308fa77bb056b0e.m3u8
+Le miracle de l'amour,31 - PLUTO TV FR,403,https://jmp2.uk/plu-60549c238c3f21000753d3e0.m3u8
+Les Anges,31 - PLUTO TV FR,403,https://jmp2.uk/plu-66b228d4cd0d3100085d27b7.m3u8
+Les Années fac,31 - PLUTO TV FR,403,https://jmp2.uk/plu-60afae68a7fc50000737186d.m3u8
+Les Marseillais,31 - PLUTO TV FR,403,https://jmp2.uk/plu-66f55d565e4a6e0008c2b9d2.m3u8
+Les Nouveaux Detectives,31 - PLUTO TV FR,403,https://jmp2.uk/plu-5f8edb6df1ebb800072edf10.m3u8
+Les Schtroumpfs,31 - PLUTO TV FR,403,https://jmp2.uk/plu-68b16d2282862c1f067dc763.m3u8
+Les vacances de l'amour,31 - PLUTO TV FR,403,https://jmp2.uk/plu-691b33ae8a64bd1811e923f2.m3u8
+Les Z'amours,31 - PLUTO TV FR,403,https://jmp2.uk/plu-652d0b756208700008d758ad.m3u8
+Louis La Brocante,31 - PLUTO TV FR,403,https://jmp2.uk/plu-5f8ed6d569d2d4000864a976.m3u8
+MacGyver,31 - PLUTO TV FR,403,https://jmp2.uk/plu-6245ccd0c6cdb800074632e4.m3u8
+Mission Impossible,31 - PLUTO TV FR,403,https://jmp2.uk/plu-6671b21ffc3a46000857fe75.m3u8
+Most Haunted,31 - PLUTO TV FR,403,https://jmp2.uk/plu-66d722d31878f200081c2c64.m3u8
+Nina,31 - PLUTO TV FR,403,https://jmp2.uk/plu-692ec6d82329c10c5166f436.m3u8
+Olive & Tom,31 - PLUTO TV FR,403,https://jmp2.uk/plu-662a63275a402e00086bc8a5.m3u8
+Pêche à haut risque,31 - PLUTO TV FR,403,https://jmp2.uk/plu-678f894ef5c74bff95c20a7f.m3u8
+PJ,31 - PLUTO TV FR,403,https://jmp2.uk/plu-692ec71425eaa17b6daf2a11.m3u8
+Plus Belle la Vie 2,31 - PLUTO TV FR,403,https://jmp2.uk/plu-662a6309307fa30008196b4e.m3u8
+Pluto TV 90's Classics,31 - PLUTO TV FR,403,https://jmp2.uk/plu-66b4990746762a00084c2f78.m3u8
+Pluto TV Anime Retro,31 - PLUTO TV FR,403,https://jmp2.uk/plu-69aadcdb6c0414a7ecb56ede.m3u8
+Pluto TV Dating (720p),31 - PLUTO TV FR,403,https://jmp2.uk/plu-682318568e6c0f2f6c6e0038.m3u8
+Pluto TV French Collection,31 - PLUTO TV FR,403,https://jmp2.uk/plu-62f3e0522443200008c567d7.m3u8
+Pluto TV Girls Club,31 - PLUTO TV FR,403,https://jmp2.uk/plu-69c2ad7500a8d7d87767d25f.m3u8
+Pluto TV Inside,31 - PLUTO TV FR,403,https://jmp2.uk/plu-5f8ed3892ed7bb000741a1d2.m3u8
+Pluto TV Paranormal,31 - PLUTO TV FR,403,https://jmp2.uk/plu-5f8ed9461b35690007a0bc3a.m3u8
+Pluto TV Retro Toons,31 - PLUTO TV FR,403,https://jmp2.uk/plu-611e6a9b4bb5790007a6f0f8.m3u8
+Pluto TV Snooker 900 (720p),31 - PLUTO TV FR,403,https://jmp2.uk/plu-66fd35e44ca31f0008060b77.m3u8
+Pluto TV Stand Up,31 - PLUTO TV FR,403,https://jmp2.uk/plu-678f891a3de7c8cf94765b01.m3u8
+Pluto TV Téléréalité France,31 - PLUTO TV FR,403,https://jmp2.uk/plu-699865ccac36b147e74619fe.m3u8
+Pluto TV Toons (720p),31 - PLUTO TV FR,403,https://jmp2.uk/plu-5f8eba14a4ffb8000764e950.m3u8
+Qui veut gagner des millions?,31 - PLUTO TV FR,403,https://jmp2.uk/plu-652d0b9ceb72580008a4ea5b.m3u8
+Ridiculousness (720p),31 - PLUTO TV FR,403,https://jmp2.uk/plu-5f8eb8a8b2619a000710605c.m3u8
+Si près de chez vous,31 - PLUTO TV FR,403,https://jmp2.uk/plu-697a34496f47f39d31ff8bde.m3u8
+Space Live,31 - PLUTO TV FR,403,https://jmp2.uk/plu-69b3db536c0414a7ecf564fb.m3u8
+The Asylum,31 - PLUTO TV FR,403,https://jmp2.uk/plu-5f8ece1a89d79800072510e6.m3u8
+Top Gear,31 - PLUTO TV FR,403,https://jmp2.uk/plu-64c1093824ade50008bd117f.m3u8
+Tout le monde déteste Chris,31 - PLUTO TV FR,403,https://jmp2.uk/plu-67b4b4a21a5ca760802d25fd.m3u8
+Turbo (720p),31 - PLUTO TV FR,403,https://jmp2.uk/plu-66f55c3955567d0008ef9b68.m3u8
+"une fille"" tvg-logo=""https://images.pluto.tv/channels/62f3ece7b09fd6000783bfb9/colorLogoPNG.png"" group-title=""31 - PLUTO TV FR"",Un gars une fille",31 - PLUTO TV FR,403,https://jmp2.uk/plu-62f3ece7b09fd6000783bfb9.m3u8
+"vendu !"" tvg-logo=""https://images.pluto.tv/channels/64bab8ba5dc1660008969b5a/colorLogoPNG.png"" group-title=""31 - PLUTO TV FR"",Adjugé vendu !",31 - PLUTO TV FR,403,https://jmp2.uk/plu-64bab8ba5dc1660008969b5a.m3u8
+Walker Texas Ranger,31 - PLUTO TV FR,403,https://jmp2.uk/plu-60afa749ac7f3200078adb40.m3u8
+WPT,31 - PLUTO TV FR,403,https://jmp2.uk/plu-5f8ecfb9db6c180007a6d1b0.m3u8
+Zone Interdite,31 - PLUTO TV FR,403,https://jmp2.uk/plu-66f55cf2483d460008f68746.m3u8
 Dhar Mann TV,32 - SAMSUNG TV PLUS FR,TIMEOUT,https://jmp2.uk/stvp-FR3800005NP
-Drames - Rakuten TV,32 - SAMSUNG TV PLUS FR,TIMEOUT,https://jmp2.uk/stvp-FR2600005LH
 Émotion,32 - SAMSUNG TV PLUS FR,404,https://jmp2.uk/stvp-FRBC900001LB
+Les Routes du Paradis,32 - SAMSUNG TV PLUS FR,403,https://jmp2.uk/plu-65cce23bdc10a400080645ad.m3u8
 Red Bull TV,32 - SAMSUNG TV PLUS FR,TIMEOUT,https://jmp2.uk/stvp-FR1700004PK
-RMC Life,32 - SAMSUNG TV PLUS FR,TIMEOUT,https://jmp2.uk/stvp-FR4000003O1
 Rookie Blue,32 - SAMSUNG TV PLUS FR,403,https://jmp2.uk/stvp-FR2100001VM
 Sony One Blacklist,32 - SAMSUNG TV PLUS FR,FAIL,https://jmp2.uk/stvp-FR300010HD
 Sony One Favoris,32 - SAMSUNG TV PLUS FR,FAIL,https://jmp2.uk/stvp-FR300011G9
-Tele.Novela,32 - SAMSUNG TV PLUS FR,TIMEOUT,https://jmp2.uk/stvp-FRBC14000010C
+Tennis Channel,32 - SAMSUNG TV PLUS FR,403,https://jmp2.uk/plu-6a43ab7bfd93e35b5dadb67e.m3u8
 Top Barça,32 - SAMSUNG TV PLUS FR,403,https://jmp2.uk/stvp-FR110000354
 Antenne A,40 - AUTRES FRANCOPHONES,TIMEOUT,http://51.254.199.122:8080/antenne_a-plus/index.m3u8
 Canal 3,40 - AUTRES FRANCOPHONES,403,https://cs2.push2stream.com/CANAL3BENIN/playlist.m3u8
@@ -354,7 +452,7 @@ NW Economie (576p),40 - AUTRES FRANCOPHONES,403,https://hls.newworldtv.com/nw-ec
 NW Magazine (576p),40 - AUTRES FRANCOPHONES,403,https://hls.newworldtv.com/nw-magazine/video/live.m3u8
 One Nation TV (720p) [Not 24/7],40 - AUTRES FRANCOPHONES,404,https://endour.net/hls/One_nationtv/index.m3u8
 PSTV HD (480p) [Not 24/7],40 - AUTRES FRANCOPHONES,TIMEOUT,http://51.254.199.122:8080/PSTV/index.m3u8
-RT France (1080p) [Geo-blocked],40 - AUTRES FRANCOPHONES,TIMEOUT,https://rt-fra.rttv.com/dvr/rtfrance/playlist.m3u8
+RL PRO TV,40 - AUTRES FRANCOPHONES,FAIL,https://stream.berosat.live:19360/rlpro-tv/rlpro-tv.m3u8
 RTH-TV1 (1080p),40 - AUTRES FRANCOPHONES,FAIL,https://2-fss-2.streamhoster.com/pl_120/amlst:206708-4203440/playlist.m3u8
 RTVS1,40 - AUTRES FRANCOPHONES,TIMEOUT,http://51.254.199.122:8080/RTVS1/index.m3u8
 SOS Docteur TV (480p) [Not 24/7],40 - AUTRES FRANCOPHONES,404,https://wmoy82n4y2a7-hls-live.5centscdn.com/sostv/live.stream/playlist.m3u8
@@ -363,7 +461,6 @@ Tele Haiti (1088p) [Not 24/7],40 - AUTRES FRANCOPHONES,TIMEOUT,http://66.175.238
 Teva (1080p),40 - AUTRES FRANCOPHONES,403,http://145.239.5.177/356/index.m3u8
 TM1 (360p) [Not 24/7],40 - AUTRES FRANCOPHONES,TIMEOUT,http://69.64.57.208/tm1/playlist.m3u8
 TNH (720p),40 - AUTRES FRANCOPHONES,403,https://bozztv.com/dvrfl03/hdirect/hdirect-telecaraibes/index.m3u8
-Trace Africa (1080p),40 - AUTRES FRANCOPHONES,FAIL,https://channels.trace.plus/Traceprod/AFRICA_FR_hd/index.m3u8
 Trends Z (1080p),40 - AUTRES FRANCOPHONES,403,https://d1hz1p2gea2zy4.cloudfront.net/live/rmgtv/RMG-TRENDSZFR-LIVE/index.m3u8
 Türkmenistan (406p) [Not 24/7],40 - AUTRES FRANCOPHONES,TIMEOUT,https://alpha.tv.online.tm/hls/ch007.m3u8
 TV Lux (1080p),40 - AUTRES FRANCOPHONES,403,https://tvlocales-live.freecaster.com/tvlux/95d2f632-0780-4ac1-9895-9e50212dd3b6/95d2f632-0780-4ac1-9895-9e50212dd3b6.isml/master.m3u8
@@ -371,10 +468,11 @@ TVT (720p) [Not 24/7],40 - AUTRES FRANCOPHONES,TIMEOUT,http://69.64.57.208/tvt/p
 AC TV (480p) [Not 24/7],99 - A VERIFIER LANGUE,FAIL,https://ssh101stream.ssh101.com/akamaissh101/ssh101/actvstream/playlist.m3u8
 ATV (400p) [Not 24/7],99 - A VERIFIER LANGUE,404,https://guineetvdirect.online:3320/live/atvguineelive.m3u8
 Beb TV (720p),99 - A VERIFIER LANGUE,403,https://live-hls-qunv.livepush.io/live_cdn/em8A-kbzIfHqu73/index.m3u8
-Chabiba TV (360p) [Not 24/7],99 - A VERIFIER LANGUE,404,https://endour.net/hls/RUgLAPCbPdF5oPSTX2Hvl/index.m3u8
 Dega TV (720p) [Not 24/7],99 - A VERIFIER LANGUE,404,https://59d39900ebfb8.streamlock.net/saintlouisltv/saintlouisltv/playlist.m3u8
 GTV (540p),99 - A VERIFIER LANGUE,403,https://g2qd3exjy7an-hls-live.5centscdn.com/gtvghana/ghanaweb.stream/playlist.m3u8
 HC2 TV,99 - A VERIFIER LANGUE,TIMEOUT,https://stream.hc2tv.bj/2/live/stream.m3u8
+Laura Dave Media TV (720p),99 - A VERIFIER LANGUE,TIMEOUT,https://streaming.lauradavemedia.com/ldm/index.m3u8
 Mikuba TV (480p) [Not 24/7],99 - A VERIFIER LANGUE,TIMEOUT,http://51.254.199.122:8080/MIKUBATV/index.m3u8
 NETALKOLE TV (720p) [Not 24/7],99 - A VERIFIER LANGUE,403,https://watch.haitilive.net/naktvhd/index.m3u8
 ONE-TV (720p) [Not 24/7],99 - A VERIFIER LANGUE,TIMEOUT,https://core.live-apc.eu:5443/LiveApp/streams/backup.m3u8
+Speedline TV,99 - A VERIFIER LANGUE,404,https://cdn-us-east-prod-ingest-infra-dacast-com.akamaized.net/dbe59037-07a0-4f1c-82a2-7de94b4b62d2/index.m3u8
