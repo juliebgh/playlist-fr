@@ -6,11 +6,15 @@ TIMEOUT | 01 - TNT & GENERALISTES | France 4
 403 | 01 - TNT & GENERALISTES | France 5 (720p)
 TIMEOUT | 01 - TNT & GENERALISTES | like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="01 - TNT & GENERALISTES",France 3
 404 | 01 - TNT & GENERALISTES | like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="01 - TNT & GENERALISTES",TF1 (576p)
+404 | 01 - TNT & GENERALISTES | like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="01 - TNT & GENERALISTES",TMC (1080p)
 403 | 01 - TNT & GENERALISTES | M6 Music (720p)
 403 | 01 - TNT & GENERALISTES | TFX (720p)
 FAIL | 01 - TNT & GENERALISTES | TVM 3 (1080p)
 TIMEOUT | 02 - INFOS | Africanews French (720p)
+TIMEOUT | 02 - INFOS | BFM Business
+TIMEOUT | 02 - INFOS | BFM TV
 403 | 02 - INFOS | CNA (360p) [Not 24/7]
+TIMEOUT | 02 - INFOS | Haiti News Channel (1080p) [Not 24/7]
 403 | 02 - INFOS | LCI HD (1080p)
 403 | 02 - INFOS | like Gecko) Chrome/108.0.0.0 Safari/537.36" group-title="02 - INFOS",BFM Alsace (1080p)
 403 | 02 - INFOS | like Gecko) Chrome/108.0.0.0 Safari/537.36" group-title="02 - INFOS",BFM DICI Alpes du Sud (1080p)
@@ -25,6 +29,7 @@ TIMEOUT | 02 - INFOS | Africanews French (720p)
 403 | 02 - INFOS | like Gecko) Chrome/108.0.0.0 Safari/537.36" group-title="02 - INFOS",BFM Toulon Var (1080p)
 403 | 02 - INFOS | NW Info FR (576p)
 404 | 03 - CRIME & ENQUETES | Crime Beat TV
+TIMEOUT | 03 - CRIME & ENQUETES | Crime - Rakuten TV
 404 | 03 - CRIME & ENQUETES | Crime Scene TV
 403 | 03 - CRIME & ENQUETES | Enquêtes Criminelles
 403 | 03 - CRIME & ENQUETES | Investigation by Pluto TV
@@ -50,9 +55,10 @@ TIMEOUT | 06 - VOYAGE & DECOUVERTE | TV5Monde Latin America (720p)
 TIMEOUT | 06 - VOYAGE & DECOUVERTE | TV5Monde Style (1080p) [Geo-blocked]
 404 | 07 - CUISINE | Cooking Panda
 404 | 07 - CUISINE | TV5MONDE Chefs
+FAIL | 08 - MAISON BRICOLAGE DECO | CraftsyTV
 403 | 08 - MAISON BRICOLAGE DECO | La maison France 5
 404 | 09 - CINEMA | Action Totale
-FAIL | 09 - CINEMA | Box Office Action
+TIMEOUT | 09 - CINEMA | Box Office Action
 403 | 09 - CINEMA | Ciné 666 by Pluto TV
 403 | 09 - CINEMA | Ciné Action by Pluto TV
 403 | 09 - CINEMA | Ciné by Pluto TV
@@ -68,6 +74,8 @@ FAIL | 09 - CINEMA | Box Office Action
 403 | 09 - CINEMA | Ciné Western by Pluto TV
 404 | 09 - CINEMA | CINEPRIDE
 TIMEOUT | 09 - CINEMA | Comédies - Rakuten TV
+FAIL | 09 - CINEMA | Death Valley Days
+FAIL | 09 - CINEMA | Dick Van Dyke
 404 | 09 - CINEMA | FilmRise Série Populaire
 FAIL | 09 - CINEMA | Grjngo - Western Movies
 FAIL | 09 - CINEMA | Hot Ones
@@ -87,11 +95,13 @@ FAIL | 09 - CINEMA | Sony One HITS Comédie
 404 | 09 - CINEMA | Sony One | Séries Thriller
 FAIL | 09 - CINEMA | Surf Cinema
 FAIL | 09 - CINEMA | The Wiggles
+TIMEOUT | 09 - CINEMA | Top Films - Rakuten TV
 403 | 09 - CINEMA & SERIES | AB1 (720p)
 TIMEOUT | 09 - CINEMA & SERIES | like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="09 - CINEMA & SERIES",Syfy
 403 | 09 - CINEMA & SERIES | Nollywood TV (720p)
 404 | 09 - CINEMA & SERIES | Novela Channel (720p) [Not 24/7]
 403 | 09 - CINEMA & SERIES | RTL9 (720p)
+TIMEOUT | 09 - CINEMA & SERIES | SciFi (720p)
 403 | 09 - CINEMA & SERIES | TV Breizh (1080p)
 FAIL | 10 - SERIES | Asian Drama
 403 | 10 - SERIES | chien flic" tvg-logo="https://images.pluto.tv/channels/691b332aa4385c191ee44b57/colorLogoPNG_1771923791904.png" group-title="10 - SERIES",Rex chien flic
@@ -148,8 +158,7 @@ FAIL | 14 - MUSIQUE | NRJ Hits
 FAIL | 14 - MUSIQUE | Radio Contact (1080p)
 TIMEOUT | 14 - MUSIQUE | Radio Télé Amen FM (360p) [Not 24/7]
 404 | 14 - MUSIQUE | Radio Télé Kajou (480p) [Not 24/7]
-FAIL | 14 - MUSIQUE | Radio Tele Sentinel
-FAIL | 14 - MUSIQUE | Radio Télé Wisdom (360p) [Not 24/7]
+404 | 14 - MUSIQUE | Radio Télé Wisdom (360p) [Not 24/7]
 404 | 14 - MUSIQUE | Radio Télévision Shilo (720p) [Not 24/7]
 FAIL | 14 - MUSIQUE | RFM TV [Not 24/7]
 403 | 14 - MUSIQUE | Trace Latina (1080p)
@@ -157,6 +166,7 @@ FAIL | 14 - MUSIQUE | RFM TV [Not 24/7]
 403 | 14 - MUSIQUE | Trace Urban Southern Africa (1080p)
 404 | 15 - CULTURE | TeleMusik Senegal (720p)
 FAIL | 16 - LIFESTYLE & BIEN-ETRE | FashionTV
+404 | 16 - LIFESTYLE & BIEN-ETRE | Le Nouveau Manager TV
 TIMEOUT | 16 - LIFESTYLE & BIEN-ETRE | Luxe TV (1080p)
 FAIL | 17 - SPIRITUALITE | Dynamic Gospel TV (480p) [Not 24/7]
 403 | 17 - SPIRITUALITE | Ecclesia TV
@@ -300,7 +310,7 @@ FAIL | 20 - SUISSE FR | TRACE Brazuca
 404 | 20 - SUISSE FR | TRACE UK
 403 | 20 - SUISSE FR | TV5Monde France Belgique Suisse Monaco (1080p) [Geo-blocked]
 404 | 20 - SUISSE FR | TV5MONDE Info
-403 | 20 - SUISSE FR | UFC
+FAIL | 20 - SUISSE FR | UFC
 403 | 20 - SUISSE FR | Un Village Français
 404 | 20 - SUISSE FR | Unbeaten
 FAIL | 20 - SUISSE FR | USA TODAY
@@ -347,6 +357,7 @@ TIMEOUT | 23 - FRANCE REGIONS | Puissance TV
 403 | 23 - FRANCE REGIONS | viàMoselleTV (720p) [Not 24/7]
 FAIL | 23 - FRANCE REGIONS | viàOccitanie (540p) [Not 24/7]
 TIMEOUT | 24 - OUTRE-MER & CARAIBES | Antenne Réunion (720p) [Not 24/7]
+TIMEOUT | 24 - OUTRE-MER & CARAIBES | RHT Guadeloupe (720p)
 FAIL | 24 - OUTRE-MER & CARAIBES | TNTV (1080p)
 403 | 24 - OUTRE-MER & CARAIBES | Trace Ayiti (1080p)
 403 | 24 - OUTRE-MER & CARAIBES | Trace Caribbean (1080p)
@@ -362,13 +373,16 @@ FAIL | 25 - AFRIQUE FRANCOPHONE | Bénin Web TV (720p)
 403 | 25 - AFRIQUE FRANCOPHONE | CRTV (576p)
 TIMEOUT | 25 - AFRIQUE FRANCOPHONE | Digital Congo TV
 404 | 25 - AFRIQUE FRANCOPHONE | Exploits TV
+TIMEOUT | 25 - AFRIQUE FRANCOPHONE | GMS TV
 TIMEOUT | 25 - AFRIQUE FRANCOPHONE | Impact TV
 404 | 25 - AFRIQUE FRANCOPHONE | Kemet TV
 TIMEOUT | 25 - AFRIQUE FRANCOPHONE | Kin24
 403 | 25 - AFRIQUE FRANCOPHONE | NTV Afrique (1080p) [Not 24/7]
 TIMEOUT | 25 - AFRIQUE FRANCOPHONE | ORTM 1 (540p) [Not 24/7]
+FAIL | 25 - AFRIQUE FRANCOPHONE | Panafrican Media TV (480p)
 TIMEOUT | 25 - AFRIQUE FRANCOPHONE | RTNC 3
 403 | 25 - AFRIQUE FRANCOPHONE | Saraounia TV
+TIMEOUT | 25 - AFRIQUE FRANCOPHONE | Savane TV
 TIMEOUT | 25 - AFRIQUE FRANCOPHONE | Télé Congo (720p)
 403 | 25 - AFRIQUE FRANCOPHONE | Tele Tchad (1080p)
 403 | 25 - AFRIQUE FRANCOPHONE | Trace Ivoire (1080p)
@@ -431,18 +445,15 @@ TIMEOUT | 25 - AFRIQUE FRANCOPHONE | Télé Congo (720p)
 403 | 31 - PLUTO TV FR | vendu !" tvg-logo="https://images.pluto.tv/channels/64bab8ba5dc1660008969b5a/colorLogoPNG.png" group-title="31 - PLUTO TV FR",Adjugé vendu !
 403 | 31 - PLUTO TV FR | Walker Texas Ranger
 403 | 31 - PLUTO TV FR | WPT
-TIMEOUT | 31 - PLUTO TV FR | Y'a que la vérité qui compte
 403 | 31 - PLUTO TV FR | Zone Interdite
 TIMEOUT | 32 - SAMSUNG TV PLUS FR | Dhar Mann TV
 404 | 32 - SAMSUNG TV PLUS FR | Émotion
-TIMEOUT | 32 - SAMSUNG TV PLUS FR | Famille - Rakuten TV
 TIMEOUT | 32 - SAMSUNG TV PLUS FR | Red Bull TV
 403 | 32 - SAMSUNG TV PLUS FR | Rookie Blue
 FAIL | 32 - SAMSUNG TV PLUS FR | Sony One Blacklist
 FAIL | 32 - SAMSUNG TV PLUS FR | Sony One Favoris
 403 | 32 - SAMSUNG TV PLUS FR | Tennis Channel
 403 | 32 - SAMSUNG TV PLUS FR | Top Barça
-TIMEOUT | 32 - SAMSUNG TV PLUS FR | Vevo Pop
 TIMEOUT | 40 - AUTRES FRANCOPHONES | Antenne A
 403 | 40 - AUTRES FRANCOPHONES | Canal 3
 TIMEOUT | 40 - AUTRES FRANCOPHONES | Natural TV (720p) [Not 24/7]
@@ -450,7 +461,7 @@ TIMEOUT | 40 - AUTRES FRANCOPHONES | Natural TV (720p) [Not 24/7]
 403 | 40 - AUTRES FRANCOPHONES | NW Magazine (576p)
 404 | 40 - AUTRES FRANCOPHONES | One Nation TV (720p) [Not 24/7]
 TIMEOUT | 40 - AUTRES FRANCOPHONES | PSTV HD (480p) [Not 24/7]
-FAIL | 40 - AUTRES FRANCOPHONES | RL PRO TV
+TIMEOUT | 40 - AUTRES FRANCOPHONES | RMC Story (1080p)
 TIMEOUT | 40 - AUTRES FRANCOPHONES | RT France (1080p) [Geo-blocked]
 FAIL | 40 - AUTRES FRANCOPHONES | RTH-TV1 (1080p)
 TIMEOUT | 40 - AUTRES FRANCOPHONES | RTVS1
@@ -458,6 +469,7 @@ TIMEOUT | 40 - AUTRES FRANCOPHONES | RTVS1
 TIMEOUT | 40 - AUTRES FRANCOPHONES | Sunu Label TV (480p) [Not 24/7]
 TIMEOUT | 40 - AUTRES FRANCOPHONES | Tele Haiti (1088p) [Not 24/7]
 403 | 40 - AUTRES FRANCOPHONES | Tele Pam (1080p)
+TIMEOUT | 40 - AUTRES FRANCOPHONES | TeleMIX (720p)
 403 | 40 - AUTRES FRANCOPHONES | Teva (1080p)
 TIMEOUT | 40 - AUTRES FRANCOPHONES | TM1 (360p) [Not 24/7]
 403 | 40 - AUTRES FRANCOPHONES | TNH (720p)
