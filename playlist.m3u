@@ -247,8 +247,8 @@ https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-63894c1965b8
 https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-6365779dde08f8eec6c3f21f/?X-Plex-Token=q5zMizWwuDk58z-FSynD
 #EXTINF:-1 channel-id="plex-67884bd6d37f2fd48d6220db" tvg-id="67884bd6d37f2fd48d6220db" tvg-name="Creator Television" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f33d90dc-14d4-4034-8959-30dac5ed085c/CTV-WHITE_PINK_4RDXx.png" group-title="08 - MAISON BRICOLAGE DECO",Creator Television
 https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-67884bd6d37f2fd48d6220db/?X-Plex-Token=q5zMizWwuDk58z-FSynD
-#EXTINF:-1 channel-id="685a999bd33909bdd7d2fb1e" tvg-id="685a999bd33909bdd7d2fb1e" tvg-chno="806" tvg-name="La maison France 5" tvg-logo="https://images.pluto.tv/channels/685a999bd33909bdd7d2fb1e/colorLogoPNG_1751876562614.png" group-title="08 - MAISON BRICOLAGE DECO",La maison France 5
-https://jmp2.uk/plu-685a999bd33909bdd7d2fb1e.m3u8
+#EXTINF:-1 channel-id="FR4200001BN" tvg-id="FR4200001BN" tvg-chno="4360" tvg-name="La Maison France 5" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR4200001BN_20260528T055238SQUARE.png" group-title="08 - MAISON BRICOLAGE DECO",La Maison France 5
+https://jmp2.uk/stvp-FR4200001BN
 #EXTINF:-1 channel-id="plex-684c2379e32026b0c1f53793" tvg-id="684c2379e32026b0c1f53793" tvg-name="Million Dollar Dream Home" tvg-logo="https://provider-static.plex.tv/epg/cms/production/305dc437-2a99-4e98-a872-08ae23e102f6/MDDH_WHITE_-_Principal_MediaRDX__1_.png" group-title="08 - MAISON BRICOLAGE DECO",Million Dollar Dream Home
 https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-684c2379e32026b0c1f53793/?X-Plex-Token=q5zMizWwuDk58z-FSynD
 #EXTINF:-1 channel-id="FR13000020W" tvg-id="FR13000020W" tvg-chno="4871" tvg-name="100% Cinema" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR13000020W_20260528T055246SQUARE.png" group-title="09 - CINEMA",100% Cinema
