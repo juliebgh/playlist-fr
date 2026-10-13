@@ -6,11 +6,13 @@ TIMEOUT | 01 - TNT & GENERALISTES | France 4
 403 | 01 - TNT & GENERALISTES | France 5 (720p)
 TIMEOUT | 01 - TNT & GENERALISTES | like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="01 - TNT & GENERALISTES",France 3
 404 | 01 - TNT & GENERALISTES | like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="01 - TNT & GENERALISTES",TF1 (576p)
+TIMEOUT | 01 - TNT & GENERALISTES | like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="01 - TNT & GENERALISTES",TMC (1080p)
 403 | 01 - TNT & GENERALISTES | M6 Music (720p)
 403 | 01 - TNT & GENERALISTES | TFX (720p)
 FAIL | 01 - TNT & GENERALISTES | TVM 3 (1080p)
 404 | 02 - INFOS | AL24 News
 403 | 02 - INFOS | CNA (360p) [Not 24/7]
+TIMEOUT | 02 - INFOS | CNews (1080p)
 403 | 02 - INFOS | LCI HD (1080p)
 403 | 02 - INFOS | like Gecko) Chrome/108.0.0.0 Safari/537.36" group-title="02 - INFOS",BFM Alsace (1080p)
 403 | 02 - INFOS | like Gecko) Chrome/108.0.0.0 Safari/537.36" group-title="02 - INFOS",BFM DICI Alpes du Sud (1080p)
@@ -26,15 +28,15 @@ FAIL | 01 - TNT & GENERALISTES | TVM 3 (1080p)
 403 | 02 - INFOS | NW Info FR (576p)
 404 | 03 - CRIME & ENQUETES | Crime Beat TV
 404 | 03 - CRIME & ENQUETES | Crime Scene TV
-403 | 03 - CRIME & ENQUETES | Enquêtes Criminelles
-403 | 03 - CRIME & ENQUETES | Investigation by Pluto TV
-403 | 03 - CRIME & ENQUETES | Pluto TV Brigade Criminelle
-403 | 03 - CRIME & ENQUETES | True Crime by Pluto TV
+FAIL | 03 - CRIME & ENQUETES | Enquêtes Criminelles
+FAIL | 03 - CRIME & ENQUETES | Investigation by Pluto TV
+FAIL | 03 - CRIME & ENQUETES | Pluto TV Brigade Criminelle
+FAIL | 03 - CRIME & ENQUETES | True Crime by Pluto TV
 404 | 04 - REPORTAGES & DOCS | Culture Pub
 404 | 04 - REPORTAGES & DOCS | Documentary+
 FAIL | 04 - REPORTAGES & DOCS | Evasion TV
-403 | 04 - REPORTAGES & DOCS | Pluto TV Animaux
-403 | 04 - REPORTAGES & DOCS | Pluto TV Histoire (720p)
+FAIL | 04 - REPORTAGES & DOCS | Pluto TV Animaux
+FAIL | 04 - REPORTAGES & DOCS | Pluto TV Histoire (720p)
 404 | 04 - REPORTAGES & DOCS | Stingray Naturescape
 404 | 04 - REPORTAGES & DOCS | TV5MONDE Voyage
 403 | 05 - ANIMAUX & NATURE | Ici Radio-Canada Télé Terre-Neuve-et-Labrador (CBAFT-DT) [Geo-blocked]
@@ -42,28 +44,30 @@ FAIL | 04 - REPORTAGES & DOCS | Evasion TV
 403 | 05 - ANIMAUX & NATURE | Trace Urban Caribbean and Indian Ocean (1080p)
 404 | 06 - VOYAGE & DECOUVERTE | Le Monde en 24h
 403 | 06 - VOYAGE & DECOUVERTE | TiVi5 Monde [Geo-blocked]
-TIMEOUT | 06 - VOYAGE & DECOUVERTE | TV5Monde Asia (1080p)
+FAIL | 06 - VOYAGE & DECOUVERTE | TV5Monde Asia (1080p)
 403 | 06 - VOYAGE & DECOUVERTE | TV5Monde Info (1080p) [Geo-blocked]
 TIMEOUT | 06 - VOYAGE & DECOUVERTE | TV5Monde Latin America (720p)
 403 | 06 - VOYAGE & DECOUVERTE | TV5Monde Pacifique (1080p) [Geo-blocked]
+TIMEOUT | 06 - VOYAGE & DECOUVERTE | TV5Monde Style (1080p) [Geo-blocked]
 404 | 07 - CUISINE | Cooking Panda
 404 | 07 - CUISINE | TV5MONDE Chefs
-403 | 08 - MAISON BRICOLAGE DECO | La maison France 5
+FAIL | 08 - MAISON BRICOLAGE DECO | La maison France 5
 404 | 09 - CINEMA | Action Totale
 TIMEOUT | 09 - CINEMA | Box Office Action
-403 | 09 - CINEMA | Ciné 666 by Pluto TV
-403 | 09 - CINEMA | Ciné Action by Pluto TV
-403 | 09 - CINEMA | Ciné by Pluto TV
-403 | 09 - CINEMA | Ciné Catastrophe by Pluto TV
+TIMEOUT | 09 - CINEMA | Canal+ Cinemas (720p)
+FAIL | 09 - CINEMA | Ciné 666 by Pluto TV
+FAIL | 09 - CINEMA | Ciné Action by Pluto TV
+FAIL | 09 - CINEMA | Ciné by Pluto TV
+FAIL | 09 - CINEMA | Ciné Catastrophe by Pluto TV
 404 | 09 - CINEMA | Ciné Charme by Pluto TV
-403 | 09 - CINEMA | Ciné d'Asie by Pluto TV
+FAIL | 09 - CINEMA | Ciné d'Asie by Pluto TV
 403 | 09 - CINEMA | Cine+ Emotion (720p)
-403 | 09 - CINEMA | Ciné Horreur by Pluto TV
-403 | 09 - CINEMA | Ciné Rétro by Pluto TV
-403 | 09 - CINEMA | Ciné Romance by Pluto TV
-403 | 09 - CINEMA | Ciné Sci-Fi by Pluto TV
-403 | 09 - CINEMA | Ciné Thrillers by Pluto TV
-403 | 09 - CINEMA | Ciné Western by Pluto TV
+FAIL | 09 - CINEMA | Ciné Horreur by Pluto TV
+FAIL | 09 - CINEMA | Ciné Rétro by Pluto TV
+FAIL | 09 - CINEMA | Ciné Romance by Pluto TV
+FAIL | 09 - CINEMA | Ciné Sci-Fi by Pluto TV
+FAIL | 09 - CINEMA | Ciné Thrillers by Pluto TV
+FAIL | 09 - CINEMA | Ciné Western by Pluto TV
 404 | 09 - CINEMA | CINEPRIDE
 404 | 09 - CINEMA | FilmRise Série Populaire
 FAIL | 09 - CINEMA | Grjngo - Western Movies
@@ -74,8 +78,8 @@ FAIL | 09 - CINEMA | Maverick Black Cinema
 FAIL | 09 - CINEMA | Movie Music by Stingray
 403 | 09 - CINEMA | Moviesphere
 404 | 09 - CINEMA | MOVIESPHERE
-403 | 09 - CINEMA | Pluto TV Comédie
-403 | 09 - CINEMA | Pluto TV Comédies Cultes
+404 | 09 - CINEMA | Pluto TV Comédie
+FAIL | 09 - CINEMA | Pluto TV Comédies Cultes
 FAIL | 09 - CINEMA | Sony One Action HITS
 404 | 09 - CINEMA | Sony One | Hits Action
 FAIL | 09 - CINEMA | Sony One HITS Comédie
@@ -92,24 +96,27 @@ TIMEOUT | 09 - CINEMA & SERIES | like Gecko) Chrome/149.0.0.0 Safari/537.3" grou
 404 | 09 - CINEMA & SERIES | SciFi (720p)
 403 | 09 - CINEMA & SERIES | TV Breizh (1080p)
 FAIL | 10 - SERIES | Asian Drama
-403 | 10 - SERIES | chien flic" tvg-logo="https://images.pluto.tv/channels/691b332aa4385c191ee44b57/colorLogoPNG_1771923791904.png" group-title="10 - SERIES",Rex chien flic
-403 | 10 - SERIES | femme flic" tvg-logo="https://images.pluto.tv/channels/6671b26836a2f90008d9333c/colorLogoPNG.png" group-title="10 - SERIES",Diane femme flic
+FAIL | 10 - SERIES | chien flic" tvg-logo="https://images.pluto.tv/channels/691b332aa4385c191ee44b57/colorLogoPNG_1771923791904.png" group-title="10 - SERIES",Rex chien flic
+FAIL | 10 - SERIES | femme flic" tvg-logo="https://images.pluto.tv/channels/6671b26836a2f90008d9333c/colorLogoPNG.png" group-title="10 - SERIES",Diane femme flic
 404 | 10 - SERIES | Génération Sitcoms TV
-403 | 10 - SERIES | MODUS Super Series Darts
-403 | 10 - SERIES | Pluto TV Séries Fantastiques
+FAIL | 10 - SERIES | MODUS Super Series Darts
+FAIL | 10 - SERIES | Pluto TV Séries Fantastiques
 403 | 10 - SERIES | Serie Club (720p)
-403 | 10 - SERIES | Series by Pluto TV
+FAIL | 10 - SERIES | Series by Pluto TV
 404 | 10 - SERIES | Soap
 FAIL | 11 - EMISSIONS & DIVERTISSEMENT | Animation+
-403 | 11 - EMISSIONS & DIVERTISSEMENT | Beyblade
+FAIL | 11 - EMISSIONS & DIVERTISSEMENT | Beyblade
+FAIL | 11 - EMISSIONS & DIVERTISSEMENT | Bob l'éponge
 TIMEOUT | 11 - EMISSIONS & DIVERTISSEMENT | Boss Brothers TV (1080p)
+TIMEOUT | 11 - EMISSIONS & DIVERTISSEMENT | Disney Jr. (1080p)
 TIMEOUT | 11 - EMISSIONS & DIVERTISSEMENT | ICONE TV
-403 | 11 - EMISSIONS & DIVERTISSEMENT | Mattel Junior
-403 | 11 - EMISSIONS & DIVERTISSEMENT | Pluto TV Junior (720p)
-403 | 11 - EMISSIONS & DIVERTISSEMENT | Pluto TV Kids Classics (720p)
-403 | 11 - EMISSIONS & DIVERTISSEMENT | Pluto TV Kids Club
-403 | 11 - EMISSIONS & DIVERTISSEMENT | Pluto TV Reality
-403 | 11 - EMISSIONS & DIVERTISSEMENT | Pluto TV Super Kids
+FAIL | 11 - EMISSIONS & DIVERTISSEMENT | Mattel Junior
+TIMEOUT | 11 - EMISSIONS & DIVERTISSEMENT | Nickelodeon Junior (1080p)
+FAIL | 11 - EMISSIONS & DIVERTISSEMENT | Pluto TV Junior (720p)
+FAIL | 11 - EMISSIONS & DIVERTISSEMENT | Pluto TV Kids Classics (720p)
+FAIL | 11 - EMISSIONS & DIVERTISSEMENT | Pluto TV Kids Club
+FAIL | 11 - EMISSIONS & DIVERTISSEMENT | Pluto TV Reality
+FAIL | 11 - EMISSIONS & DIVERTISSEMENT | Pluto TV Super Kids
 404 | 11 - EMISSIONS & DIVERTISSEMENT | TG Junior
 TIMEOUT | 12 - SPORT | Equidia (1080p)
 403 | 12 - SPORT | Foot+
@@ -124,8 +131,10 @@ FAIL | 12 - SPORT | SportsGrid
 FAIL | 12 - SPORT | The World Poker Tour
 FAIL | 12 - SPORT | The World Poker Tour
 FAIL | 12 - SPORT | Women's Sports Network
+404 | 14 - MUSIQUE | A2i Music (720p) [Not 24/7]
 TIMEOUT | 14 - MUSIQUE | Congo Planet Télévision (1080p) [Not 24/7]
 403 | 14 - MUSIQUE | Couleur 3 (720p)
+TIMEOUT | 14 - MUSIQUE | Fun Vision
 403 | 14 - MUSIQUE | Ici Radio-Canada Télé (1080p) [Geo-blocked]
 403 | 14 - MUSIQUE | Ici Radio-Canada Télé Colombie-Britannique/Yukon (CBUFT-DT) [Geo-blocked]
 403 | 14 - MUSIQUE | Ici Radio-Canada Télé Est du Québec (CJBR-DT) [Geo-blocked]
@@ -145,7 +154,9 @@ FAIL | 14 - MUSIQUE | NRJ Hits
 404 | 14 - MUSIQUE | Qello Concerts
 FAIL | 14 - MUSIQUE | Radio Contact (1080p)
 TIMEOUT | 14 - MUSIQUE | Radio Télé Amen FM (360p) [Not 24/7]
+404 | 14 - MUSIQUE | Radio Tele Ginen
 404 | 14 - MUSIQUE | Radio Télé Kajou (480p) [Not 24/7]
+FAIL | 14 - MUSIQUE | Radio Tele Sentinel
 404 | 14 - MUSIQUE | Radio Télé Wisdom (360p) [Not 24/7]
 404 | 14 - MUSIQUE | Radio Télévision Shilo (720p) [Not 24/7]
 FAIL | 14 - MUSIQUE | RFM TV [Not 24/7]
@@ -155,10 +166,10 @@ FAIL | 14 - MUSIQUE | RFM TV [Not 24/7]
 404 | 15 - CULTURE | TeleMusik Senegal (720p)
 FAIL | 16 - LIFESTYLE & BIEN-ETRE | FashionTV
 404 | 16 - LIFESTYLE & BIEN-ETRE | Guide Love TV (720p)
-404 | 16 - LIFESTYLE & BIEN-ETRE | Le Nouveau Manager TV
 TIMEOUT | 16 - LIFESTYLE & BIEN-ETRE | Luxe TV (1080p)
 FAIL | 17 - SPIRITUALITE | Dynamic Gospel TV (480p) [Not 24/7]
 404 | 17 - SPIRITUALITE | Ecclesia TV
+TIMEOUT | 17 - SPIRITUALITE | Iqraa Quran (1080p)
 403 | 17 - SPIRITUALITE | KTO (504p)
 403 | 17 - SPIRITUALITE | Miracle TV+ (720p)
 404 | 17 - SPIRITUALITE | MTA1 World (720p)
@@ -185,6 +196,7 @@ FAIL | 20 - SUISSE FR | C4 en Alerta
 FAIL | 20 - SUISSE FR | Camp Spoopy
 403 | 20 - SUISSE FR | Canal 9 en Français (1080p)
 403 | 20 - SUISSE FR | Carac 1 (1080p)
+TIMEOUT | 20 - SUISSE FR | Carac 5
 FAIL | 20 - SUISSE FR | CBC News
 FAIL | 20 - SUISSE FR | Cesar's Pack Leader TV
 FAIL | 20 - SUISSE FR | Classic Rock
@@ -198,7 +210,7 @@ FAIL | 20 - SUISSE FR | Easy Listening
 404 | 20 - SUISSE FR | Eddie's Wonderland
 FAIL | 20 - SUISSE FR | El Conflicto TV
 FAIL | 20 - SUISSE FR | Éxitos del Momento
-403 | 20 - SUISSE FR | FailArmy
+FAIL | 20 - SUISSE FR | FailArmy
 FAIL | 20 - SUISSE FR | Farscape
 FAIL | 20 - SUISSE FR | Fight Network
 FAIL | 20 - SUISSE FR | Flashback 70s
@@ -228,14 +240,14 @@ FAIL | 20 - SUISSE FR | Legacy
 FAIL | 20 - SUISSE FR | Lone Star
 FAIL | 20 - SUISSE FR | Lucha Plus
 FAIL | 20 - SUISSE FR | Made In Hollywood
-403 | 20 - SUISSE FR | Mayday: Catastrophe Aérienne
+FAIL | 20 - SUISSE FR | Mayday: Catastrophe Aérienne
 403 | 20 - SUISSE FR | Metal.Rocks
 FAIL | 20 - SUISSE FR | Monster Jam
 FAIL | 20 - SUISSE FR | More U
 404 | 20 - SUISSE FR | MOTUS La Chaine
 FAIL | 20 - SUISSE FR | Newsmax2
 404 | 20 - SUISSE FR | NewsWorld
-403 | 20 - SUISSE FR | NFL Channel
+FAIL | 20 - SUISSE FR | NFL Channel
 FAIL | 20 - SUISSE FR | NHRA TV
 FAIL | 20 - SUISSE FR | Nolly Africa HD
 FAIL | 20 - SUISSE FR | Nosey
@@ -295,7 +307,7 @@ FAIL | 20 - SUISSE FR | TRACE Brazuca
 403 | 20 - SUISSE FR | TV5Monde France Belgique Suisse Monaco (1080p) [Geo-blocked]
 404 | 20 - SUISSE FR | TV5MONDE Info
 FAIL | 20 - SUISSE FR | UFC
-403 | 20 - SUISSE FR | Un Village Français
+FAIL | 20 - SUISSE FR | Un Village Français
 404 | 20 - SUISSE FR | Unbeaten
 FAIL | 20 - SUISSE FR | USA TODAY
 404 | 20 - SUISSE FR | Watch it Kid
@@ -309,9 +321,8 @@ FAIL | 20 - SUISSE FR | World Surf League 24/7
 FAIL | 20 - SUISSE FR | Y2K
 404 | 20 - SUISSE FR | Ya Que La Vérité La Chaine
 FAIL | 20 - SUISSE FR | Yahoo Finance
-403 | 20 - SUISSE FR | Z Nation
+FAIL | 20 - SUISSE FR | Z Nation
 404 | 20 - SUISSE FR | ZenLIFE by Stingray
-TIMEOUT | 21 - BELGIQUE FR | ACTV (504p)
 FAIL | 21 - BELGIQUE FR | Bel RTL (1080p)
 TIMEOUT | 21 - BELGIQUE FR | Bouke (504p)
 403 | 21 - BELGIQUE FR | Canal Zoom [Geo-blocked]
@@ -325,14 +336,13 @@ TIMEOUT | 21 - BELGIQUE FR | Telesambre (504p)
 FAIL | 21 - BELGIQUE FR | Tipik (720p)
 403 | 21 - BELGIQUE FR | TVcom (1080p)
 403 | 21 - BELGIQUE FR | Vedia (1080p)
-403 | 22 - QUEBEC | Pluto TV ANIME GO!
-403 | 22 - QUEBEC | Pluto TV Aventure
+FAIL | 22 - QUEBEC | Pluto TV ANIME GO!
+FAIL | 22 - QUEBEC | Pluto TV Aventure
 TIMEOUT | 22 - QUEBEC | TV5 Quebec Canada (1080p)
 403 | 22 - QUEBEC | TVA [Geo-blocked]
 403 | 22 - QUEBEC & CANADA FR | LCN [Geo-blocked]
 FAIL | 22 - QUEBEC & CANADA FR | Legislative Assembly of Ontario
 TIMEOUT | 22 - QUEBEC & CANADA FR | TV5 Unis
-504 | 23 - FRANCE REGIONS | Cannes Lérins TV (1080p)
 403 | 23 - FRANCE REGIONS | ILTV (720p)
 403 | 23 - FRANCE REGIONS | Rhône TV (1080p) [Geo-blocked]
 404 | 23 - FRANCE REGIONS | TéléGohelle
@@ -354,7 +364,6 @@ FAIL | 24 - OUTRE-MER & CARAIBES | ViàATV (1080p) [Geo-blocked]
 404 | 25 - AFRIQUE FRANCOPHONE | Afrique54 TV (720p)
 TIMEOUT | 25 - AFRIQUE FRANCOPHONE | Amani TV (1080p) [Not 24/7]
 FAIL | 25 - AFRIQUE FRANCOPHONE | Bénin Web TV (720p)
-404 | 25 - AFRIQUE FRANCOPHONE | Canaf54 TV
 403 | 25 - AFRIQUE FRANCOPHONE | CRTV (576p)
 TIMEOUT | 25 - AFRIQUE FRANCOPHONE | Digital Congo TV
 404 | 25 - AFRIQUE FRANCOPHONE | Exploits TV
@@ -363,11 +372,13 @@ TIMEOUT | 25 - AFRIQUE FRANCOPHONE | Impact TV
 TIMEOUT | 25 - AFRIQUE FRANCOPHONE | Kin24
 403 | 25 - AFRIQUE FRANCOPHONE | NTV Afrique (1080p) [Not 24/7]
 TIMEOUT | 25 - AFRIQUE FRANCOPHONE | ORTM 1 (540p) [Not 24/7]
+404 | 25 - AFRIQUE FRANCOPHONE | Panafrican Media TV (480p)
 403 | 25 - AFRIQUE FRANCOPHONE | RTB (360p) [Not 24/7]
 404 | 25 - AFRIQUE FRANCOPHONE | RTI 1 (1080p)
-TIMEOUT | 25 - AFRIQUE FRANCOPHONE | RTNC 3
+504 | 25 - AFRIQUE FRANCOPHONE | RTNC 3
 403 | 25 - AFRIQUE FRANCOPHONE | Saraounia TV
 TIMEOUT | 25 - AFRIQUE FRANCOPHONE | Télé Congo (720p)
+FAIL | 25 - AFRIQUE FRANCOPHONE | Tele Sahel (1080p)
 403 | 25 - AFRIQUE FRANCOPHONE | Tele Tchad (1080p)
 403 | 25 - AFRIQUE FRANCOPHONE | Trace Ivoire (1080p)
 403 | 25 - AFRIQUE FRANCOPHONE | Trace Kitoko (1080p)
@@ -376,86 +387,91 @@ TIMEOUT | 25 - AFRIQUE FRANCOPHONE | Télé Congo (720p)
 403 | 25 - AFRIQUE FRANCOPHONE | Trace Teranga (1080p)
 403 | 25 - AFRIQUE FRANCOPHONE | Trace Urban Africa Franco (1080p)
 404 | 31 - PLUTO TV FR | Avatar
-403 | 31 - PLUTO TV FR | Barbie & Friends
-403 | 31 - PLUTO TV FR | Blue Bloods
-403 | 31 - PLUTO TV FR | Cheers
-403 | 31 - PLUTO TV FR | Cut
-403 | 31 - PLUTO TV FR | Dawson
-403 | 31 - PLUTO TV FR | DAZN Ringside
-403 | 31 - PLUTO TV FR | Detective Conan France (720p)
-403 | 31 - PLUTO TV FR | Digimon Adventure
-403 | 31 - PLUTO TV FR | Doraemon
-403 | 31 - PLUTO TV FR | Dossiers FBI
-403 | 31 - PLUTO TV FR | Flashpoint
-403 | 31 - PLUTO TV FR | Hélène et les garçons
-403 | 31 - PLUTO TV FR | INA 70
-403 | 31 - PLUTO TV FR | Incroyables Transformations
-403 | 31 - PLUTO TV FR | Instant Saga
-403 | 31 - PLUTO TV FR | JAG
-403 | 31 - PLUTO TV FR | Juste pour Rire GAGS
-403 | 31 - PLUTO TV FR | La Moderna
-403 | 31 - PLUTO TV FR | Le miracle de l'amour
-403 | 31 - PLUTO TV FR | Les Années fac
-403 | 31 - PLUTO TV FR | Les Marseillais
-403 | 31 - PLUTO TV FR | Les Nouveaux Detectives
-403 | 31 - PLUTO TV FR | Les Schtroumpfs
-403 | 31 - PLUTO TV FR | Les vacances de l'amour
-403 | 31 - PLUTO TV FR | Louis La Brocante
-403 | 31 - PLUTO TV FR | MacGyver
-403 | 31 - PLUTO TV FR | Mission Impossible
-403 | 31 - PLUTO TV FR | Most Haunted
-403 | 31 - PLUTO TV FR | Nina
-403 | 31 - PLUTO TV FR | Olive & Tom
-403 | 31 - PLUTO TV FR | Pêche à haut risque
-403 | 31 - PLUTO TV FR | PJ
-403 | 31 - PLUTO TV FR | Plus Belle la Vie 2
-403 | 31 - PLUTO TV FR | Pluto TV 90's Classics
-403 | 31 - PLUTO TV FR | Pluto TV Anime Retro
-403 | 31 - PLUTO TV FR | Pluto TV Dating (720p)
-403 | 31 - PLUTO TV FR | Pluto TV French Collection
-403 | 31 - PLUTO TV FR | Pluto TV Girls Club
-403 | 31 - PLUTO TV FR | Pluto TV Inside
-403 | 31 - PLUTO TV FR | Pluto TV Paranormal
-403 | 31 - PLUTO TV FR | Pluto TV Retro Toons
-403 | 31 - PLUTO TV FR | Pluto TV Snooker 900 (720p)
-403 | 31 - PLUTO TV FR | Pluto TV Stand Up
-403 | 31 - PLUTO TV FR | Pluto TV Téléréalité France
-403 | 31 - PLUTO TV FR | Ridiculousness (720p)
-403 | 31 - PLUTO TV FR | Si près de chez vous
-403 | 31 - PLUTO TV FR | The Asylum
-403 | 31 - PLUTO TV FR | Tout le monde déteste Chris
-403 | 31 - PLUTO TV FR | Turbo (720p)
-403 | 31 - PLUTO TV FR | une fille" tvg-logo="https://images.pluto.tv/channels/62f3ece7b09fd6000783bfb9/colorLogoPNG.png" group-title="31 - PLUTO TV FR",Un gars une fille
-403 | 31 - PLUTO TV FR | vendu !" tvg-logo="https://images.pluto.tv/channels/64bab8ba5dc1660008969b5a/colorLogoPNG.png" group-title="31 - PLUTO TV FR",Adjugé vendu !
-403 | 31 - PLUTO TV FR | Walker Texas Ranger
-403 | 31 - PLUTO TV FR | WPT
-403 | 31 - PLUTO TV FR | Zone Interdite
+FAIL | 31 - PLUTO TV FR | Barbie & Friends
+FAIL | 31 - PLUTO TV FR | Blue Bloods
+FAIL | 31 - PLUTO TV FR | Cheers
+FAIL | 31 - PLUTO TV FR | Cut
+FAIL | 31 - PLUTO TV FR | Dawson
+FAIL | 31 - PLUTO TV FR | DAZN Ringside
+FAIL | 31 - PLUTO TV FR | Detective Conan France (720p)
+FAIL | 31 - PLUTO TV FR | Digimon Adventure
+FAIL | 31 - PLUTO TV FR | Doraemon
+FAIL | 31 - PLUTO TV FR | Dossiers FBI
+FAIL | 31 - PLUTO TV FR | Flashpoint
+FAIL | 31 - PLUTO TV FR | Hélène et les garçons
+FAIL | 31 - PLUTO TV FR | iCarly TV
+FAIL | 31 - PLUTO TV FR | INA 70
+FAIL | 31 - PLUTO TV FR | Incroyables Transformations
+FAIL | 31 - PLUTO TV FR | Instant Saga
+FAIL | 31 - PLUTO TV FR | JAG
+FAIL | 31 - PLUTO TV FR | Juste pour Rire GAGS
+FAIL | 31 - PLUTO TV FR | La Moderna
+FAIL | 31 - PLUTO TV FR | Le miracle de l'amour
+FAIL | 31 - PLUTO TV FR | Les Années fac
+FAIL | 31 - PLUTO TV FR | Les Marseillais
+FAIL | 31 - PLUTO TV FR | Les Nouveaux Detectives
+FAIL | 31 - PLUTO TV FR | Les Schtroumpfs
+FAIL | 31 - PLUTO TV FR | Les vacances de l'amour
+TIMEOUT | 31 - PLUTO TV FR | Louis La Brocante
+FAIL | 31 - PLUTO TV FR | MacGyver
+FAIL | 31 - PLUTO TV FR | Mission Impossible
+FAIL | 31 - PLUTO TV FR | Most Haunted
+FAIL | 31 - PLUTO TV FR | Nina
+FAIL | 31 - PLUTO TV FR | Olive & Tom
+FAIL | 31 - PLUTO TV FR | One Piece
+FAIL | 31 - PLUTO TV FR | Pêche à haut risque
+FAIL | 31 - PLUTO TV FR | PJ
+FAIL | 31 - PLUTO TV FR | Plus Belle la Vie 2
+FAIL | 31 - PLUTO TV FR | Pluto TV 90's Classics
+FAIL | 31 - PLUTO TV FR | Pluto TV Anime Retro
+FAIL | 31 - PLUTO TV FR | Pluto TV Dating (720p)
+FAIL | 31 - PLUTO TV FR | Pluto TV French Collection
+FAIL | 31 - PLUTO TV FR | Pluto TV Girls Club
+FAIL | 31 - PLUTO TV FR | Pluto TV Inside
+FAIL | 31 - PLUTO TV FR | Pluto TV Paranormal
+FAIL | 31 - PLUTO TV FR | Pluto TV Retro Toons
+FAIL | 31 - PLUTO TV FR | Pluto TV Snooker 900 (720p)
+FAIL | 31 - PLUTO TV FR | Pluto TV Stand Up
+FAIL | 31 - PLUTO TV FR | Pluto TV Teen (720p)
+FAIL | 31 - PLUTO TV FR | Pluto TV Téléréalité France
+FAIL | 31 - PLUTO TV FR | Ridiculousness (720p)
+FAIL | 31 - PLUTO TV FR | Si près de chez vous
+FAIL | 31 - PLUTO TV FR | Teen Mom (720p)
+FAIL | 31 - PLUTO TV FR | The Asylum
+FAIL | 31 - PLUTO TV FR | Tortues Ninja TV (720p)
+FAIL | 31 - PLUTO TV FR | Tout le monde déteste Chris
+FAIL | 31 - PLUTO TV FR | Turbo (720p)
+FAIL | 31 - PLUTO TV FR | une fille" tvg-logo="https://images.pluto.tv/channels/62f3ece7b09fd6000783bfb9/colorLogoPNG.png" group-title="31 - PLUTO TV FR",Un gars une fille
+FAIL | 31 - PLUTO TV FR | vendu !" tvg-logo="https://images.pluto.tv/channels/64bab8ba5dc1660008969b5a/colorLogoPNG.png" group-title="31 - PLUTO TV FR",Adjugé vendu !
+FAIL | 31 - PLUTO TV FR | Walker Texas Ranger
+FAIL | 31 - PLUTO TV FR | WPT
+FAIL | 31 - PLUTO TV FR | Zone Interdite
 TIMEOUT | 32 - SAMSUNG TV PLUS FR | Dhar Mann TV
 404 | 32 - SAMSUNG TV PLUS FR | Émotion
-403 | 32 - SAMSUNG TV PLUS FR | Red Bull TV
+TIMEOUT | 32 - SAMSUNG TV PLUS FR | NEW KPOP
+TIMEOUT | 32 - SAMSUNG TV PLUS FR | Red Bull TV
 403 | 32 - SAMSUNG TV PLUS FR | Rookie Blue
-FAIL | 32 - SAMSUNG TV PLUS FR | Sony One Blacklist
+403 | 32 - SAMSUNG TV PLUS FR | Sony One Blacklist
 FAIL | 32 - SAMSUNG TV PLUS FR | Sony One Favoris
-403 | 32 - SAMSUNG TV PLUS FR | Tennis Channel
+FAIL | 32 - SAMSUNG TV PLUS FR | Tennis Channel
 403 | 32 - SAMSUNG TV PLUS FR | Top Barça
 TIMEOUT | 40 - AUTRES FRANCOPHONES | Antenne A
 403 | 40 - AUTRES FRANCOPHONES | Canal 3
-404 | 40 - AUTRES FRANCOPHONES | Esaie 45 Tele
-FAIL | 40 - AUTRES FRANCOPHONES | My TV Channel (720p) [Not 24/7]
 TIMEOUT | 40 - AUTRES FRANCOPHONES | Natural TV (720p) [Not 24/7]
 403 | 40 - AUTRES FRANCOPHONES | NW Economie (576p)
 403 | 40 - AUTRES FRANCOPHONES | NW Magazine (576p)
 404 | 40 - AUTRES FRANCOPHONES | One Nation TV (720p) [Not 24/7]
-FAIL | 40 - AUTRES FRANCOPHONES | Play TV (720p) [Not 24/7]
-FAIL | 40 - AUTRES FRANCOPHONES | PLEX TV
+404 | 40 - AUTRES FRANCOPHONES | Play TV (720p) [Not 24/7]
+404 | 40 - AUTRES FRANCOPHONES | PLEX TV
 TIMEOUT | 40 - AUTRES FRANCOPHONES | PSTV HD (480p) [Not 24/7]
-FAIL | 40 - AUTRES FRANCOPHONES | RL PRO TV
 TIMEOUT | 40 - AUTRES FRANCOPHONES | RT France (1080p) [Geo-blocked]
 FAIL | 40 - AUTRES FRANCOPHONES | RTH-TV1 (1080p)
 TIMEOUT | 40 - AUTRES FRANCOPHONES | RTVS1
 404 | 40 - AUTRES FRANCOPHONES | SOS Docteur TV (480p) [Not 24/7]
 TIMEOUT | 40 - AUTRES FRANCOPHONES | Sunu Label TV (480p) [Not 24/7]
+FAIL | 40 - AUTRES FRANCOPHONES | Tal TV (1080p)
 TIMEOUT | 40 - AUTRES FRANCOPHONES | Tele Haiti (1088p) [Not 24/7]
+404 | 40 - AUTRES FRANCOPHONES | TeleMIX (720p)
 403 | 40 - AUTRES FRANCOPHONES | Teva (1080p)
 TIMEOUT | 40 - AUTRES FRANCOPHONES | TM1 (360p) [Not 24/7]
 403 | 40 - AUTRES FRANCOPHONES | TNH (720p)
@@ -471,7 +487,7 @@ FAIL | 99 - A VERIFIER LANGUE | ATV (400p) [Not 24/7]
 404 | 99 - A VERIFIER LANGUE | Dega TV (720p) [Not 24/7]
 403 | 99 - A VERIFIER LANGUE | GTV (540p)
 TIMEOUT | 99 - A VERIFIER LANGUE | HC2 TV
-404 | 99 - A VERIFIER LANGUE | KC2 (720p) [Not 24/7]
+TIMEOUT | 99 - A VERIFIER LANGUE | Laura Dave Media TV (720p)
 TIMEOUT | 99 - A VERIFIER LANGUE | Mikuba TV (480p) [Not 24/7]
 TIMEOUT | 99 - A VERIFIER LANGUE | NETALKOLE TV (720p) [Not 24/7]
 TIMEOUT | 99 - A VERIFIER LANGUE | ONE-TV (720p) [Not 24/7]
