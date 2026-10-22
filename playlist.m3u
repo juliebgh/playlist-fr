@@ -197,8 +197,8 @@ https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-60d4edddb2fd
 https://jmp2.uk/stvp-FRBC3900004DS
 #EXTINF:-1 tvg-id="CBAFTDT.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/ICI_Acadie_logo_2018.svg/960px-ICI_Acadie_logo_2018.svg.png" group-title="05 - ANIMAUX & NATURE",Ici Radio-Canada Télé Terre-Neuve-et-Labrador (CBAFT-DT) [Geo-blocked]
 https://rcavlive.akamaized.net/hls/live/704014/cancbaft/master.m3u8
-#EXTINF:-1 channel-id="plex-6827c34ca5c6e573c6904444" tvg-id="6827c34ca5c6e573c6904444" tvg-name="Nature Time" tvg-logo="https://provider-static.plex.tv/epg/cms/production/3fbb9b2b-7f53-440d-8f41-6492fe676ea5/NATURE_TIMEWHITE_LOGO.png" group-title="05 - ANIMAUX & NATURE",Nature Time
-https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-6827c34ca5c6e573c6904444/?X-Plex-Token=MY3zngrtjA8HxykBbwmu
+#EXTINF:-1 channel-id="61fc0df14159c40007250432" tvg-id="61fc0df14159c40007250432" tvg-chno="920" tvg-name="Nature Time" tvg-logo="https://images.pluto.tv/channels/61fc0df14159c40007250432/colorLogoPNG.png" group-title="05 - ANIMAUX & NATURE",Nature Time
+https://jmp2.uk/plu-61fc0df14159c40007250432.m3u8
 #EXTINF:-1 tvg-id="RadioTVBasseTerre.gp" tvg-logo="https://i.imgur.com/OvnRplq.png" group-title="05 - ANIMAUX & NATURE",Radio TV Basse-Terre (720p)
 https://vdo.ssl-stream.com:3412/stream/play.m3u8
 #EXTINF:-1 tvg-id="TraceUrban.fr@CaribbeanAndIndianOcean" tvg-logo="https://i.imgur.com/DLIbUMx.png" group-title="05 - ANIMAUX & NATURE",Trace Urban Caribbean and Indian Ocean (1080p)
@@ -318,7 +318,7 @@ https://jmp2.uk/stvp-FR2600003OZ
 #EXTINF:-1 channel-id="FR900003DP" tvg-id="FR900003DP" tvg-chno="4925" tvg-name="Grjngo - Films De Western" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR900003DP_20260528T055337SQUARE.png" group-title="09 - CINEMA",Grjngo - Films De Western
 https://jmp2.uk/stvp-FR900003DP
 #EXTINF:-1 channel-id="plex-63489a771159f6a5ce819b7b" tvg-id="63489a771159f6a5ce819b7b" tvg-name="Grjngo - Western Movies" tvg-logo="https://provider-static.plex.tv/epg/cms/production/0572c2c0-36cd-432f-8f7c-eabecb83f553/Grjngo-Westernfilme_logo_light_-_Toni_Newesil.png" group-title="09 - CINEMA",Grjngo - Western Movies
-https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-63489a771159f6a5ce819b7b/?X-Plex-Token=MY3zngrtjA8HxykBbwmu
+https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-63489a771159f6a5ce819b7b.m3u8?X-Plex-Token=kmnozSz_xisYBbYPQWEK
 #EXTINF:-1 channel-id="plex-6582a1316b91be4547aa153c" tvg-id="6582a1316b91be4547aa153c" tvg-name="Hot Ones" tvg-logo="https://provider-static.plex.tv/epg/cms/production/5f489abb-a71e-425f-b276-16d6614f6601/FilmRiseHotOnes_Logo_Color.png" group-title="09 - CINEMA",Hot Ones
 https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-6582a1316b91be4547aa153c/?X-Plex-Token=MY3zngrtjA8HxykBbwmu
 #EXTINF:-1 tvg-id="CinePlusClassic.fr" tvg-logo="https://i.imgur.com/y2zeLS3.jpeg" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="09 - CINEMA",Cine+ Classic
@@ -786,7 +786,7 @@ https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-5f8746eabd52
 #EXTINF:-1 channel-id="FR1200003GR" tvg-id="FR1200003GR" tvg-chno="4249" tvg-name="H2O & Friends" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR1200003GR_20260707T051711SQUARE.png" group-title="20 - SUISSE FR",H2O & Friends
 https://jmp2.uk/stvp-FR1200003GR
 #EXTINF:-1 channel-id="plex-5fd115bdb7ef8d002dcf1820" tvg-id="5fd115bdb7ef8d002dcf1820" tvg-name="Hard Knocks" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/hardknocks_logo_dark.png" group-title="20 - SUISSE FR",Hard Knocks
-https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-5fd115bdb7ef8d002dcf1820/?X-Plex-Token=MY3zngrtjA8HxykBbwmu
+https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-5fd115bdb7ef8d002dcf1820.m3u8?X-Plex-Token=kmnozSz_xisYBbYPQWEK
 #EXTINF:-1 channel-id="plex-61aaa014784a2161d3caf7fd" tvg-id="61aaa014784a2161d3caf7fd" tvg-name="Hit List" tvg-logo="https://provider-static.plex.tv/epg/cms/production/d6d559f3-6a3d-4ce0-839e-55681e4a7928/Hit_List.png" group-title="20 - SUISSE FR",Hit List
 https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-61aaa014784a2161d3caf7fd/?X-Plex-Token=MY3zngrtjA8HxykBbwmu
 #EXTINF:-1 channel-id="plex-66f6b6baac1a1890ef197a4b" tvg-id="66f6b6baac1a1890ef197a4b" tvg-name="Hunter" tvg-logo="https://provider-static.plex.tv/epg/cms/production/2e34b413-32fc-4600-8b29-94562670814c/Hunter_Logo_Dark.png" group-title="20 - SUISSE FR",Hunter
