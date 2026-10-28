@@ -1,15 +1,16 @@
 403 | 01 - TNT & GENERALISTES | arte (720p)
 TIMEOUT | 01 - TNT & GENERALISTES | C Star (1080p)
 FAIL | 01 - TNT & GENERALISTES | Clubbing TV France
+TIMEOUT | 01 - TNT & GENERALISTES | like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="01 - TNT & GENERALISTES",France 3
 404 | 01 - TNT & GENERALISTES | like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="01 - TNT & GENERALISTES",TF1 (576p)
 TIMEOUT | 01 - TNT & GENERALISTES | like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="01 - TNT & GENERALISTES",TMC (1080p)
 403 | 01 - TNT & GENERALISTES | M6 Music (720p)
 FAIL | 01 - TNT & GENERALISTES | TVM 3 (1080p)
 TIMEOUT | 02 - INFOS | Africanews French (720p)
+404 | 02 - INFOS | CGTN French (1080p)
 403 | 02 - INFOS | CNA (360p) [Not 24/7]
 TIMEOUT | 02 - INFOS | CNews (1080p)
 404 | 02 - INFOS | Filinfo TV (1080p)
-TIMEOUT | 02 - INFOS | Haiti News Channel (1080p) [Not 24/7]
 403 | 02 - INFOS | like Gecko) Chrome/108.0.0.0 Safari/537.36" group-title="02 - INFOS",BFM Alsace (1080p)
 403 | 02 - INFOS | like Gecko) Chrome/108.0.0.0 Safari/537.36" group-title="02 - INFOS",BFM DICI Alpes du Sud (1080p)
 403 | 02 - INFOS | like Gecko) Chrome/108.0.0.0 Safari/537.36" group-title="02 - INFOS",BFM DICI Haute-Provence (1080p)
@@ -21,9 +22,10 @@ TIMEOUT | 02 - INFOS | Haiti News Channel (1080p) [Not 24/7]
 403 | 02 - INFOS | like Gecko) Chrome/108.0.0.0 Safari/537.36" group-title="02 - INFOS",BFM Normandie (1080p)
 403 | 02 - INFOS | like Gecko) Chrome/108.0.0.0 Safari/537.36" group-title="02 - INFOS",BFM Tech & Co (1080p)
 403 | 02 - INFOS | like Gecko) Chrome/108.0.0.0 Safari/537.36" group-title="02 - INFOS",BFM Toulon Var (1080p)
-404 | 02 - INFOS | Monaco Info (1080p)
 403 | 02 - INFOS | NW Info FR (576p)
+TIMEOUT | 02 - INFOS | Press TV French (1080p)
 404 | 03 - CRIME & ENQUETES | Crime Beat TV
+TIMEOUT | 03 - CRIME & ENQUETES | Crime - Rakuten TV
 404 | 03 - CRIME & ENQUETES | Crime Scene TV
 FAIL | 03 - CRIME & ENQUETES | Love Crime & History
 FAIL | 04 - REPORTAGES & DOCS | 100% Docs Crime
@@ -33,7 +35,6 @@ FAIL | 04 - REPORTAGES & DOCS | Evasion TV
 FAIL | 04 - REPORTAGES & DOCS | Les secrets de nos régions
 FAIL | 04 - REPORTAGES & DOCS | NatureTime
 FAIL | 04 - REPORTAGES & DOCS | Popular Science
-FAIL | 04 - REPORTAGES & DOCS | RMC Découverte
 404 | 04 - REPORTAGES & DOCS | Stingray Naturescape
 404 | 04 - REPORTAGES & DOCS | TV5MONDE Voyage
 FAIL | 04 - REPORTAGES & DOCS | WildEarth
@@ -41,6 +42,7 @@ FAIL | 05 - ANIMAUX & NATURE | Cap Terre
 403 | 05 - ANIMAUX & NATURE | Ici Radio-Canada Télé Terre-Neuve-et-Labrador (CBAFT-DT) [Geo-blocked]
 404 | 05 - ANIMAUX & NATURE | Nature Time
 403 | 05 - ANIMAUX & NATURE | Trace Urban Caribbean and Indian Ocean (1080p)
+404 | 06 - VOYAGE & DECOUVERTE | Le Monde en 24h
 403 | 06 - VOYAGE & DECOUVERTE | TiVi5 Monde [Geo-blocked]
 FAIL | 06 - VOYAGE & DECOUVERTE | TV5Monde Asia (1080p)
 403 | 06 - VOYAGE & DECOUVERTE | TV5Monde Info (1080p) [Geo-blocked]
@@ -66,8 +68,6 @@ TIMEOUT | 09 - CINEMA | Canal+ Cinemas (720p)
 FAIL | 09 - CINEMA | Death Valley Days
 FAIL | 09 - CINEMA | Dick Van Dyke
 404 | 09 - CINEMA | FilmRise Série Populaire
-TIMEOUT | 09 - CINEMA | Films d'action - Rakuten TV
-TIMEOUT | 09 - CINEMA | Films Romantiques - Rakuten TV
 FAIL | 09 - CINEMA | Grjngo - Western Movies
 FAIL | 09 - CINEMA | Hot Ones
 TIMEOUT | 09 - CINEMA | like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="09 - CINEMA",Cine+ Classic
@@ -86,7 +86,6 @@ FAIL | 09 - CINEMA | Sony One HITS Comédie
 FAIL | 09 - CINEMA | Surf Cinema
 FAIL | 09 - CINEMA | The Wiggles
 FAIL | 09 - CINEMA | Top Action
-TIMEOUT | 09 - CINEMA | Top Films - Rakuten TV
 FAIL | 09 - CINEMA | Zylo Ciné Western (1080p)
 403 | 09 - CINEMA & SERIES | AB1 (720p)
 TIMEOUT | 09 - CINEMA & SERIES | like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="09 - CINEMA & SERIES",Syfy
@@ -167,6 +166,7 @@ TIMEOUT | 17 - SPIRITUALITE | Iqraa Quran (1080p)
 TIMEOUT | 17 - SPIRITUALITE | MTA1 World (720p)
 TIMEOUT | 17 - SPIRITUALITE | MTA2 Europe (720p)
 TIMEOUT | 17 - SPIRITUALITE | MTA4 Africa (1080p)
+TIMEOUT | 17 - SPIRITUALITE | MTA5 Africa (1080p)
 FAIL | 17 - SPIRITUALITE | RTH-TV2 Gospel (720p)
 403 | 17 - SPIRITUALITE | Trace Gospel Africa Franco (1080p)
 403 | 17 - SPIRITUALITE | Trace Gospel Southern Africa (1080p)
@@ -318,7 +318,6 @@ TIMEOUT | 23 - FRANCE REGIONS | Puissance TV
 FAIL | 23 - FRANCE REGIONS | viàOccitanie (540p) [Not 24/7]
 404 | 23 - FRANCE REGIONS & THEMATIQUES | A12 TV
 TIMEOUT | 24 - OUTRE-MER & CARAIBES | Antenne Réunion (720p) [Not 24/7]
-TIMEOUT | 24 - OUTRE-MER & CARAIBES | Télé Péyi (720p)
 FAIL | 24 - OUTRE-MER & CARAIBES | TNTV (1080p)
 403 | 24 - OUTRE-MER & CARAIBES | Trace Ayiti (1080p)
 403 | 24 - OUTRE-MER & CARAIBES | Trace Caribbean (1080p)
@@ -332,7 +331,6 @@ FAIL | 24 - OUTRE-MER & CARAIBES | ViàATV (1080p) [Geo-blocked]
 404 | 25 - AFRIQUE FRANCOPHONE | Afro Magic Channel
 TIMEOUT | 25 - AFRIQUE FRANCOPHONE | Amani TV (1080p) [Not 24/7]
 FAIL | 25 - AFRIQUE FRANCOPHONE | Bénin Web TV (720p)
-TIMEOUT | 25 - AFRIQUE FRANCOPHONE | CAM 10 TV (720p)
 404 | 25 - AFRIQUE FRANCOPHONE | Canaf54 TV
 TIMEOUT | 25 - AFRIQUE FRANCOPHONE | Digital Congo TV
 404 | 25 - AFRIQUE FRANCOPHONE | Exploits TV
@@ -355,8 +353,7 @@ TIMEOUT | 25 - AFRIQUE FRANCOPHONE | Télé Congo (720p)
 403 | 25 - AFRIQUE FRANCOPHONE | Trace Teranga (1080p)
 403 | 25 - AFRIQUE FRANCOPHONE | Trace Urban Africa Franco (1080p)
 404 | 31 - PLUTO TV FR | Avatar
-404 | 31 - PLUTO TV FR | Echappées belles & co
-TIMEOUT | 31 - PLUTO TV FR | Space Live
+FAIL | 31 - PLUTO TV FR | Barbie & Friends
 FAIL | 32 - SAMSUNG TV PLUS FR | 100% Kidz
 TIMEOUT | 32 - SAMSUNG TV PLUS FR | Dhar Mann TV
 TIMEOUT | 32 - SAMSUNG TV PLUS FR | Drames - Rakuten TV
@@ -368,7 +365,6 @@ FAIL | 32 - SAMSUNG TV PLUS FR | Le Meilleur de la TV Réalité
 FAIL | 32 - SAMSUNG TV PLUS FR | Les Télétubbies
 FAIL | 32 - SAMSUNG TV PLUS FR | Motus
 TIMEOUT | 32 - SAMSUNG TV PLUS FR | Red Bull TV
-FAIL | 32 - SAMSUNG TV PLUS FR | RMC Story
 FAIL | 32 - SAMSUNG TV PLUS FR | Rolling Stones Takeover
 403 | 32 - SAMSUNG TV PLUS FR | Rookie Blue
 TIMEOUT | 32 - SAMSUNG TV PLUS FR | Show ! Variété
@@ -391,7 +387,7 @@ TIMEOUT | 40 - AUTRES FRANCOPHONES | RTVS1
 404 | 40 - AUTRES FRANCOPHONES | SOS Docteur TV (480p) [Not 24/7]
 TIMEOUT | 40 - AUTRES FRANCOPHONES | Sunu Label TV (480p) [Not 24/7]
 TIMEOUT | 40 - AUTRES FRANCOPHONES | Tele Haiti (1088p) [Not 24/7]
-FAIL | 40 - AUTRES FRANCOPHONES | Tele Pam (1080p)
+404 | 40 - AUTRES FRANCOPHONES | Tele Pam (1080p)
 403 | 40 - AUTRES FRANCOPHONES | Teva (1080p)
 TIMEOUT | 40 - AUTRES FRANCOPHONES | TM1 (360p) [Not 24/7]
 403 | 40 - AUTRES FRANCOPHONES | TNH (720p)
