@@ -7,7 +7,6 @@ NO_REPLACEMENT | like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="01 - T
 TEST | M6 Music (720p) | https://test.946985.filegear-sg.me/proxy/803c517b325bfafc | FAIL | 
 NO_REPLACEMENT | M6 Music (720p)
 NO_REPLACEMENT | TVM 3 (1080p)
-NO_REPLACEMENT | BFM TV
 NO_REPLACEMENT | CNA (360p) [Not 24/7]
 NO_REPLACEMENT | CNews (1080p)
 NO_REPLACEMENT | Filinfo TV (1080p)
@@ -45,8 +44,6 @@ NO_REPLACEMENT | TV5Monde Asia (1080p)
 NO_REPLACEMENT | TV5Monde Info (1080p) [Geo-blocked]
 NO_REPLACEMENT | TV5Monde Latin America (720p)
 NO_REPLACEMENT | TV5Monde Pacifique (1080p) [Geo-blocked]
-TEST | TV5Monde Style (1080p) [Geo-blocked] | http://103.190.232.129/stream/tvb/style/master.m3u8?p=967e33767f592e1aaf3d4019f38f380bf784e113b193d89c412d047059d6300d&u=Oleg | FAIL | 
-NO_REPLACEMENT | TV5Monde Style (1080p) [Geo-blocked]
 NO_REPLACEMENT | Ça Chauffe en Cuisine
 NO_REPLACEMENT | Cooking Panda
 TEST | TV5MONDE Chefs | https://tvf-tv5ch.otteravision.com/tvf/tv5ch/tv5ch.m3u8 | OK | video,1920,1080
@@ -70,7 +67,7 @@ audio
 data
 data
 sub
-APPLIED | TV5MONDE Chefs | https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-68b74890b5b437bf872b6b72/?X-Plex-Token=dVEyky2KqxWkC-LPca-n -> https://tvf-tv5ch.otteravision.com/tvf/tv5ch/tv5ch.m3u8
+APPLIED | TV5MONDE Chefs | https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-68b74890b5b437bf872b6b72/?X-Plex-Token=J-dctWh3Dts_xysM54xa -> https://tvf-tv5ch.otteravision.com/tvf/tv5ch/tv5ch.m3u8
 NO_REPLACEMENT | 123GO!
 NO_REPLACEMENT | 5-Minute Crafts
 NO_REPLACEMENT | Creator Television
@@ -84,6 +81,7 @@ NO_REPLACEMENT | Ciné Charme by Pluto TV
 NO_REPLACEMENT | Cine+ Emotion (720p)
 NO_REPLACEMENT | CINEPRIDE
 NO_REPLACEMENT | Death Valley Days
+NO_REPLACEMENT | Dick Van Dyke
 NO_REPLACEMENT | FilmRise Série Populaire
 NO_REPLACEMENT | Hot Ones
 NO_REPLACEMENT | like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="09 - CINEMA",Cine+ Classic
@@ -122,7 +120,7 @@ audio
 data
 data
 video,128
-APPLIED | Sony One | Hits Action | https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-692227f850fe592fd6d5b7e0/?X-Plex-Token=dVEyky2KqxWkC-LPca-n -> https://5098a8b860504a3690fd2e7c0a18d68f.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-817-FR-SONYONEHITSACTION-LG_FR/playlist.m3u8
+APPLIED | Sony One | Hits Action | https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-692227f850fe592fd6d5b7e0/?X-Plex-Token=J-dctWh3Dts_xysM54xa -> https://5098a8b860504a3690fd2e7c0a18d68f.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-817-FR-SONYONEHITSACTION-LG_FR/playlist.m3u8
 TEST | Sony One HITS Comédie | https://7aa9671895264ec9a384dfed1b992171.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-818-FR-SONYONEHITSCOMDIE-LG_FR/playlist.m3u8 | OK | video,1920,1080
 audio
 data
@@ -184,7 +182,7 @@ audio
 data
 data
 video,128
-APPLIED | Sony One | Hits Comédie | https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-692228985cbe620c1f9b6bb9/?X-Plex-Token=dVEyky2KqxWkC-LPca-n -> https://7aa9671895264ec9a384dfed1b992171.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-818-FR-SONYONEHITSCOMDIE-LG_FR/playlist.m3u8
+APPLIED | Sony One | Hits Comédie | https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-692228985cbe620c1f9b6bb9/?X-Plex-Token=J-dctWh3Dts_xysM54xa -> https://7aa9671895264ec9a384dfed1b992171.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-818-FR-SONYONEHITSCOMDIE-LG_FR/playlist.m3u8
 NO_REPLACEMENT | Sony One | Séries Comédie
 NO_REPLACEMENT | Sony One | Séries Thriller
 NO_REPLACEMENT | Surf Cinema
@@ -197,6 +195,7 @@ NO_REPLACEMENT | Nollywood TV (720p)
 NO_REPLACEMENT | Novela Channel (720p) [Not 24/7]
 NO_REPLACEMENT | RTL9 (720p)
 NO_REPLACEMENT | SciFi (720p)
+NO_REPLACEMENT | Sony One Blacklist (1080p)
 NO_REPLACEMENT | TV Breizh (1080p)
 NO_REPLACEMENT | Zylo Emotion' L (1080p)
 NO_REPLACEMENT | Zylo ScreamIN (1080p)
@@ -214,7 +213,6 @@ NO_REPLACEMENT | For You TV
 NO_REPLACEMENT | ICONE TV
 NO_REPLACEMENT | Le Meilleur des Jeux TV
 NO_REPLACEMENT | Nickelodeon Junior (1080p)
-NO_REPLACEMENT | SenJeunes TV (480p) [Not 24/7]
 NO_REPLACEMENT | TG Junior
 NO_REPLACEMENT | Equidia (1080p)
 NO_REPLACEMENT | Foot+
@@ -229,7 +227,6 @@ NO_REPLACEMENT | The World Poker Tour
 NO_REPLACEMENT | Women's Sports Network
 NO_REPLACEMENT | Congo Planet Télévision (1080p) [Not 24/7]
 NO_REPLACEMENT | Couleur 3 (720p)
-NO_REPLACEMENT | Fun Vision
 NO_REPLACEMENT | Ici Radio-Canada Télé (1080p) [Geo-blocked]
 NO_REPLACEMENT | Ici Radio-Canada Télé Colombie-Britannique/Yukon (CBUFT-DT) [Geo-blocked]
 NO_REPLACEMENT | Ici Radio-Canada Télé Est du Québec (CJBR-DT) [Geo-blocked]
@@ -251,7 +248,6 @@ NO_REPLACEMENT | Radio Contact (1080p)
 NO_REPLACEMENT | Radio Télé Amen FM (360p) [Not 24/7]
 NO_REPLACEMENT | Radio Télé Kajou (480p) [Not 24/7]
 NO_REPLACEMENT | Radio Tele Planet Compas (720p) [Not 24/7]
-NO_REPLACEMENT | Radio Tele Sentinel
 NO_REPLACEMENT | Radio Télé Wisdom (360p) [Not 24/7]
 NO_REPLACEMENT | Radio Télévision Shilo (720p) [Not 24/7]
 NO_REPLACEMENT | Trace Latina (1080p)
@@ -282,7 +278,7 @@ audio
 video,1280,720
 audio
 video,192
-APPLIED | FashionTV | https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-6490c01f3b3ce9e1aaad95be/?X-Plex-Token=dVEyky2KqxWkC-LPca-n -> http://fashionlive.mediacdn.ru/cdn/fashiontv/playlist.m3u8
+APPLIED | FashionTV | https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-6490c01f3b3ce9e1aaad95be/?X-Plex-Token=J-dctWh3Dts_xysM54xa -> http://fashionlive.mediacdn.ru/cdn/fashiontv/playlist.m3u8
 NO_REPLACEMENT | Guide Love TV (720p)
 NO_REPLACEMENT | Luxe TV (1080p)
 NO_REPLACEMENT | MyZen TV (1080p)
@@ -297,8 +293,6 @@ NO_REPLACEMENT | MTA2 Europe (720p)
 NO_REPLACEMENT | RTH-TV2 Gospel (720p)
 NO_REPLACEMENT | Trace Gospel Africa Franco (1080p)
 NO_REPLACEMENT | Trace Gospel Southern Africa (1080p)
-NO_REPLACEMENT | ACL Cornhole TV
-NO_REPLACEMENT | AddictaTV
 NO_REPLACEMENT | Alerte à Malibu TV
 NO_REPLACEMENT | Alternative
 NO_REPLACEMENT | Baby Einstein
@@ -311,7 +305,6 @@ NO_REPLACEMENT | Brat TV
 NO_REPLACEMENT | C4 en Alerta
 NO_REPLACEMENT | Camp Spoopy
 NO_REPLACEMENT | Canal 9 en Français (1080p)
-NO_REPLACEMENT | Carac 5
 NO_REPLACEMENT | CBC News
 NO_REPLACEMENT | Cesar's Pack Leader TV
 NO_REPLACEMENT | Classic Rock
@@ -333,8 +326,11 @@ NO_REPLACEMENT | Galxy TV
 NO_REPLACEMENT | Glewed TV
 NO_REPLACEMENT | GUSTOTV
 NO_REPLACEMENT | H2O & Friends
+NO_REPLACEMENT | Hard Knocks
+NO_REPLACEMENT | Hit List
 NO_REPLACEMENT | Ice Pilots NWT
 NO_REPLACEMENT | Ideas En 5 Minutos
+NO_REPLACEMENT | INTER 24/7
 NO_REPLACEMENT | ITV Deportes
 NO_REPLACEMENT | JAIL
 NO_REPLACEMENT | JDS.TV
@@ -346,7 +342,10 @@ NO_REPLACEMENT | Legacy
 NO_REPLACEMENT | Léman Bleu (1080p)
 NO_REPLACEMENT | Les filles d’à côtés TV
 NO_REPLACEMENT | Life Down Under
+NO_REPLACEMENT | Lone Star
 NO_REPLACEMENT | Lucha Plus
+NO_REPLACEMENT | Metal.Rocks
+NO_REPLACEMENT | Monster Jam
 NO_REPLACEMENT | More U
 NO_REPLACEMENT | MOTUS La Chaine
 NO_REPLACEMENT | Newsmax2
@@ -408,7 +407,7 @@ audio
 data
 data
 video,128
-APPLIED | Sony One | Favoris | https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-692229df50fe592fd6d5b7e2/?X-Plex-Token=dVEyky2KqxWkC-LPca-n -> https://49d735318d6b4c30a24a7997ea594e1b.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-820-FR-SONYONEFAVORIS-LG_FR/playlist.m3u8
+APPLIED | Sony One | Favoris | https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-692229df50fe592fd6d5b7e2/?X-Plex-Token=J-dctWh3Dts_xysM54xa -> https://49d735318d6b4c30a24a7997ea594e1b.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-820-FR-SONYONEFAVORIS-LG_FR/playlist.m3u8
 NO_REPLACEMENT | Stingray Classica Stream
 NO_REPLACEMENT | Stingray Greatest Hits
 NO_REPLACEMENT | Stingray Holidayscapes
@@ -420,6 +419,7 @@ NO_REPLACEMENT | The Design Network
 NO_REPLACEMENT | The Pet Collective
 NO_REPLACEMENT | The Spa
 NO_REPLACEMENT | TNA Wrestling Channel
+NO_REPLACEMENT | Today's K-Pop
 NO_REPLACEMENT | Toon Goggles
 NO_REPLACEMENT | Top Sci-Fi
 TEST | TRACE Brazuca | https://amg01131-tracetv-amg01131c4-stirr-us-4390.playouts.now.amagi.tv/playlist.m3u8 | OK | video,640,360
@@ -442,7 +442,7 @@ video,1280,720
 audio
 video,1920,1080
 audio
-APPLIED | TRACE Brazuca | https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-6329474265c8569187176338/?X-Plex-Token=dVEyky2KqxWkC-LPca-n -> https://amg01131-tracetv-amg01131c4-stirr-us-4390.playouts.now.amagi.tv/playlist.m3u8
+APPLIED | TRACE Brazuca | https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-6329474265c8569187176338/?X-Plex-Token=J-dctWh3Dts_xysM54xa -> https://amg01131-tracetv-amg01131c4-stirr-us-4390.playouts.now.amagi.tv/playlist.m3u8
 NO_REPLACEMENT | TRACE UK
 NO_REPLACEMENT | TV5Monde France Belgique Suisse Monaco (1080p) [Geo-blocked]
 TEST | TV5MONDE Info | https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8 | FAIL | 
@@ -451,8 +451,11 @@ NO_REPLACEMENT | Unbeaten
 NO_REPLACEMENT | USA TODAY
 NO_REPLACEMENT | Wasabi
 NO_REPLACEMENT | Watch it Kid
+NO_REPLACEMENT | Watch it SCREAM
 NO_REPLACEMENT | Waypoint TV
+NO_REPLACEMENT | World Billiards TV
 NO_REPLACEMENT | XFC TV
+NO_REPLACEMENT | Y2K
 NO_REPLACEMENT | Ya Que La Vérité La Chaine
 NO_REPLACEMENT | Yahoo Finance
 NO_REPLACEMENT | ZenLIFE by Stingray
@@ -509,7 +512,6 @@ NO_REPLACEMENT | ORTM 1 (540p) [Not 24/7]
 NO_REPLACEMENT | RTI 1 (1080p)
 NO_REPLACEMENT | RTNC 3
 NO_REPLACEMENT | Saraounia TV
-NO_REPLACEMENT | Seneweb TV [Geo-blocked]
 NO_REPLACEMENT | Télé Congo (720p)
 NO_REPLACEMENT | Tele Tchad (1080p)
 NO_REPLACEMENT | Trace Ivoire (1080p)
@@ -606,7 +608,6 @@ NO_REPLACEMENT | NW Magazine (576p)
 NO_REPLACEMENT | One Nation TV (720p) [Not 24/7]
 NO_REPLACEMENT | PSTV HD (480p) [Not 24/7]
 NO_REPLACEMENT | RL PRO TV
-NO_REPLACEMENT | RT France (1080p) [Geo-blocked]
 NO_REPLACEMENT | RTH-TV1 (1080p)
 NO_REPLACEMENT | RTVS1
 NO_REPLACEMENT | SOS Docteur TV (480p) [Not 24/7]
