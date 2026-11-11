@@ -5,16 +5,15 @@ FAIL | 01 - TNT & GENERALISTES | Clubbing TV France
 TIMEOUT | 01 - TNT & GENERALISTES | France 3 Lorraine (1080p)
 FAIL | 01 - TNT & GENERALISTES | France 4
 FAIL | 01 - TNT & GENERALISTES | France 5 (720p)
+404 | 01 - TNT & GENERALISTES | like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="01 - TNT & GENERALISTES",France 3
 404 | 01 - TNT & GENERALISTES | like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="01 - TNT & GENERALISTES",TF1 (576p)
 TIMEOUT | 01 - TNT & GENERALISTES | like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="01 - TNT & GENERALISTES",TMC (1080p)
 403 | 01 - TNT & GENERALISTES | M6 Music (720p)
 FAIL | 01 - TNT & GENERALISTES | TFX (720p)
 FAIL | 01 - TNT & GENERALISTES | TVM 3 (1080p)
 TIMEOUT | 01 - TNT & GENERALISTES | W9 (1080p)
-404 | 02 - INFOS | AL24 News
 403 | 02 - INFOS | CNA (360p) [Not 24/7]
 TIMEOUT | 02 - INFOS | CNews (1080p)
-FAIL | 02 - INFOS | CNEWS PRIME (1080p)
 404 | 02 - INFOS | Filinfo TV (1080p)
 FAIL | 02 - INFOS | LCI HD (1080p)
 403 | 02 - INFOS | like Gecko) Chrome/108.0.0.0 Safari/537.36" group-title="02 - INFOS",BFM Alsace (1080p)
@@ -29,7 +28,6 @@ FAIL | 02 - INFOS | LCI HD (1080p)
 403 | 02 - INFOS | like Gecko) Chrome/108.0.0.0 Safari/537.36" group-title="02 - INFOS",BFM Tech & Co (1080p)
 403 | 02 - INFOS | like Gecko) Chrome/108.0.0.0 Safari/537.36" group-title="02 - INFOS",BFM Toulon Var (1080p)
 403 | 02 - INFOS | NW Info FR (576p)
-TIMEOUT | 02 - INFOS | Press TV French (1080p)
 404 | 03 - CRIME & ENQUETES | Crime Beat TV
 404 | 03 - CRIME & ENQUETES | Crime Scene TV
 FAIL | 03 - CRIME & ENQUETES | Love Crime & History
@@ -47,7 +45,6 @@ FAIL | 04 - REPORTAGES & DOCS | WildEarth
 FAIL | 05 - ANIMAUX & NATURE | Cap Terre
 403 | 05 - ANIMAUX & NATURE | Ici Radio-Canada Télé Terre-Neuve-et-Labrador (CBAFT-DT) [Geo-blocked]
 404 | 05 - ANIMAUX & NATURE | Nature Time
-404 | 06 - VOYAGE & DECOUVERTE | Le Monde en 24h
 403 | 06 - VOYAGE & DECOUVERTE | TiVi5 Monde [Geo-blocked]
 FAIL | 06 - VOYAGE & DECOUVERTE | TV5Monde Asia (1080p)
 TIMEOUT | 06 - VOYAGE & DECOUVERTE | TV5Monde Europe (1080p)
@@ -69,12 +66,13 @@ TIMEOUT | 09 - CINEMA | Canal+ Cinemas (720p)
 404 | 09 - CINEMA | Ciné Charme by Pluto TV
 403 | 09 - CINEMA | Cine+ Emotion (720p)
 404 | 09 - CINEMA | CINEPRIDE
-FAIL | 09 - CINEMA | Death Valley Days
 FAIL | 09 - CINEMA | Dick Van Dyke
 404 | 09 - CINEMA | FilmRise Série Populaire
+FAIL | 09 - CINEMA | Grjngo - Western Movies
 FAIL | 09 - CINEMA | Hot Ones
 TIMEOUT | 09 - CINEMA | like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="09 - CINEMA",Cine+ Classic
 TIMEOUT | 09 - CINEMA | like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="09 - CINEMA",Cine+ Frisson (1080p)
+FAIL | 09 - CINEMA | Movie Music by Stingray
 403 | 09 - CINEMA | Moviesphere
 404 | 09 - CINEMA | MOVIESPHERE
 FAIL | 09 - CINEMA | MyTime Movie Network
@@ -98,14 +96,17 @@ FAIL | 09 - CINEMA & SERIES | Zylo ScreamIN (1080p)
 FAIL | 10 - SERIES | Asian Drama
 FAIL | 10 - SERIES | Banijay Mr Bean Animé (1080p)
 404 | 10 - SERIES | Génération Sitcoms TV
+TIMEOUT | 10 - SERIES | Pluto TV Séries Fantastiques
 403 | 10 - SERIES | Serie Club (720p)
 404 | 10 - SERIES | Soap
 FAIL | 10 - SERIES | Zylo Fréquence Novelas (1080p)
+TIMEOUT | 11 - EMISSIONS & DIVERTISSEMENT | Beyblade
 TIMEOUT | 11 - EMISSIONS & DIVERTISSEMENT | Boss Brothers TV (1080p)
 FAIL | 11 - EMISSIONS & DIVERTISSEMENT | Caillou
 TIMEOUT | 11 - EMISSIONS & DIVERTISSEMENT | Disney Jr. (1080p)
 404 | 11 - EMISSIONS & DIVERTISSEMENT | ICONE TV
 FAIL | 11 - EMISSIONS & DIVERTISSEMENT | Le Meilleur des Jeux TV
+TIMEOUT | 11 - EMISSIONS & DIVERTISSEMENT | Mattel Junior
 TIMEOUT | 11 - EMISSIONS & DIVERTISSEMENT | Nickelodeon Junior (1080p)
 404 | 11 - EMISSIONS & DIVERTISSEMENT | TG Junior
 TIMEOUT | 12 - SPORT | Equidia (1080p)
@@ -262,7 +263,7 @@ FAIL | 20 - SUISSE FR | TRACE Brazuca
 404 | 20 - SUISSE FR | TV5MONDE Info
 404 | 20 - SUISSE FR | Unbeaten
 FAIL | 20 - SUISSE FR | USA TODAY
-404 | 20 - SUISSE FR | Wasabi
+FAIL | 20 - SUISSE FR | Wasabi
 404 | 20 - SUISSE FR | Watch it Kid
 FAIL | 20 - SUISSE FR | Watch it SCREAM
 FAIL | 20 - SUISSE FR | Waypoint TV
@@ -298,7 +299,6 @@ TIMEOUT | 22 - QUEBEC & CANADA FR | TV5 Unis
 FAIL | 23 - FRANCE REGIONS | viàOccitanie (540p) [Not 24/7]
 404 | 23 - FRANCE REGIONS & THEMATIQUES | A12 TV
 TIMEOUT | 24 - OUTRE-MER & CARAIBES | Antenne Réunion (720p) [Not 24/7]
-TIMEOUT | 24 - OUTRE-MER & CARAIBES | RHT Guadeloupe (720p)
 FAIL | 24 - OUTRE-MER & CARAIBES | TNTV (1080p)
 404 | 24 - OUTRE-MER & CARAIBES | TVCARiB (720p) [Not 24/7]
 FAIL | 24 - OUTRE-MER & CARAIBES | ViàATV (1080p) [Geo-blocked]
@@ -368,7 +368,8 @@ FAIL | 99 - A VERIFIER LANGUE | ATV (400p) [Not 24/7]
 404 | 99 - A VERIFIER LANGUE | Chabiba TV (360p) [Not 24/7]
 404 | 99 - A VERIFIER LANGUE | Dega TV (720p) [Not 24/7]
 403 | 99 - A VERIFIER LANGUE | GTV (540p)
-TIMEOUT | 99 - A VERIFIER LANGUE | HC2 TV
+FAIL | 99 - A VERIFIER LANGUE | HC2 TV
+TIMEOUT | 99 - A VERIFIER LANGUE | Laura Dave Media TV (720p)
 404 | 99 - A VERIFIER LANGUE | LBFD RTV (1080p)
 TIMEOUT | 99 - A VERIFIER LANGUE | Mikuba TV (480p) [Not 24/7]
 FAIL | 99 - A VERIFIER LANGUE | NETALKOLE TV (720p) [Not 24/7]
