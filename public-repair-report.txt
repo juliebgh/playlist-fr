@@ -5,6 +5,7 @@ NO_REPLACEMENT | Clubbing TV France
 NO_REPLACEMENT | France 3 Lorraine (1080p)
 NO_REPLACEMENT | France 4
 NO_REPLACEMENT | France 5 (720p)
+NO_REPLACEMENT | like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="01 - TNT & GENERALISTES",France 3
 NO_REPLACEMENT | like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="01 - TNT & GENERALISTES",TF1 (576p)
 NO_REPLACEMENT | like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="01 - TNT & GENERALISTES",TMC (1080p)
 TEST | M6 Music (720p) | https://test.946985.filegear-sg.me/proxy/803c517b325bfafc | FAIL | 
@@ -12,10 +13,8 @@ NO_REPLACEMENT | M6 Music (720p)
 NO_REPLACEMENT | TFX (720p)
 NO_REPLACEMENT | TVM 3 (1080p)
 NO_REPLACEMENT | W9 (1080p)
-NO_REPLACEMENT | AL24 News
 NO_REPLACEMENT | CNA (360p) [Not 24/7]
 NO_REPLACEMENT | CNews (1080p)
-NO_REPLACEMENT | CNEWS PRIME (1080p)
 NO_REPLACEMENT | Filinfo TV (1080p)
 TEST | LCI HD (1080p) | http://151.80.18.177:86/LCI_HD/index.m3u8 | FAIL | 
 NO_REPLACEMENT | LCI HD (1080p)
@@ -31,7 +30,6 @@ NO_REPLACEMENT | like Gecko) Chrome/108.0.0.0 Safari/537.36" group-title="02 - I
 NO_REPLACEMENT | like Gecko) Chrome/108.0.0.0 Safari/537.36" group-title="02 - INFOS",BFM Tech & Co (1080p)
 NO_REPLACEMENT | like Gecko) Chrome/108.0.0.0 Safari/537.36" group-title="02 - INFOS",BFM Toulon Var (1080p)
 NO_REPLACEMENT | NW Info FR (576p)
-NO_REPLACEMENT | Press TV French (1080p)
 NO_REPLACEMENT | Crime Beat TV
 NO_REPLACEMENT | Crime Scene TV
 NO_REPLACEMENT | Love Crime & History
@@ -48,7 +46,6 @@ NO_REPLACEMENT | TV5MONDE Voyage
 NO_REPLACEMENT | WildEarth
 NO_REPLACEMENT | Cap Terre
 NO_REPLACEMENT | Ici Radio-Canada Télé Terre-Neuve-et-Labrador (CBAFT-DT) [Geo-blocked]
-NO_REPLACEMENT | Le Monde en 24h
 NO_REPLACEMENT | TiVi5 Monde [Geo-blocked]
 NO_REPLACEMENT | TV5Monde Asia (1080p)
 NO_REPLACEMENT | TV5Monde Europe (1080p)
@@ -78,7 +75,7 @@ audio
 data
 data
 sub
-APPLIED | TV5MONDE Chefs | https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-68b74890b5b437bf872b6b72/?X-Plex-Token=LDkF_oshxhNY148Te3ga -> https://tvf-tv5ch.otteravision.com/tvf/tv5ch/tv5ch.m3u8
+APPLIED | TV5MONDE Chefs | https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-68b74890b5b437bf872b6b72/?X-Plex-Token=P6xbeZbE9V-HEBPYkXYm -> https://tvf-tv5ch.otteravision.com/tvf/tv5ch/tv5ch.m3u8
 NO_REPLACEMENT | 123GO!
 NO_REPLACEMENT | 5-Minute Crafts
 NO_REPLACEMENT | Creator Television
@@ -149,15 +146,18 @@ NO_REPLACEMENT | Zylo ScreamIN (1080p)
 NO_REPLACEMENT | Asian Drama
 NO_REPLACEMENT | Banijay Mr Bean Animé (1080p)
 NO_REPLACEMENT | Génération Sitcoms TV
+NO_REPLACEMENT | Pluto TV Séries Fantastiques
 NO_REPLACEMENT | Serie Club (720p)
 NO_REPLACEMENT | Soap
 NO_REPLACEMENT | Zylo Fréquence Novelas (1080p)
+NO_REPLACEMENT | Beyblade
 NO_REPLACEMENT | Boss Brothers TV (1080p)
 TEST | Caillou | https://do7nccdsswstc.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-1aso0bc668saa/a5233c83-f772-4a81-959a-45ec7877ef61/5.m3u8 | FAIL | 
 NO_REPLACEMENT | Caillou
 NO_REPLACEMENT | Disney Jr. (1080p)
 NO_REPLACEMENT | ICONE TV
 NO_REPLACEMENT | Le Meilleur des Jeux TV
+NO_REPLACEMENT | Mattel Junior
 NO_REPLACEMENT | Nickelodeon Junior (1080p)
 NO_REPLACEMENT | TG Junior
 NO_REPLACEMENT | Equidia (1080p)
@@ -222,7 +222,7 @@ audio
 video,1280,720
 audio
 video,192
-APPLIED | FashionTV | https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-6490c01f3b3ce9e1aaad95be/?X-Plex-Token=LDkF_oshxhNY148Te3ga -> http://fashionlive.mediacdn.ru/cdn/fashiontv/playlist.m3u8
+APPLIED | FashionTV | https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-6490c01f3b3ce9e1aaad95be/?X-Plex-Token=P6xbeZbE9V-HEBPYkXYm -> http://fashionlive.mediacdn.ru/cdn/fashiontv/playlist.m3u8
 NO_REPLACEMENT | Guide Love TV (720p)
 NO_REPLACEMENT | Luxe TV (1080p)
 NO_REPLACEMENT | MyZen TV (1080p)
@@ -243,7 +243,9 @@ NO_REPLACEMENT | Billiard TV
 NO_REPLACEMENT | Bizaar
 NO_REPLACEMENT | Blacklist
 NO_REPLACEMENT | Bondi Rescue
+NO_REPLACEMENT | Bowling TV
 NO_REPLACEMENT | Brat TV
+NO_REPLACEMENT | C4 en Alerta
 NO_REPLACEMENT | Camp Spoopy
 NO_REPLACEMENT | Canal 9 en Français (1080p)
 NO_REPLACEMENT | CBC News
@@ -252,23 +254,16 @@ NO_REPLACEMENT | Classic Rock
 NO_REPLACEMENT | CombaTV
 NO_REPLACEMENT | COPS
 NO_REPLACEMENT | Cosmic Frontiers
-NO_REPLACEMENT | Dr. Phil
 NO_REPLACEMENT | Drive TV
 NO_REPLACEMENT | Dude Perfect
-NO_REPLACEMENT | Easy Listening
 NO_REPLACEMENT | Echos du Monde
 NO_REPLACEMENT | Eddie's Wonderland
 NO_REPLACEMENT | El Conflicto TV
-NO_REPLACEMENT | Éxitos del Momento
 NO_REPLACEMENT | Fight Network
-NO_REPLACEMENT | Flashback 70s
 NO_REPLACEMENT | FUEL TV
 NO_REPLACEMENT | Galxy TV
-NO_REPLACEMENT | Glewed TV
 NO_REPLACEMENT | GUSTOTV
 NO_REPLACEMENT | H2O & Friends
-NO_REPLACEMENT | Hard Knocks
-NO_REPLACEMENT | Hit List
 NO_REPLACEMENT | Ice Pilots NWT
 NO_REPLACEMENT | Ideas En 5 Minutos
 NO_REPLACEMENT | ITV Deportes
@@ -292,8 +287,11 @@ NO_REPLACEMENT | NewsWorld
 NO_REPLACEMENT | Nolly Africa HD
 NO_REPLACEMENT | Nosey
 NO_REPLACEMENT | Nosey Escándalos
+NO_REPLACEMENT | Nothin' But 90s
 NO_REPLACEMENT | Novelisima
 NO_REPLACEMENT | Pac-12 Insider
+NO_REPLACEMENT | People are Awesome
+NO_REPLACEMENT | PFL MMA
 NO_REPLACEMENT | PickleTV
 NO_REPLACEMENT | Pitufo TV
 NO_REPLACEMENT | PLL Network
@@ -320,10 +318,7 @@ NO_REPLACEMENT | Stingray Karaoke
 NO_REPLACEMENT | Stingray Soul Storm
 NO_REPLACEMENT | The Carol Burnett Show
 NO_REPLACEMENT | The Design Network
-NO_REPLACEMENT | The Pet Collective
-NO_REPLACEMENT | The Spa
 NO_REPLACEMENT | TNA Wrestling Channel
-NO_REPLACEMENT | Today's K-Pop
 NO_REPLACEMENT | Toon Goggles
 NO_REPLACEMENT | Top Sci-Fi
 TEST | TRACE Brazuca | https://amg01131-tracetv-amg01131c4-stirr-us-4390.playouts.now.amagi.tv/playlist.m3u8 | OK | video,640,360
@@ -346,7 +341,7 @@ video,1280,720
 audio
 video,1920,1080
 audio
-APPLIED | TRACE Brazuca | https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-6329474265c8569187176338/?X-Plex-Token=LDkF_oshxhNY148Te3ga -> https://amg01131-tracetv-amg01131c4-stirr-us-4390.playouts.now.amagi.tv/playlist.m3u8
+APPLIED | TRACE Brazuca | https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-6329474265c8569187176338/?X-Plex-Token=P6xbeZbE9V-HEBPYkXYm -> https://amg01131-tracetv-amg01131c4-stirr-us-4390.playouts.now.amagi.tv/playlist.m3u8
 NO_REPLACEMENT | TRACE UK
 NO_REPLACEMENT | TV5Monde France Belgique Suisse Monaco (1080p) [Geo-blocked]
 TEST | TV5MONDE Info | http://91.235.255.32:8001/1:0:1:2CA:14B4:13E:820000:0:0:0 | FAIL | 
@@ -355,11 +350,8 @@ NO_REPLACEMENT | Unbeaten
 NO_REPLACEMENT | USA TODAY
 NO_REPLACEMENT | Wasabi
 NO_REPLACEMENT | Watch it Kid
-NO_REPLACEMENT | Watch it SCREAM
 NO_REPLACEMENT | Waypoint TV
-NO_REPLACEMENT | World Billiards TV
 NO_REPLACEMENT | XFC TV
-NO_REPLACEMENT | Y2K
 NO_REPLACEMENT | Ya Que La Vérité La Chaine
 NO_REPLACEMENT | Yahoo Finance
 NO_REPLACEMENT | ZenLIFE by Stingray
@@ -389,7 +381,6 @@ NO_REPLACEMENT | viàMoselleTV (720p) [Not 24/7]
 NO_REPLACEMENT | viàOccitanie (540p) [Not 24/7]
 NO_REPLACEMENT | A12 TV
 NO_REPLACEMENT | Antenne Réunion (720p) [Not 24/7]
-NO_REPLACEMENT | RHT Guadeloupe (720p)
 NO_REPLACEMENT | TNTV (1080p)
 NO_REPLACEMENT | TVCARiB (720p) [Not 24/7]
 NO_REPLACEMENT | ViàATV (1080p) [Geo-blocked]
@@ -461,6 +452,7 @@ NO_REPLACEMENT | Chabiba TV (360p) [Not 24/7]
 NO_REPLACEMENT | Dega TV (720p) [Not 24/7]
 NO_REPLACEMENT | GTV (540p)
 NO_REPLACEMENT | HC2 TV
+NO_REPLACEMENT | Laura Dave Media TV (720p)
 NO_REPLACEMENT | LBFD RTV (1080p)
 NO_REPLACEMENT | Mikuba TV (480p) [Not 24/7]
 NO_REPLACEMENT | NETALKOLE TV (720p) [Not 24/7]
