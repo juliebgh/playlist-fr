@@ -1,6 +1,6 @@
 name,status,source,url,info,error
-6ter (1080p),FAIL-1,playlist.m3u,http://149.62.177.107:9999/6ter/index.m3u8,,[tcp @ 0x57fe1d0b2780] Connection to tcp://149.62.177.107:9999 failed: Connection refused http://149.62.177.107:9999/6ter/index.m3u8: Connection refused
-arte (720p),FAIL-1,playlist.m3u,http://5.180.164.197:8080/ARTEFR/index.m3u8,,[tcp @ 0x61dae144b780] Connection to tcp://5.180.164.197:8080 failed: Connection timed out http://5.180.164.197:8080/ARTEFR/index.m3u8: Connection timed out
+6ter (1080p),FAIL-1,playlist.m3u,http://149.62.177.107:9999/6ter/index.m3u8,,[tcp @ 0x5d1c9fe20780] Connection to tcp://149.62.177.107:9999 failed: Connection refused http://149.62.177.107:9999/6ter/index.m3u8: Connection refused
+arte (720p),FAIL-1,playlist.m3u,http://5.180.164.197:8080/ARTEFR/index.m3u8,,[tcp @ 0x5589168f4780] Connection to tcp://5.180.164.197:8080 failed: Connection timed out http://5.180.164.197:8080/ARTEFR/index.m3u8: Connection timed out
 C Star (1080p),FAIL-1,playlist.m3u,https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/canalplus/cstar-dm.m3u8,,https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/canalplus/cstar-dm.m3u8: Invalid data found when processing input
 Clubbing TV France,FAIL-1,playlist.m3u,https://d1j2csarxnwazk.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-uze1m6xh4fiyr-ssai-prd/master.m3u8,,https://d1j2csarxnwazk.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-uze1m6xh4fiyr-ssai-prd/master.m3u8: Server returned 5XX Server Error reply
 France 24 French (1080p),OK-2X,playlist.m3u,https://live.france24.com/hls/live/2037179-b/F24_FR_HI_HLS/master_5000.m3u8,"video,1920,1080
@@ -15,9 +15,9 @@ video,1920,1080
 
 audio
 video,1920,1080",
-France 3 Lorraine (1080p),FAIL-1,playlist.m3u,http://5.180.164.197:8080/FRANCE3/index.m3u8,,[tcp @ 0x5703f1abe780] Connection to tcp://5.180.164.197:8080 failed: Connection timed out http://5.180.164.197:8080/FRANCE3/index.m3u8: Connection timed out
-France 4,FAIL-1,playlist.m3u,http://149.62.177.107:9999/France_4/index.m3u8,,[tcp @ 0x55d1e395c780] Connection to tcp://149.62.177.107:9999 failed: Connection refused http://149.62.177.107:9999/France_4/index.m3u8: Connection refused
-France 5 (720p),FAIL-1,playlist.m3u,http://149.62.177.107:9999/France_5/index.m3u8,,[tcp @ 0x5ba422fb1780] Connection to tcp://149.62.177.107:9999 failed: Connection refused http://149.62.177.107:9999/France_5/index.m3u8: Connection refused
+France 3 Lorraine (1080p),FAIL-1,playlist.m3u,http://5.180.164.197:8080/FRANCE3/index.m3u8,,[tcp @ 0x653995a16780] Connection to tcp://5.180.164.197:8080 failed: Connection timed out http://5.180.164.197:8080/FRANCE3/index.m3u8: Connection timed out
+France 4,FAIL-1,playlist.m3u,http://149.62.177.107:9999/France_4/index.m3u8,,[tcp @ 0x5eb96bfe5780] Connection to tcp://149.62.177.107:9999 failed: Connection refused http://149.62.177.107:9999/France_4/index.m3u8: Connection refused
+France 5 (720p),FAIL-1,playlist.m3u,http://149.62.177.107:9999/France_5/index.m3u8,,[tcp @ 0x5d8c517e4780] Connection to tcp://149.62.177.107:9999 failed: Connection refused http://149.62.177.107:9999/France_5/index.m3u8: Connection refused
 "like Gecko) Chrome/149.0.0.0 Safari/537.3"" group-title=""01 - TNT & GENERALISTES"",France 3",OK-2X,playlist.m3u,http://85.14.32.26:8800/udp/239.100.10.144:5000,"video,1920,1080
 audio
 audio
@@ -39,11 +39,11 @@ video,1920,1080
 audio
 video,1920,1080",
 "like Gecko) Chrome/149.0.0.0 Safari/537.36"" group-title=""01 - TNT & GENERALISTES"",TF1 (576p)",FAIL-1,playlist.m3u,https://futbol9865.ultratv13.workers.dev/deportivo111/24.m3u8,,https://futbol9865.ultratv13.workers.dev/deportivo111/24.m3u8: Server returned 404 Not Found
-"like Gecko) Chrome/149.0.0.0 Safari/537.36"" group-title=""01 - TNT & GENERALISTES"",TMC (1080p)",FAIL-1,playlist.m3u,http://151.80.18.177:86/TMC/index.m3u8,,[tcp @ 0x5722fced0640] Connection to tcp://151.80.18.177:86 failed: Connection timed out http://151.80.18.177:86/TMC/index.m3u8: Connection timed out
+"like Gecko) Chrome/149.0.0.0 Safari/537.36"" group-title=""01 - TNT & GENERALISTES"",TMC (1080p)",FAIL-1,playlist.m3u,http://151.80.18.177:86/TMC/index.m3u8,,[tcp @ 0x5cace0a04640] Connection to tcp://151.80.18.177:86 failed: Connection timed out http://151.80.18.177:86/TMC/index.m3u8: Connection timed out
 M6 Music (720p),FAIL-1,playlist.m3u,http://145.239.5.177/320/index.m3u8,,http://145.239.5.177/320/index.m3u8: Server returned 403 Forbidden (access denied)
-TFX (720p),FAIL-1,playlist.m3u,http://149.62.177.107:9999/TFX/index.m3u8,,[tcp @ 0x622c697a4780] Connection to tcp://149.62.177.107:9999 failed: Connection refused http://149.62.177.107:9999/TFX/index.m3u8: Connection refused
+TFX (720p),FAIL-1,playlist.m3u,http://149.62.177.107:9999/TFX/index.m3u8,,[tcp @ 0x57937c677780] Connection to tcp://149.62.177.107:9999 failed: Connection refused http://149.62.177.107:9999/TFX/index.m3u8: Connection refused
 TVM 3 (1080p),FAIL-1,playlist.m3u,https://cache1a.netplus.ch/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzY4MTg5NzQyIiwic2lwIjoiIiwicGF0aCI6Ii9saXZlL2Vkcy90dm0zL2Jyb3dzZXItSExTOC8iLCJzZXNzaW9uX2Nkbl9pZCI6IjNhZmJlZTIxMmU1NjUyODEiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzEwLjAuMjI5LjE5Iiwic2Vzc2lvbl90aW1lb3V0IjowLCJhdWQiOiI1MyIsInNvdXJjZXMiOls0OF19.N29uj_Xo3YmdQUboW5e45wx4lUey-utXtC6RpbbCGgJ8uCl2ngejd8tu_S-3tv7s02OtkHo4Rkf7mitOx_7lcA==/live/eds/tvm3/browser-HLS8/tvm3.m3u8,,https://cache1a.netplus.ch/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzY4MTg5NzQyIiwic2lwIjoiIiwicGF0aCI6Ii9saXZlL2Vkcy90dm0zL2Jyb3dzZXItSExTOC8iLCJzZXNzaW9uX2Nkbl9pZCI6IjNhZmJlZTIxMmU1NjUyODEiLCJzZXNzaW9uX2lk
-W9 (1080p),FAIL-1,playlist.m3u,http://5.180.164.197:8080/W9/index.m3u8,,[tcp @ 0x571449b44640] Connection to tcp://5.180.164.197:8080 failed: Connection timed out http://5.180.164.197:8080/W9/index.m3u8: Connection timed out
+W9 (1080p),FAIL-1,playlist.m3u,http://5.180.164.197:8080/W9/index.m3u8,,[tcp @ 0x5c2b23ac3640] Connection to tcp://5.180.164.197:8080 failed: Connection timed out http://5.180.164.197:8080/W9/index.m3u8: Connection timed out
 7 Info,OK-2X,playlist.m3u,https://video1.getstreamhosting.com:1936/8042/8042/playlist.m3u8,"video,1280,720
 audio
 
@@ -181,28 +181,30 @@ video,1280,720
 audio
 video,1920,1080
 audio",
-CNA (360p) [Not 24/7],OK-2X,playlist.m3u,https://live.creacast.com/cna/stream/playlist.m3u8,"data
-video,640,360
-audio
-
-data
-video,640,360
-audio",
+CNA (360p) [Not 24/7],FAIL-1,playlist.m3u,https://live.creacast.com/cna/stream/playlist.m3u8,,https://live.creacast.com/cna/stream/playlist.m3u8: Server returned 403 Forbidden (access denied)
 CNews (1080p),FAIL-1,playlist.m3u,https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/cnews-dm.m3u8,,timeout
 CNEWS PRIME (1080p),OK-2X,playlist.m3u,https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/cnews-prime-dm.m3u8,"audio
-video,512,288
-
-audio
-video,320,184
-
-audio
 video,848,480
 
 audio
+video,320,184
+
 audio
 video,512,288
+
+audio
+video,1280,720
+
+audio
+video,1920,1080
+
+audio
+audio
+video,848,480
 video,320,184
-video,848,480",
+video,512,288
+video,1280,720
+video,1920,1080",
 Diaspora 24 [Geo-blocked],OK-2X,playlist.m3u,https://vdo3.pro-fhi.net:3218/stream/play.m3u8,"video,1920,1080
 audio
 
@@ -235,7 +237,7 @@ audio
 video,1024,576
 audio
 video,1280",
-Filinfo TV (1080p),FAIL-1,playlist.m3u,https://d2iqjnqfr8pv3b.cloudfront.net/out/v1/d09d2fc718404cd8bccd3eba2444dd70/index.m3u8,,[tcp @ 0x62e93f218ac0] Failed to resolve hostname d2iqjnqfr8pv3b.cloudfront.net: No address associated with hostname https://d2iqjnqfr8pv3b.cloudfront.net/out/v1/d09d2fc718404cd8bccd3eba2444dd70/index.m3u8: Input/output 
+Filinfo TV (1080p),FAIL-1,playlist.m3u,https://d2iqjnqfr8pv3b.cloudfront.net/out/v1/d09d2fc718404cd8bccd3eba2444dd70/index.m3u8,,[tcp @ 0x6360ff197ac0] Failed to resolve hostname d2iqjnqfr8pv3b.cloudfront.net: No address associated with hostname https://d2iqjnqfr8pv3b.cloudfront.net/out/v1/d09d2fc718404cd8bccd3eba2444dd70/index.m3u8: Input/output 
 Haiti News Channel (1080p) [Not 24/7],OK-2X,playlist.m3u,https://cdn.haititivi.com/website/haitinews/index.m3u8,"video,1280,720
 audio
 
@@ -261,171 +263,18 @@ video,1280,720
 audio
 video,1920,1080
 audio",
-LCI HD (1080p),FAIL-1,playlist.m3u,http://149.62.177.107:9999/LCI/index.m3u8,,[tcp @ 0x5cbb055cd780] Connection to tcp://149.62.177.107:9999 failed: Connection refused http://149.62.177.107:9999/LCI/index.m3u8: Connection refused
-"like Gecko) Chrome/108.0.0.0 Safari/537.36"" group-title=""02 - INFOS"",BFM Alsace (1080p)",OK-2X,playlist.m3u,https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_ALSACE/index.m3u8?end=END&start=LIVE,"subtitle,N/A,N/A
-subtitle,N/A,N/A
-video,1024,576
-audio
-subtitle,492,250
-
-subtitle,N/A,N/A
-subtitle,N/A,N/A
-video,320,180
-audio
-subtitle,492,250
-
-subtitle,N/A,N/A
-subtitle,N/A,N/A
-video,640,360
-audio
-subtitle,492,250
-
-sub",
-"like Gecko) Chrome/108.0.0.0 Safari/537.36"" group-title=""02 - INFOS"",BFM DICI Alpes du Sud (1080p)",OK-2X,playlist.m3u,https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_DICI_ALPESDUSUD/index.m3u8?end=END&start=LIVE,"subtitle,N/A,N/A
-subtitle,N/A,N/A
-video,1024,576
-audio
-subtitle,492,250
-
-subtitle,N/A,N/A
-subtitle,N/A,N/A
-video,320,180
-audio
-subtitle,492,250
-
-subtitle,N/A,N/A
-subtitle,N/A,N/A
-video,640,360
-audio
-subtitle,492,250
-
-sub",
-"like Gecko) Chrome/108.0.0.0 Safari/537.36"" group-title=""02 - INFOS"",BFM DICI Haute-Provence (1080p)",OK-2X,playlist.m3u,https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_DICI_HAUTEPROVENCE/index.m3u8?end=END&start=LIVE,"subtitle,N/A,N/A
-subtitle,N/A,N/A
-video,1024,576
-audio
-subtitle,492,250
-
-subtitle,N/A,N/A
-subtitle,N/A,N/A
-video,320,180
-audio
-subtitle,492,250
-
-subtitle,N/A,N/A
-subtitle,N/A,N/A
-video,640,360
-audio
-subtitle,492,250
-
-sub",
-"like Gecko) Chrome/108.0.0.0 Safari/537.36"" group-title=""02 - INFOS"",BFM Grand Lille (1080p)",OK-2X,playlist.m3u,https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFMGRANDLILLE/index.m3u8?end=END&start=LIVE,"subtitle,N/A,N/A
-subtitle,N/A,N/A
-video,1024,576
-audio
-subtitle,492,250
-
-subtitle,N/A,N/A
-subtitle,N/A,N/A
-video,320,180
-audio
-subtitle,492,250
-
-subtitle,N/A,N/A
-subtitle,N/A,N/A
-video,640,360
-audio
-subtitle,492,250
-
-sub",
-"like Gecko) Chrome/108.0.0.0 Safari/537.36"" group-title=""02 - INFOS"",BFM Grand Littoral (1080p)",OK-2X,playlist.m3u,https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFMGRANDLITTORAL/index.m3u8?end=END&start=LIVE,"subtitle,N/A,N/A
-subtitle,N/A,N/A
-video,1024,576
-audio
-subtitle,492,250
-
-subtitle,N/A,N/A
-subtitle,N/A,N/A
-video,320,180
-audio
-subtitle,492,250
-
-subtitle,N/A,N/A
-subtitle,N/A,N/A
-video,640,360
-audio
-subtitle,492,250
-
-sub",
-"like Gecko) Chrome/108.0.0.0 Safari/537.36"" group-title=""02 - INFOS"",BFM Lyon (1080p)",FAIL-2,playlist.m3u,https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_LYON/index.m3u8?end=END&start=LIVE,,timeout
-"like Gecko) Chrome/108.0.0.0 Safari/537.36"" group-title=""02 - INFOS"",BFM Marseille (1080p)",FAIL-1,playlist.m3u,https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_MARSEILLEPROV/index.m3u8?end=END&start=LIVE,,timeout
-"like Gecko) Chrome/108.0.0.0 Safari/537.36"" group-title=""02 - INFOS"",BFM Nice Côte d'Azur (1080p)",OK-2X,playlist.m3u,https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_NICECOTEDAZUR/index.m3u8?end=END&start=LIVE,"subtitle,N/A,N/A
-subtitle,N/A,N/A
-video,1024,576
-audio
-subtitle,492,250
-
-subtitle,N/A,N/A
-subtitle,N/A,N/A
-video,320,180
-audio
-subtitle,492,250
-
-subtitle,N/A,N/A
-subtitle,N/A,N/A
-video,640,360
-audio
-subtitle,492,250
-
-sub",
-"like Gecko) Chrome/108.0.0.0 Safari/537.36"" group-title=""02 - INFOS"",BFM Normandie (1080p)",FAIL-1,playlist.m3u,https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_NORMANDIE/index.m3u8?end=END&start=LIVE,,timeout
-"like Gecko) Chrome/108.0.0.0 Safari/537.36"" group-title=""02 - INFOS"",BFM Tech & Co (1080p)",OK-2X,playlist.m3u,https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TECHANDCO/index.m3u8?end=END&start=LIVE,"video,1024,576
-audio
-
-video,320,180
-audio
-
-video,640,360
-audio
-
-video,640,360
-audio
-
-video,1280,720
-audio
-
-video,1280,720
-audio
-
-video,1920,1080
-audio
-
-video,1024,576
-audio
-video,320,180
-audio
-video,640,360
-audio
-video,6",
-"like Gecko) Chrome/108.0.0.0 Safari/537.36"" group-title=""02 - INFOS"",BFM Toulon Var (1080p)",OK-2X,playlist.m3u,https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TOULONVAR/index.m3u8?end=END&start=LIVE,"subtitle,N/A,N/A
-subtitle,N/A,N/A
-video,1024,576
-audio
-subtitle,492,250
-
-subtitle,N/A,N/A
-subtitle,N/A,N/A
-video,320,180
-audio
-subtitle,492,250
-
-subtitle,N/A,N/A
-subtitle,N/A,N/A
-video,640,360
-audio
-subtitle,492,250
-
-sub",
+LCI HD (1080p),FAIL-1,playlist.m3u,http://149.62.177.107:9999/LCI/index.m3u8,,[tcp @ 0x628ddec2c780] Connection to tcp://149.62.177.107:9999 failed: Connection refused http://149.62.177.107:9999/LCI/index.m3u8: Connection refused
+"like Gecko) Chrome/108.0.0.0 Safari/537.36"" group-title=""02 - INFOS"",BFM Alsace (1080p)",FAIL-1,playlist.m3u,https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_ALSACE/index.m3u8?end=END&start=LIVE,,https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_ALSACE/index.m3u8?end=END&start=LIVE: Server returned 403 Forbidden (access denied)
+"like Gecko) Chrome/108.0.0.0 Safari/537.36"" group-title=""02 - INFOS"",BFM DICI Alpes du Sud (1080p)",FAIL-1,playlist.m3u,https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_DICI_ALPESDUSUD/index.m3u8?end=END&start=LIVE,,https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_DICI_ALPESDUSUD/index.m3u8?end=END&start=LIVE: Server returned 403 Forbidden (access denied)
+"like Gecko) Chrome/108.0.0.0 Safari/537.36"" group-title=""02 - INFOS"",BFM DICI Haute-Provence (1080p)",FAIL-1,playlist.m3u,https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_DICI_HAUTEPROVENCE/index.m3u8?end=END&start=LIVE,,https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_DICI_HAUTEPROVENCE/index.m3u8?end=END&start=LIVE: Server returned 403 Forbidden (access denied)
+"like Gecko) Chrome/108.0.0.0 Safari/537.36"" group-title=""02 - INFOS"",BFM Grand Lille (1080p)",FAIL-1,playlist.m3u,https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFMGRANDLILLE/index.m3u8?end=END&start=LIVE,,https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFMGRANDLILLE/index.m3u8?end=END&start=LIVE: Server returned 403 Forbidden (access denied)
+"like Gecko) Chrome/108.0.0.0 Safari/537.36"" group-title=""02 - INFOS"",BFM Grand Littoral (1080p)",FAIL-1,playlist.m3u,https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFMGRANDLITTORAL/index.m3u8?end=END&start=LIVE,,https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFMGRANDLITTORAL/index.m3u8?end=END&start=LIVE: Server returned 403 Forbidden (access denied)
+"like Gecko) Chrome/108.0.0.0 Safari/537.36"" group-title=""02 - INFOS"",BFM Lyon (1080p)",FAIL-1,playlist.m3u,https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_LYON/index.m3u8?end=END&start=LIVE,,https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_LYON/index.m3u8?end=END&start=LIVE: Server returned 403 Forbidden (access denied)
+"like Gecko) Chrome/108.0.0.0 Safari/537.36"" group-title=""02 - INFOS"",BFM Marseille (1080p)",FAIL-1,playlist.m3u,https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_MARSEILLEPROV/index.m3u8?end=END&start=LIVE,,https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_MARSEILLEPROV/index.m3u8?end=END&start=LIVE: Server returned 403 Forbidden (access denied)
+"like Gecko) Chrome/108.0.0.0 Safari/537.36"" group-title=""02 - INFOS"",BFM Nice Côte d'Azur (1080p)",FAIL-1,playlist.m3u,https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_NICECOTEDAZUR/index.m3u8?end=END&start=LIVE,,https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_NICECOTEDAZUR/index.m3u8?end=END&start=LIVE: Server returned 403 Forbidden (access denied)
+"like Gecko) Chrome/108.0.0.0 Safari/537.36"" group-title=""02 - INFOS"",BFM Normandie (1080p)",FAIL-1,playlist.m3u,https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_NORMANDIE/index.m3u8?end=END&start=LIVE,,https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_NORMANDIE/index.m3u8?end=END&start=LIVE: Server returned 403 Forbidden (access denied)
+"like Gecko) Chrome/108.0.0.0 Safari/537.36"" group-title=""02 - INFOS"",BFM Tech & Co (1080p)",FAIL-1,playlist.m3u,https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TECHANDCO/index.m3u8?end=END&start=LIVE,,https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TECHANDCO/index.m3u8?end=END&start=LIVE: Server returned 403 Forbidden (access denied)
+"like Gecko) Chrome/108.0.0.0 Safari/537.36"" group-title=""02 - INFOS"",BFM Toulon Var (1080p)",FAIL-1,playlist.m3u,https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TOULONVAR/index.m3u8?end=END&start=LIVE,,https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TOULONVAR/index.m3u8?end=END&start=LIVE: Server returned 403 Forbidden (access denied)
 Monaco Info (1080p),OK-2X,playlist.m3u,https://webtv.monacoinfo.com/live/prod/index.m3u8,"audio
 video,1920,1080
 
@@ -439,30 +288,30 @@ audio
 data
 video,1920,1080
 audio",
-Trailers From Hell,OK-2X,playlist.m3u,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-61d738b5a7b7c7f703418514/?X-Plex-Token=DDHTm5NSc_UVaBcXaLUE,"video,640,360
+Trailers From Hell,OK-2X,playlist.m3u,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-61d738b5a7b7c7f703418514/?X-Plex-Token=DDHTm5NSc_UVaBcXaLUE,"video,0,0
 audio
 
-video,384,216
+video,0,0
 audio
 
-video,960,540
+video,0,0
 audio
 
 video,1280,720
 audio
 
-video,1920,1080
+video,0,0
 audio
 
-video,640,360
+video,0,0
 audio
-video,384,216
+video,0,0
 audio
-video,960,540
+video,0,0
 audio
 video,1280,720
 audio
-video,1920,1080
+video,0,0
 audio",
 Crime Beat TV,FAIL-1,playlist.m3u,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-68c98e7460586565cc56baab/?X-Plex-Token=MQj5gsQsF79CdBy-xJez,,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-68c98e7460586565cc56baab/?X-Plex-Token=MQj5gsQsF79CdBy-xJez: Server returned 404 Not Found
 Crime - Rakuten TV,OK-2X,playlist.m3u,https://jmp2.uk/stvp-FR2600009UG,"subtitle,N/A,N/A
@@ -533,6 +382,30 @@ video,854,480
 
 subtitle,N/A,N/A
 audio
+video,0,0
+
+subtitle,N/A,N/A
+audio
+video,0,0
+
+subtitle,N/A,N/A
+audio
+video,640,360
+v",
+Enquêtes de Choc,OK-2X,playlist.m3u,https://jmp2.uk/plu-63921a1bf76e7d0007c998a6.m3u8,"subtitle,N/A,N/A
+audio
+video,640,360
+
+subtitle,N/A,N/A
+audio
+video,854,480
+
+subtitle,N/A,N/A
+audio
+video,854,480
+
+subtitle,N/A,N/A
+audio
 video,1280,720
 
 subtitle,N/A,N/A
@@ -542,31 +415,6 @@ video,426,240
 subtitle,N/A,N/A
 audio
 video,",
-Enquêtes de Choc,OK-2X,playlist.m3u,https://jmp2.uk/plu-63921a1bf76e7d0007c998a6.m3u8,"subtitle,N/A,N/A
-audio
-video,0,0
-
-subtitle,N/A,N/A
-audio
-video,0,0
-
-subtitle,N/A,N/A
-audio
-video,0,0
-
-subtitle,N/A,N/A
-audio
-video,0,0
-
-subtitle,N/A,N/A
-audio
-video,0,0
-
-subtitle,N/A,N/A
-audio
-video,0,0
-video,0,0
-video,0",
 IntoCrime,OK-2X,playlist.m3u,https://jmp2.uk/stvp-FR300032ZK,"video,640,360
 audio
 
@@ -589,29 +437,31 @@ video,1920,1080
 audio",
 Investigation by Pluto TV,OK-2X,playlist.m3u,https://jmp2.uk/plu-6683cd2fca74680008772545.m3u8,"subtitle,N/A,N/A
 audio
-audio
-video,1216,684
+video,640,360
+data
 
 subtitle,N/A,N/A
 audio
-audio
-video,1216,684
+video,854,480
+data
 
 subtitle,N/A,N/A
 audio
-audio
-video,1216,684
+video,1024,576
+data
 
 subtitle,N/A,N/A
 audio
-audio
-video,1216,684
+video,1280,720
+data
 
 subtitle,N/A,N/A
 audio
-audio
-video,1024,",
-Love Crime & History,FAIL-1,playlist.m3u,https://jmp2.uk/stvp-FRBD43000016D,,[hls @ 0x60a562a182c0] URL https://amg01821-lovetv-amg01821c16-samsung-fr-1295.playouts.now.amagi.tv/ts-us-w2-n1/beacon/amg01821-lovetvfast-lovecrimeandhistoryfrance-samsungfr/cb573d1d7f6c648d92d43b60cef44782c67b3dcb0e6c
+video,426,240
+data
+
+sub",
+Love Crime & History,FAIL-1,playlist.m3u,https://jmp2.uk/stvp-FRBD43000016D,,[hls @ 0x5593061772c0] URL https://amg01821-lovetv-amg01821c16-samsung-fr-1295.playouts.now.amagi.tv/ts-us-w2-n1/beacon/amg01821-lovetvfast-lovecrimeandhistoryfrance-samsungfr/cb57381e6573648784c93778d1f14182c67b3dcb0e6c
 Mission Intervention,OK-2X,playlist.m3u,https://jmp2.uk/stvp-FR700002UP,"video,1280,720
 audio
 data
@@ -734,7 +584,7 @@ video,854,480
 audio
 video,640,360
 audio",
-100% Docs Crime,FAIL-1,playlist.m3u,https://jmp2.uk/stvp-FRBD39000064E,,[hls @ 0x5c1744aea2c0] URL https://amg02162-newenconnect-amg02162c2-samsung-fr-1077.playouts.now.amagi.tv/ts-us-w2-n1/beacon/amg02162-newenconnect-100pour100docs-samsungfr/cb573d1d7f6c648d92d43b60cef44782c67b3dcb0e6c8864
+100% Docs Crime,FAIL-1,playlist.m3u,https://jmp2.uk/stvp-FRBD39000064E,,[hls @ 0x562e137742c0] URL https://amg02162-newenconnect-amg02162c2-samsung-fr-1077.playouts.now.amagi.tv/ts-us-w2-n1/beacon/amg02162-newenconnect-100pour100docs-samsungfr/cb57381e6573648784c93778d1f14182c67b3dcb0e6c8864
 Afroculture TV,OK-2X,playlist.m3u,https://streamtv.cmediahosthosting.net:3836/live/myafroculturelive.m3u8,"video,1920,1080
 audio
 
@@ -820,7 +670,7 @@ audio
 video,640,360
 audio",
 Documentary+,FAIL-1,playlist.m3u,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-614e286b2bac097ffd6fd6ab/?X-Plex-Token=DDHTm5NSc_UVaBcXaLUE,,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-614e286b2bac097ffd6fd6ab/?X-Plex-Token=DDHTm5NSc_UVaBcXaLUE: Server returned 404 Not Found
-Evasion TV,FAIL-1,playlist.m3u,https://kali.vdopanel.com:3788/hybrid/play.m3u8,,[tcp @ 0x625352a94a40] Connection to tcp://kali.vdopanel.com:3788 failed: Connection refused https://kali.vdopanel.com:3788/hybrid/play.m3u8: Connection refused
+Evasion TV,FAIL-1,playlist.m3u,https://kali.vdopanel.com:3788/hybrid/play.m3u8,,[tcp @ 0x58f2a1bf1a40] Connection to tcp://kali.vdopanel.com:3788 failed: Connection refused https://kali.vdopanel.com:3788/hybrid/play.m3u8: Connection refused
 Invitation au voyage,OK-2X,playlist.m3u,https://jmp2.uk/stvp-FR3700004HZ,"video,640,360
 audio
 
@@ -861,7 +711,7 @@ video,960,540
 audio
 video,640,360
 audio",
-Les secrets de nos régions,FAIL-1,playlist.m3u,https://jmp2.uk/stvp-FRBD410000436,,[hls @ 0x5f14fb9f72c0] URL https://amg02393-awpg-amg02393c6-samsung-fr-1161.playouts.now.amagi.tv/ts-us-w2-n2/beacon/amg02393-awpg-lessecretsdenosregions-samsungfr/cb573d1d7f6c648d92d43b60cef44782c67b3dcb0e6c886470af4a97
+Les secrets de nos régions,FAIL-1,playlist.m3u,https://jmp2.uk/stvp-FRBD410000436,,[hls @ 0x6202852962c0] URL https://amg02393-awpg-amg02393c6-samsung-fr-1161.playouts.now.amagi.tv/ts-us-w2-n2/beacon/amg02393-awpg-lessecretsdenosregions-samsungfr/cb57381e6573648784c93778d1f14182c67b3dcb0e6c886470af4a97
 Nature Time France (1080p),OK-2X,playlist.m3u,https://bamusa-naturetime-emea-fra-rakuten.amagi.tv/playlist.m3u8,"video,640,360
 audio
 
@@ -882,8 +732,32 @@ video,1280,720
 audio
 video,1920,1080
 audio",
-NatureTime,FAIL-1,playlist.m3u,https://jmp2.uk/stvp-FRBB4900002D4,,[hls @ 0x60db221862c0] URL https://amg00090-blueantmedia-naturetime-samsungfr-yakbf.amagi.tv/ts-eu-w1-n2/beacon/amg00090-blueantmedia-naturetime-samsungfr/cb573d1d7f6c648d92d43b60cef44782c67b3dcb0e6c886470af4a9765d94c06d
+NatureTime,FAIL-1,playlist.m3u,https://jmp2.uk/stvp-FRBB4900002D4,,[hls @ 0x5cb43b59a2c0] URL https://amg00090-blueantmedia-naturetime-samsungfr-yakbf.amagi.tv/ts-eu-w1-n2/beacon/amg00090-blueantmedia-naturetime-samsungfr/cb57381e6573648784c93778d1f14182c67b3dcb0e6c886470af4a9765d94c06d
 Pluto TV Animaux,OK-2X,playlist.m3u,https://jmp2.uk/plu-60925a44f0350600075a1fdc.m3u8,"subtitle,N/A,N/A
+audio
+audio
+video,1216,684
+
+subtitle,N/A,N/A
+audio
+audio
+video,1216,684
+
+subtitle,N/A,N/A
+audio
+audio
+video,1216,684
+
+subtitle,N/A,N/A
+audio
+audio
+video,1216,684
+
+subtitle,N/A,N/A
+audio
+audio
+video,1024,",
+Pluto TV Histoire (720p),OK-2X,playlist.m3u,https://jmp2.uk/plu-611e771e2f5f180007002224.m3u8,"subtitle,N/A,N/A
 audio
 video,640,360
 audio
@@ -908,31 +782,7 @@ audio
 video,426,240
 audio
 ",
-Pluto TV Histoire (720p),OK-2X,playlist.m3u,https://jmp2.uk/plu-611e771e2f5f180007002224.m3u8,"subtitle,N/A,N/A
-audio
-audio
-video,1216,684
-
-subtitle,N/A,N/A
-audio
-audio
-video,1216,684
-
-subtitle,N/A,N/A
-audio
-audio
-video,1216,684
-
-subtitle,N/A,N/A
-audio
-audio
-video,1216,684
-
-subtitle,N/A,N/A
-audio
-audio
-video,1024,",
-Popular Science,FAIL-1,playlist.m3u,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-656fb850cb7e8e6a9bc3f36e/?X-Plex-Token=DDHTm5NSc_UVaBcXaLUE,,[hls @ 0x6084b398c380] URL https://amg13231-actve-amg13231c5-plex-us-1822.playouts.now.amagi.tv/ts-us-e2-n2/beacon/amg13231-actvefast-powder-plexus/cb573d1d7f6c648d92d43b60cef44782c67b3dcb0e6c886470af4a9765d94c06d8fca087
+Popular Science,FAIL-1,playlist.m3u,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-656fb850cb7e8e6a9bc3f36e/?X-Plex-Token=DDHTm5NSc_UVaBcXaLUE,,
 RMC Découverte,OK-2X,playlist.m3u,https://jmp2.uk/stvp-FRBD4100008QS,"video,1920,1080
 audio
 
@@ -954,7 +804,31 @@ audio
 video,640,360
 audio",
 Stingray Naturescape,FAIL-1,playlist.m3u,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-62fbf36c1567211fdb82e920/?X-Plex-Token=DDHTm5NSc_UVaBcXaLUE,,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-62fbf36c1567211fdb82e920/?X-Plex-Token=DDHTm5NSc_UVaBcXaLUE: Server returned 404 Not Found
-True History,FAIL-1,playlist.m3u,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-614398a08f30fa61e0da7c97/?X-Plex-Token=DDHTm5NSc_UVaBcXaLUE,,[hls @ 0x646c50a9e380] URL https://c465a0f897ce4c42aa603182a3399b12.mediatailor.us-west-2.amazonaws.com/v1/segment/ba62fe743df0fe93366eba3a257d792884136c7f/Linear-188-TRUE-HISTORY-PLEX/55a2b873-8643-4a92-a046-c908135d7bf
+True History,OK-2X,playlist.m3u,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-614398a08f30fa61e0da7c97/?X-Plex-Token=DDHTm5NSc_UVaBcXaLUE,"subtitle,N/A,N/A
+video,1280,720
+audio
+data
+
+subtitle,N/A,N/A
+video,1024,576
+audio
+data
+
+subtitle,N/A,N/A
+video,640,360
+audio
+data
+
+subtitle,N/A,N/A
+video,384,216
+audio
+data
+
+subtitle,N/A,N/A
+video,1280,720
+audio
+data
+vid",
 TV5 Monde Voyage,OK-2X,playlist.m3u,https://jmp2.uk/stvp-FR1800004EP,"subtitle,N/A,N/A
 subtitle,N/A,N/A
 subtitle,N/A,N/A
@@ -993,15 +867,37 @@ video,1280,720
 
 subtitle,N/A,N/A
 audio
+video,0,0
+
+subtitle,N/A,N/A
+audio
+video,640,",
+WildEarth,FAIL-1,playlist.m3u,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-60d4edddb2fdec002c141135/?X-Plex-Token=DDHTm5NSc_UVaBcXaLUE,,[hls @ 0x6364ac370380] URL https://plexaaaaa-wildearth-plex-t4zha.amagi.tv/ts-us-e2-n1/beacon/plexAAAAA-wildearth-plex/cb57381e6573648784c93778d1f14182c67b3dcb0e6c886470af4a9765d94c06d8fca087b419b33d578f5f82304331081e23d
+Cap Terre,FAIL-1,playlist.m3u,https://jmp2.uk/stvp-FRBC3900004DS,,[hls @ 0x56e98a2ac2c0] URL https://amg01821-lovetvchannels-lovetheplanetfrsamsung-samsungfr-hfam1.amagi.tv/ts-eu-w1-n2/beacon/amg01821-lovetvchannels-lovetheplanetfrsamsung-samsungfr/cb57381e6573648784c93778d1f14182c67b3
+Ici Radio-Canada Télé Terre-Neuve-et-Labrador (CBAFT-DT) [Geo-blocked],FAIL-1,playlist.m3u,https://rcavlive.akamaized.net/hls/live/704014/cancbaft/master.m3u8,,https://rcavlive.akamaized.net/hls/live/704014/cancbaft/master.m3u8: Server returned 403 Forbidden (access denied)
+Nature Time,OK-2X,playlist.m3u,https://jmp2.uk/plu-61fc0df14159c40007250432.m3u8,"subtitle,N/A,N/A
+audio
+video,640,360
+
+subtitle,N/A,N/A
+audio
+video,854,480
+
+subtitle,N/A,N/A
+audio
+video,854,480
+
+subtitle,N/A,N/A
+audio
+video,1280,720
+
+subtitle,N/A,N/A
+audio
 video,426,240
 
 subtitle,N/A,N/A
 audio
 video,",
-WildEarth,FAIL-1,playlist.m3u,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-60d4edddb2fdec002c141135/?X-Plex-Token=DDHTm5NSc_UVaBcXaLUE,,[hls @ 0x57a4825b0380] URL https://plexaaaaa-wildearth-plex-t4zha.amagi.tv/ts-us-e2-n1/beacon/plexAAAAA-wildearth-plex/cb573d1d7f6c648d92d43b60cef44782c67b3dcb0e6c886470af4a9765d94c06d8fca087b419b33d578f5f82304331081e23d
-Cap Terre,FAIL-1,playlist.m3u,https://jmp2.uk/stvp-FRBC3900004DS,,[hls @ 0x60db26e072c0] URL https://amg01821-lovetvchannels-lovetheplanetfrsamsung-samsungfr-hfam1.amagi.tv/ts-eu-w1-n2/beacon/amg01821-lovetvchannels-lovetheplanetfrsamsung-samsungfr/cb573d1d7f6c648d92d43b60cef44782c67b3
-Ici Radio-Canada Télé Terre-Neuve-et-Labrador (CBAFT-DT) [Geo-blocked],FAIL-1,playlist.m3u,https://rcavlive.akamaized.net/hls/live/704014/cancbaft/master.m3u8,,https://rcavlive.akamaized.net/hls/live/704014/cancbaft/master.m3u8: Server returned 403 Forbidden (access denied)
-Nature Time,FAIL-1,playlist.m3u,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-6827c34ca5c6e573c6904444/?X-Plex-Token=DDHTm5NSc_UVaBcXaLUE,,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-6827c34ca5c6e573c6904444/?X-Plex-Token=DDHTm5NSc_UVaBcXaLUE: Server returned 404 Not Found
 Radio TV Basse-Terre (720p),OK-2X,playlist.m3u,https://vdo.ssl-stream.com:3412/stream/play.m3u8,"video,640,360
 audio
 
@@ -1086,10 +982,10 @@ audio
 video,854,480
 audio
 video,1280,720",
-TV5Monde Asia (1080p),FAIL-1,playlist.m3u,http://54.37.19.157/TV5MONDE/index.m3u8,,[tls @ 0x643b97c2f640] A TLS fatal alert has been received. http://54.37.19.157/TV5MONDE/index.m3u8: Input/output error
-TV5Monde Europe (1080p),FAIL-1,playlist.m3u,http://5.180.164.197:8080/TV5MONDE/index.m3u8,,[tcp @ 0x602263f06780] Connection to tcp://5.180.164.197:8080 failed: Connection timed out http://5.180.164.197:8080/TV5MONDE/index.m3u8: Connection timed out
-TV5Monde Info (1080p) [Geo-blocked],FAIL-1,playlist.m3u,http://91.235.255.32:8001/1:0:1:2CA:14B4:13E:820000:0:0:0,,[tcp @ 0x650c0ed5d740] Connection to tcp://91.235.255.32:8001 failed: Connection timed out http://91.235.255.32:8001/1:0:1:2CA:14B4:13E:820000:0:0:0: Connection timed out
-TV5Monde Latin America (720p),FAIL-1,playlist.m3u,http://45.162.231.38:7779/TV5_Monde/index.m3u8,,[tcp @ 0x640c97f64780] Connection to tcp://45.162.231.38:7779 failed: Connection timed out http://45.162.231.38:7779/TV5_Monde/index.m3u8: Connection timed out
+TV5Monde Asia (1080p),FAIL-1,playlist.m3u,http://54.37.19.157/TV5MONDE/index.m3u8,,[tls @ 0x60d7fb16b640] A TLS fatal alert has been received. http://54.37.19.157/TV5MONDE/index.m3u8: Input/output error
+TV5Monde Europe (1080p),FAIL-1,playlist.m3u,http://5.180.164.197:8080/TV5MONDE/index.m3u8,,[tcp @ 0x557efe5f2780] Connection to tcp://5.180.164.197:8080 failed: Connection timed out http://5.180.164.197:8080/TV5MONDE/index.m3u8: Connection timed out
+TV5Monde Info (1080p) [Geo-blocked],FAIL-1,playlist.m3u,http://91.235.255.32:8001/1:0:1:2CA:14B4:13E:820000:0:0:0,,[tcp @ 0x5f72a76e4740] Connection to tcp://91.235.255.32:8001 failed: Connection timed out http://91.235.255.32:8001/1:0:1:2CA:14B4:13E:820000:0:0:0: Connection timed out
+TV5Monde Latin America (720p),FAIL-1,playlist.m3u,http://45.162.231.38:7779/TV5_Monde/index.m3u8,,[tcp @ 0x57a899ffa780] Connection to tcp://45.162.231.38:7779 failed: Connection timed out http://45.162.231.38:7779/TV5_Monde/index.m3u8: Connection timed out
 TV5Monde Pacifique (1080p) [Geo-blocked],FAIL-1,playlist.m3u,https://ott.tv5monde.com/Content/HLS/Live/channel(pacifique)/variant.m3u8,,https://ott.tv5monde.com/Content/HLS/Live/channel(pacifique)/variant.m3u8: Server returned 403 Forbidden (access denied)
 TV5Monde Style (1080p) [Geo-blocked],OK-2X,playlist.m3u,https://ott.tv5monde.com/Content/HLS/Live/channel(style1)/variant.m3u8,"audio
 video,480,270
@@ -1116,28 +1012,28 @@ video,640,360
 video,960,540
 video,1280,720
 video,1920,108",
-Ça Chauffe en Cuisine,FAIL-1,playlist.m3u,https://jmp2.uk/stvp-FR34000032F,,[hls @ 0x58054fc272c0] URL https://amg02393-awpg-amg02393c7-samsung-fr-4950.playouts.now.amagi.tv/ts-eu-w1-n2/beacon/amg02393-awpg-cachauffeencuisine-samsungfr/cb573d1d7f6c648d92d43b60cef44782c67b3dcb0e6c886470af4a9765d9
+Ça Chauffe en Cuisine,FAIL-1,playlist.m3u,https://jmp2.uk/stvp-FR34000032F,,[hls @ 0x5cbc6d4142c0] URL https://amg02393-awpg-amg02393c7-samsung-fr-4950.playouts.now.amagi.tv/ts-eu-w1-n2/beacon/amg02393-awpg-cachauffeencuisine-samsungfr/cb57381e6573648784c93778d1f14182c67b3dcb0e6c886470af4a9765d9
 Cooking Panda,FAIL-1,playlist.m3u,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-5f07e9fdf313eb0041bbecda/?X-Plex-Token=DDHTm5NSc_UVaBcXaLUE,,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-5f07e9fdf313eb0041bbecda/?X-Plex-Token=DDHTm5NSc_UVaBcXaLUE: Server returned 404 Not Found
 NEW KFOOD,FAIL-2,playlist.m3u,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-68b9f5a3d60e5dd29263c7ac/?X-Plex-Token=DDHTm5NSc_UVaBcXaLUE,,
 Pluto TV Cuisine,OK-2X,playlist.m3u,https://jmp2.uk/stvp-FRBA3300044VR,"subtitle,N/A,N/A
-video,854,480
 audio
+video,854,480
 
 subtitle,N/A,N/A
-video,854,480
 audio
+video,1024,576
 
 subtitle,N/A,N/A
-video,1280,720
 audio
+video,1216,684
 
 subtitle,N/A,N/A
-video,854,480
 audio
 video,854,480
 audio
-video,1280,720
-audio",
+video,1024,576
+audio
+video,1216,684",
 TV5 MONDE+ Chefs,OK-2X,playlist.m3u,https://jmp2.uk/stvp-FR1300003HM,"subtitle,N/A,N/A
 subtitle,N/A,N/A
 subtitle,N/A,N/A
@@ -1159,8 +1055,8 @@ subtitle,N/A,N/A
 subtitle,N/A,N/A
 vi",
 TV5MONDE Chefs,FAIL-1,playlist.m3u,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-68b74890b5b437bf872b6b72/?X-Plex-Token=DDHTm5NSc_UVaBcXaLUE,,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-68b74890b5b437bf872b6b72/?X-Plex-Token=DDHTm5NSc_UVaBcXaLUE: Server returned 404 Not Found
-123GO!,FAIL-1,playlist.m3u,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-63eecb32ac23d1ee072087cb/?X-Plex-Token=DDHTm5NSc_UVaBcXaLUE,,[hls @ 0x5d1d77d27380] URL https://amg02051-soulpublishing-amg02051c17-plex-us-341.playouts.now.amagi.tv/ts-us-e2-n1/beacon/amg02051-admecyltd-123goenglish-plexus/cb573d1d7f6c648d92d43b60cef44782c67b3dcb0e6c886470af4a976
-5-Minute Crafts,FAIL-1,playlist.m3u,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-63894c1965b848bf2c8a7800/?X-Plex-Token=DDHTm5NSc_UVaBcXaLUE,,[hls @ 0x6552c0d94380] URL https://amg02051-soulpublishing-amg02051c7-plex-us-306.playouts.now.amagi.tv/ts-us-e2-n1/beacon/amg02051-amg02051c7-306/cb573d1d7f6c648d92d43b60cef44782c67b3dcb0e6c886470af4a9765d94c06d8fca087b
+123GO!,FAIL-1,playlist.m3u,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-63eecb32ac23d1ee072087cb/?X-Plex-Token=DDHTm5NSc_UVaBcXaLUE,,[hls @ 0x57aa77ce4380] URL https://amg02051-soulpublishing-amg02051c17-plex-us-341.playouts.now.amagi.tv/ts-us-e2-n1/beacon/amg02051-admecyltd-123goenglish-plexus/cb57381e6573648784c93778d1f14182c67b3dcb0e6c886470af4a976
+5-Minute Crafts,FAIL-1,playlist.m3u,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-63894c1965b848bf2c8a7800/?X-Plex-Token=DDHTm5NSc_UVaBcXaLUE,,[hls @ 0x61c26acdf380] URL https://amg02051-soulpublishing-amg02051c7-plex-us-306.playouts.now.amagi.tv/ts-us-e2-n1/beacon/amg02051-amg02051c7-306/cb57381e6573648784c93778d1f14182c67b3dcb0e6c886470af4a9765d94c06d8fca087b
 CraftsyTV,FAIL-2,playlist.m3u,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-6365779dde08f8eec6c3f21f/?X-Plex-Token=DDHTm5NSc_UVaBcXaLUE,"subtitle,N/A,N/A
 
 subtitle,N/A,N/A
@@ -1172,7 +1068,7 @@ subtitle,N/A,N/A
 subtitle,N/A,N/A
 
 subtitle,N/A,N/A",
-Creator Television,FAIL-1,playlist.m3u,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-67884bd6d37f2fd48d6220db/?X-Plex-Token=DDHTm5NSc_UVaBcXaLUE,,[hls @ 0x5f3d2e976380] URL https://amg16070-sabiotv-amg16070c1-plex-us-6144.playouts.now.amagi.tv/ts-us-w2-n2/beacon/amg16070-sabiotv-creatortelevision-plexus/cb573d1d7f6c648d92d43b60cef44782c67b3dcb0e6c886470af4a9765d94
+Creator Television,FAIL-1,playlist.m3u,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-67884bd6d37f2fd48d6220db/?X-Plex-Token=DDHTm5NSc_UVaBcXaLUE,,
 La maison France 5,OK-2X,playlist.m3u,https://jmp2.uk/plu-685a999bd33909bdd7d2fb1e.m3u8,"subtitle,N/A,N/A
 audio
 audio
@@ -1197,19 +1093,19 @@ subtitle,N/A,N/A
 audio
 audio
 video,426,240",
-Million Dollar Dream Home,FAIL-1,playlist.m3u,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-684c2379e32026b0c1f53793/?X-Plex-Token=DDHTm5NSc_UVaBcXaLUE,,[hls @ 0x56c9c4f9a380] URL https://amg02134-amg02134c1-amgplt0020.playout.now3.amagi.tv/ts-us-w2-n1/beacon/amg02134-amg02134c1-amgplt0020/be137c70-de22-11f1-a7e1-eaca8e929f3d/384x216_350000?bcn=1&ca=0&cid=MDDH411&dur=6.0
-100% Cinema,FAIL-1,playlist.m3u,https://jmp2.uk/stvp-FR13000020W,,[hls @ 0x6131844fc2c0] URL https://amg02162-amg02162c3-samsung-fr-8106.playouts.now.amagi.tv/ts-eu-w1-n2/beacon/amg02162-newenconnect-cinemachannel-samsungfr/cb573d1d7f6c648d92d43b60cef44782c67b3dcb0e6c886470af4a9765d94c
-100% Comedy,FAIL-1,playlist.m3u,https://jmp2.uk/stvp-FR3600003DS,,[hls @ 0x64ca02ffb2c0] URL https://amg02393-amg02393c10-amgplt0011.playout.now3.amagi.tv/ts-eu-w1-n2/beacon/amg02393-amg02393c10-amgplt0011/cb573d1d7f6c648d92d43b60cef44782c67b3dcb0e6c886470af4a9765d94c06d8fca087b419b33d
+Million Dollar Dream Home,FAIL-1,playlist.m3u,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-684c2379e32026b0c1f53793/?X-Plex-Token=DDHTm5NSc_UVaBcXaLUE,,[hls @ 0x607ce87cb380] URL https://amg02134-amg02134c1-amgplt0020.playout.now3.amagi.tv/ts-us-w2-n1/beacon/amg02134-amg02134c1-amgplt0020/40521142-de99-11f1-bcd3-ca5d1165f62a/384x216_350000?bcn=1&ca=0&cid=MDDH504&dur=6.0
+100% Cinema,FAIL-1,playlist.m3u,https://jmp2.uk/stvp-FR13000020W,,[hls @ 0x5dd3ee6272c0] URL https://amg02162-amg02162c3-samsung-fr-8106.playouts.now.amagi.tv/ts-eu-w1-n2/beacon/amg02162-newenconnect-cinemachannel-samsungfr/cb57381e6573648784c93778d1f14182c67b3dcb0e6c886470af4a9765d94c
+100% Comedy,FAIL-1,playlist.m3u,https://jmp2.uk/stvp-FR3600003DS,,[hls @ 0x63ec517562c0] URL https://amg02393-amg02393c10-amgplt0011.playout.now3.amagi.tv/ts-eu-w1-n2/beacon/amg02393-amg02393c10-amgplt0011/cb57381e6573648784c93778d1f14182c67b3dcb0e6c886470af4a9765d94c06d8fca087b419b33d
 Action Club,OK-2X,playlist.m3u,https://jmp2.uk/stvp-FRBD2300001UQ,"video,426,240
 audio
 
-video,0,0
+video,640,360
 audio
 
-video,0,0
+video,848,480
 audio
 
-video,0,0
+video,1280,720
 audio
 
 video,1920,1080
@@ -1217,11 +1113,11 @@ audio
 
 video,426,240
 audio
-video,0,0
+video,640,360
 audio
-video,0,0
+video,848,480
 audio
-video,0,0
+video,1280,720
 audio
 video,1920,1080
 audio",
@@ -1342,7 +1238,7 @@ video,960,540
 audio
 video,1280,720
 audio",
-Canal+ Cinemas (720p),FAIL-1,playlist.m3u,http://151.80.18.177:86/Canal+_cinema_HD/index.m3u8,,[tcp @ 0x582c9b4ef780] Connection to tcp://151.80.18.177:86 failed: Connection timed out http://151.80.18.177:86/Canal+_cinema_HD/index.m3u8: Connection timed out
+Canal+ Cinemas (720p),FAIL-1,playlist.m3u,http://151.80.18.177:86/Canal+_cinema_HD/index.m3u8,,[tcp @ 0x62ae62015780] Connection to tcp://151.80.18.177:86 failed: Connection timed out http://151.80.18.177:86/Canal+_cinema_HD/index.m3u8: Connection timed out
 Ciné 666 by Pluto TV,OK-2X,playlist.m3u,https://jmp2.uk/plu-6823648580b2665220d9e69a.m3u8,"subtitle,N/A,N/A
 audio
 audio
@@ -1380,6 +1276,31 @@ video,854,480
 subtitle,N/A,N/A
 audio
 audio
+video,854,480
+
+subtitle,N/A,N/A
+audio
+audio
+video,1280,720
+
+subtitle,N/A,N/A
+audio
+audio
+video,426,240
+",
+Ciné by Pluto TV,OK-2X,playlist.m3u,https://jmp2.uk/plu-5f8ed0f17564a300082b676a.m3u8,"subtitle,N/A,N/A
+audio
+audio
+video,640,360
+
+subtitle,N/A,N/A
+audio
+audio
+video,854,480
+
+subtitle,N/A,N/A
+audio
+audio
 video,1024,576
 
 subtitle,N/A,N/A
@@ -1391,108 +1312,80 @@ subtitle,N/A,N/A
 audio
 audio
 video,426,240",
-Ciné by Pluto TV,OK-2X,playlist.m3u,https://jmp2.uk/plu-5f8ed0f17564a300082b676a.m3u8,"subtitle,N/A,N/A
-audio
-video,640,360
-audio
-
-subtitle,N/A,N/A
-audio
-video,854,480
-audio
-
-subtitle,N/A,N/A
-audio
-video,854,480
-audio
-
-subtitle,N/A,N/A
-audio
-video,1280,720
-audio
-
-subtitle,N/A,N/A
-audio
-video,426,240
-audio
-",
 Ciné Catastrophe by Pluto TV,OK-2X,playlist.m3u,https://jmp2.uk/plu-65a69ef53af63d000825e0ee.m3u8,"subtitle,N/A,N/A
 audio
+audio
 video,640,360
-audio
 
 subtitle,N/A,N/A
+audio
 audio
 video,854,480
-audio
 
 subtitle,N/A,N/A
 audio
-video,854,480
 audio
+video,1024,576
 
 subtitle,N/A,N/A
 audio
-video,1280,720
 audio
+video,1216,684
 
 subtitle,N/A,N/A
 audio
-video,426,240
 audio
-",
+video,426,240",
 Ciné Charme by Pluto TV,FAIL-1,playlist.m3u,https://jmp2.uk/plu-6a31608fac88749b9cb85dd8.m3u8,,https://jmp2.uk/plu-6a31608fac88749b9cb85dd8.m3u8: Server returned 404 Not Found
 Ciné d'Asie by Pluto TV,OK-2X,playlist.m3u,https://jmp2.uk/plu-62f3e2d000418d00070f7dbc.m3u8,"subtitle,N/A,N/A
 audio
+audio
 video,640,360
-audio
 
 subtitle,N/A,N/A
+audio
 audio
 video,854,480
-audio
 
 subtitle,N/A,N/A
 audio
-video,854,480
 audio
+video,1024,576
 
 subtitle,N/A,N/A
 audio
-video,1280,720
 audio
+video,1216,684
 
 subtitle,N/A,N/A
 audio
-video,426,240
 audio
-",
+video,426,240",
 Cine+ Emotion (720p),FAIL-1,playlist.m3u,http://145.239.5.177/337/index.m3u8,,http://145.239.5.177/337/index.m3u8: Server returned 403 Forbidden (access denied)
 Ciné Horreur by Pluto TV,OK-2X,playlist.m3u,https://jmp2.uk/plu-66e1978babec540008ce41ac.m3u8,"subtitle,N/A,N/A
 audio
+audio
 video,640,360
-audio
 
 subtitle,N/A,N/A
+audio
 audio
 video,854,480
-audio
 
 subtitle,N/A,N/A
 audio
-video,854,480
 audio
+video,1024,576
 
 subtitle,N/A,N/A
 audio
-video,1280,720
 audio
+video,1216,684
 
 subtitle,N/A,N/A
 audio
-video,426,240
 audio
-",
+video,426,240",
 Ciné Nanar,OK-2X,playlist.m3u,https://jmp2.uk/stvp-FRBB39000020C,"video,640,360
 audio
 
@@ -1515,6 +1408,31 @@ video,1920,1080
 audio",
 Ciné Rétro by Pluto TV,OK-2X,playlist.m3u,https://jmp2.uk/plu-5f8ed168f72fcd0007e56269.m3u8,"subtitle,N/A,N/A
 audio
+video,640,360
+audio
+
+subtitle,N/A,N/A
+audio
+video,854,480
+audio
+
+subtitle,N/A,N/A
+audio
+video,854,480
+audio
+
+subtitle,N/A,N/A
+audio
+video,1280,720
+audio
+
+subtitle,N/A,N/A
+audio
+video,426,240
+audio
+",
+Ciné Romance by Pluto TV,OK-2X,playlist.m3u,https://jmp2.uk/plu-60812fc8539963000707d1e1.m3u8,"subtitle,N/A,N/A
+audio
 audio
 video,640,360
 
@@ -1531,37 +1449,13 @@ video,854,480
 subtitle,N/A,N/A
 audio
 audio
-video,1216,684
+video,1280,720
 
 subtitle,N/A,N/A
 audio
 audio
 video,426,240
 ",
-Ciné Romance by Pluto TV,OK-2X,playlist.m3u,https://jmp2.uk/plu-60812fc8539963000707d1e1.m3u8,"subtitle,N/A,N/A
-audio
-audio
-video,1216,684
-
-subtitle,N/A,N/A
-audio
-audio
-video,1216,684
-
-subtitle,N/A,N/A
-audio
-audio
-video,1216,684
-
-subtitle,N/A,N/A
-audio
-audio
-video,1216,684
-
-subtitle,N/A,N/A
-audio
-audio
-video,1024,",
 Ciné Sci-Fi by Pluto TV,OK-2X,playlist.m3u,https://jmp2.uk/plu-60c34592c911890007f29a73.m3u8,"subtitle,N/A,N/A
 audio
 audio
@@ -1588,28 +1482,29 @@ audio
 video,426,240",
 Ciné Thrillers by Pluto TV,OK-2X,playlist.m3u,https://jmp2.uk/plu-60c3472a51a2050008dad272.m3u8,"subtitle,N/A,N/A
 audio
+video,640,360
 audio
-video,1216,684
 
 subtitle,N/A,N/A
 audio
+video,854,480
 audio
-video,1216,684
 
 subtitle,N/A,N/A
 audio
+video,854,480
 audio
-video,1216,684
 
 subtitle,N/A,N/A
 audio
+video,1280,720
 audio
-video,1216,684
 
 subtitle,N/A,N/A
 audio
+video,426,240
 audio
-video,1024,",
+",
 Ciné Western,OK-2X,playlist.m3u,https://jmp2.uk/stvp-FRBD19000095S,"video,640,360
 audio
 
@@ -1643,7 +1538,7 @@ video,854,480
 subtitle,N/A,N/A
 audio
 audio
-video,854,480
+video,1024,576
 
 subtitle,N/A,N/A
 audio
@@ -1653,8 +1548,7 @@ video,1216,684
 subtitle,N/A,N/A
 audio
 audio
-video,426,240
-",
+video,426,240",
 CINEPRIDE,FAIL-1,playlist.m3u,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-62167144ab2095ca85353ad6/?X-Plex-Token=DDHTm5NSc_UVaBcXaLUE,,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-62167144ab2095ca85353ad6/?X-Plex-Token=DDHTm5NSc_UVaBcXaLUE: Server returned 404 Not Found
 Comédies - Rakuten TV,OK-2X,playlist.m3u,https://jmp2.uk/stvp-FR26000068C,"subtitle,N/A,N/A
 subtitle,N/A,N/A
@@ -1699,26 +1593,7 @@ subtitle,N/A,N/A
 video,1280,720
 audio
 ",
-Films Romantiques - Rakuten TV,OK-2X,playlist.m3u,https://jmp2.uk/stvp-FR2600003OZ,"subtitle,N/A,N/A
-subtitle,N/A,N/A
-video,448,252
-audio
-
-subtitle,N/A,N/A
-subtitle,N/A,N/A
-video,768,432
-audio
-
-subtitle,N/A,N/A
-subtitle,N/A,N/A
-video,768,432
-audio
-
-subtitle,N/A,N/A
-subtitle,N/A,N/A
-video,1280,720
-audio
-",
+Films Romantiques - Rakuten TV,FAIL-1,playlist.m3u,https://jmp2.uk/stvp-FR2600003OZ,,timeout
 Grjngo - Films De Western,OK-2X,playlist.m3u,https://jmp2.uk/stvp-FR900003DP,"video,1280,720
 audio
 
@@ -1734,7 +1609,31 @@ video,768,432
 audio
 video,640,360
 audio",
-Grjngo - Western Movies,FAIL-1,playlist.m3u,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-63489a771159f6a5ce819b7b/?X-Plex-Token=DDHTm5NSc_UVaBcXaLUE,,
+Grjngo - Western Movies,OK-2X,playlist.m3u,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-63489a771159f6a5ce819b7b.m3u8?X-Plex-Token=n4szyxHzcDkc9vX3ZpxT,"video,640,360
+audio
+
+video,384,216
+audio
+
+video,960,540
+audio
+
+video,1280,720
+audio
+
+video,1920,1080
+audio
+
+video,640,360
+audio
+video,384,216
+audio
+video,960,540
+audio
+video,1280,720
+audio
+video,1920,1080
+audio",
 Hot Ones,FAIL-1,playlist.m3u,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-6582a1316b91be4547aa153c/?X-Plex-Token=DDHTm5NSc_UVaBcXaLUE,,
 "like Gecko) Chrome/149.0.0.0 Safari/537.3"" group-title=""09 - CINEMA"",Cine+ Classic",FAIL-1,playlist.m3u,http://99.27.51.147/CineClassic/index.m3u8,,http://99.27.51.147/CineClassic/index.m3u8: Connection timed out
 "like Gecko) Chrome/149.0.0.0 Safari/537.3"" group-title=""09 - CINEMA"",Cine+ Frisson (1080p)",FAIL-1,playlist.m3u,http://99.27.51.147:8080/CineFrisson/index.m3u8,,http://99.27.51.147:8080/CineFrisson/index.m3u8: Connection timed out
@@ -1749,29 +1648,59 @@ subtitle,N/A,N/A
 subtitle,N/A,N/A
 
 subtitle,N/A,N/A",
-Movie Music by Stingray,FAIL-1,playlist.m3u,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-62fbf197c67d52bddf74cc87/?X-Plex-Token=DDHTm5NSc_UVaBcXaLUE,,
+Movie Music by Stingray,OK-2X,playlist.m3u,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-62fbf197c67d52bddf74cc87.m3u8?X-Plex-Token=n4szyxHzcDkc9vX3ZpxT,"video,1280,720
+audio
+
+video,640,360
+audio
+
+video,842,474
+audio
+
+video,1920,1080
+audio
+
+video,256,144
+audio
+
+video,1280,720
+audio
+video,640,360
+audio
+video,842,474
+audio
+video,1920,1080
+audio
+video,256,144
+audio",
 Moviesphere,FAIL-1,playlist.m3u,https://jmp2.uk/stvp-FR42000023H,,https://jmp2.uk/stvp-FR42000023H: Server returned 403 Forbidden (access denied)
 MOVIESPHERE,FAIL-1,playlist.m3u,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-695d5c1d6e5de3b17595a267/?X-Plex-Token=DDHTm5NSc_UVaBcXaLUE,,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-695d5c1d6e5de3b17595a267/?X-Plex-Token=DDHTm5NSc_UVaBcXaLUE: Server returned 404 Not Found
-MyTime Movie Network,FAIL-1,playlist.m3u,https://jmp2.uk/stvp-FRBA2200010VN,,[hls @ 0x5570b45e42c0] URL https://samsunguk-appletree-mytimefrance-samsungfr-69xit.amagi.tv/ts-eu-w1-n2/beacon/samsunguk-appletree-mytimefrance-samsungfr/cb573d1d7f6c648d92d43b60cef44782c67b3dcb0e6c886470af4a9765d94c06d
+MyTime Movie Network,FAIL-1,playlist.m3u,https://jmp2.uk/stvp-FRBA2200010VN,,[hls @ 0x57d2ddbec2c0] URL https://samsunguk-appletree-mytimefrance-samsungfr-69xit.amagi.tv/ts-eu-w1-n2/beacon/samsunguk-appletree-mytimefrance-samsungfr/cb57381e6573648784c93778d1f14182c67b3dcb0e6c886470af4a9765d94c06d
 Pluto TV Ciné,OK-2X,playlist.m3u,https://jmp2.uk/stvp-FRAJ3800002W5,"subtitle,N/A,N/A
-video,854,480
 audio
+video,854,480
+data
 
 subtitle,N/A,N/A
-video,854,480
 audio
+video,1024,576
+data
 
 subtitle,N/A,N/A
-video,1280,720
-audio
-
-subtitle,N/A,N/A
-video,854,480
-audio
-video,854,480
 audio
 video,1280,720
-audio",
+data
+
+subtitle,N/A,N/A
+audio
+video,854,480
+data
+audio
+video,1024,576
+data
+audio
+video,1280,720
+",
 Pluto TV Comédie,OK-2X,playlist.m3u,https://jmp2.uk/plu-5f8eb91bb9b9e7000817e67f.m3u8,"subtitle,N/A,N/A
 audio
 video,640,360
@@ -1820,7 +1749,7 @@ audio
 video,426,240
 audio
 ",
-Sony One Action HITS,FAIL-1,playlist.m3u,https://jmp2.uk/stvp-FR3000139Z,,"[hls @ 0x61de8b78e2c0] Filename extension of 'data:text/plain;base64,AAAAV3Bzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAADcSEIhfZE1Q00Q6qgH3VrUJ8ZwaC2J1eWRybWtleW9zIhCIX2RNUNNEOqoB91a1CfGcSOPclZsG' is not a common multimedia extens"
+Sony One Action HITS,FAIL-1,playlist.m3u,https://jmp2.uk/stvp-FR3000139Z,,"[hls @ 0x5ca5e7dce2c0] Filename extension of 'data:text/plain;base64,AAAAV3Bzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAADcSEIhfZE1Q00Q6qgH3VrUJ8ZwaC2J1eWRybWtleW9zIhCIX2RNUNNEOqoB91a1CfGcSOPclZsG' is not a common multimedia extens"
 Sony One Hits Action (1080p),OK-2X,playlist.m3u,https://5098a8b860504a3690fd2e7c0a18d68f.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-817-FR-SONYONEHITSACTION-LG_FR/playlist.m3u8,"video,1920,1080
 audio
 data
@@ -1854,12 +1783,12 @@ video,1280,720
 audio
 data
 dat",
-Sony One HITS Comédie,FAIL-1,playlist.m3u,https://jmp2.uk/stvp-FR300009JQ,,"[hls @ 0x5e399eaa32c0] Filename extension of 'data:text/plain;base64,AAAAV3Bzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAADcSEA/wOMGr6E9UkDkq2gPZLz0aC2J1eWRybWtleW9zIhAP8DjBq+hPVJA5KtoD2S89SOPclZsG' is not a common multimedia extens"
+Sony One HITS Comédie,FAIL-1,playlist.m3u,https://jmp2.uk/stvp-FR300009JQ,,"[hls @ 0x5d297ca602c0] Filename extension of 'data:text/plain;base64,AAAAV3Bzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAADcSEA/wOMGr6E9UkDkq2gPZLz0aC2J1eWRybWtleW9zIhAP8DjBq+hPVJA5KtoD2S89SOPclZsG' is not a common multimedia extens"
 Sony One | Séries Comédie,FAIL-1,playlist.m3u,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-6922294e5cbe620c1f9b6bbb/?X-Plex-Token=DDHTm5NSc_UVaBcXaLUE,,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-6922294e5cbe620c1f9b6bbb/?X-Plex-Token=DDHTm5NSc_UVaBcXaLUE: Server returned 404 Not Found
 Sony One | Séries Thriller,FAIL-1,playlist.m3u,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-69222b5c5cbe620c1f9b6bbd/?X-Plex-Token=DDHTm5NSc_UVaBcXaLUE,,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-69222b5c5cbe620c1f9b6bbd/?X-Plex-Token=DDHTm5NSc_UVaBcXaLUE: Server returned 404 Not Found
 Surf Cinema,FAIL-1,playlist.m3u,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-656fbbd6dbcce28c3a41741b/?X-Plex-Token=DDHTm5NSc_UVaBcXaLUE,,
 The Wiggles,FAIL-1,playlist.m3u,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-68e0371d8bbd79d66c631ab2/?X-Plex-Token=DDHTm5NSc_UVaBcXaLUE,,
-Top Action,FAIL-1,playlist.m3u,https://jmp2.uk/stvp-FR1200001N2,,[hls @ 0x56e134bdf2c0] URL https://amg01796-amg01796c4-samsung-fr-3183.playouts.now.amagi.tv/ts-eu-w1-n2/beacon/amg01796-fastmediafast-docstory-samsungfr/cb573d1d7f6c648d92d43b60cef44782c67b3dcb0e6c886470af4a9765d94c06d8
+Top Action,FAIL-1,playlist.m3u,https://jmp2.uk/stvp-FR1200001N2,,[hls @ 0x649e4bd072c0] URL https://amg01796-amg01796c4-samsung-fr-3183.playouts.now.amagi.tv/ts-eu-w1-n2/beacon/amg01796-fastmediafast-docstory-samsungfr/cb57381e6573648784c93778d1f14182c67b3dcb0e6c886470af4a9765d94c06d8
 Top Films - Rakuten TV,OK-2X,playlist.m3u,https://jmp2.uk/stvp-FR2600007CB,"subtitle,N/A,N/A
 subtitle,N/A,N/A
 video,448,252
@@ -1930,7 +1859,7 @@ video,640,360
 audio
 video,426,240
 audio",
-Zylo Ciné Western (1080p),FAIL-1,playlist.m3u,https://amg00711-zylo-amg00711c8-rakuten-uk-2686.playouts.now.amagi.tv/playlist/amg00711-zylofast-cinewestern-rakutenuk/playlist.m3u8,,[hls @ 0x63f7ca7ca380] URL https://amg00711-zylo-amg00711c8-rakuten-uk-2686.playouts.now.amagi.tv/ts-us-e2-n2/beacon/amg00711-zylofast-cinewestern-rakutenuk/c6c50a56-de22-11f1-8b47-ba546876a819/640x360_1020800?bcn=1&ca=0
+Zylo Ciné Western (1080p),FAIL-1,playlist.m3u,https://amg00711-zylo-amg00711c8-rakuten-uk-2686.playouts.now.amagi.tv/playlist/amg00711-zylofast-cinewestern-rakutenuk/playlist.m3u8,,[hls @ 0x593e876b1380] URL https://amg00711-zylo-amg00711c8-rakuten-uk-2686.playouts.now.amagi.tv/ts-us-e2-n2/beacon/amg00711-zylofast-cinewestern-rakutenuk/48cbd766-de99-11f1-8553-f2d50c297412/640x360_1020800?bcn=1&ca=0
 AB1 (720p),FAIL-1,playlist.m3u,http://145.239.5.177/332/index.m3u8,,http://145.239.5.177/332/index.m3u8: Server returned 403 Forbidden (access denied)
 "like Gecko) Chrome/149.0.0.0 Safari/537.3"" group-title=""09 - CINEMA & SERIES"",Syfy",FAIL-1,playlist.m3u,http://99.27.51.147:8080/SYFY/index.m3u8,,http://99.27.51.147:8080/SYFY/index.m3u8: Connection timed out
 Nollywood TV (720p),FAIL-1,playlist.m3u,http://145.239.5.177/148/index.m3u8,,http://145.239.5.177/148/index.m3u8: Server returned 403 Forbidden (access denied)
@@ -2031,10 +1960,10 @@ video,960,540
 audio
 data
 dat",
-Zylo Emotion' L (1080p),FAIL-1,playlist.m3u,https://rakutenaa-zylo-emotional-rakuten-r1zkm.amagi.tv/playlist/rakutenAA-zylo-emotional-rakuten/playlist.m3u8,,[hls @ 0x62b94d56d340] URL https://rakutenaa-zylo-emotional-rakuten-r1zkm.amagi.tv/ts-eu-w1-n2/beacon/rakutenAA-zylo-emotional-rakuten/cb573d1d7f6c648d92d43b60cef44782c67b3dcb0e6c886470af4a9765d94c06d8fca087b419b33d578f5
-Zylo ScreamIN (1080p),FAIL-1,playlist.m3u,https://rakutenaa-zylo-screamin-rakuten-p11ej.amagi.tv/playlist/rakutenAA-zylo-screamin-rakuten/playlist.m3u8,,[hls @ 0x5ce540f5b340] URL https://rakutenaa-zylo-screamin-rakuten-p11ej.amagi.tv/ts-eu-w1-n2/beacon/rakutenAA-zylo-screamin-rakuten/cb573d1d7f6c648d92d43b60cef44782c67b3dcb0e6c886470af4a9765d94c06d8fca087b419b33d578f5f8
+Zylo Emotion' L (1080p),FAIL-1,playlist.m3u,https://rakutenaa-zylo-emotional-rakuten-r1zkm.amagi.tv/playlist/rakutenAA-zylo-emotional-rakuten/playlist.m3u8,,[hls @ 0x62bb26e69340] URL https://rakutenaa-zylo-emotional-rakuten-r1zkm.amagi.tv/ts-eu-w1-n2/beacon/rakutenAA-zylo-emotional-rakuten/cb57381e6573648784c93778d1f14182c67b3dcb0e6c886470af4a9765d94c06d8fca087b419b33d578f5
+Zylo ScreamIN (1080p),FAIL-1,playlist.m3u,https://rakutenaa-zylo-screamin-rakuten-p11ej.amagi.tv/playlist/rakutenAA-zylo-screamin-rakuten/playlist.m3u8,,[hls @ 0x623e48ac6340] URL https://rakutenaa-zylo-screamin-rakuten-p11ej.amagi.tv/ts-eu-w1-n2/beacon/rakutenAA-zylo-screamin-rakuten/cb57381e6573648784c93778d1f14182c67b3dcb0e6c886470af4a9765d94c06d8fca087b419b33d578f5f8
 Asian Drama,FAIL-1,playlist.m3u,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-685f27cca7111a932d28f1ae/?X-Plex-Token=DDHTm5NSc_UVaBcXaLUE,,
-Banijay Mr Bean Animé (1080p),FAIL-1,playlist.m3u,https://amg00627-amg00627c31-rakuten-fr-3991.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanfrcc-rakutenfr/playlist.m3u8,,[hls @ 0x614dec04c380] URL https://amg00627-amg00627c31-rakuten-fr-3991.playouts.now.amagi.tv/ts-eu-w1-n2/beacon/amg00627-banijayfast-mrbeanfrcc-rakutenfr/cb573d1d7f6c648d92d43b60cef44782c67b3dcb0e6c886470af4a9765d94c06d
+Banijay Mr Bean Animé (1080p),FAIL-1,playlist.m3u,https://amg00627-amg00627c31-rakuten-fr-3991.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanfrcc-rakutenfr/playlist.m3u8,,[hls @ 0x5878a6221380] URL https://amg00627-amg00627c31-rakuten-fr-3991.playouts.now.amagi.tv/ts-eu-w1-n2/beacon/amg00627-banijayfast-mrbeanfrcc-rakutenfr/cb57381e6573648784c93778d1f14182c67b3dcb0e6c886470af4a9765d94c06d
 Box Office Drama,OK-2X,playlist.m3u,https://jmp2.uk/stvp-FR3700003N4,"video,1280,720
 audio
 data
@@ -2138,29 +2067,28 @@ video,1920,1080
 audio",
 Génération Sitcoms,OK-2X,playlist.m3u,https://jmp2.uk/plu-60afb203ec391c00070ea1bf.m3u8,"subtitle,N/A,N/A
 audio
-video,640,360
 audio
+video,1024,576
 
 subtitle,N/A,N/A
 audio
-video,854,480
 audio
+video,1216,684
 
 subtitle,N/A,N/A
 audio
-video,854,480
 audio
+video,1216,684
 
 subtitle,N/A,N/A
 audio
-video,1280,720
 audio
+video,1216,684
 
 subtitle,N/A,N/A
 audio
-video,426,240
 audio
-",
+video,640,3",
 Génération Sitcoms TV,FAIL-1,playlist.m3u,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-68e03d842cbc7a5d3189394a/?X-Plex-Token=MQj5gsQsF79CdBy-xJez,,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-68e03d842cbc7a5d3189394a/?X-Plex-Token=MQj5gsQsF79CdBy-xJez: Server returned 404 Not Found
 K-Drama+,OK-2X,playlist.m3u,https://jmp2.uk/stvp-FRBD41000124S,"video,1920,1080
 audio
@@ -2223,17 +2151,7 @@ audio",
 Pluto TV Séries Fantastiques,OK-2X,playlist.m3u,https://jmp2.uk/plu-625ec7a1c853fd00073b38fd.m3u8,"subtitle,N/A,N/A
 audio
 audio
-video,640,360
-
-subtitle,N/A,N/A
-audio
-audio
-video,854,480
-
-subtitle,N/A,N/A
-audio
-audio
-video,1024,576
+video,1216,684
 
 subtitle,N/A,N/A
 audio
@@ -2243,7 +2161,17 @@ video,1216,684
 subtitle,N/A,N/A
 audio
 audio
-video,426,240",
+video,1216,684
+
+subtitle,N/A,N/A
+audio
+audio
+video,1216,684
+
+subtitle,N/A,N/A
+audio
+audio
+video,1024,",
 Serie Club (720p),FAIL-1,playlist.m3u,http://145.239.5.177/355/index.m3u8,,http://145.239.5.177/355/index.m3u8: Server returned 403 Forbidden (access denied)
 Serie Max,OK-2X,playlist.m3u,https://video1.getstreamhosting.com:1936/8330/8330/playlist.m3u8,"video,1280,720
 audio
@@ -2275,7 +2203,7 @@ audio
 audio
 video,426,240",
 Soap,FAIL-1,playlist.m3u,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-695d48094ba349f255911f92/?X-Plex-Token=DDHTm5NSc_UVaBcXaLUE,,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-695d48094ba349f255911f92/?X-Plex-Token=DDHTm5NSc_UVaBcXaLUE: Server returned 404 Not Found
-Zylo Fréquence Novelas (1080p),FAIL-1,playlist.m3u,https://d20oth1416y9a1.cloudfront.net/playlist/amg00711-zylofast-frequencenovelas-rakutenus/playlist.m3u8,,[hls @ 0x5eaa5a7f8340] URL https://amg00711-zylo-amg00711c4-rakuten-us-769.playouts.now.amagi.tv/ts-us-w2-n1/beacon/amg00711-zylofast-frequencenovelas-rakutenus/cb573d1d7f6c648d92d43b60cef44782c67b3dcb0e6c886470af4a9765d
+Zylo Fréquence Novelas (1080p),FAIL-1,playlist.m3u,https://d20oth1416y9a1.cloudfront.net/playlist/amg00711-zylofast-frequencenovelas-rakutenus/playlist.m3u8,,[hls @ 0x5ca486bb6340] URL https://amg00711-zylo-amg00711c4-rakuten-us-769.playouts.now.amagi.tv/ts-us-w2-n1/beacon/amg00711-zylofast-frequencenovelas-rakutenus/cb57381e6573648784c93778d1f14182c67b3dcb0e6c886470af4a9765d
 Animation+,FAIL-1,playlist.m3u,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-674f6a6cf44561420465f9f3/?X-Plex-Token=DDHTm5NSc_UVaBcXaLUE,"subtitle,N/A,N/A
 
 subtitle,N/A,N/A
@@ -2312,27 +2240,27 @@ audio
 audio
 video,426,240",
 Bob l’éponge,OK-2X,playlist.m3u,https://jmp2.uk/stvp-FRAJ3800010QO,"subtitle,N/A,N/A
-audio
 video,854,480
+audio
 
 subtitle,N/A,N/A
-audio
 video,854,480
+audio
 
 subtitle,N/A,N/A
+video,1280,720
+audio
+
+subtitle,N/A,N/A
+video,854,480
+audio
+video,854,480
 audio
 video,1280,720
-
-subtitle,N/A,N/A
-audio
-video,854,480
-audio
-video,854,480
-audio
-video,1280,720",
-Boss Brothers TV (1080p),FAIL-1,playlist.m3u,http://51.254.199.122:8080/bossbrothersTV/index.m3u8,,[tcp @ 0x5d697e69f780] Connection to tcp://51.254.199.122:8080 failed: Connection timed out http://51.254.199.122:8080/bossbrothersTV/index.m3u8: Connection timed out
-Caillou,FAIL-1,playlist.m3u,https://jmp2.uk/stvp-FR4800002NE,,[hls @ 0x62633d4e12c0] URL https://hls-beacons-us.xumo.com/hlsstream/v1/beacon?url=https%3A%2F%2Flive-content-cf.xumo.com%2F3900%2Fcontent%2FXM0OI4JKQG7IX4%2F27281528%2F0_120.ts&aid=XM0OI4JKQG7IX4&eventType=ASSET&cid=888
-Disney Jr. (1080p),FAIL-1,playlist.m3u,http://151.80.18.177:86/Disney_Junior_HD/index.m3u8,,[tcp @ 0x56fb8bc98780] Connection to tcp://151.80.18.177:86 failed: Connection timed out http://151.80.18.177:86/Disney_Junior_HD/index.m3u8: Connection timed out
+audio",
+Boss Brothers TV (1080p),FAIL-1,playlist.m3u,http://51.254.199.122:8080/bossbrothersTV/index.m3u8,,[tcp @ 0x569959cd4780] Connection to tcp://51.254.199.122:8080 failed: Connection timed out http://51.254.199.122:8080/bossbrothersTV/index.m3u8: Connection timed out
+Caillou,FAIL-1,playlist.m3u,https://jmp2.uk/stvp-FR4800002NE,,[hls @ 0x5706d969d2c0] URL https://hls-beacons-us.xumo.com/hlsstream/v1/beacon?url=https%3A%2F%2Flive-content-cf.xumo.com%2F3900%2Fcontent%2FXM0WX587MRKLUT%2F27281112%2F0_058.ts&aid=XM0WX587MRKLUT&eventType=ASSET&cid=888
+Disney Jr. (1080p),FAIL-1,playlist.m3u,http://151.80.18.177:86/Disney_Junior_HD/index.m3u8,,[tcp @ 0x5e1b3f0f9780] Connection to tcp://151.80.18.177:86 failed: Connection timed out http://151.80.18.177:86/Disney_Junior_HD/index.m3u8: Connection timed out
 For You TV,OK-2X,playlist.m3u,https://stream.az-multimedia.com:3325/live/foryoutvlive.m3u8,"video,854,480
 audio
 
@@ -2346,11 +2274,21 @@ data
 video,1920,1080
 audio",
 ICONE TV,FAIL-1,playlist.m3u,https://lecteur.iconetv.bj/hls/stream.m3u8,,https://lecteur.iconetv.bj/hls/stream.m3u8: Server returned 404 Not Found
-Le Meilleur des Jeux TV,FAIL-1,playlist.m3u,https://jmp2.uk/stvp-FR3600004UH,,[hls @ 0x61dd050f52c0] URL https://amg02393-awpg-amg02393c9-samsung-fr-5245.playouts.now.amagi.tv/ts-eu-w1-n2/beacon/amg02393-awpg-lemeilleurdesjeuxtv-samsungfr/cb573d1d7f6c648d92d43b60cef44782c67b3dcb0e6c886470af4a9765d
+Le Meilleur des Jeux TV,FAIL-1,playlist.m3u,https://jmp2.uk/stvp-FR3600004UH,,[hls @ 0x62a5e84a22c0] URL https://amg02393-awpg-amg02393c9-samsung-fr-5245.playouts.now.amagi.tv/ts-eu-w1-n2/beacon/amg02393-awpg-lemeilleurdesjeuxtv-samsungfr/cb57381e6573648784c93778d1f14182c67b3dcb0e6c886470af4a9765d
 Mattel Junior,OK-2X,playlist.m3u,https://jmp2.uk/plu-686e74b0e48af72bc266e798.m3u8,"subtitle,N/A,N/A
 audio
 audio
-video,1216,684
+video,640,360
+
+subtitle,N/A,N/A
+audio
+audio
+video,854,480
+
+subtitle,N/A,N/A
+audio
+audio
+video,1024,576
 
 subtitle,N/A,N/A
 audio
@@ -2360,42 +2298,31 @@ video,1216,684
 subtitle,N/A,N/A
 audio
 audio
-video,1216,684
-
-subtitle,N/A,N/A
-audio
-audio
-video,1216,684
-
-subtitle,N/A,N/A
-audio
-audio
-video,854,4",
-Nickelodeon Junior (1080p),FAIL-1,playlist.m3u,http://151.80.18.177:86/Nickelodeon_Junior/index.m3u8,,[tcp @ 0x55dc09ad7780] Connection to tcp://151.80.18.177:86 failed: Connection timed out http://151.80.18.177:86/Nickelodeon_Junior/index.m3u8: Connection timed out
+video,426,240",
+Nickelodeon Junior (1080p),FAIL-1,playlist.m3u,http://151.80.18.177:86/Nickelodeon_Junior/index.m3u8,,[tcp @ 0x577265877780] Connection to tcp://151.80.18.177:86 failed: Connection timed out http://151.80.18.177:86/Nickelodeon_Junior/index.m3u8: Connection timed out
 Pluto TV Junior (720p),OK-2X,playlist.m3u,https://jmp2.uk/plu-5f8ecb336537e8000764a17f.m3u8,"subtitle,N/A,N/A
 audio
-audio
-video,1216,684
+video,640,360
 
 subtitle,N/A,N/A
 audio
-audio
-video,1216,684
+video,854,480
 
 subtitle,N/A,N/A
 audio
-audio
-video,1216,684
+video,854,480
 
 subtitle,N/A,N/A
 audio
-audio
-video,1216,684
+video,1280,720
 
 subtitle,N/A,N/A
 audio
+video,426,240
+
+subtitle,N/A,N/A
 audio
-video,1024,",
+video,",
 Pluto TV Kids Classics (720p),OK-2X,playlist.m3u,https://jmp2.uk/plu-654a58dbf9cc82000868f0fb.m3u8,"subtitle,N/A,N/A
 audio
 video,640,360
@@ -2421,6 +2348,31 @@ audio
 video,",
 Pluto TV Kids Club,OK-2X,playlist.m3u,https://jmp2.uk/plu-611e6ddc7fcd580007d1eb5f.m3u8,"subtitle,N/A,N/A
 audio
+video,640,360
+audio
+
+subtitle,N/A,N/A
+audio
+video,854,480
+audio
+
+subtitle,N/A,N/A
+audio
+video,854,480
+audio
+
+subtitle,N/A,N/A
+audio
+video,1280,720
+audio
+
+subtitle,N/A,N/A
+audio
+video,426,240
+audio
+",
+Pluto TV Reality,OK-2X,playlist.m3u,https://jmp2.uk/plu-6092544e7639460007d4835e.m3u8,"subtitle,N/A,N/A
+audio
 audio
 video,1216,684
 
@@ -2443,29 +2395,6 @@ subtitle,N/A,N/A
 audio
 audio
 video,1024,",
-Pluto TV Reality,OK-2X,playlist.m3u,https://jmp2.uk/plu-6092544e7639460007d4835e.m3u8,"subtitle,N/A,N/A
-audio
-video,640,360
-
-subtitle,N/A,N/A
-audio
-video,854,480
-
-subtitle,N/A,N/A
-audio
-video,854,480
-
-subtitle,N/A,N/A
-audio
-video,1280,720
-
-subtitle,N/A,N/A
-audio
-video,426,240
-
-subtitle,N/A,N/A
-audio
-video,",
 Pluto TV Super Kids,OK-2X,playlist.m3u,https://jmp2.uk/plu-652557d93fd33c000802f995.m3u8,"subtitle,N/A,N/A
 audio
 audio
@@ -2530,27 +2459,7 @@ audio
 
 video,1280,720
 audio",
-Equidia (1080p),OK-2X,playlist.m3u,https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/equidia/live2.m3u8,"audio
-video,1920,1080
-
-audio
-video,1280,720
-
-audio
-video,848,480
-
-audio
-video,432,240
-
-audio
-video,256,144
-
-audio
-video,1920,1080
-video,1280,720
-video,848,480
-video,432,240
-video,256,144",
+Equidia (1080p),FAIL-1,playlist.m3u,https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/equidia/live2.m3u8,,timeout
 FIFA+ French (720p),OK-2X,playlist.m3u,https://37b4c228.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWZyX0ZJRkFQbHVzRnJlbmNoX0hMUw/playlist.m3u8,"subtitle,N/A,N/A
 video,640,360
 audio
@@ -2683,7 +2592,7 @@ subtitle,N/A,N/A
 
 subtitle,N/A,N/A
 
-subtitle,N/A,N/A",[hls @ 0x61c60352d2c0] URL https://amg00477-samsungelectron-worldpokertour-samsungfr-wf2qs.amagi.tv/ts-eu-w1-n2/beacon/amg00477-samsungelectron-worldpokertour-samsungfr/cb573d1d7f6c648d92d43b60cef44782c67b3dcb0e6c886470a
+subtitle,N/A,N/A",[hls @ 0x5f603273a2c0] URL https://amg00477-samsungelectron-worldpokertour-samsungfr-wf2qs.amagi.tv/ts-eu-w1-n2/beacon/amg00477-samsungelectron-worldpokertour-samsungfr/cb57381e6573648784c93778d1f14182c67b3dcb0e6c886470a
 BabyFirst (720p),OK-2X,playlist.m3u,https://cdn.fast.jwp.services/v1/channel/1_jB6940Ei_TvhvIHDL/manifest.m3u8,"audio
 audio
 video,640,360
@@ -2718,7 +2627,7 @@ audio
 
 video,1280,720
 audio",
-Congo Planet Télévision (1080p) [Not 24/7],FAIL-1,playlist.m3u,https://radio.congoplanet.com/Congo_Planet_TV.sdp/Congo_Planet_TV/playlist.m3u8,,[tls @ 0x5a2538eca740] Error in the pull function. [tls @ 0x5a2538eca740] IO error: Connection timed out https://radio.congoplanet.com/Congo_Planet_TV.sdp/Congo_Planet_TV/playlist.m3u8: Connection timed out
+Congo Planet Télévision (1080p) [Not 24/7],FAIL-1,playlist.m3u,https://radio.congoplanet.com/Congo_Planet_TV.sdp/Congo_Planet_TV/playlist.m3u8,,[tls @ 0x5d991b06c740] Error in the pull function. [tls @ 0x5d991b06c740] IO error: Connection timed out https://radio.congoplanet.com/Congo_Planet_TV.sdp/Congo_Planet_TV/playlist.m3u8: Connection timed out
 Couleur 3 (720p),FAIL-1,playlist.m3u,https://visualradio-rts-couleur3-d.akamaized.net/out/v1/6a1472634ad745f59a9e63ee8adbbc00/index.m3u8,,https://visualradio-rts-couleur3-d.akamaized.net/out/v1/6a1472634ad745f59a9e63ee8adbbc00/index.m3u8: Server returned 403 Forbidden (access denied)
 Fun Vision,OK-2X,playlist.m3u,https://funradiovisionhd.vedge.infomaniak.com/livecast/ik:funradiovisionhd/manifest.m3u8,"data
 video,1920,1080
@@ -2733,7 +2642,7 @@ video,854,480
 audio
 
 data
-video,640,360
+video,0,0
 audio
 
 data
@@ -2746,7 +2655,7 @@ data
 video,854,480
 audio
 data
-video,640,360
+video,0,0
 audio",
 Generations TV (576p),OK-2X,playlist.m3u,https://event.vedge.infomaniak.com/livecast/ik:generation-tv/manifest.m3u8,"data
 video,1280,720
@@ -2795,8 +2704,8 @@ audio
 
 video,1920,1080
 audio",
-Museum TV [Geo-blocked],FAIL-1,playlist.m3u,https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01492-secomsasmediart-museumtv-eng-samsungit/playlist.m3u8,,[tcp @ 0x63fc4f7feac0] Failed to resolve hostname amg01492-secomsasmediart-museumtv-eng-samsungit-vmzbd.amagi.tv: Name or service not known https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01492-secomsasmediart-museumtv-eng-
-NRJ Hits,FAIL-1,playlist.m3u,https://test.946985.filegear-sg.me/proxy/a23981548880f405,,[tcp @ 0x639befd189c0] Failed to resolve hostname test.946985.filegear-sg.me: Name or service not known https://test.946985.filegear-sg.me/proxy/a23981548880f405: Input/output error
+Museum TV [Geo-blocked],FAIL-1,playlist.m3u,https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01492-secomsasmediart-museumtv-eng-samsungit/playlist.m3u8,,[tcp @ 0x5acc1c781ac0] Failed to resolve hostname amg01492-secomsasmediart-museumtv-eng-samsungit-vmzbd.amagi.tv: Name or service not known https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01492-secomsasmediart-museumtv-eng-
+NRJ Hits,FAIL-1,playlist.m3u,https://test.946985.filegear-sg.me/proxy/a23981548880f405,,[tcp @ 0x65077e1a29c0] Failed to resolve hostname test.946985.filegear-sg.me: Name or service not known https://test.946985.filegear-sg.me/proxy/a23981548880f405: Input/output error
 P2M TV (720p),OK-2X,playlist.m3u,https://vdo2.pro-fhi.net:3207/stream/play.m3u8,"video,1280,720
 audio
 
@@ -2811,7 +2720,7 @@ audio
 data
 video,1280,720
 audio",
-Radio Télé Amen FM (360p) [Not 24/7],FAIL-1,playlist.m3u,http://184.173.179.163:1935/daniel/daniel/playlist.m3u8,,[tcp @ 0x645887fa6780] Connection to tcp://184.173.179.163:1935 failed: Connection timed out http://184.173.179.163:1935/daniel/daniel/playlist.m3u8: Connection timed out
+Radio Télé Amen FM (360p) [Not 24/7],FAIL-1,playlist.m3u,http://184.173.179.163:1935/daniel/daniel/playlist.m3u8,,[tcp @ 0x654ee3c10780] Connection to tcp://184.173.179.163:1935 failed: Connection timed out http://184.173.179.163:1935/daniel/daniel/playlist.m3u8: Connection timed out
 Radio Tele Evangile Sans Limite,OK-2X,playlist.m3u,https://5790d294af2dc.streamlock.net/8124/8124/chunklist.m3u8,"data
 video,1920,1080
 audio
@@ -2826,7 +2735,11 @@ audio
 data
 video,640,360
 audio",
-Radio Tele Ginen,FAIL-1,playlist.m3u,http://teleginen.srfms.com:1935/teleginen/livestream/playlist.m3u8,,http://teleginen.srfms.com:1935/teleginen/livestream/playlist.m3u8: Server returned 404 Not Found
+Radio Tele Ginen,OK-2X,playlist.m3u,http://teleginen.srfms.com:1935/teleginen/livestream/playlist.m3u8,"video,1920,1080
+audio
+
+video,1920,1080
+audio",
 Radio Télé Hit (480p),FAIL-1,playlist.m3u,https://59d39900ebfb8.streamlock.net/RadioTelehit/RadioTelehit/playlist.m3u8,,https://59d39900ebfb8.streamlock.net/RadioTelehit/RadioTelehit/playlist.m3u8: Server returned 404 Not Found
 Radio Télé Kajou (480p) [Not 24/7],FAIL-1,playlist.m3u,https://59d39900ebfb8.streamlock.net/RadioTelekAJOU/RadioTelekAJOU/playlist.m3u8,,https://59d39900ebfb8.streamlock.net/RadioTelekAJOU/RadioTelekAJOU/playlist.m3u8: Server returned 404 Not Found
 Radio Tele Planet Compas (720p) [Not 24/7],OK-2X,playlist.m3u,https://5dcab9aed5331.streamlock.net/mrcompas1/livestream/playlist.m3u8,"video,1280,720
@@ -2847,7 +2760,7 @@ data
 video,1280,720
 audio",
 Radio Télé Wisdom (360p) [Not 24/7],FAIL-1,playlist.m3u,https://59d39900ebfb8.streamlock.net/daniel/daniel/playlist.m3u8,,https://59d39900ebfb8.streamlock.net/daniel/daniel/playlist.m3u8: Server returned 404 Not Found
-Radio Télévision Shilo (720p) [Not 24/7],FAIL-1,playlist.m3u,https://watch.haitilive.net/freehb/rtvs/index.m3u8,,[tcp @ 0x57244ba3aa40] Failed to resolve hostname watch.haitilive.net: Name or service not known https://watch.haitilive.net/freehb/rtvs/index.m3u8: Input/output error
+Radio Télévision Shilo (720p) [Not 24/7],FAIL-1,playlist.m3u,https://watch.haitilive.net/freehb/rtvs/index.m3u8,,[tcp @ 0x5b499cbc6a40] Failed to resolve hostname watch.haitilive.net: Name or service not known https://watch.haitilive.net/freehb/rtvs/index.m3u8: Input/output error
 RFM TV [Not 24/7],FAIL-1,playlist.m3u,http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/1038/index.m3u8,,http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/1038/index.m3u8: Server returned 401 Unauthorized (authorization failed)
 Stingray Classica (1080p),OK-2X,playlist.m3u,https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/master.m3u8,"video,640,360
 audio
@@ -2940,7 +2853,7 @@ audio
 video,1920,1080
 audio",
 TeleMusik Senegal (720p),FAIL-1,playlist.m3u,https://58c04fb1d143f.streamlock.net/rezopropartner_1_live/rezopropartner_1_live/playlist.m3u8,,https://58c04fb1d143f.streamlock.net/rezopropartner_1_live/rezopropartner_1_live/playlist.m3u8: Server returned 404 Not Found
-FashionTV,FAIL-1,playlist.m3u,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-6490c01f3b3ce9e1aaad95be/?X-Plex-Token=DDHTm5NSc_UVaBcXaLUE,,[hls @ 0x5933f88e8380] URL https://amg01546-amg01546c1-plex-international-9503.playouts.now.amagi.tv/ts-us-e2-n2/beacon/amg01546-fashiontv-fashiontv-plexinternational/cb573d1d7f6c648d92d43b60cef44782c67b3dcb0e6c886470af4
+FashionTV,FAIL-1,playlist.m3u,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-6490c01f3b3ce9e1aaad95be/?X-Plex-Token=DDHTm5NSc_UVaBcXaLUE,,[hls @ 0x651ac65b8380] URL https://amg01546-amg01546c1-plex-international-9503.playouts.now.amagi.tv/ts-us-e2-n2/beacon/amg01546-fashiontv-fashiontv-plexinternational/cb57381e6573648784c93778d1f14182c67b3dcb0e6c886470af4
 FashionTV Paris L'Original (1080p),OK-2X,playlist.m3u,https://edge-fast3.evrideo.tv/bfdbb576-83f7-11f0-9f89-0200170e3e04_1000028043_HLS/manifest.m3u8,"audio
 video,1920,1080
 data
@@ -2979,8 +2892,8 @@ video,1280,720
 
 audio
 video,1280,720",
-Luxe TV (1080p),FAIL-1,playlist.m3u,http://103.154.3.101:5001/live/1736.m3u8,,[tcp @ 0x5fda1dca8780] Connection to tcp://103.154.3.101:5001 failed: Connection timed out http://103.154.3.101:5001/live/1736.m3u8: Connection timed out
-MyZen TV (1080p),FAIL-1,playlist.m3u,https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzen-en-plex/playlist.m3u8,,[tcp @ 0x58eb6d13e000] Failed to resolve hostname amg01255-secomcofites-my-myzen-en-plex-dj4yp.amagi.tv: Name or service not known https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzen-en-plex/playlist
+Luxe TV (1080p),FAIL-1,playlist.m3u,http://103.154.3.101:5001/live/1736.m3u8,,[tcp @ 0x58be518ad780] Connection to tcp://103.154.3.101:5001 failed: Connection timed out http://103.154.3.101:5001/live/1736.m3u8: Connection timed out
+MyZen TV (1080p),FAIL-1,playlist.m3u,https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzen-en-plex/playlist.m3u8,,[tcp @ 0x59b983759000] Failed to resolve hostname amg01255-secomcofites-my-myzen-en-plex-dj4yp.amagi.tv: Name or service not known https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzen-en-plex/playlist
 3ABN French,OK-2X,playlist.m3u,https://3abn.bozztv.com/3abn2/Fre_live/smil:Fre_live.smil/playlist.m3u8,"data
 video,0,0
 audio
@@ -3014,7 +2927,7 @@ audio
 
 video,1280,720
 audio",
-Dynamic Gospel TV (480p) [Not 24/7],FAIL-1,playlist.m3u,https://ssh101stream.ssh101.com/akamaissh101/ssh101/tvdynamicstream/playlist.m3u8,,[tcp @ 0x6448fae45a00] Failed to resolve hostname ssh101stream.ssh101.com: Name or service not known https://ssh101stream.ssh101.com/akamaissh101/ssh101/tvdynamicstream/playlist.m3u8: Input/output error
+Dynamic Gospel TV (480p) [Not 24/7],FAIL-1,playlist.m3u,https://ssh101stream.ssh101.com/akamaissh101/ssh101/tvdynamicstream/playlist.m3u8,,[tcp @ 0x585611346a00] Failed to resolve hostname ssh101stream.ssh101.com: Name or service not known https://ssh101stream.ssh101.com/akamaissh101/ssh101/tvdynamicstream/playlist.m3u8: Input/output error
 Ecclesia TV,FAIL-1,playlist.m3u,https://video1.getstreamhosting.com:1936/8294/8294/playlist.m3u8,,https://video1.getstreamhosting.com:1936/8294/8294/playlist.m3u8: Server returned 404 Not Found
 Evandis Gospel TV (1080p),OK-2X,playlist.m3u,https://evandis.streamakaci.tv/str_evandis_evandis/str_evandis_multi/playlist.m3u8,"video,1920,1080
 audio
@@ -3165,7 +3078,7 @@ audio
 video,640,360
 audio",
 MTA1 World (720p),FAIL-1,playlist.m3u,https://chlivemta1.akamaized.net/hls/live/2008145/mta1/playlist.m3u8,,timeout
-MTA2 Europe (720p),FAIL-1,playlist.m3u,https://chlivemta1.akamaized.net/hls/live/2008145/mta2/playlist.m3u8,,timeout
+MTA2 Europe (720p),FAIL-1,playlist.m3u,https://chlivemta1.akamaized.net/hls/live/2008145/mta2/playlist.m3u8,,[hls @ 0x5f1125317340] Error when loading first segment 'https://chlivemta1.akamaized.net/hls/live/2008145/mta2/20200817T163532/playlist_4300/00051/playlist_4300_01387.ts' https://chlivemta1.akamaized.net/hls/live/200814
 MTA4 Africa (1080p),OK-2X,playlist.m3u,https://chlivemta.akamaized.net/hls/live/2010555/mtaafrica1/playlist.m3u8,"audio
 audio
 audio
@@ -3306,8 +3219,20 @@ audio
 data
 data
 
+video,854,480
+audio
+data
+data
 
+video,640,360
+audio
+data
+data
 
+video,1920,1080
+audio
+data
+data
 
 video,1280,720
 audio
@@ -3323,24 +3248,12 @@ audio
 video,384,216
 audio
 
-video,960,540
-audio
 
-video,1280,720
-audio
 
-video,1920,1080
-audio
 
 video,640,360
 audio
 video,384,216
-audio
-video,960,540
-audio
-video,1280,720
-audio
-video,1920,1080
 audio",
 Adrenaline Spica Life,OK-2X,playlist.m3u,https://jmp2.uk/stvp-FR1400005J7,"video,1920,1080
 audio
@@ -3385,8 +3298,17 @@ subtitle,N/A,N/A
 
 subtitle,N/A,N/A",
 Alerte à Malibu TV,FAIL-1,playlist.m3u,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-68e03cb418c739b4d91a6a59/?X-Plex-Token=MQj5gsQsF79CdBy-xJez,,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-68e03cb418c739b4d91a6a59/?X-Plex-Token=MQj5gsQsF79CdBy-xJez: Server returned 404 Not Found
-Alternative,FAIL-1,playlist.m3u,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-62efbb8652f7d73061eec498/?X-Plex-Token=DDHTm5NSc_UVaBcXaLUE,,[hls @ 0x55c87dd3e380] URL https://stream.ads.ottera.tv/mf2/720x404_600000?u=https%3A%2F%2Fd35p4ep9ync6qx.cloudfront.net%2F398a934ca02b4e6f15d1d0af4264a6b0%2Fprog_index_7-1.ts&v=720x404_600000&c=261111dbqf490m5r8c738hiv9
-Baby Einstein,FAIL-1,playlist.m3u,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-69333216ac5b3f9f53442374/?X-Plex-Token=DDHTm5NSc_UVaBcXaLUE,,[hls @ 0x5f1136698380] URL https://hls-beacons-us.xumo.com/hlsstream/v1/beacon?url=https%3A%2F%2Flive-content-cf.xumo.com%2F3517%2Fcontent%2FXM0UDZFPKB4Z6W%2F26684045%2F0_046.ts&aid=XM0UDZFPKB4Z6W&eventType=ASSET&cid=888
+Alternative,OK-2X,playlist.m3u,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-62efbb8652f7d73061eec498/?X-Plex-Token=DDHTm5NSc_UVaBcXaLUE,"video,768,432
+audio
+
+video,1920,1080
+audio
+
+video,768,432
+audio
+video,1920,1080
+audio",
+Baby Einstein,FAIL-1,playlist.m3u,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-69333216ac5b3f9f53442374/?X-Plex-Token=DDHTm5NSc_UVaBcXaLUE,,[hls @ 0x63603fa7f380] URL https://hls-beacons-us.xumo.com/hlsstream/v1/beacon?url=https%3A%2F%2Flive-content-cf.xumo.com%2F3517%2Fcontent%2FXM0D8UYWHPQV2R%2F26684113%2F0_166.ts&aid=XM0D8UYWHPQV2R&eventType=ASSET&cid=888
 Bassmaster,FAIL-2,playlist.m3u,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-68caada21fabab6eb2e99331/?X-Plex-Token=DDHTm5NSc_UVaBcXaLUE,"subtitle,N/A,N/A
 
 subtitle,N/A,N/A
@@ -3399,9 +3321,9 @@ subtitle,N/A,N/A
 
 subtitle,N/A,N/A",
 Billiard TV,FAIL-2,playlist.m3u,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-6334a8e48a7b2a349d903b8c/?X-Plex-Token=DDHTm5NSc_UVaBcXaLUE,,
-Bizaar,FAIL-1,playlist.m3u,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-689e1f0dd84bfb3d54b6756f/?X-Plex-Token=DDHTm5NSc_UVaBcXaLUE,,[hls @ 0x5ab027f3e380] URL https://hls-beacons-us.xumo.com/hlsstream/v1/beacon?url=https%3A%2F%2Flive-content-cf.xumo.com%2F4237%2Fcontent%2FXM0CU3GPTJOS2O%2F27829474%2F0_034.ts&aid=XM0CU3GPTJOS2O&eventType=ASSET&cid=888
+Bizaar,FAIL-1,playlist.m3u,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-689e1f0dd84bfb3d54b6756f/?X-Plex-Token=DDHTm5NSc_UVaBcXaLUE,,[hls @ 0x58dd24878380] URL https://hls-beacons-us.xumo.com/hlsstream/v1/beacon?url=https%3A%2F%2Flive-content-cf.xumo.com%2F4237%2Fcontent%2FXM0P6RQJ15XR5A%2F27829475%2F0_040.ts&aid=XM0P6RQJ15XR5A&eventType=ASSET&cid=888
 Blacklist,FAIL-1,playlist.m3u,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-69222c105cbe620c1f9b6bbf/?X-Plex-Token=DDHTm5NSc_UVaBcXaLUE,,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-69222c105cbe620c1f9b6bbf/?X-Plex-Token=DDHTm5NSc_UVaBcXaLUE: Server returned 404 Not Found
-Bondi Rescue,FAIL-1,playlist.m3u,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-69ae4f38e657bab5f7a9b7ec/?X-Plex-Token=DDHTm5NSc_UVaBcXaLUE,,[hls @ 0x63eb25075380] URL https://amg16763-amg16763c2-amgplt0020.playout.now3.amagi.tv/ts-us-e2-n2/beacon/amg16763-amg16763c2-amgplt0020/d9f6c3a0-de22-11f1-b241-de048840b4e0/1920x1080_4944491?bcn=1&ca=0&cid=CJZ_1001_BON
+Bondi Rescue,FAIL-1,playlist.m3u,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-69ae4f38e657bab5f7a9b7ec/?X-Plex-Token=DDHTm5NSc_UVaBcXaLUE,,[hls @ 0x5c182f155380] URL https://amg16763-amg16763c2-amgplt0020.playout.now3.amagi.tv/ts-us-e2-n2/beacon/amg16763-amg16763c2-amgplt0020/5e7cc28f-de99-11f1-b776-068ff4156333/1920x1080_4944491?bcn=1&ca=0&cid=CJZ_1001_BON
 BOOT,FAIL-1,playlist.m3u,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-5ef11487d33ab9004048a1d3/?X-Plex-Token=DDHTm5NSc_UVaBcXaLUE,"subtitle,N/A,N/A
 
 subtitle,N/A,N/A
@@ -3500,7 +3422,7 @@ CombaTV,FAIL-1,playlist.m3u,https://epg.provider.plex.tv/library/parts/6430aa45f
 COPS,FAIL-1,playlist.m3u,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-6ab2a4694d0a0fea9531956d/?X-Plex-Token=DDHTm5NSc_UVaBcXaLUE,,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-6ab2a4694d0a0fea9531956d/?X-Plex-Token=DDHTm5NSc_UVaBcXaLUE: Server returned 404 Not Found
 Cosmic Frontiers,FAIL-1,playlist.m3u,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-635c61cc797a33fa4193cc93/?X-Plex-Token=DDHTm5NSc_UVaBcXaLUE,,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-635c61cc797a33fa4193cc93/?X-Plex-Token=DDHTm5NSc_UVaBcXaLUE: Server returned 404 Not Found
 Dr. Phil,FAIL-1,playlist.m3u,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-66e4cbef38de9754b6b13e90/?X-Plex-Token=DDHTm5NSc_UVaBcXaLUE,,
-Drive TV,FAIL-1,playlist.m3u,https://jmp2.uk/stvp-FRBD3600001BQ,,[hls @ 0x5673d344e2c0] URL https://amg01796-fastmediabackbo-drivetv-samsungfr-k7n16.amagi.tv/ts-eu-w1-n2/beacon/amg01796-fastmediabackbo-drivetv-samsungfr/cb573d1d7f6c648d92d43b60cef44782c67b3dcb0e6c886470af4a9765d94c06d
+Drive TV,FAIL-1,playlist.m3u,https://jmp2.uk/stvp-FRBD3600001BQ,,[hls @ 0x557428a052c0] URL https://amg01796-fastmediabackbo-drivetv-samsungfr-k7n16.amagi.tv/ts-eu-w1-n2/beacon/amg01796-fastmediabackbo-drivetv-samsungfr/cb57381e6573648784c93778d1f14182c67b3dcb0e6c886470af4a9765d94c06d
 Dude Perfect,FAIL-1,playlist.m3u,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-68d7f9b53b1f329cea126993/?X-Plex-Token=xWS_L556UswvjHRC_A3V,,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-68d7f9b53b1f329cea126993/?X-Plex-Token=xWS_L556UswvjHRC_A3V: Server returned 404 Not Found
 Easy Listening,FAIL-1,playlist.m3u,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-62ee76b5271f393d2d9f709a/?X-Plex-Token=DDHTm5NSc_UVaBcXaLUE,,
 Echos du Monde,FAIL-1,playlist.m3u,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-685f1784a7111a932d28f1aa/?X-Plex-Token=DDHTm5NSc_UVaBcXaLUE,,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-685f1784a7111a932d28f1aa/?X-Plex-Token=DDHTm5NSc_UVaBcXaLUE: Server returned 404 Not Found
@@ -3529,28 +3451,27 @@ audio",
 Éxitos del Momento,FAIL-1,playlist.m3u,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-62efba6588a16bb7d6b6fb58/?X-Plex-Token=DDHTm5NSc_UVaBcXaLUE,,
 FailArmy,OK-2X,playlist.m3u,https://jmp2.uk/plu-5f8ecd9169d2d4000864a974.m3u8,"subtitle,N/A,N/A
 audio
-audio
-video,1216,684
+video,640,360
 
 subtitle,N/A,N/A
 audio
-audio
-video,1216,684
+video,854,480
 
 subtitle,N/A,N/A
 audio
-audio
-video,1216,684
+video,854,480
 
 subtitle,N/A,N/A
 audio
-audio
-video,1216,684
+video,1280,720
 
 subtitle,N/A,N/A
 audio
+video,426,240
+
+subtitle,N/A,N/A
 audio
-video,1024,",
+video,",
 Farscape,FAIL-1,playlist.m3u,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-635195e9ccee3e1547a8831a/?X-Plex-Token=DDHTm5NSc_UVaBcXaLUE,"subtitle,N/A,N/A
 
 subtitle,N/A,N/A
@@ -3617,9 +3538,9 @@ subtitle,N/A,N/A
 
 subtitle,N/A,N/A",
 GUSTOTV,FAIL-1,playlist.m3u,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-5f8746eabd529300418246d9/?X-Plex-Token=DDHTm5NSc_UVaBcXaLUE,,
-H2O & Friends,FAIL-1,playlist.m3u,https://jmp2.uk/stvp-FR1200003GR,,[hls @ 0x5c1cf36382c0] URL https://amg00771-amg00771c22-amgplt0011.playout.now3.amagi.tv/ts-eu-w1-n2/beacon/amg00771-amg00771c22-amgplt0011/dd53c8e9-de22-11f1-a224-f2bd416b115c/426x240_511680?bcn=1&ca=0&cid=zdfs_Elephant
-Hard Knocks,FAIL-1,playlist.m3u,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-5fd115bdb7ef8d002dcf1820/?X-Plex-Token=DDHTm5NSc_UVaBcXaLUE,,
-Hit List,FAIL-1,playlist.m3u,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-61aaa014784a2161d3caf7fd/?X-Plex-Token=DDHTm5NSc_UVaBcXaLUE,,
+H2O & Friends,FAIL-1,playlist.m3u,https://jmp2.uk/stvp-FR1200003GR,,[hls @ 0x5a77535dd2c0] URL https://amg00771-amg00771c22-amgplt0011.playout.now3.amagi.tv/ts-eu-w1-n2/beacon/amg00771-amg00771c22-amgplt0011/622e1482-de99-11f1-a5c6-c29b758bb139/426x240_511680?bcn=1&ca=0&cid=zdfs_Wolfbloo
+Hard Knocks,FAIL-1,playlist.m3u,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-5fd115bdb7ef8d002dcf1820.m3u8?X-Plex-Token=n4szyxHzcDkc9vX3ZpxT,,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-5fd115bdb7ef8d002dcf1820.m3u8?X-Plex-Token=n4szyxHzcDkc9vX3ZpxT: Server returned 429 Too Many Requests
+Hit List,FAIL-1,playlist.m3u,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-61aaa014784a2161d3caf7fd.m3u8?X-Plex-Token=n4szyxHzcDkc9vX3ZpxT,,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-61aaa014784a2161d3caf7fd.m3u8?X-Plex-Token=n4szyxHzcDkc9vX3ZpxT: Server returned 429 Too Many Requests
 Hunter,FAIL-1,playlist.m3u,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-66f6b6baac1a1890ef197a4b/?X-Plex-Token=DDHTm5NSc_UVaBcXaLUE,"subtitle,N/A,N/A
 
 subtitle,N/A,N/A
@@ -3658,7 +3579,7 @@ audio
 audio
 video,426,240
 ",
-INTER 24/7,FAIL-1,playlist.m3u,https://jmp2.uk/stvp-FR3100002MQ,,[hls @ 0x56a74d81c2c0] URL https://amg27604-amg27604c1-amgplt0011.playout.now3.amagi.tv/ts-eu-w1-n2/beacon/amg27604-amg27604c1-amgplt0011/cb573d1d7f6c648d92d43b60cef44782c67b3dcb0e6c886470af4a9765d94c06d8fca087b419b33d57
+INTER 24/7,FAIL-1,playlist.m3u,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-69011e71d320237a5a2d9f63.m3u8?X-Plex-Token=n4szyxHzcDkc9vX3ZpxT,,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-69011e71d320237a5a2d9f63.m3u8?X-Plex-Token=n4szyxHzcDkc9vX3ZpxT: Server returned 429 Too Many Requests
 ITV Deportes,FAIL-1,playlist.m3u,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-688d3402a6fe30698ab42007/?X-Plex-Token=DDHTm5NSc_UVaBcXaLUE,,
 JAIL,FAIL-1,playlist.m3u,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-6ab5681e177d989ab41dfd4d/?X-Plex-Token=DDHTm5NSc_UVaBcXaLUE,,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-6ab5681e177d989ab41dfd4d/?X-Plex-Token=DDHTm5NSc_UVaBcXaLUE: Server returned 404 Not Found
 JDS.TV,FAIL-1,playlist.m3u,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-6a2325c47928efd63cf15995/?X-Plex-Token=DDHTm5NSc_UVaBcXaLUE,,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-6a2325c47928efd63cf15995/?X-Plex-Token=DDHTm5NSc_UVaBcXaLUE: Server returned 404 Not Found
@@ -3681,7 +3602,7 @@ Legacy,FAIL-1,playlist.m3u,https://epg.provider.plex.tv/library/parts/6430aa45fc
 Léman Bleu (1080p),FAIL-1,playlist.m3u,http://livevideo.infomaniak.com/streaming/livecast/naxoo/playlist.m3u8,,http://livevideo.infomaniak.com/streaming/livecast/naxoo/playlist.m3u8: Server returned 403 Forbidden (access denied)
 Les filles d’à côtés TV,FAIL-1,playlist.m3u,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-68e03beea4f2aa9b08ed5281/?X-Plex-Token=MQj5gsQsF79CdBy-xJez,,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-68e03beea4f2aa9b08ed5281/?X-Plex-Token=MQj5gsQsF79CdBy-xJez: Server returned 404 Not Found
 Life Down Under,FAIL-1,playlist.m3u,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-67c2496d45ae99120c071588/?X-Plex-Token=DDHTm5NSc_UVaBcXaLUE,,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-67c2496d45ae99120c071588/?X-Plex-Token=DDHTm5NSc_UVaBcXaLUE: Server returned 404 Not Found
-Lone Star,FAIL-1,playlist.m3u,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-6196c9241d310bf925e02616/?X-Plex-Token=DDHTm5NSc_UVaBcXaLUE,,
+Lone Star,FAIL-1,playlist.m3u,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-6196c9241d310bf925e02616.m3u8?X-Plex-Token=n4szyxHzcDkc9vX3ZpxT,,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-6196c9241d310bf925e02616.m3u8?X-Plex-Token=n4szyxHzcDkc9vX3ZpxT: Server returned 429 Too Many Requests
 Lucha Plus,FAIL-1,playlist.m3u,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-67a1a8ef2358ef4dd5c3018e/?X-Plex-Token=DDHTm5NSc_UVaBcXaLUE,,
 Made In Hollywood,FAIL-1,playlist.m3u,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-60db63d29ec966002c9ea6f0/?X-Plex-Token=DDHTm5NSc_UVaBcXaLUE,"subtitle,N/A,N/A
 
@@ -3717,8 +3638,8 @@ video,426,240
 subtitle,N/A,N/A
 audio
 video,",
-Metal.Rocks,FAIL-1,playlist.m3u,https://jmp2.uk/stvp-FR44000015M,,https://jmp2.uk/stvp-FR44000015M: Server returned 403 Forbidden (access denied)
-Monster Jam,FAIL-1,playlist.m3u,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-6615885e1eabecf2c9d56495/?X-Plex-Token=DDHTm5NSc_UVaBcXaLUE,,
+Metal.Rocks,FAIL-1,playlist.m3u,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-68e9436dda6bb987138625c7.m3u8?X-Plex-Token=n4szyxHzcDkc9vX3ZpxT,,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-68e9436dda6bb987138625c7.m3u8?X-Plex-Token=n4szyxHzcDkc9vX3ZpxT: Server returned 429 Too Many Requests
+Monster Jam,FAIL-1,playlist.m3u,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-6615885e1eabecf2c9d56495.m3u8?X-Plex-Token=n4szyxHzcDkc9vX3ZpxT,,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-6615885e1eabecf2c9d56495.m3u8?X-Plex-Token=n4szyxHzcDkc9vX3ZpxT: Server returned 429 Too Many Requests
 More U,FAIL-1,playlist.m3u,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-6112a9139894c8002c6cb87f/?X-Plex-Token=DDHTm5NSc_UVaBcXaLUE,,
 MOTUS La Chaine,FAIL-1,playlist.m3u,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-63ac5e95c7cce47c86164bca/?X-Plex-Token=DDHTm5NSc_UVaBcXaLUE,,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-63ac5e95c7cce47c86164bca/?X-Plex-Token=DDHTm5NSc_UVaBcXaLUE: Server returned 404 Not Found
 Newsmax2,FAIL-1,playlist.m3u,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-5fb81660b7ad2d002dcb7335/?X-Plex-Token=7x-hCTsfZ1xwfExKLRon,,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-5fb81660b7ad2d002dcb7335/?X-Plex-Token=7x-hCTsfZ1xwfExKLRon: Server returned 404 Not Found
@@ -3928,7 +3849,7 @@ subtitle,N/A,N/A
 
 subtitle,N/A,N/A
 
-subtitle,N/A,N/A",[hls @ 0x570383ba72c0] URL https://amg01935-amg01935c1-amgplt0011.playout.now3.amagi.tv/ts-eu-w1-n2/beacon/amg01935-amg01935c1-amgplt0011/e013b9c7-de22-11f1-a535-f69254fdc538/426x240_611520?bcn=1&ca=0&cid=AO25-0123-D12-R
+subtitle,N/A,N/A",[hls @ 0x58be0320b2c0] URL https://amg01935-amg01935c1-amgplt0011.playout.now3.amagi.tv/ts-eu-w1-n2/beacon/amg01935-amg01935c1-amgplt0011/661895ba-de99-11f1-a1c2-d20e6b760fe3/426x240_611520?bcn=1&ca=0&cid=MD-23-027_2023_
 The Bob Ross Channel,FAIL-1,playlist.m3u,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-5efe1de6e0b3f5003f5d9f88/?X-Plex-Token=DDHTm5NSc_UVaBcXaLUE,"subtitle,N/A,N/A
 
 subtitle,N/A,N/A
@@ -4000,34 +3921,35 @@ The Spa,FAIL-1,playlist.m3u,https://epg.provider.plex.tv/library/parts/6430aa45f
 TNA Wrestling Channel,FAIL-1,playlist.m3u,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-606605549dbfca002d2ae873/?X-Plex-Token=DDHTm5NSc_UVaBcXaLUE,,
 Today's K-Pop,FAIL-1,playlist.m3u,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-62ee6eae271f393d2d9f7096/?X-Plex-Token=DDHTm5NSc_UVaBcXaLUE,,
 Toon Goggles,FAIL-1,playlist.m3u,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-5eea605574085f0040ddc794/?X-Plex-Token=DDHTm5NSc_UVaBcXaLUE,,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-5eea605574085f0040ddc794/?X-Plex-Token=DDHTm5NSc_UVaBcXaLUE: Server returned 404 Not Found
-Top Sci-Fi,FAIL-1,playlist.m3u,https://jmp2.uk/stvp-FR4600001FK,,[hls @ 0x558c4f6f22c0] URL https://amg01796-amg01796c14-samsung-fr-5846.playouts.now.amagi.tv/ts-eu-w1-n2/beacon/amg01796-fastmediafast-topscifi-samsungfr/cb573d1d7f6c648d92d43b60cef44782c67b3dcb0e6c886470af4a9765d94c06d
+Top Sci-Fi,FAIL-1,playlist.m3u,https://jmp2.uk/stvp-FR4600001FK,,[hls @ 0x653e6bf112c0] URL https://amg01796-amg01796c14-samsung-fr-5846.playouts.now.amagi.tv/ts-eu-w1-n2/beacon/amg01796-fastmediafast-topscifi-samsungfr/cb57381e6573648784c93778d1f14182c67b3dcb0e6c886470af4a9765d94c06d
 TRACE Brazuca,FAIL-1,playlist.m3u,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-6329474265c8569187176338/?X-Plex-Token=DDHTm5NSc_UVaBcXaLUE,,
 TRACE UK,FAIL-1,playlist.m3u,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-66be8cd4871131188099527e/?X-Plex-Token=DDHTm5NSc_UVaBcXaLUE,,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-66be8cd4871131188099527e/?X-Plex-Token=DDHTm5NSc_UVaBcXaLUE: Server returned 404 Not Found
 TV5Monde France Belgique Suisse Monaco (1080p) [Geo-blocked],FAIL-1,playlist.m3u,https://ott.tv5monde.com/Content/HLS/Live/channel(fbs)/variant.m3u8,,https://ott.tv5monde.com/Content/HLS/Live/channel(fbs)/variant.m3u8: Server returned 403 Forbidden (access denied)
 TV5MONDE Info,FAIL-1,playlist.m3u,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-68a799722895f21006e758e4/?X-Plex-Token=DDHTm5NSc_UVaBcXaLUE,,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-68a799722895f21006e758e4/?X-Plex-Token=DDHTm5NSc_UVaBcXaLUE: Server returned 404 Not Found
 UFC,OK-2X,playlist.m3u,https://jmp2.uk/plu-67921b78b83355184c667770.m3u8,"subtitle,N/A,N/A
 audio
+audio
 video,640,360
 
 subtitle,N/A,N/A
 audio
-video,854,480
-
-subtitle,N/A,N/A
 audio
 video,854,480
 
 subtitle,N/A,N/A
 audio
-video,1280,720
+audio
+video,1024,576
 
 subtitle,N/A,N/A
 audio
-video,426,240
+audio
+video,1216,684
 
 subtitle,N/A,N/A
 audio
-video,",
+audio
+video,426,240",
 Un Village Français,OK-2X,playlist.m3u,https://jmp2.uk/plu-6304f2e2eb10450007298023.m3u8,"subtitle,N/A,N/A
 audio
 video,640,360
@@ -4053,7 +3975,7 @@ audio
 video,",
 Unbeaten,FAIL-1,playlist.m3u,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-67f45ef989089d917e1b1634/?X-Plex-Token=DDHTm5NSc_UVaBcXaLUE,,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-67f45ef989089d917e1b1634/?X-Plex-Token=DDHTm5NSc_UVaBcXaLUE: Server returned 404 Not Found
 USA TODAY,FAIL-1,playlist.m3u,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-60df3e18541143002f3b8607/?X-Plex-Token=DDHTm5NSc_UVaBcXaLUE,,
-Wasabi,FAIL-1,playlist.m3u,https://jmp2.uk/stvp-FRBD41000051L,,[hls @ 0x5d80ff8cd2c0] URL https://amg01796-fastmedia-amg01796c1-samsung-fr-1219.playouts.now.amagi.tv/ts-us-w2-n1/beacon/amg01796-fastmediafast-wasabi-samsungfr/cb573d1d7f6c648d92d43b60cef44782c67b3dcb0e6c886470af4a9765
+Wasabi,FAIL-1,playlist.m3u,https://jmp2.uk/stvp-FRBD41000051L,,[hls @ 0x583d3ccc92c0] URL https://amg01796-fastmedia-amg01796c1-samsung-fr-1219.playouts.now.amagi.tv/ts-us-w2-n1/beacon/amg01796-fastmediafast-wasabi-samsungfr/cb57381e6573648784c93778d1f14182c67b3dcb0e6c886470af4a9765
 Watch it Kid,FAIL-1,playlist.m3u,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-621672612c2627c068e73ad6/?X-Plex-Token=DDHTm5NSc_UVaBcXaLUE,,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-621672612c2627c068e73ad6/?X-Plex-Token=DDHTm5NSc_UVaBcXaLUE: Server returned 404 Not Found
 Watch it SCREAM,FAIL-1,playlist.m3u,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-621671d05abdd3d5556a1baf/?X-Plex-Token=DDHTm5NSc_UVaBcXaLUE,,
 Waypoint TV,FAIL-1,playlist.m3u,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-5fd115b8b7ef8d002dcf1817/?X-Plex-Token=DDHTm5NSc_UVaBcXaLUE,,
@@ -4075,7 +3997,7 @@ subtitle,N/A,N/A
 subtitle,N/A,N/A
 
 subtitle,N/A,N/A",
-World Billiards TV,FAIL-1,playlist.m3u,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-68b9f334fc12601028c5651e/?X-Plex-Token=DDHTm5NSc_UVaBcXaLUE,,
+World Billiards TV,FAIL-1,playlist.m3u,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-68b9f334fc12601028c5651e.m3u8?X-Plex-Token=n4szyxHzcDkc9vX3ZpxT,,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-68b9f334fc12601028c5651e.m3u8?X-Plex-Token=n4szyxHzcDkc9vX3ZpxT: Server returned 429 Too Many Requests
 World Surf League 24/7,FAIL-1,playlist.m3u,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-652875586425fdb1f32d2169/?X-Plex-Token=DDHTm5NSc_UVaBcXaLUE,"subtitle,N/A,N/A
 
 subtitle,N/A,N/A
@@ -4088,7 +4010,7 @@ subtitle,N/A,N/A
 
 subtitle,N/A,N/A",
 XFC TV,FAIL-1,playlist.m3u,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-621670feab2095ca85353ad4/?X-Plex-Token=DDHTm5NSc_UVaBcXaLUE,,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-621670feab2095ca85353ad4/?X-Plex-Token=DDHTm5NSc_UVaBcXaLUE: Server returned 404 Not Found
-Y2K,FAIL-1,playlist.m3u,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-62ee72cc271f393d2d9f7098/?X-Plex-Token=DDHTm5NSc_UVaBcXaLUE,,
+Y2K,FAIL-1,playlist.m3u,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-62ee72cc271f393d2d9f7098.m3u8?X-Plex-Token=n4szyxHzcDkc9vX3ZpxT,,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-62ee72cc271f393d2d9f7098.m3u8?X-Plex-Token=n4szyxHzcDkc9vX3ZpxT: Server returned 429 Too Many Requests
 Ya Que La Vérité La Chaine,FAIL-1,playlist.m3u,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-63ae3c6c6d1144b79ce12224/?X-Plex-Token=DDHTm5NSc_UVaBcXaLUE,,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-63ae3c6c6d1144b79ce12224/?X-Plex-Token=DDHTm5NSc_UVaBcXaLUE: Server returned 404 Not Found
 Yahoo Finance,FAIL-1,playlist.m3u,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-5f170f01b898490041b49dd1/?X-Plex-Token=DDHTm5NSc_UVaBcXaLUE,,
 Yu-Gi-Oh!,OK-2X,playlist.m3u,https://jmp2.uk/plu-6130d9c712c2b000070abb50.m3u8,"subtitle,N/A,N/A
@@ -4119,30 +4041,27 @@ video,426,240
 Z Nation,OK-2X,playlist.m3u,https://jmp2.uk/plu-66b227b446762a000846c208.m3u8,"subtitle,N/A,N/A
 audio
 audio
-video,0,0
+video,640,360
 
 subtitle,N/A,N/A
 audio
 audio
-video,0,0
+video,854,480
 
 subtitle,N/A,N/A
 audio
 audio
-video,0,0
+video,1024,576
 
 subtitle,N/A,N/A
 audio
 audio
-video,0,0
+video,1216,684
 
 subtitle,N/A,N/A
 audio
 audio
-video,0,0
-
-subtitle,N/A,N/A
-aud",
+video,426,240",
 ZenLIFE by Stingray,FAIL-1,playlist.m3u,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-66fd3e25216b603e031725fe/?X-Plex-Token=DDHTm5NSc_UVaBcXaLUE,,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-66fd3e25216b603e031725fe/?X-Plex-Token=DDHTm5NSc_UVaBcXaLUE: Server returned 404 Not Found
 ACTV (504p),FAIL-1,playlist.m3u,https://dlgt0tdl2hpq3.cloudfront.net/rtbf/clr-rtbf/4db788c7/index.m3u8,,timeout
 Bel RTL (1080p),FAIL-1,playlist.m3u,https://bel-live-hls.akamaized.net/hls/live/2038650/BEL-Live-HLS/master.m3u8,,https://bel-live-hls.akamaized.net/hls/live/2038650/BEL-Live-HLS/master.m3u8: Server returned 400 Bad Request
@@ -4283,11 +4202,11 @@ subtitle,N/A,N/A
 audio
 audio
 video,426,240",
-TV5 Quebec Canada (1080p),FAIL-1,playlist.m3u,http://23.133.220.149/TV5/index.m3u8,,[tcp @ 0x632910b80640] Connection to tcp://23.133.220.149:80 failed: Connection timed out http://23.133.220.149/TV5/index.m3u8: Connection timed out
+TV5 Quebec Canada (1080p),FAIL-1,playlist.m3u,http://23.133.220.149/TV5/index.m3u8,,[tcp @ 0x611563242640] Connection to tcp://23.133.220.149:80 failed: Connection timed out http://23.133.220.149/TV5/index.m3u8: Connection timed out
 TVA [Geo-blocked],FAIL-1,playlist.m3u,https://tvalive-dai01.akamaized.net/Content/HLS/Live/channel(575b93c5-be31-ee34-6285-14620fd14048)/index.m3u8,,https://tvalive-dai01.akamaized.net/Content/HLS/Live/channel(575b93c5-be31-ee34-6285-14620fd14048)/index.m3u8: Server returned 403 Forbidden (access denied)
 LCN [Geo-blocked],FAIL-1,playlist.m3u,https://tvalive.akamaized.net/hls/live/2014213/tvan01/tvan01.m3u8,,https://tvalive.akamaized.net/hls/live/2014213/tvan01/tvan01.m3u8: Server returned 403 Forbidden (access denied)
-Legislative Assembly of Ontario,FAIL-1,playlist.m3u,https://temp3.isilive.ca/live/_definst_/ontla/house-en/playlist.m3u8,,[tcp @ 0x5872733ff9c0] Failed to resolve hostname temp3.isilive.ca: Name or service not known https://temp3.isilive.ca/live/_definst_/ontla/house-en/playlist.m3u8: Input/output error
-TV5 Unis,FAIL-1,playlist.m3u,http://23.133.220.149/Unis_TV/index.m3u8,,[tcp @ 0x5a204c706780] Connection to tcp://23.133.220.149:80 failed: Connection timed out http://23.133.220.149/Unis_TV/index.m3u8: Connection timed out
+Legislative Assembly of Ontario,FAIL-1,playlist.m3u,https://temp3.isilive.ca/live/_definst_/ontla/house-en/playlist.m3u8,,[tcp @ 0x647b106f29c0] Failed to resolve hostname temp3.isilive.ca: Name or service not known https://temp3.isilive.ca/live/_definst_/ontla/house-en/playlist.m3u8: Input/output error
+TV5 Unis,FAIL-1,playlist.m3u,http://23.133.220.149/Unis_TV/index.m3u8,,[tcp @ 0x5b9cd42f1780] Connection to tcp://23.133.220.149:80 failed: Connection timed out http://23.133.220.149/Unis_TV/index.m3u8: Connection timed out
 20 Minutes TV (1080p),OK-2X,playlist.m3u,https://live-20minutestv.digiteka.com/1961167769/index.m3u8,"audio
 video,426,240
 
@@ -4325,27 +4244,7 @@ audio
 
 video,1920,1080
 audio",
-ILTV (720p),OK-2X,playlist.m3u,https://live.creacast.com/iltv/smil:iltv.smil/playlist.m3u8,"data
-video,1280,720
-audio
-
-data
-video,854,480
-audio
-
-data
-video,640,360
-audio
-
-data
-video,1280,720
-audio
-data
-video,854,480
-audio
-data
-video,640,360
-audio",
+ILTV (720p),FAIL-1,playlist.m3u,https://live.creacast.com/iltv/smil:iltv.smil/playlist.m3u8,,https://live.creacast.com/iltv/smil:iltv.smil/playlist.m3u8: Server returned 403 Forbidden (access denied)
 Le Figaro IDF (1080p),OK-2X,playlist.m3u,https://figarotv-live.freecaster.com/live/freecaster/figarotv.m3u8,"audio
 video,640,360
 
@@ -4390,7 +4289,31 @@ data
 video,640,360
 audio",
 Rhône TV (1080p) [Geo-blocked],FAIL-1,playlist.m3u,https://edge14.vedge.infomaniak.com/livecast/ik:rhonetv/manifest.m3u8,,https://edge14.vedge.infomaniak.com/livecast/ik:rhonetv/manifest.m3u8: Server returned 403 Forbidden (access denied)
-T18 (1080p),FAIL-1,playlist.m3u,https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/t18/t18-dm.m3u8,,
+T18 (1080p),OK-2X,playlist.m3u,https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/t18/t18-dm.m3u8,"video,848,480
+audio
+
+video,320,184
+audio
+
+video,512,288
+audio
+
+video,1280,720
+audio
+
+video,1920,1080
+audio
+
+video,848,480
+audio
+video,320,184
+audio
+video,512,288
+audio
+video,1280,720
+audio
+video,1920,1080
+audio",
 TéléGohelle,FAIL-1,playlist.m3u,https://videas.agglo-lenslievin.fr/index.m3u8,,https://videas.agglo-lenslievin.fr/index.m3u8: Server returned 404 Not Found
 TV3V (720p),OK-2X,playlist.m3u,https://tv3v.live-kd.com/live/tv3v/livestream/index.m3u8,"data
 video,1280,720
@@ -4408,7 +4331,7 @@ video,1024,576
 audio",
 TV78 (720p),FAIL-1,playlist.m3u,https://streamtv.cdn.dvmr.fr/TV78/ngrp:tv78.stream_all/master.m3u8,,https://streamtv.cdn.dvmr.fr/TV78/ngrp:tv78.stream_all/master.m3u8: Server returned 404 Not Found
 TVR (Bretagne) (720p),FAIL-1,playlist.m3u,https://streamtv.cdn.dvmr.fr/TVR/ngrp:tvr.stream_all/master.m3u8,,https://streamtv.cdn.dvmr.fr/TVR/ngrp:tvr.stream_all/master.m3u8: Server returned 404 Not Found
-viàMoselleTV (720p) [Not 24/7],FAIL-1,playlist.m3u,https://live.creacast.com/mirabelletv/smil:mirabelletv.smil/playlist.m3u8,,https://live.creacast.com/mirabelletv/smil:mirabelletv.smil/playlist.m3u8: Server returned 404 Not Found
+viàMoselleTV (720p) [Not 24/7],FAIL-1,playlist.m3u,https://live.creacast.com/mirabelletv/smil:mirabelletv.smil/playlist.m3u8,,https://live.creacast.com/mirabelletv/smil:mirabelletv.smil/playlist.m3u8: Server returned 403 Forbidden (access denied)
 viàOccitanie (540p) [Not 24/7],FAIL-1,playlist.m3u,https://streamer01.myvideoplace.tv/streamer02/hls/MDS_VIA_PAD_301117.m3u8,,https://streamer01.myvideoplace.tv/streamer02/hls/MDS_VIA_PAD_301117.m3u8: Server returned 5XX Server Error reply
 viàTéléPaese (720p),OK-2X,playlist.m3u,https://srv.webtvmanager.fr:3970/live/viatelepaeselive.m3u8,"video,1280,720
 audio
@@ -4463,10 +4386,10 @@ data
 video,1920,1080
 audio
 data",
-HANDICAP TV France,OK-2X,playlist.m3u,https://srv.webtvmanager.fr:3697/stream/play.m3u8,"video,1920,1080
+HANDICAP TV France,OK-2X,playlist.m3u,https://srv.webtvmanager.fr:3697/stream/play.m3u8,"video,852,480
 audio
 
-video,1920,1080
+video,852,480
 audio",
 Antenne Réunion (720p) [Not 24/7],FAIL-1,playlist.m3u,https://live-antenne-reunion.zeop.tv/live/c3eds/antreunihd/hls_fta/antreunihd.m3u8?location=ZEOP01,,timeout
 Identité Télé Caraïbes (548p),OK-2X,playlist.m3u,https://vdo2.pro-fhi.net:3769/stream/play.m3u8,"video,1280,536
@@ -4500,7 +4423,7 @@ audio
 
 video,1280,720
 audio",
-TNTV (1080p),FAIL-1,playlist.m3u,https://tntv-samsung-fr.amagi.tv/playlist.m3u8,,[tcp @ 0x6012bfd6da40] Failed to resolve hostname tntv-samsung-fr.amagi.tv: Name or service not known https://tntv-samsung-fr.amagi.tv/playlist.m3u8: Input/output error
+TNTV (1080p),FAIL-1,playlist.m3u,https://tntv-samsung-fr.amagi.tv/playlist.m3u8,,[tcp @ 0x5d8881de5a40] Failed to resolve hostname tntv-samsung-fr.amagi.tv: Name or service not known https://tntv-samsung-fr.amagi.tv/playlist.m3u8: Input/output error
 Trace Ayiti (1080p),OK-2X,playlist.m3u,https://channels.trace.plus/Traceprod/AYITI_hd/index.m3u8,"video,1280,720
 audio
 
@@ -4549,7 +4472,7 @@ audio",
 Afrique Media (720p),FAIL-1,playlist.m3u,https://cloud.odysee.live/content/fe06b3cdc9412e359368b2455b6ea5e93856e382/master.m3u8,,https://cloud.odysee.live/content/fe06b3cdc9412e359368b2455b6ea5e93856e382/master.m3u8: Server returned 403 Forbidden (access denied)
 Afrique54 TV (720p),FAIL-1,playlist.m3u,https://video1.getstreamhosting.com:1936/8318/8318/playlist.m3u8,,https://video1.getstreamhosting.com:1936/8318/8318/playlist.m3u8: Server returned 404 Not Found
 Afro Magic Channel,FAIL-1,playlist.m3u,https://video1.getstreamhosting.com:1936/8306/8306/playlist.m3u8,,https://video1.getstreamhosting.com:1936/8306/8306/playlist.m3u8: Server returned 404 Not Found
-Amani TV (1080p) [Not 24/7],FAIL-1,playlist.m3u,https://goccn.cloud/hls/amanitv/index.m3u8,,[tcp @ 0x5dbd2fbfa7c0] Connection to tcp://ww38.goccn.cloud:443 failed: Connection timed out https://goccn.cloud/hls/amanitv/index.m3u8: Connection timed out
+Amani TV (1080p) [Not 24/7],FAIL-1,playlist.m3u,https://goccn.cloud/hls/amanitv/index.m3u8,,[tcp @ 0x647ddfaa87c0] Connection to tcp://ww38.goccn.cloud:443 failed: Connection timed out https://goccn.cloud/hls/amanitv/index.m3u8: Connection timed out
 Baraka Television (720p) [Not 24/7],OK-2X,playlist.m3u,https://stream.berosat.live:19360/baraka-hd/baraka-hd.m3u8,"video,1280,720
 audio
 
@@ -4583,7 +4506,7 @@ audio
 
 video,1920,1080
 audio",
-Digital Congo TV,FAIL-1,playlist.m3u,http://51.254.199.122:8080/DigitalCongoTV/index.m3u8,,[tcp @ 0x5fea505b3780] Connection to tcp://51.254.199.122:8080 failed: Connection timed out http://51.254.199.122:8080/DigitalCongoTV/index.m3u8: Connection timed out
+Digital Congo TV,FAIL-1,playlist.m3u,http://51.254.199.122:8080/DigitalCongoTV/index.m3u8,,[tcp @ 0x5e88bd11d780] Connection to tcp://51.254.199.122:8080 failed: Connection timed out http://51.254.199.122:8080/DigitalCongoTV/index.m3u8: Connection timed out
 DRTV International,OK-2X,playlist.m3u,https://vps122407.serveur-vps.net/hls/drtv.m3u8,"video,1280,720
 audio
 
@@ -4607,7 +4530,7 @@ audio
 video,1280,720
 audio",
 Exploits TV,FAIL-1,playlist.m3u,https://stream.berosat.live/hls/exploits-tv/exploits-tv.m3u8,,https://stream.berosat.live/hls/exploits-tv/exploits-tv.m3u8: Server returned 404 Not Found
-Francophonie24 (1080p),FAIL-1,playlist.m3u,https://5421175365ea3.streamlock.net/live/smil:switch.smil/playlist.m3u8,,[tcp @ 0x64e2f8e0fa00] Connection to tcp://5421175365ea3.streamlock.net:443 failed: Connection timed out https://5421175365ea3.streamlock.net/live/smil:switch.smil/playlist.m3u8: Connection timed out
+Francophonie24 (1080p),FAIL-1,playlist.m3u,https://5421175365ea3.streamlock.net/live/smil:switch.smil/playlist.m3u8,,[tcp @ 0x6489e10f0a00] Connection to tcp://5421175365ea3.streamlock.net:443 failed: Connection timed out https://5421175365ea3.streamlock.net/live/smil:switch.smil/playlist.m3u8: Connection timed out
 GMS TV,OK-2X,playlist.m3u,https://acasmedia6.acangroup.org/gmstv/gmstv_output/playlist.m3u8,"data
 video,1920,1080
 audio
@@ -4630,13 +4553,13 @@ video,1920,1080
 audio",
 KassouaTV (720p),FAIL-1,playlist.m3u,https://playtv4k.live/live/kassouatv/index.m3u8,,https://playtv4k.live/live/kassouatv/index.m3u8: Server returned 404 Not Found
 Kemet TV,FAIL-1,playlist.m3u,https://kemettv.cm/memfs/4e7fb105-9f92-4e8d-a7cd-09923f17a577.m3u8,,https://kemettv.cm/memfs/4e7fb105-9f92-4e8d-a7cd-09923f17a577.m3u8: Server returned 404 Not Found
-Kin24,FAIL-1,playlist.m3u,http://51.254.199.122:8080/kin24/index.m3u8,,[tcp @ 0x5deaf7267780] Connection to tcp://51.254.199.122:8080 failed: Connection timed out http://51.254.199.122:8080/kin24/index.m3u8: Connection timed out
+Kin24,FAIL-1,playlist.m3u,http://51.254.199.122:8080/kin24/index.m3u8,,[tcp @ 0x55b7250bd780] Connection to tcp://51.254.199.122:8080 failed: Connection timed out http://51.254.199.122:8080/kin24/index.m3u8: Connection timed out
 Louga TV (480p),OK-2X,playlist.m3u,https://stream.sen-gt.com/Mbacke/myStream/playlist.m3u8,"data
-video,1280,720
+video,854,480
 audio
 
 data
-video,1280,720
+video,854,480
 audio",
 NTV Afrique (1080p) [Not 24/7],OK-2X,playlist.m3u,https://strhlslb01.streamakaci.tv/str_ntv_ntv/str_ntv_ntv_multi/playlist.m3u8,"video,1920,1080
 audio
@@ -4653,8 +4576,8 @@ video,1280,720
 audio
 video,640,360
 audio",
-ORTM 1 (540p) [Not 24/7],FAIL-1,playlist.m3u,http://69.64.57.208/ortm/playlist.m3u8,,[tcp @ 0x62c90a707640] Connection to tcp://69.64.57.208:80 failed: Connection timed out http://69.64.57.208/ortm/playlist.m3u8: Connection timed out
-Panafrican Media TV (480p),FAIL-1,playlist.m3u,https://live20.bozztv.com/giatv/giatv-pmtv/pmtv/playlist.m3u8,,[tcp @ 0x55cf226ba9c0] Connection to tcp://live20.bozztv.com:443 failed: Connection refused https://live20.bozztv.com/giatv/giatv-pmtv/pmtv/playlist.m3u8: Connection refused
+ORTM 1 (540p) [Not 24/7],FAIL-1,playlist.m3u,http://69.64.57.208/ortm/playlist.m3u8,,[tcp @ 0x5f9af2e71640] Connection to tcp://69.64.57.208:80 failed: Connection timed out http://69.64.57.208/ortm/playlist.m3u8: Connection timed out
+Panafrican Media TV (480p),FAIL-1,playlist.m3u,https://live20.bozztv.com/giatv/giatv-pmtv/pmtv/playlist.m3u8,,[tcp @ 0x55c0d2e599c0] Connection to tcp://live20.bozztv.com:443 failed: Connection refused https://live20.bozztv.com/giatv/giatv-pmtv/pmtv/playlist.m3u8: Connection refused
 RTB (360p) [Not 24/7],OK-2X,playlist.m3u,https://edge12.vedge.infomaniak.com/livecast/ik:rtblive1_8/manifest.m3u8,"data
 video,640,360
 audio
@@ -4663,7 +4586,7 @@ data
 video,640,360
 audio",
 RTI 1 (1080p),FAIL-1,playlist.m3u,https://video1.getstreamhosting.com:1936/8336/8336/playlist.m3u8,,https://video1.getstreamhosting.com:1936/8336/8336/playlist.m3u8: Server returned 404 Not Found
-RTNC 3,FAIL-1,playlist.m3u,http://51.254.199.122:8080/e-cableRTNC3/index.m3u8,,[tcp @ 0x603d39621780] Connection to tcp://51.254.199.122:8080 failed: Connection timed out http://51.254.199.122:8080/e-cableRTNC3/index.m3u8: Connection timed out
+RTNC 3,FAIL-1,playlist.m3u,http://51.254.199.122:8080/e-cableRTNC3/index.m3u8,,[tcp @ 0x6001ec523780] Connection to tcp://51.254.199.122:8080 failed: Connection timed out http://51.254.199.122:8080/e-cableRTNC3/index.m3u8: Connection timed out
 RTV Rwanda (480p) [Not 24/7],OK-2X,playlist.m3u,http://197.243.19.131:1935/rtv25/rtv/chunklist.m3u8,"data
 video,1920,1080
 audio
@@ -4671,18 +4594,18 @@ audio
 data
 video,1920,1080
 audio",
-Saraounia TV,FAIL-1,playlist.m3u,https://live20.bozztv.com/dvrfl06/astv/astv-saraouna/index.m3u8,,[tcp @ 0x574657a0d9c0] Connection to tcp://live20.bozztv.com:443 failed: Connection refused https://live20.bozztv.com/dvrfl06/astv/astv-saraouna/index.m3u8: Connection refused
+Saraounia TV,FAIL-1,playlist.m3u,https://live20.bozztv.com/dvrfl06/astv/astv-saraouna/index.m3u8,,[tcp @ 0x56aa87b819c0] Connection to tcp://live20.bozztv.com:443 failed: Connection refused https://live20.bozztv.com/dvrfl06/astv/astv-saraouna/index.m3u8: Connection refused
 Savane TV,OK-2X,playlist.m3u,https://savane24.tv:5443/LiveApp/streams/Y4fyif69Q0ll6MeH2190896734859843.m3u8,"video,1280,720
 audio
 
 video,1280,720
 audio",
-Seneweb TV [Geo-blocked],OK-2X,playlist.m3u,https://vdo2.pro-fhi.net:3297/stream/play.m3u8,"video,1280,720
+Seneweb TV [Geo-blocked],OK-2X,playlist.m3u,https://vdo2.pro-fhi.net:3297/stream/play.m3u8,"video,1280,676
 audio
 
-video,1280,720
+video,1280,676
 audio",
-Télé Congo (720p),FAIL-1,playlist.m3u,http://51.254.199.122:8080/telecongo/index.m3u8,,[tcp @ 0x561bb6a13780] Connection to tcp://51.254.199.122:8080 failed: Connection timed out http://51.254.199.122:8080/telecongo/index.m3u8: Connection timed out
+Télé Congo (720p),FAIL-1,playlist.m3u,http://51.254.199.122:8080/telecongo/index.m3u8,,[tcp @ 0x6345c6e4f780] Connection to tcp://51.254.199.122:8080 failed: Connection timed out http://51.254.199.122:8080/telecongo/index.m3u8: Connection timed out
 Tele Sahel (1080p),OK-2X,playlist.m3u,https://mediaserver1.castpin.com/hls/telesahel/index.m3u8,"audio
 video,1920,1080
 
@@ -4697,10 +4620,10 @@ audio
 video,854,480
 audio
 
-video,640,360
+video,0,0
 audio
 
-video,426,240
+video,0,0
 audio
 
 video,1920,1080
@@ -4709,9 +4632,9 @@ video,1280,720
 audio
 video,854,480
 audio
-video,640,360
+video,0,0
 audio
-video,426,240
+video,0,0
 audio",
 Trace Ivoire (1080p),OK-2X,playlist.m3u,https://channels.trace.plus/Traceprod/TRACE_IVOIRE_hd/index.m3u8,"video,1280,720
 audio
@@ -4796,28 +4719,29 @@ audio
 data",
 Avatar,OK-2X,playlist.m3u,https://jmp2.uk/plu-60b4c17a81e29300071d3a39.m3u8,"subtitle,N/A,N/A
 audio
+video,640,360
 audio
-video,1216,684
 
 subtitle,N/A,N/A
 audio
+video,854,480
 audio
-video,1216,684
 
 subtitle,N/A,N/A
 audio
+video,854,480
 audio
-video,1216,684
 
 subtitle,N/A,N/A
 audio
+video,1280,720
 audio
-video,1216,684
 
 subtitle,N/A,N/A
 audio
+video,426,240
 audio
-video,1024,",
+",
 Barbie & Friends,OK-2X,playlist.m3u,https://jmp2.uk/plu-686e7499e0ecf0e0cc25dbe3.m3u8,"subtitle,N/A,N/A
 audio
 audio
@@ -5015,7 +4939,12 @@ video,426,240",
 DAZN Ringside,OK-2X,playlist.m3u,https://jmp2.uk/plu-64d626ac9b414d000820e2fc.m3u8,"subtitle,N/A,N/A
 audio
 audio
-video,1216,684
+video,640,360
+
+subtitle,N/A,N/A
+audio
+audio
+video,1024,576
 
 subtitle,N/A,N/A
 audio
@@ -5030,12 +4959,7 @@ video,1216,684
 subtitle,N/A,N/A
 audio
 audio
-video,1216,684
-
-subtitle,N/A,N/A
-audio
-audio
-video,854,4",
+video,426,24",
 Degrassi,OK-2X,playlist.m3u,https://jmp2.uk/plu-611e71322f5f180007001dde.m3u8,"subtitle,N/A,N/A
 audio
 video,640,360
@@ -5064,6 +4988,30 @@ audio
 Detective Conan France (720p),OK-2X,playlist.m3u,https://jmp2.uk/plu-62f3e8ad2a8e8000077b013d.m3u8,"subtitle,N/A,N/A
 audio
 audio
+video,640,360
+
+subtitle,N/A,N/A
+audio
+audio
+video,854,480
+
+subtitle,N/A,N/A
+audio
+audio
+video,1024,576
+
+subtitle,N/A,N/A
+audio
+audio
+video,1216,684
+
+subtitle,N/A,N/A
+audio
+audio
+video,426,240",
+Digimon Adventure,OK-2X,playlist.m3u,https://jmp2.uk/plu-617bae1d69bca3000729561e.m3u8,"subtitle,N/A,N/A
+audio
+audio
 video,1216,684
 
 subtitle,N/A,N/A
@@ -5085,31 +5033,6 @@ subtitle,N/A,N/A
 audio
 audio
 video,1024,",
-Digimon Adventure,OK-2X,playlist.m3u,https://jmp2.uk/plu-617bae1d69bca3000729561e.m3u8,"subtitle,N/A,N/A
-audio
-video,640,360
-audio
-
-subtitle,N/A,N/A
-audio
-video,854,480
-audio
-
-subtitle,N/A,N/A
-audio
-video,854,480
-audio
-
-subtitle,N/A,N/A
-audio
-video,1280,720
-audio
-
-subtitle,N/A,N/A
-audio
-video,426,240
-audio
-",
 Doraemon,OK-2X,playlist.m3u,https://jmp2.uk/plu-68b17414c23bb80b3c1d5bb5.m3u8,"subtitle,N/A,N/A
 audio
 audio
@@ -5160,28 +5083,27 @@ audio
 video,426,240",
 Echappées Belles & Co,OK-2X,playlist.m3u,https://jmp2.uk/plu-63b578b524f0cf00072f2a52.m3u8,"subtitle,N/A,N/A
 audio
-audio
-video,1024,576
+video,640,360
 
 subtitle,N/A,N/A
 audio
-audio
-video,1216,684
+video,854,480
 
 subtitle,N/A,N/A
 audio
-audio
-video,1216,684
+video,854,480
 
 subtitle,N/A,N/A
 audio
-audio
-video,1216,684
+video,1280,720
 
 subtitle,N/A,N/A
 audio
+video,426,240
+
+subtitle,N/A,N/A
 audio
-video,640,3",
+video,",
 Faites entrer l'accusé,OK-2X,playlist.m3u,https://jmp2.uk/stvp-FR1400002XF,"video,640,360
 audio
 data
@@ -5286,29 +5208,28 @@ audio
 video,1920,1080",
 iCarly TV,OK-2X,playlist.m3u,https://jmp2.uk/plu-5f8ecc7aa44d9c00081fca29.m3u8,"subtitle,N/A,N/A
 audio
+audio
 video,640,360
-audio
 
 subtitle,N/A,N/A
+audio
 audio
 video,854,480
-audio
 
 subtitle,N/A,N/A
 audio
-video,854,480
 audio
+video,1024,576
 
 subtitle,N/A,N/A
 audio
-video,1280,720
 audio
+video,1216,684
 
 subtitle,N/A,N/A
 audio
-video,426,240
 audio
-",
+video,426,240",
 INA 70,OK-2X,playlist.m3u,https://jmp2.uk/plu-639b54404cfdf7000729b3c1.m3u8,"subtitle,N/A,N/A
 audio
 video,640,360
@@ -5334,27 +5255,28 @@ audio
 video,",
 Incroyables Transformations,OK-2X,playlist.m3u,https://jmp2.uk/plu-66f55d205e4a6e0008c2b92b.m3u8,"subtitle,N/A,N/A
 audio
-video,640,360
+audio
+video,1216,684
 
 subtitle,N/A,N/A
 audio
-video,854,480
+audio
+video,1216,684
 
 subtitle,N/A,N/A
 audio
-video,854,480
+audio
+video,1216,684
 
 subtitle,N/A,N/A
 audio
-video,1280,720
+audio
+video,1216,684
 
 subtitle,N/A,N/A
 audio
-video,426,240
-
-subtitle,N/A,N/A
 audio
-video,",
+video,1024,",
 Instant Saga,OK-2X,playlist.m3u,https://jmp2.uk/plu-60549e98061b5f000776866a.m3u8,"subtitle,N/A,N/A
 audio
 video,640,360
@@ -5479,7 +5401,17 @@ audio
 Les Anges,OK-2X,playlist.m3u,https://jmp2.uk/plu-66b228d4cd0d3100085d27b7.m3u8,"subtitle,N/A,N/A
 audio
 audio
-video,1216,684
+video,640,360
+
+subtitle,N/A,N/A
+audio
+audio
+video,854,480
+
+subtitle,N/A,N/A
+audio
+audio
+video,1024,576
 
 subtitle,N/A,N/A
 audio
@@ -5489,17 +5421,7 @@ video,1216,684
 subtitle,N/A,N/A
 audio
 audio
-video,1216,684
-
-subtitle,N/A,N/A
-audio
-audio
-video,1216,684
-
-subtitle,N/A,N/A
-audio
-audio
-video,1024,",
+video,426,240",
 Les Années fac,OK-2X,playlist.m3u,https://jmp2.uk/plu-60afae68a7fc50000737186d.m3u8,"subtitle,N/A,N/A
 audio
 video,640,360
@@ -5632,7 +5554,17 @@ video,1024,",
 Les Schtroumpfs,OK-2X,playlist.m3u,https://jmp2.uk/plu-68b16d2282862c1f067dc763.m3u8,"subtitle,N/A,N/A
 audio
 audio
-video,1216,684
+video,640,360
+
+subtitle,N/A,N/A
+audio
+audio
+video,854,480
+
+subtitle,N/A,N/A
+audio
+audio
+video,1024,576
 
 subtitle,N/A,N/A
 audio
@@ -5642,64 +5574,55 @@ video,1216,684
 subtitle,N/A,N/A
 audio
 audio
-video,1216,684
-
-subtitle,N/A,N/A
-audio
-audio
-video,1216,684
-
-subtitle,N/A,N/A
-audio
-audio
-video,1024,",
+video,426,240",
 Les vacances de l'amour,OK-2X,playlist.m3u,https://jmp2.uk/plu-691b33ae8a64bd1811e923f2.m3u8,"subtitle,N/A,N/A
 audio
-audio
-video,1216,684
-
-subtitle,N/A,N/A
-audio
-audio
-video,1216,684
-
-subtitle,N/A,N/A
-audio
-audio
-video,1216,684
-
-subtitle,N/A,N/A
-audio
-audio
-video,1216,684
-
-subtitle,N/A,N/A
-audio
-audio
-video,1024,",
-Les Z'amours,OK-2X,playlist.m3u,https://jmp2.uk/plu-652d0b756208700008d758ad.m3u8,"subtitle,N/A,N/A
 audio
 video,640,360
 
 subtitle,N/A,N/A
 audio
-video,854,480
-
-subtitle,N/A,N/A
 audio
 video,854,480
 
 subtitle,N/A,N/A
 audio
-video,1280,720
+audio
+video,1024,576
 
 subtitle,N/A,N/A
 audio
-video,426,240
+audio
+video,1216,684
 
 subtitle,N/A,N/A
 audio
-video,",
+audio
+video,426,240",
+Les Z'amours,OK-2X,playlist.m3u,https://jmp2.uk/plu-652d0b756208700008d758ad.m3u8,"subtitle,N/A,N/A
+audio
+audio
+video,1216,684
+
+subtitle,N/A,N/A
+audio
+audio
+video,1216,684
+
+subtitle,N/A,N/A
+audio
+audio
+video,1216,684
+
+subtitle,N/A,N/A
+audio
+audio
+video,1216,684
+
+subtitle,N/A,N/A
+audio
+audio
+video,1024,",
 Louis La Brocante,OK-2X,playlist.m3u,https://jmp2.uk/plu-5f8ed6d569d2d4000864a976.m3u8,"subtitle,N/A,N/A
 audio
 audio
@@ -5800,7 +5723,17 @@ video,426,240",
 Nina,OK-2X,playlist.m3u,https://jmp2.uk/plu-692ec6d82329c10c5166f436.m3u8,"subtitle,N/A,N/A
 audio
 audio
-video,1216,684
+video,640,360
+
+subtitle,N/A,N/A
+audio
+audio
+video,854,480
+
+subtitle,N/A,N/A
+audio
+audio
+video,1024,576
 
 subtitle,N/A,N/A
 audio
@@ -5810,17 +5743,7 @@ video,1216,684
 subtitle,N/A,N/A
 audio
 audio
-video,1216,684
-
-subtitle,N/A,N/A
-audio
-audio
-video,1216,684
-
-subtitle,N/A,N/A
-audio
-audio
-video,854,4",
+video,426,240",
 Olive & Tom,OK-2X,playlist.m3u,https://jmp2.uk/plu-662a63275a402e00086bc8a5.m3u8,"subtitle,N/A,N/A
 audio
 audio
@@ -5872,17 +5795,7 @@ video,426,240",
 Pêche à haut risque,OK-2X,playlist.m3u,https://jmp2.uk/plu-678f894ef5c74bff95c20a7f.m3u8,"subtitle,N/A,N/A
 audio
 audio
-video,640,360
-
-subtitle,N/A,N/A
-audio
-audio
-video,854,480
-
-subtitle,N/A,N/A
-audio
-audio
-video,1024,576
+video,1216,684
 
 subtitle,N/A,N/A
 audio
@@ -5892,7 +5805,17 @@ video,1216,684
 subtitle,N/A,N/A
 audio
 audio
-video,426,240",
+video,1216,684
+
+subtitle,N/A,N/A
+audio
+audio
+video,1216,684
+
+subtitle,N/A,N/A
+audio
+audio
+video,1024,",
 PJ,OK-2X,playlist.m3u,https://jmp2.uk/plu-692ec71425eaa17b6daf2a11.m3u8,"subtitle,N/A,N/A
 audio
 audio
@@ -5943,29 +5866,28 @@ audio
 video,426,240",
 Pluto TV 90's Classics,OK-2X,playlist.m3u,https://jmp2.uk/plu-66b4990746762a00084c2f78.m3u8,"subtitle,N/A,N/A
 audio
+audio
 video,640,360
-audio
 
 subtitle,N/A,N/A
+audio
 audio
 video,854,480
-audio
 
 subtitle,N/A,N/A
 audio
-video,854,480
 audio
+video,1024,576
 
 subtitle,N/A,N/A
 audio
-video,1280,720
 audio
+video,1216,684
 
 subtitle,N/A,N/A
 audio
-video,426,240
 audio
-",
+video,426,240",
 Pluto TV Anime Retro,OK-2X,playlist.m3u,https://jmp2.uk/plu-69aadcdb6c0414a7ecb56ede.m3u8,"subtitle,N/A,N/A
 audio
 audio
@@ -6015,33 +5937,42 @@ audio
 video,",
 Pluto TV French Collection,OK-2X,playlist.m3u,https://jmp2.uk/plu-62f3e0522443200008c567d7.m3u8,"subtitle,N/A,N/A
 audio
+audio
 video,640,360
-audio
 
 subtitle,N/A,N/A
+audio
 audio
 video,854,480
-audio
 
 subtitle,N/A,N/A
 audio
-video,854,480
 audio
+video,1024,576
 
 subtitle,N/A,N/A
 audio
-video,1280,720
 audio
+video,1216,684
 
 subtitle,N/A,N/A
 audio
-video,426,240
 audio
-",
+video,426,240",
 Pluto TV Girls Club,OK-2X,playlist.m3u,https://jmp2.uk/plu-69c2ad7500a8d7d87767d25f.m3u8,"subtitle,N/A,N/A
 audio
 audio
-video,1216,684
+video,640,360
+
+subtitle,N/A,N/A
+audio
+audio
+video,854,480
+
+subtitle,N/A,N/A
+audio
+audio
+video,1024,576
 
 subtitle,N/A,N/A
 audio
@@ -6051,17 +5982,7 @@ video,1216,684
 subtitle,N/A,N/A
 audio
 audio
-video,1216,684
-
-subtitle,N/A,N/A
-audio
-audio
-video,1216,684
-
-subtitle,N/A,N/A
-audio
-audio
-video,854,4",
+video,426,240",
 Pluto TV Inside,OK-2X,playlist.m3u,https://jmp2.uk/plu-5f8ed3892ed7bb000741a1d2.m3u8,"subtitle,N/A,N/A
 audio
 video,640,360
@@ -6132,30 +6053,28 @@ audio
 video,1216,684",
 Pluto TV Retro Toons,OK-2X,playlist.m3u,https://jmp2.uk/plu-611e6a9b4bb5790007a6f0f8.m3u8,"subtitle,N/A,N/A
 audio
+audio
 video,640,360
-data
 
 subtitle,N/A,N/A
+audio
 audio
 video,854,480
-data
 
 subtitle,N/A,N/A
+audio
 audio
 video,1024,576
-data
 
 subtitle,N/A,N/A
 audio
-video,1280,720
-data
+audio
+video,1216,684
 
 subtitle,N/A,N/A
 audio
-video,426,240
-data
-
-sub",
+audio
+video,426,240",
 Pluto TV Snooker 900 (720p),OK-2X,playlist.m3u,https://jmp2.uk/plu-68ac5543a1ac0c90f2c8943e.m3u8,"subtitle,N/A,N/A
 audio
 video,640,360
@@ -6229,7 +6148,17 @@ video,",
 Pluto TV Téléréalité France,OK-2X,playlist.m3u,https://jmp2.uk/plu-699865ccac36b147e74619fe.m3u8,"subtitle,N/A,N/A
 audio
 audio
-video,1216,684
+video,640,360
+
+subtitle,N/A,N/A
+audio
+audio
+video,854,480
+
+subtitle,N/A,N/A
+audio
+audio
+video,1024,576
 
 subtitle,N/A,N/A
 audio
@@ -6239,17 +6168,7 @@ video,1216,684
 subtitle,N/A,N/A
 audio
 audio
-video,1216,684
-
-subtitle,N/A,N/A
-audio
-audio
-video,1216,684
-
-subtitle,N/A,N/A
-audio
-audio
-video,1024,",
+video,426,240",
 Pluto TV Toons,OK-2X,playlist.m3u,https://jmp2.uk/stvp-FRAJ38000035M,"subtitle,N/A,N/A
 audio
 video,854,480
@@ -6271,28 +6190,27 @@ audio
 video,1280,720",
 Qui veut gagner des millions?,OK-2X,playlist.m3u,https://jmp2.uk/plu-652d0b9ceb72580008a4ea5b.m3u8,"subtitle,N/A,N/A
 audio
-audio
-video,1216,684
+video,640,360
 
 subtitle,N/A,N/A
 audio
-audio
-video,1216,684
+video,854,480
 
 subtitle,N/A,N/A
 audio
-audio
-video,1216,684
+video,854,480
 
 subtitle,N/A,N/A
 audio
-audio
-video,1216,684
+video,1280,720
 
 subtitle,N/A,N/A
 audio
+video,426,240
+
+subtitle,N/A,N/A
 audio
-video,1024,",
+video,",
 Ridiculousness (720p),OK-2X,playlist.m3u,https://jmp2.uk/plu-5f8eb8a8b2619a000710605c.m3u8,"subtitle,N/A,N/A
 audio
 video,640,360
@@ -6447,28 +6365,29 @@ audio
 video,426,240",
 Tortues Ninja TV (720p),OK-2X,playlist.m3u,https://jmp2.uk/plu-5f8ecc1b37867f00071469e9.m3u8,"subtitle,N/A,N/A
 audio
-audio
 video,640,360
+audio
 
 subtitle,N/A,N/A
-audio
 audio
 video,854,480
+audio
 
 subtitle,N/A,N/A
 audio
+video,854,480
 audio
-video,1024,576
 
 subtitle,N/A,N/A
 audio
+video,1280,720
 audio
-video,1216,684
 
 subtitle,N/A,N/A
 audio
+video,426,240
 audio
-video,426,240",
+",
 Tout le monde déteste Chris,OK-2X,playlist.m3u,https://jmp2.uk/plu-67b4b4a21a5ca760802d25fd.m3u8,"subtitle,N/A,N/A
 audio
 audio
@@ -6519,7 +6438,17 @@ video,",
 "une fille"" tvg-logo=""https://images.pluto.tv/channels/62f3ece7b09fd6000783bfb9/colorLogoPNG.png"" group-title=""31 - PLUTO TV FR"",Un gars une fille",OK-2X,playlist.m3u,https://jmp2.uk/plu-62f3ece7b09fd6000783bfb9.m3u8,"subtitle,N/A,N/A
 audio
 audio
-video,1216,684
+video,640,360
+
+subtitle,N/A,N/A
+audio
+audio
+video,854,480
+
+subtitle,N/A,N/A
+audio
+audio
+video,1024,576
 
 subtitle,N/A,N/A
 audio
@@ -6529,17 +6458,7 @@ video,1216,684
 subtitle,N/A,N/A
 audio
 audio
-video,1216,684
-
-subtitle,N/A,N/A
-audio
-audio
-video,1216,684
-
-subtitle,N/A,N/A
-audio
-audio
-video,1024,",
+video,426,240",
 "vendu !"" tvg-logo=""https://images.pluto.tv/channels/64bab8ba5dc1660008969b5a/colorLogoPNG.png"" group-title=""31 - PLUTO TV FR"",Adjugé vendu !",OK-2X,playlist.m3u,https://jmp2.uk/plu-64bab8ba5dc1660008969b5a.m3u8,"subtitle,N/A,N/A
 audio
 audio
@@ -6592,7 +6511,17 @@ video,426,240",
 WPT,OK-2X,playlist.m3u,https://jmp2.uk/plu-5f8ecfb9db6c180007a6d1b0.m3u8,"subtitle,N/A,N/A
 audio
 audio
-video,1216,684
+video,640,360
+
+subtitle,N/A,N/A
+audio
+audio
+video,854,480
+
+subtitle,N/A,N/A
+audio
+audio
+video,1024,576
 
 subtitle,N/A,N/A
 audio
@@ -6602,17 +6531,7 @@ video,1216,684
 subtitle,N/A,N/A
 audio
 audio
-video,1216,684
-
-subtitle,N/A,N/A
-audio
-audio
-video,1216,684
-
-subtitle,N/A,N/A
-audio
-audio
-video,1024,",
+video,426,240",
 Y'a que la vérité qui compte,OK-2X,playlist.m3u,https://jmp2.uk/plu-612e044c970e6f00083bcf3b.m3u8,"subtitle,N/A,N/A
 audio
 video,640,360
@@ -6661,7 +6580,7 @@ video,426,240
 subtitle,N/A,N/A
 audio
 video,",
-100% Kidz,FAIL-1,playlist.m3u,https://jmp2.uk/stvp-FR3400004L5,,[hls @ 0x63bb79ef52c0] URL https://amg02162-amg02162c4-samsung-fr-10083.playouts.now.amagi.tv/ts-eu-w1-n2/beacon/amg02162-newenconnect-kidschannel-samsungfr/cb573d1d7f6c648d92d43b60cef44782c67b3dcb0e6c886470af4a9765d94c0
+100% Kidz,FAIL-1,playlist.m3u,https://jmp2.uk/stvp-FR3400004L5,,[hls @ 0x56b4db41c2c0] URL https://amg02162-amg02162c4-samsung-fr-10083.playouts.now.amagi.tv/ts-eu-w1-n2/beacon/amg02162-newenconnect-kidschannel-samsungfr/cb57381e6573648784c93778d1f14182c67b3dcb0e6c886470af4a9765d94c0
 750g,OK-2X,playlist.m3u,https://jmp2.uk/stvp-FRBD4100002R7,"video,1280,720
 audio
 data
@@ -6905,12 +6824,7 @@ video,38",
 Dhar Mann TV,FAIL-1,playlist.m3u,https://jmp2.uk/stvp-FR3800005NP,,timeout
 Dragon TV,OK-2X,playlist.m3u,https://jmp2.uk/stvp-FR130000539,"subtitle,N/A,N/A
 subtitle,N/A,N/A
-video,0,0
-audio
-
-subtitle,N/A,N/A
-subtitle,N/A,N/A
-video,0,0
+video,448,252
 audio
 
 subtitle,N/A,N/A
@@ -6920,10 +6834,14 @@ audio
 
 subtitle,N/A,N/A
 subtitle,N/A,N/A
-video,0,0
+video,768,432
 audio
 
-subtitle,N/A",
+subtitle,N/A,N/A
+subtitle,N/A,N/A
+video,1280,720
+audio
+",
 Drames - Rakuten TV,OK-2X,playlist.m3u,https://jmp2.uk/stvp-FR2600005LH,"subtitle,N/A,N/A
 subtitle,N/A,N/A
 video,448,252
@@ -6999,7 +6917,7 @@ subtitle,N/A,N/A
 video,1280,720
 audio
 ",
-Familles en Scène,FAIL-1,playlist.m3u,https://jmp2.uk/stvp-FR3600002W2,,[hls @ 0x587d16b362c0] URL https://amg02393-awpg-amg02393c8-samsung-fr-5136.playouts.now.amagi.tv/ts-eu-w1-n2/beacon/amg02393-awpg-famillesenscene-samsungfr/cb573d1d7f6c648d92d43b60cef44782c67b3dcb0e6c886470af4a9765d94c0
+Familles en Scène,FAIL-1,playlist.m3u,https://jmp2.uk/stvp-FR3600002W2,,[hls @ 0x6052ce9022c0] URL https://amg02393-awpg-amg02393c8-samsung-fr-5136.playouts.now.amagi.tv/ts-eu-w1-n2/beacon/amg02393-awpg-famillesenscene-samsungfr/cb57381e6573648784c93778d1f14182c67b3dcb0e6c886470af4a9765d94c0
 Fireplace Vibes,OK-2X,playlist.m3u,https://jmp2.uk/stvp-FR2200002HV,"subtitle,N/A,N/A
 video,1280,720
 audio
@@ -7025,24 +6943,24 @@ video,1280,720
 audio
 dat",
 iCarly,OK-2X,playlist.m3u,https://jmp2.uk/stvp-FRAJ38000061J,"subtitle,N/A,N/A
-video,854,480
 audio
+video,854,480
 
 subtitle,N/A,N/A
-video,854,480
 audio
+video,1024,576
 
 subtitle,N/A,N/A
-video,1280,720
 audio
+video,1216,684
 
 subtitle,N/A,N/A
-video,854,480
 audio
 video,854,480
 audio
-video,1280,720
-audio",
+video,1024,576
+audio
+video,1216,684",
 Incroyables Fortunes,OK-2X,playlist.m3u,https://jmp2.uk/stvp-FR600001I2,"video,1280,720
 audio
 data
@@ -7148,7 +7066,7 @@ video,960,540
 audio
 video,1280,720
 audio",
-L'effet papillon,FAIL-1,playlist.m3u,https://jmp2.uk/stvp-FRBD11000038N,,[hls @ 0x5c7c6cd802c0] URL https://amg02162-newenconnect-amg02162c1-samsung-fr-579.playouts.now.amagi.tv/ts-us-w2-n2/beacon/amg02162-newenconnect-leffetpapillon-samsungfr/cb573d1d7f6c648d92d43b60cef44782c67b3dcb0e6c88647
+L'effet papillon,FAIL-1,playlist.m3u,https://jmp2.uk/stvp-FRBD11000038N,,[hls @ 0x55c7a368d2c0] URL https://amg02162-newenconnect-amg02162c1-samsung-fr-579.playouts.now.amagi.tv/ts-us-w2-n2/beacon/amg02162-newenconnect-leffetpapillon-samsungfr/cb57381e6573648784c93778d1f14182c67b3dcb0e6c88647
 L'Equipe,OK-2X,playlist.m3u,https://jmp2.uk/stvp-FR200016Y5,"video,1920,1080
 audio
 data
@@ -7202,8 +7120,8 @@ video,1280,720
 audio
 video,1920,1080
 audio",
-Le meilleur d'Arthur,FAIL-1,playlist.m3u,https://jmp2.uk/stvp-FRBD1900006NA,,[hls @ 0x5702edeb82c0] URL https://amg02393-awpg-amg02393c2-samsung-fr-581.playouts.now.amagi.tv/ts-us-w2-n2/beacon/amg02393-awpg-lemeilleurdarthur-samsungfr/cb573d1d7f6c648d92d43b60cef44782c67b3dcb0e6c886470af4a9765d94c
-Le Meilleur de la TV Réalité,FAIL-1,playlist.m3u,https://jmp2.uk/stvp-FRBD3900005MB,,[hls @ 0x5cf62d1a92c0] URL https://amg02393-awpg-amg02393c4-samsung-fr-1103.playouts.now.amagi.tv/ts-us-e2-n2/beacon/amg02393-awpg-lemeilleurdelatvrealite-samsungfr/cb573d1d7f6c648d92d43b60cef44782c67b3dcb0e6c886470af4a9
+Le meilleur d'Arthur,FAIL-1,playlist.m3u,https://jmp2.uk/stvp-FRBD1900006NA,,[hls @ 0x5640f3f192c0] URL https://amg02393-awpg-amg02393c2-samsung-fr-581.playouts.now.amagi.tv/ts-us-w2-n2/beacon/amg02393-awpg-lemeilleurdarthur-samsungfr/cb57381e6573648784c93778d1f14182c67b3dcb0e6c886470af4a9765d94c
+Le Meilleur de la TV Réalité,FAIL-1,playlist.m3u,https://jmp2.uk/stvp-FRBD3900005MB,,[hls @ 0x5d080e89a2c0] URL https://amg02393-awpg-amg02393c4-samsung-fr-1103.playouts.now.amagi.tv/ts-us-e2-n2/beacon/amg02393-awpg-lemeilleurdelatvrealite-samsungfr/cb57381e6573648784c93778d1f14182c67b3dcb0e6c886470af4a9
 Les Lapins Crétins,OK-2X,playlist.m3u,https://jmp2.uk/stvp-FRBD2300002CM,"video,640,360
 audio
 data
@@ -7247,7 +7165,7 @@ video,960,540
 audio
 video,1280,720
 audio",
-Les Télétubbies,FAIL-1,playlist.m3u,https://jmp2.uk/stvp-FR1600002TT,,[hls @ 0x5952e18782c0] URL https://hls-beacons-eu.xumo.com/hlsstream/v1/beacon?url=https%3A%2F%2Flive-content.cdn.xumo.com%2F3900%2Fcontent%2FXM05JQS99FCJM7%2F29081020%2F0_216.ts&aid=XM05JQS99FCJM7&eventType=ASSET&cid=88
+Les Télétubbies,FAIL-1,playlist.m3u,https://jmp2.uk/stvp-FR1600002TT,,[hls @ 0x64f8ba59b2c0] URL https://hls-beacons-eu.xumo.com/hlsstream/v1/beacon?url=https%3A%2F%2Flive-content.cdn.xumo.com%2F3900%2Fcontent%2FXM0T37MIV0VKT3%2F29080768%2F0_066.ts&aid=XM0T37MIV0VKT3&eventType=ASSET&cid=88
 Masha et Michka,OK-2X,playlist.m3u,https://jmp2.uk/stvp-FR2200004HP,"video,640,360
 audio
 data
@@ -7276,7 +7194,7 @@ data
 video,1920,1080
 audio
 data",
-Motus,FAIL-1,playlist.m3u,https://jmp2.uk/stvp-FRBB490000412,,[hls @ 0x5c0da677f2c0] URL https://amg01796-fastmediabackbo-motuslachaine-samsungfr-qv7y4.amagi.tv/ts-eu-w1-n2/beacon/amg01796-fastmediabackbo-motuslachaine-samsungfr/cb573d1d7f6c648d92d43b60cef44782c67b3dcb0e6c886470af4
+Motus,FAIL-1,playlist.m3u,https://jmp2.uk/stvp-FRBB490000412,,[hls @ 0x60ad42b4d2c0] URL https://amg01796-fastmediabackbo-motuslachaine-samsungfr-qv7y4.amagi.tv/ts-eu-w1-n2/beacon/amg01796-fastmediabackbo-motuslachaine-samsungfr/cb57381e6573648784c93778d1f14182c67b3dcb0e6c886470af4
 Mr Bean Animated,FAIL-1,playlist.m3u,https://jmp2.uk/stvp-FR90000160,"subtitle,N/A,N/A
 
 subtitle,N/A,N/A
@@ -7285,7 +7203,7 @@ subtitle,N/A,N/A
 
 subtitle,N/A,N/A
 
-subtitle,N/A,N/A",[hls @ 0x581b3835e2c0] URL https://amg00627-amg00627c26-samsung-fr-3934.playouts.now.amagi.tv/ts-eu-w1-n2/beacon/amg00627-banijayfast-mrbeanfr-samsungfr/cb573d1d7f6c648d92d43b60cef44782c67b3dcb0e6c886470af4a9765d94c06d8f
+subtitle,N/A,N/A",[hls @ 0x61a58a8552c0] URL https://amg00627-amg00627c26-samsung-fr-3934.playouts.now.amagi.tv/ts-eu-w1-n2/beacon/amg00627-banijayfast-mrbeanfr-samsungfr/cb57381e6573648784c93778d1f14182c67b3dcb0e6c886470af4a9765d94c06d8f
 NEW KPOP,OK-2X,playlist.m3u,https://jmp2.uk/stvp-FR1700002OZ,"video,1920,1080
 audio
 
@@ -7411,7 +7329,7 @@ subtitle,N/A,N/A
 
 subtitle,N/A,N/A
 
-subtitle,N/A,N/A",[hls @ 0x5830f65992c0] URL https://amg26630-amg26630c1-amgplt0011.playout.now3.amagi.tv/ts-eu-w1-n2/beacon/amg26630-amg26630c1-amgplt0011/cb573d1d7f6c648d92d43b60cef44782c67b3dcb0e6c886470af4a9765d94c06d8fca087b419b33d57
+subtitle,N/A,N/A",[hls @ 0x63d86efc02c0] URL https://amg26630-amg26630c1-amgplt0011.playout.now3.amagi.tv/ts-eu-w1-n2/beacon/amg26630-amg26630c1-amgplt0011/cb57381e6573648784c93778d1f14182c67b3dcb0e6c886470af4a9765d94c06d8fca087b419b33d57
 Rainy Day Vibes,OK-2X,playlist.m3u,https://jmp2.uk/stvp-FR1800007VM,"subtitle,N/A,N/A
 video,1920,1080
 audio
@@ -7559,7 +7477,7 @@ video,960,540
 audio
 video,640,360
 audio",
-Rolling Stones Takeover,FAIL-1,playlist.m3u,https://jmp2.uk/stvp-FR7000053L,,[hls @ 0x627004ddf2c0] URL https://amg30785-amg30785c1-amgplt0011.playout.now3.amagi.tv/ts-eu-w1-n2/beacon/amg30785-amg30785c1-amgplt0011/0ba62346-de23-11f1-949f-9651a8ac7c82/426x240_350000?bcn=1&ca=0&cid=e3592360-9fc0-4
+Rolling Stones Takeover,FAIL-1,playlist.m3u,https://jmp2.uk/stvp-FR7000053L,,[hls @ 0x638cac7072c0] URL https://amg30785-amg30785c1-amgplt0011.playout.now3.amagi.tv/ts-eu-w1-n2/beacon/amg30785-amg30785c1-amgplt0011/91d323a3-de99-11f1-a5c6-c29b758bb139/426x240_350000?bcn=1&ca=0&cid=5d27101d-35c3-4
 Rookie Blue,FAIL-1,playlist.m3u,https://jmp2.uk/stvp-FR2100001VM,,https://jmp2.uk/stvp-FR2100001VM: Server returned 403 Forbidden (access denied)
 Sci-Fi - Rakuten TV,OK-2X,playlist.m3u,https://jmp2.uk/stvp-FR4100001D0,"subtitle,N/A,N/A
 subtitle,N/A,N/A
@@ -7590,8 +7508,6 @@ audio
 video,1024,576
 audio
 
-video,854,480
-audio
 
 video,640,360
 audio
@@ -7601,8 +7517,6 @@ audio
 video,1280,720
 audio
 video,1024,576
-audio
-video,854,480
 audio
 video,640,360
 audio",
@@ -7629,30 +7543,30 @@ audio
 Show ! Variété,OK-2X,playlist.m3u,https://jmp2.uk/stvp-FR3100003KZ,"video,1920,1080
 audio
 
-video,0,0
+video,1280,720
 audio
 
-video,0,0
+video,1024,576
 audio
 
-video,0,0
+video,854,480
 audio
 
-video,0,0
+video,640,360
 audio
 
 video,1920,1080
 audio
-video,0,0
+video,1280,720
 audio
-video,0,0
+video,1024,576
 audio
-video,0,0
+video,854,480
 audio
-video,0,0
+video,640,360
 audio",
-Skyrock,FAIL-1,playlist.m3u,https://jmp2.uk/stvp-FR4000005KE,,[hls @ 0x5a34944a02c0] URL https://amg01796-amg01796c37-amgplt0011.playout.now3.amagi.tv/ts-eu-w1-n2/beacon/amg01796-amg01796c37-amgplt0011/cb573d1d7f6c648d92d43b60cef44782c67b3dcb0e6c886470af4a9765d94c06d8fca087b419b33d
-SMTOWN,FAIL-1,playlist.m3u,https://jmp2.uk/stvp-FR1000001XP,,"[hls @ 0x5f6e55dba2c0] Filename extension of 'data:text/plain;base64,AAAAV3Bzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAADcSEKr2mf0HIktCk8mnimz74bEaC2J1eWRybWtleW9zIhCq9pn9ByJLQpPJp4ps++GxSOPclZsG' is not a common multimedia extens"
+Skyrock,FAIL-1,playlist.m3u,https://jmp2.uk/stvp-FR4000005KE,,[hls @ 0x62a4311462c0] URL https://amg01796-amg01796c37-amgplt0011.playout.now3.amagi.tv/ts-eu-w1-n2/beacon/amg01796-amg01796c37-amgplt0011/cb57381e6573648784c93778d1f14182c67b3dcb0e6c886470af4a9765d94c06d8fca087b419b33d
+SMTOWN,FAIL-1,playlist.m3u,https://jmp2.uk/stvp-FR1000001XP,,"[hls @ 0x56dde0e092c0] Filename extension of 'data:text/plain;base64,AAAAV3Bzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAADcSEKr2mf0HIktCk8mnimz74bEaC2J1eWRybWtleW9zIhCq9pn9ByJLQpPJp4ps++GxSOPclZsG' is not a common multimedia extens"
 Spring Vibes,OK-2X,playlist.m3u,https://jmp2.uk/stvp-FR1800010TC,"subtitle,N/A,N/A
 video,1920,1080
 audio
@@ -7801,25 +7715,25 @@ audio
 video,",
 Top Barça,FAIL-1,playlist.m3u,https://jmp2.uk/stvp-FR110000354,,https://jmp2.uk/stvp-FR110000354: Server returned 403 Forbidden (access denied)
 Tortues Ninja,OK-2X,playlist.m3u,https://jmp2.uk/stvp-FRBA3300046W4,"subtitle,N/A,N/A
-audio
-video,854,480
-
-subtitle,N/A,N/A
-audio
-video,1024,576
-
-subtitle,N/A,N/A
-audio
-video,1216,684
-
-subtitle,N/A,N/A
-audio
 video,854,480
 audio
-video,1024,576
+
+subtitle,N/A,N/A
+video,854,480
 audio
-video,1216,684",
-Trailers,FAIL-1,playlist.m3u,https://jmp2.uk/stvp-FRBC9000041F,,[hls @ 0x5f55f9db22c0] URL https://amg01821-lovetvchannels-lovemagazinefr-samsungfr-3s8nt.amagi.tv/ts-eu-w1-n2/beacon/amg01821-lovetvchannels-lovemagazinefr-samsungfr/cb573d1d7f6c648d92d43b60cef44782c67b3dcb0e6c886470af4
+
+subtitle,N/A,N/A
+video,1280,720
+audio
+
+subtitle,N/A,N/A
+video,854,480
+audio
+video,854,480
+audio
+video,1280,720
+audio",
+Trailers,FAIL-1,playlist.m3u,https://jmp2.uk/stvp-FRBC9000041F,,[hls @ 0x5bc7336042c0] URL https://amg01821-lovetvchannels-lovemagazinefr-samsungfr-3s8nt.amagi.tv/ts-eu-w1-n2/beacon/amg01821-lovetvchannels-lovemagazinefr-samsungfr/cb57381e6573648784c93778d1f14182c67b3dcb0e6c886470af4
 TV5 Monde Info,OK-2X,playlist.m3u,https://jmp2.uk/stvp-FR1800005X0,"video,1280,720
 audio
 data
@@ -7853,39 +7767,7 @@ audio
 data
 data
 vide",
-Vevo Hip-Hop & R&B,OK-2X,playlist.m3u,https://jmp2.uk/stvp-FRBC2100002JA,"video,640,360
-audio
-data
-data
-
-video,848,480
-audio
-data
-data
-
-video,1280,720
-audio
-data
-data
-
-video,1920,1080
-audio
-data
-data
-
-video,640,360
-audio
-data
-data
-video,848,480
-audio
-data
-data
-video,1280,720
-audio
-data
-data
-vi",
+Vevo Hip-Hop & R&B,FAIL-1,playlist.m3u,https://jmp2.uk/stvp-FRBC2100002JA,,timeout
 Vevo Pop,OK-2X,playlist.m3u,https://jmp2.uk/stvp-FRBC2100001YY,"video,640,360
 audio
 data
@@ -7993,9 +7875,13 @@ audio
 data
 video,1920,1080
 audio",
-Antenne A,FAIL-1,playlist.m3u,http://51.254.199.122:8080/antenne_a-plus/index.m3u8,,[tcp @ 0x5ec528b14780] Connection to tcp://51.254.199.122:8080 failed: Connection timed out http://51.254.199.122:8080/antenne_a-plus/index.m3u8: Connection timed out
+Antenne A,FAIL-1,playlist.m3u,http://51.254.199.122:8080/antenne_a-plus/index.m3u8,,[tcp @ 0x6159832db780] Connection to tcp://51.254.199.122:8080 failed: Connection timed out http://51.254.199.122:8080/antenne_a-plus/index.m3u8: Connection timed out
 Canal 3,FAIL-1,playlist.m3u,https://cs2.push2stream.com/CANAL3BENIN/playlist.m3u8,,https://cs2.push2stream.com/CANAL3BENIN/playlist.m3u8: Server returned 403 Forbidden (access denied)
-Chandel TV (720p),FAIL-1,playlist.m3u,https://kali.vdopanel.com:3660/live/vj6jlam1rlive.m3u8,,https://kali.vdopanel.com:3660/live/vj6jlam1rlive.m3u8: Server returned 404 Not Found
+Chandel TV (720p),OK-2X,playlist.m3u,https://kali.vdopanel.com:3660/live/vj6jlam1rlive.m3u8,"video,1280,720
+audio
+
+video,1280,720
+audio",
 Esaie 45 Tele,OK-2X,playlist.m3u,https://stream.berosat.live/hls/esaie45-tv/esaie45-tv.m3u8,"video,1280,720
 audio
 
@@ -8016,7 +7902,26 @@ video,1920,1080
 
 audio
 video,1920,1080",
-Medi 1 TV Maghreb (1080p),FAIL-1,playlist.m3u,https://cdn.live.easybroadcast.io/abr_corp/83_medi1tv-maghreb_jnbspmg/playlist.m3u8,,https://cdn.live.easybroadcast.io/abr_corp/83_medi1tv-maghreb_jnbspmg/playlist.m3u8: Server returned 404 Not Found
+Medi 1 TV Maghreb (1080p),OK-2X,playlist.m3u,https://cdn.live.easybroadcast.io/abr_corp/83_medi1tv-maghreb_jnbspmg/playlist.m3u8,"video,426,240
+audio
+
+video,640,360
+audio
+
+video,1280,720
+audio
+
+video,1920,1080
+audio
+
+video,426,240
+audio
+video,640,360
+audio
+video,1280,720
+audio
+video,1920,1080
+audio",
 My TV Channel (720p) [Not 24/7],OK-2X,playlist.m3u,http://connectiktv.ddns.net:5000/mytvchannel/@mytvchannel/playlist.m3u8,"data
 video,1280,720
 audio
@@ -8024,7 +7929,7 @@ audio
 data
 video,1280,720
 audio",
-Natural TV (720p) [Not 24/7],FAIL-1,playlist.m3u,http://broadcasttr.com:1935/naturaltv/bant1/playlist.m3u8,,[tcp @ 0x584027a916c0] Connection to tcp://broadcasttr.com:1935 failed: Connection timed out http://broadcasttr.com:1935/naturaltv/bant1/playlist.m3u8: Connection timed out
+Natural TV (720p) [Not 24/7],FAIL-1,playlist.m3u,http://broadcasttr.com:1935/naturaltv/bant1/playlist.m3u8,,[tcp @ 0x592ebf36e6c0] Connection to tcp://broadcasttr.com:1935 failed: Connection timed out http://broadcasttr.com:1935/naturaltv/bant1/playlist.m3u8: Connection timed out
 NW Economie (576p),FAIL-1,playlist.m3u,https://hls.newworldtv.com/nw-economie/video/live.m3u8,,https://hls.newworldtv.com/nw-economie/video/live.m3u8: Server returned 403 Forbidden (access denied)
 NW Magazine (576p),FAIL-1,playlist.m3u,https://hls.newworldtv.com/nw-magazine/video/live.m3u8,,https://hls.newworldtv.com/nw-magazine/video/live.m3u8: Server returned 403 Forbidden (access denied)
 One Nation TV (720p) [Not 24/7],FAIL-1,playlist.m3u,https://endour.net/hls/One_nationtv/index.m3u8,,https://endour.net/hls/One_nationtv/index.m3u8: Server returned 404 Not Found
@@ -8062,7 +7967,7 @@ audio
 data
 video,1280,720
 audio",
-PSTV HD (480p) [Not 24/7],FAIL-1,playlist.m3u,http://51.254.199.122:8080/PSTV/index.m3u8,,[tcp @ 0x60693ac47780] Connection to tcp://51.254.199.122:8080 failed: Connection timed out http://51.254.199.122:8080/PSTV/index.m3u8: Connection timed out
+PSTV HD (480p) [Not 24/7],FAIL-1,playlist.m3u,http://51.254.199.122:8080/PSTV/index.m3u8,,[tcp @ 0x64b6d5d51780] Connection to tcp://51.254.199.122:8080 failed: Connection timed out http://51.254.199.122:8080/PSTV/index.m3u8: Connection timed out
 REFLET TV (1080p),OK-2X,playlist.m3u,https://edge-a3.evrideo.tv/8f37c9f0-fe22-44f4-b64a-76ad11730daf_1000026630_HLS/manifest.m3u8,"audio
 video,1920,1080
 
@@ -8079,26 +7984,7 @@ video,1280,720
 audio
 video,640,360",
 RL PRO TV,FAIL-1,playlist.m3u,https://stream.berosat.live:19360/rlpro-tv/rlpro-tv.m3u8,,https://stream.berosat.live:19360/rlpro-tv/rlpro-tv.m3u8: Server returned 404 Not Found
-RT France (1080p) [Geo-blocked],OK-2X,playlist.m3u,https://rt-fra.rttv.com/dvr/rtfrance/playlist.m3u8,"video,1920,1080
-audio
-
-video,1280,720
-audio
-
-video,960,540
-audio
-
-video,640,360
-audio
-
-video,1920,1080
-audio
-video,1280,720
-audio
-video,960,540
-audio
-video,640,360
-audio",
+RT France (1080p) [Geo-blocked],FAIL-1,playlist.m3u,https://rt-fra.rttv.com/dvr/rtfrance/playlist.m3u8,,timeout
 RT JVA (720p) [Not 24/7],OK-2X,playlist.m3u,https://cdn140m.panaccess.com/HLS/RTVJA/index.m3u8,"audio
 video,1280,720
 
@@ -8130,28 +8016,28 @@ video,1280,720
 
 audio
 video,1280,720",
-RTVS1,FAIL-1,playlist.m3u,http://51.254.199.122:8080/RTVS1/index.m3u8,,[tcp @ 0x5fb045cf3780] Connection to tcp://51.254.199.122:8080 failed: Connection timed out http://51.254.199.122:8080/RTVS1/index.m3u8: Connection timed out
+RTVS1,FAIL-1,playlist.m3u,http://51.254.199.122:8080/RTVS1/index.m3u8,,[tcp @ 0x639a52745780] Connection to tcp://51.254.199.122:8080 failed: Connection timed out http://51.254.199.122:8080/RTVS1/index.m3u8: Connection timed out
 SOS Docteur TV (480p) [Not 24/7],FAIL-1,playlist.m3u,https://wmoy82n4y2a7-hls-live.5centscdn.com/sostv/live.stream/playlist.m3u8,,https://wmoy82n4y2a7-hls-live.5centscdn.com/sostv/live.stream/playlist.m3u8: Server returned 404 Not Found
 StoryChannel TV (720p),OK-2X,playlist.m3u,https://136044159.r.cdnsun.net/storychannel.m3u8,"video,1280,720
 audio
 
 video,1280,720
 audio",
-Sunu Label TV (480p) [Not 24/7],FAIL-1,playlist.m3u,https://live3.acangroup.org:1929/publiclive/sunulabel/playlist.m3u8,,[tcp @ 0x6023bbdd59c0] Connection to tcp://live3.acangroup.org:1929 failed: Connection timed out https://live3.acangroup.org:1929/publiclive/sunulabel/playlist.m3u8: Connection timed out
+Sunu Label TV (480p) [Not 24/7],FAIL-1,playlist.m3u,https://live3.acangroup.org:1929/publiclive/sunulabel/playlist.m3u8,,[tcp @ 0x5b7b612f69c0] Connection to tcp://live3.acangroup.org:1929 failed: Connection timed out https://live3.acangroup.org:1929/publiclive/sunulabel/playlist.m3u8: Connection timed out
 Tal TV (1080p),OK-2X,playlist.m3u,https://mediaserver1.castpin.com/hls/taltv/index.m3u8,"audio
 video,1920,1080
 
 audio
 video,1920,1080",
-Tele Haiti (1088p) [Not 24/7],FAIL-1,playlist.m3u,http://66.175.238.147:1935/live/myStream/playlist.m3u8,,[tcp @ 0x5ffcbdf00780] Connection to tcp://66.175.238.147:1935 failed: Connection timed out http://66.175.238.147:1935/live/myStream/playlist.m3u8: Connection timed out
-Tele Pam (1080p),FAIL-1,playlist.m3u,https://watch.haitilive.net/app/2020/telepam/index.fmp4.m3u8,,[tcp @ 0x5961236b59c0] Failed to resolve hostname watch.haitilive.net: Name or service not known https://watch.haitilive.net/app/2020/telepam/index.fmp4.m3u8: Input/output error
+Tele Haiti (1088p) [Not 24/7],FAIL-1,playlist.m3u,http://66.175.238.147:1935/live/myStream/playlist.m3u8,,[tcp @ 0x5ab603151780] Connection to tcp://66.175.238.147:1935 failed: Connection timed out http://66.175.238.147:1935/live/myStream/playlist.m3u8: Connection timed out
+Tele Pam (1080p),FAIL-1,playlist.m3u,https://watch.haitilive.net/app/2020/telepam/index.fmp4.m3u8,,[tcp @ 0x5d44aef2f9c0] Failed to resolve hostname watch.haitilive.net: Name or service not known https://watch.haitilive.net/app/2020/telepam/index.fmp4.m3u8: Input/output error
 TeleMIX (720p),OK-2X,playlist.m3u,https://haititivi.com/haiti/telemix1/index.m3u8,"video,1280,720
 audio
 
 video,1280,720
 audio",
 Teva (1080p),FAIL-1,playlist.m3u,http://145.239.5.177/356/index.m3u8,,http://145.239.5.177/356/index.m3u8: Server returned 403 Forbidden (access denied)
-TM1 (360p) [Not 24/7],FAIL-1,playlist.m3u,http://69.64.57.208/tm1/playlist.m3u8,,[tcp @ 0x653549c80640] Connection to tcp://69.64.57.208:80 failed: Connection timed out http://69.64.57.208/tm1/playlist.m3u8: Connection timed out
+TM1 (360p) [Not 24/7],FAIL-1,playlist.m3u,http://69.64.57.208/tm1/playlist.m3u8,,[tcp @ 0x5f8810f92640] Connection to tcp://69.64.57.208:80 failed: Connection timed out http://69.64.57.208/tm1/playlist.m3u8: Connection timed out
 TMA (1080p),OK-2X,playlist.m3u,http://hls.tmacaraibes.com/live/index.m3u8,"video,1920,1080
 audio
 
@@ -8165,21 +8051,7 @@ audio
 video,1280,720
 audio",
 Trends Z (1080p),FAIL-1,playlist.m3u,https://d1hz1p2gea2zy4.cloudfront.net/live/rmgtv/RMG-TRENDSZFR-LIVE/index.m3u8,,https://d1hz1p2gea2zy4.cloudfront.net/live/rmgtv/RMG-TRENDSZFR-LIVE/index.m3u8: Server returned 403 Forbidden (access denied)
-Türkmenistan (406p) [Not 24/7],OK-2X,playlist.m3u,https://alpha.tv.online.tm/hls/ch007.m3u8,"video,0,0
-audio
-
-video,0,0
-audio
-
-video,720,406
-audio
-
-video,0,0
-audio
-video,0,0
-audio
-video,720,406
-audio",
+Türkmenistan (406p) [Not 24/7],FAIL-1,playlist.m3u,https://alpha.tv.online.tm/hls/ch007.m3u8,,timeout
 TV Famille (720p),OK-2X,playlist.m3u,https://streamer1.streamhost.org/salive/GMItvfh/playlist.m3u8,"data
 video,1280,720
 audio
@@ -8216,7 +8088,7 @@ audio
 
 video,1920,1080
 audio",
-TVT (720p) [Not 24/7],FAIL-1,playlist.m3u,http://69.64.57.208/tvt/playlist.m3u8,,[tcp @ 0x5f08abba9640] Connection to tcp://69.64.57.208:80 failed: Connection timed out http://69.64.57.208/tvt/playlist.m3u8: Connection timed out
+TVT (720p) [Not 24/7],FAIL-1,playlist.m3u,http://69.64.57.208/tvt/playlist.m3u8,,[tcp @ 0x57d0aca0d640] Connection to tcp://69.64.57.208:80 failed: Connection timed out http://69.64.57.208/tvt/playlist.m3u8: Connection timed out
 zenith (1080p),OK-2X,playlist.m3u,https://live.azenagroup.com/zenith/index.ll.m3u8,"audio
 video,1920,1080
 
@@ -8229,8 +8101,8 @@ audio
 data
 video,1920,1080
 audio",
-AC TV (480p) [Not 24/7],FAIL-1,playlist.m3u,https://ssh101stream.ssh101.com/akamaissh101/ssh101/actvstream/playlist.m3u8,,[tcp @ 0x60e6a3464a00] Failed to resolve hostname ssh101stream.ssh101.com: Name or service not known https://ssh101stream.ssh101.com/akamaissh101/ssh101/actvstream/playlist.m3u8: Input/output error
-ATV (400p) [Not 24/7],FAIL-1,playlist.m3u,https://guineetvdirect.online:3320/live/atvguineelive.m3u8,,[tcp @ 0x5840069279c0] Failed to resolve hostname guineetvdirect.online: Name or service not known https://guineetvdirect.online:3320/live/atvguineelive.m3u8: Input/output error
+AC TV (480p) [Not 24/7],FAIL-1,playlist.m3u,https://ssh101stream.ssh101.com/akamaissh101/ssh101/actvstream/playlist.m3u8,,[tcp @ 0x5d68d4aeda00] Failed to resolve hostname ssh101stream.ssh101.com: Name or service not known https://ssh101stream.ssh101.com/akamaissh101/ssh101/actvstream/playlist.m3u8: Input/output error
+ATV (400p) [Not 24/7],FAIL-1,playlist.m3u,https://guineetvdirect.online:3320/live/atvguineelive.m3u8,,[tcp @ 0x641e13b229c0] Failed to resolve hostname guineetvdirect.online: Name or service not known https://guineetvdirect.online:3320/live/atvguineelive.m3u8: Input/output error
 Beb TV (720p),FAIL-1,playlist.m3u,https://live-hls-qunv.livepush.io/live_cdn/em8A-kbzIfHqu73/index.m3u8,,https://live-hls-qunv.livepush.io/live_cdn/em8A-kbzIfHqu73/index.m3u8: Server returned 403 Forbidden (access denied)
 Chabiba TV (360p) [Not 24/7],FAIL-1,playlist.m3u,https://endour.net/hls/RUgLAPCbPdF5oPSTX2Hvl/index.m3u8,,https://endour.net/hls/RUgLAPCbPdF5oPSTX2Hvl/index.m3u8: Server returned 404 Not Found
 Dega TV (720p) [Not 24/7],FAIL-1,playlist.m3u,https://59d39900ebfb8.streamlock.net/saintlouisltv/saintlouisltv/playlist.m3u8,,https://59d39900ebfb8.streamlock.net/saintlouisltv/saintlouisltv/playlist.m3u8: Server returned 404 Not Found
@@ -8249,7 +8121,7 @@ data
 video,720,576
 audio",
 GTV (540p),FAIL-1,playlist.m3u,https://g2qd3exjy7an-hls-live.5centscdn.com/gtvghana/ghanaweb.stream/playlist.m3u8,,https://g2qd3exjy7an-hls-live.5centscdn.com/gtvghana/ghanaweb.stream/playlist.m3u8: Server returned 403 Forbidden (access denied)
-HC2 TV,FAIL-1,playlist.m3u,https://stream.hc2tv.bj/2/live/stream.m3u8,,[tcp @ 0x5dd6ad58aa40] Failed to resolve hostname stream.hc2tv.bj: Name or service not known https://stream.hc2tv.bj/2/live/stream.m3u8: Input/output error
+HC2 TV,FAIL-1,playlist.m3u,https://stream.hc2tv.bj/2/live/stream.m3u8,,[tcp @ 0x5d9274847a40] Failed to resolve hostname stream.hc2tv.bj: Name or service not known https://stream.hc2tv.bj/2/live/stream.m3u8: Input/output error
 KC2 (720p) [Not 24/7],OK-2X,playlist.m3u,http://197.243.19.131:1935/kc2/kc2/chunklist.m3u8,"data
 video,854,480
 audio
@@ -8283,130 +8155,45 @@ audio
 
 video,856,480
 audio",
-Mikuba TV (480p) [Not 24/7],FAIL-1,playlist.m3u,http://51.254.199.122:8080/MIKUBATV/index.m3u8,,[tcp @ 0x5e0acaa59780] Connection to tcp://51.254.199.122:8080 failed: Connection timed out http://51.254.199.122:8080/MIKUBATV/index.m3u8: Connection timed out
-NETALKOLE TV (720p) [Not 24/7],FAIL-1,playlist.m3u,https://watch.haitilive.net/naktvhd/index.m3u8,,[tcp @ 0x56e5f3cfba40] Failed to resolve hostname watch.haitilive.net: Name or service not known https://watch.haitilive.net/naktvhd/index.m3u8: Input/output error
-ONE-TV (720p) [Not 24/7],FAIL-1,playlist.m3u,https://core.live-apc.eu:5443/LiveApp/streams/backup.m3u8,,[tcp @ 0x5a8ef0e549c0] Connection to tcp://core.live-apc.eu:5443 failed: Connection timed out https://core.live-apc.eu:5443/LiveApp/streams/backup.m3u8: Connection timed out
+Mikuba TV (480p) [Not 24/7],FAIL-1,playlist.m3u,http://51.254.199.122:8080/MIKUBATV/index.m3u8,,[tcp @ 0x5592292bb780] Connection to tcp://51.254.199.122:8080 failed: Connection timed out http://51.254.199.122:8080/MIKUBATV/index.m3u8: Connection timed out
+NETALKOLE TV (720p) [Not 24/7],FAIL-1,playlist.m3u,https://watch.haitilive.net/naktvhd/index.m3u8,,[tcp @ 0x64154e4f0a40] Failed to resolve hostname watch.haitilive.net: Name or service not known https://watch.haitilive.net/naktvhd/index.m3u8: Input/output error
+ONE-TV (720p) [Not 24/7],FAIL-1,playlist.m3u,https://core.live-apc.eu:5443/LiveApp/streams/backup.m3u8,,[tcp @ 0x586c1b4229c0] Connection to tcp://core.live-apc.eu:5443 failed: Connection timed out https://core.live-apc.eu:5443/LiveApp/streams/backup.m3u8: Connection timed out
 Speedline TV,FAIL-1,playlist.m3u,https://cdn-us-east-prod-ingest-infra-dacast-com.akamaized.net/dbe59037-07a0-4f1c-82a2-7de94b4b62d2/index.m3u8,,https://cdn-us-east-prod-ingest-infra-dacast-com.akamaized.net/dbe59037-07a0-4f1c-82a2-7de94b4b62d2/index.m3u8: Server returned 404 Not Found
 Zitata TV,OK-2X,playlist.m3u,https://live.zitata.tv/direct-hls/playlist.m3u8,"video,1920,1080
 audio
 
 video,1920,1080
 audio",
-Africa 24 English (1080p),OK-2X,playlist-reliable.m3u,https://edge20.vedge.infomaniak.com/livecast/ik:africa24english/manifest.m3u8,"data
+"like Gecko) Chrome/156.0.0.0 Safari/537.36"" group-title=""Entertainment"",13eme Rue",OK-2X,IPTV-ORG France,http://192.99.186.30/stream/251/index.m3u8,"video,1920,1080
+audio
+
+video,1920,1080
+audio",
+Africa 24 English (1080p),OK-2X,IPTV-ORG France,https://edge20.vedge.infomaniak.com/livecast/ik:africa24english/manifest.m3u8,"data
 video,1920,1080
 audio
 
 data
 video,1920,1080
 audio",
-Animation+,OK-2X,playlist-reliable.m3u,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-674f6a6cf44561420465f9f3/?X-Plex-Token=P6xbeZbE9V-HEBPYkXYm,"subtitle,N/A,N/A
-video,1920,1080
-audio
-data
-data
-
-subtitle,N/A,N/A
-video,1280,720
-audio
-data
-data
-
-subtitle,N/A,N/A
-video,1024,576
-audio
-data
-data
-
-subtitle,N/A,N/A
-video,640,360
-audio
-data
-data
-
-subtitle,N/A,N/A
-video,3",
-Asian Drama,OK-2X,playlist-reliable.m3u,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-685f27cca7111a932d28f1ae/?X-Plex-Token=P6xbeZbE9V-HEBPYkXYm,"video,768,432
-audio
-
-video,256,144
-audio
-
-video,640,360
-audio
-
-video,640,360
-audio
-
-video,1280,720
-audio
-
-video,1280,720
-audio
-
-video,768,432
-audio
-video,256,144
-audio
-video,640,360
-audio
-video,640,360
-audio
-video,1280,7",
-Balafon TV [Geo-blocked],FAIL-1,playlist-reliable.m3u,https://broadcasting-channels.com:9044/hls/test.m3u8,,https://broadcasting-channels.com:9044/hls/test.m3u8: Server returned 404 Not Found
-Benin TV Junior (720p),OK-2X,playlist-reliable.m3u,https://srtblive.streamakaci.tv/ortb/ortb2-multi/playlist_dvr.m3u8,"video,1280,720
-audio
-
-video,854,480
-audio
-
-video,640,360
-audio
-
-video,1280,720
-audio
-video,854,480
-audio
-video,640,360
-audio",
-Bob l'eponge (720p),OK-2X,playlist-reliable.m3u,https://jmp2.uk/plu-66588931a3865300085ca800.m3u8,"subtitle,N/A,N/A
-audio
-video,640,360
-
-subtitle,N/A,N/A
-audio
-video,854,480
-
-subtitle,N/A,N/A
-audio
-video,854,480
-
-subtitle,N/A,N/A
-audio
-video,1280,720
-
-subtitle,N/A,N/A
-audio
-video,426,240
-
-subtitle,N/A,N/A
-audio
-video,",
-Caillou,FAIL-1,playlist-reliable.m3u,https://do7nccdsswstc.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-1aso0bc668saa/a5233c83-f772-4a81-959a-45ec7877ef61/5.m3u8,,[hls @ 0x55dcf5d1c340] URL https://hls-beacons-us.xumo.com/hlsstream/v1/beacon?url=https%3A%2F%2Flive-content-cf.xumo.com%2F3900%2Fcontent%2FXM0OI4JKQG7IX4%2F27281528%2F1_143.ts&aid=XM0OI4JKQG7IX4&eventType=ASSET&cid=888
-Canal+ Sport (France) (1080p) [Geo-blocked],OK-2X,playlist-reliable.m3u,http://tv.streambox.fr/live/testlivestream/testlivestream/31.m3u8,"video,1920,1080
+"like Gecko) Chrome/108.0.0.0 Safari/537.36"" group-title=""Business;News"",BFM Business (1080p)",FAIL-1,IPTV-ORG France,https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_BUSINESS/index.m3u8?end=END&start=LIVE,,https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_BUSINESS/index.m3u8?end=END&start=LIVE: Server returned 403 Forbidden (access denied)
+"like Gecko) Chrome/108.0.0.0 Safari/537.36"" group-title=""News"",BFM TV (1080p)",FAIL-1,IPTV-ORG France,https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TV/index.m3u8?end=END&start=LIVE,,https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TV/index.m3u8?end=END&start=LIVE: Server returned 403 Forbidden (access denied)
+BTL TV (Netherlands) (1080p),FAIL-1,IPTV-ORG France,https://cdn.liveplustv.com/v1/live/btl-tv/master.m3u8,,https://cdn.liveplustv.com/v1/live/btl-tv/master.m3u8: Server returned 403 Forbidden (access denied)
+Caillou,FAIL-1,IPTV-ORG France,https://do7nccdsswstc.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-1aso0bc668saa/a5233c83-f772-4a81-959a-45ec7877ef61/5.m3u8,,[hls @ 0x5f82837cf340] URL https://hls-beacons-us.xumo.com/hlsstream/v1/beacon?url=https%3A%2F%2Flive-content-cf.xumo.com%2F3900%2Fcontent%2FXM0WX587MRKLUT%2F27281112%2Fsplit_202411070026%2F0_059_b.ts&aid=XM0WX587MRKLUT&
+Canal+ Sport (France) (1080p) [Geo-blocked],OK-2X,IPTV-ORG France,http://tv.streambox.fr/live/testlivestream/testlivestream/31.m3u8,"video,1920,1080
 audio
 
 video,1920,1080
 audio",
-CRTV Sports and Entertainment SD (360p),OK-2X,playlist-reliable.m3u,https://live1.acangroup.org:1929/publiclive/crtv_sport/playlist.m3u8,"video,1920,1080
+"like Gecko) Chrome/156.0.0.0 Safari/537.36"" group-title=""Entertainment"",Discovery Channel (France)",OK-2X,IPTV-ORG France,http://192.99.186.30/stream/68/index.m3u8,"video,1920,1080
 audio
 
 video,1920,1080
 audio",
-Digital Channel (480p),FAIL-1,playlist-reliable.m3u,https://stream.digitalchannel.bj/live/ds_64de185c18c9d786a760f01e0e592348.m3u8,,https://stream.digitalchannel.bj/live/ds_64de185c18c9d786a760f01e0e592348.m3u8: Server returned 404 Not Found
-Euronews French (720p),OK-2X,playlist-reliable.m3u,https://2f6c5bf4.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmxheHhUVi1ldV9FdXJvbmV3c0ZyYW5jYWlzX0hMUw/playlist.m3u8,"video,428,240
+Euronews French (720p),OK-2X,IPTV-ORG France,https://2f6c5bf4.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmxheHhUVi1ldV9FdXJvbmV3c0ZyYW5jYWlzX0hMUw/playlist.m3u8,"video,428,240
 audio
 
-video,0,0
+video,640,360
 audio
 
 video,854,480
@@ -8415,64 +8202,50 @@ audio
 video,1024,576
 audio
 
-video,1280,720
+video,0,0
 audio
 
-video,0,0
+video,1280,720
 audio
 
 video,428,240
 audio
+video,640,360
+audio
+video,854,480
+audio
+video,1024,576
+audio
 video,0,0
-audio
-video,854,480
-audio
-video,1024,576
-audio
-video,1280,720
-audio
-vi",
-Europe 1 TV (1080p),OK-2X,playlist-reliable.m3u,https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/misc/europe-1-tv-dm.m3u8,"video,512,288
+audio",
+Europe 1 TV (1080p),OK-2X,IPTV-ORG France,https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/misc/europe-1-tv-dm.m3u8,"video,848,480
 audio
 
 video,320,184
-audio
-
-video,848,480
 audio
 
 video,512,288
 audio
+
+video,1280,720
+audio
+
+video,1920,1080
+audio
+
+video,848,480
+audio
 video,320,184
 audio
-video,848,480
-audio",
-FashionTV (Russia) (1080p),OK-2X,playlist-reliable.m3u,http://fashionlive.mediacdn.ru/cdn/fashiontv/playlist.m3u8,"video,480,270
-audio
-
-video,640,360
-audio
-
-video,1024,576
-audio
-
-video,1280,720
-audio
-
-video,1920,1080
-audio
-
-video,480,270
-audio
-video,640,360
-audio
-video,1024,576
+video,512,288
 audio
 video,1280,720
 audio
 video,1920,1080
 audio",
-France 24 (1080p),OK-2X,playlist-reliable.m3u,https://freem3u.xyz/api/live/play.m3u8?vid=10007,"video,640,360
+FashionTV Secrets (1080p),FAIL-1,IPTV-ORG France,https://ssai.aniview.com/api/v1/hls/stream.m3u8?AVS_SSAIID=67c0c39764ad6f7dab07aa0b&AV_APPNAME=[ADS.APP_NAME]&AV_APPPKGNAME=[ADS.APP_BUNDLE]&AV_APPSTOREURL=[ADS.APP_STORE_URL]&AV_CCPA=[ADS.US_PRIVACY]&AV_CLIENT_SECTION=ftv_secrets&AV_CONSENT=[ADS.GDPR_CONSENT]&AV_CONTENT_CAT=IAB7&AV_CONTENT_CHANNEL=&AV_CONTENT_CONTEXT=&AV_CONTENT_EPISODE=&AV_CONTENT_GENRE=fashion+and+lifestyle&AV_CONTENT_ID=[ADS.VIDAA_ADS_CONTENTID]&AV_CONTENT_KEYWORDS=&AV_CONTENT_LANGUAGE=en&AV_CONTENT_LENGTH=&AV_CONTENT_NETWORK=&AV_CONTENT_PROVIDER=FTV&AV_CONTENT_RATING=R&AV_CONTENT_SEASON=&AV_CONTENT_SERIES=&AV_CONTENT_TITLE=&AV_CONTENT_URL=&AV_DNT=[ADS.DNT]&AV_GDPR=[ADS.GDPR]&AV_HEIGHT=[ADS.H]&AV_IDFA=[ADS.IFA]&AV_IFA_TYPE=[ADS.IFA_TYPE]&AV_LANGUAGE=[ADS.DEVICE_LANGUAGE]&AV_OSVERS=[ADS.DEVICE_OSV]&AV_RTB_DEVICE_TYPE=[ADS.DEVICE_TYPE]&AV_VAUTH=[ADS.VAUTH]&AV_WIDTH=[ADS.W]&Content_Id=[ADS.ADS_CONTENTID]&ads.vidaa_ads_param=1191723366&cb=[CACHEBUSTER]&content_channel_name=ftv+-fashiontv+Secrets&content_livestream=1,,[hls @ 0x5b7299bfb6c0] URL https://ssai.aniview.com/api/v1/hls/mediab/36016e803366435ea6a173082051c1eb?avbidx=1&avbt=5&avcd=8&avcp=0&avu=https%253A%252F%252Ffashiontv-secrets.evrideo.tv%252FV_video_10801920_p_0%252F84780
+France 2 (1080p),FAIL-1,IPTV-ORG France,http://149.62.177.107:9999/France_2/index.m3u8,,[tcp @ 0x55fa5ecb3780] Connection to tcp://149.62.177.107:9999 failed: Connection refused http://149.62.177.107:9999/France_2/index.m3u8: Connection refused
+France 24 (1080p),OK-2X,IPTV-ORG France,https://freem3u.xyz/api/live/play.m3u8?vid=10007,"video,640,360
 audio
 
 video,720,576
@@ -8482,112 +8255,44 @@ video,640,360
 audio
 video,720,576
 audio",
-FTF Sports,OK-2X,playlist-reliable.m3u,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-605a309dc5acdc002c7a20aa/?X-Plex-Token=P6xbeZbE9V-HEBPYkXYm,"video,960,540
-audio
-
-video,640,360
-audio
-
-video,640,360
-audio
-
-video,1280,720
-audio
-
-video,1280,720
-audio
-
-video,1920,1080
-audio
-
-video,960,540
-audio
-video,640,360
-audio
-video,640,360
-audio
-video,1280,720
-audio
-video,128",
-Golf + (1080p) [Geo-blocked],OK-2X,playlist-reliable.m3u,http://tv.streambox.fr/live/testlivestream/testlivestream/49.m3u8,"video,1920,1080
+Franceinfo (1080p),FAIL-1,IPTV-ORG France,http://149.62.177.107:9999/franceinfo:/index.m3u8,,[tcp @ 0x58f17992b780] Connection to tcp://149.62.177.107:9999 failed: Connection refused http://149.62.177.107:9999/franceinfo:/index.m3u8: Connection refused
+Golf + (1080p) [Geo-blocked],OK-2X,IPTV-ORG France,http://tv.streambox.fr/live/testlivestream/testlivestream/49.m3u8,"video,1920,1080
 audio
 
 video,1920,1080
 audio",
-Inazuma Eleven,OK-2X,playlist-reliable.m3u,https://jmp2.uk/plu-632c6df43d2bc5000751f621.m3u8,"subtitle,N/A,N/A
-audio
-audio
-video,1216,684
-
-subtitle,N/A,N/A
-audio
-audio
-video,1216,684
-
-subtitle,N/A,N/A
-audio
-audio
-video,1216,684
-
-subtitle,N/A,N/A
-audio
-audio
-video,1216,684
-
-subtitle,N/A,N/A
-audio
-audio
-video,1024,",
-JapanimTV (1080p),OK-2X,playlist-reliable.m3u,https://foxkidstv.be:3369/stream/play.m3u8,"video,1920,1080
-audio
-
-video,1920,1080
-audio",
-LCP (477p),OK-2X,playlist-reliable.m3u,https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/publicsenat/publicsenat-dm.m3u8,"video,848,480
-audio
-
-video,320,184
-audio
-
-video,512,288
-audio
-
-video,1280,720
-audio
-
-video,848,480
-audio
-video,320,184
-audio
-video,512,288
-audio
-video,1280,720
-audio",
-Les filles d'a cote,OK-2X,playlist-reliable.m3u,https://jmp2.uk/plu-60549d97cd7b090007c73314.m3u8,"subtitle,N/A,N/A
-audio
+Inazuma Eleven,OK-2X,IPTV-ORG France,https://jmp2.uk/plu-632c6df43d2bc5000751f621.m3u8,"subtitle,N/A,N/A
 audio
 video,640,360
+audio
 
 subtitle,N/A,N/A
-audio
 audio
 video,854,480
+audio
 
 subtitle,N/A,N/A
 audio
+video,854,480
 audio
-video,1024,576
 
 subtitle,N/A,N/A
 audio
+video,1280,720
 audio
-video,1216,684
 
 subtitle,N/A,N/A
 audio
+video,426,240
 audio
-video,426,240",
-"like Gecko) Chrome/133.0.0.0 Safari/537.36"" group-title=""Sports"",L'Equipe (1080p)",OK-2X,playlist-reliable.m3u,https://dq37unyetkpcz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-m04j89j7k5gtp/LEquipe_FR.m3u8,"video,1920,1080
+",
+"like Gecko) Chrome/156.0.0.0 Safari/537.36"" group-title=""Documentary"",Investigation Discovery (France)",OK-2X,IPTV-ORG France,http://192.99.186.30/stream/81/index.m3u8,"video,1920,1080
+audio
+
+video,1920,1080
+audio",
+KTO (404p) [Not 24/7],FAIL-1,IPTV-ORG France,https://live-kto.akamaized.net/hls/live/2033284/KTO/master.m3u8,,https://live-kto.akamaized.net/hls/live/2033284/KTO/master.m3u8: Server returned 400 Bad Request
+"like Gecko) Chrome/133.0.0.0 Safari/537.36"" group-title=""Sports"",L'Equipe (1080p)",OK-2X,IPTV-ORG France,https://dq37unyetkpcz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-m04j89j7k5gtp/LEquipe_FR.m3u8,"video,1920,1080
 audio
 data
 data
@@ -8620,70 +8325,28 @@ video,1280,720
 audio
 data
 da",
-"like Gecko) Chrome/154.0.0.0 Safari/537.36"" group-title=""General"",Nouvelle Caledonie 1ere (1080p)",OK-2X,playlist-reliable.m3u,https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/nouvelle-caledonie-1ere.m3u8,"audio
+LCI HD (1080p),FAIL-1,IPTV-ORG France,http://151.80.18.177:86/LCI_HD/index.m3u8,,[tcp @ 0x58e949787780] Connection to tcp://151.80.18.177:86 failed: Connection timed out http://151.80.18.177:86/LCI_HD/index.m3u8: Connection timed out
+LCP (477p),OK-2X,IPTV-ORG France,https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/publicsenat/publicsenat-dm.m3u8,"video,848,480
 audio
-subtitle,N/A,N/A
-video,256,144
 
+video,320,184
 audio
-audio
-subtitle,N/A,N/A
-video,384,216
 
+video,512,288
 audio
-audio
-subtitle,N/A,N/A
-video,640,360
 
-audio
-audio
-subtitle,N/A,N/A
-video,960,540
-
-audio
-audio
-subtitle,N/A,N/A
 video,1280,720
-",
-"like Gecko) Chrome/156.0.0.0 Safari/537.36"" group-title=""Documentary"",Investigation Discovery (France)",OK-2X,playlist-reliable.m3u,http://192.99.186.30/stream/81/index.m3u8,"video,1920,1080
 audio
 
-video,1920,1080
+video,848,480
+audio
+video,320,184
+audio
+video,512,288
+audio
+video,1280,720
 audio",
-"like Gecko) Chrome/156.0.0.0 Safari/537.36"" group-title=""Entertainment"",13eme Rue",OK-2X,playlist-reliable.m3u,http://192.99.186.30/stream/251/index.m3u8,"video,1920,1080
-audio
-
-video,1920,1080
-audio",
-"like Gecko) Chrome/156.0.0.0 Safari/537.36"" group-title=""Entertainment"",Discovery Channel (France)",OK-2X,playlist-reliable.m3u,http://192.99.186.30/stream/68/index.m3u8,"video,1920,1080
-audio
-
-video,1920,1080
-audio",
-"like Gecko) Chrome/156.0.0.0 Safari/537.36"" group-title=""Entertainment"",SciFi",OK-2X,playlist-reliable.m3u,http://192.99.186.30/stream/250/index.m3u8,"video,1920,1080
-audio
-
-video,1920,1080
-audio",
-Madras FM TV (1080p),OK-2X,playlist-reliable.m3u,https://edge12.vedge.infomaniak.com/livecast/ik:madrasfmtv/manifest.m3u8,"data
-video,1920,1080
-audio
-
-data
-video,1920,1080
-audio",
-MCM Pop,FAIL-1,playlist-reliable.m3u,http://176.65.153.78:8201/play/a070/index.m3u8,,http://176.65.153.78:8201/play/a070/index.m3u8: Server returned 404 Not Found
-Mezzo Live (1080p),OK-2X,playlist-reliable.m3u,http://stream.mcquack.net/276/index.m3u8,"audio
-video,1920,1080
-
-audio
-video,1920,1080",
-Montreal Greek TV (480p),OK-2X,playlist-reliable.m3u,http://live.greektv.ca/hls1/greektv.m3u8,"video,640,480
-audio
-
-video,640,480
-audio",
-MTV CLASSICS,OK-2X,playlist-reliable.m3u,https://jmp2.uk/plu-5f92b56a367e170007cd43f4.m3u8,"subtitle,N/A,N/A
+Les filles d'a cote,OK-2X,IPTV-ORG France,https://jmp2.uk/plu-60549d97cd7b090007c73314.m3u8,"subtitle,N/A,N/A
 audio
 audio
 video,640,360
@@ -8707,7 +8370,22 @@ subtitle,N/A,N/A
 audio
 audio
 video,426,240",
-Pluto TV Cuisine,OK-2X,playlist-reliable.m3u,https://jmp2.uk/plu-5f8ed48146ba9e00078424b6.m3u8,"subtitle,N/A,N/A
+M6 Music,FAIL-1,IPTV-ORG France,https://test.946985.filegear-sg.me/proxy/803c517b325bfafc,,[tcp @ 0x5ca0f2e7a9c0] Failed to resolve hostname test.946985.filegear-sg.me: Name or service not known https://test.946985.filegear-sg.me/proxy/803c517b325bfafc: Input/output error
+MCM Pop,FAIL-1,IPTV-ORG France,http://176.65.153.78:8201/play/a070/index.m3u8,,http://176.65.153.78:8201/play/a070/index.m3u8: Server returned 404 Not Found
+"like Gecko) Chrome/156.0.0.0 Safari/537.36"" group-title=""Music"",Mezzo",OK-2X,IPTV-ORG France,http://92.180.26.103/stream/62/index.m3u8,"video,720,576
+audio
+subtitle,492,250
+
+video,720,576
+audio
+subtitle,492,250",
+Mezzo Live (1080p),OK-2X,IPTV-ORG France,http://stream.mcquack.net/276/index.m3u8,"audio
+video,1920,1080
+
+audio
+video,1920,1080",
+Monte Carlo Digital Television (1080p),FAIL-1,IPTV-ORG France,https://fl718492-exthls-p1.flovp.com/fl718492/live/live.m3u8,,https://fl718492-exthls-p1.flovp.com/fl718492/live/live.m3u8: Server returned 404 Not Found
+MTV CLASSICS,OK-2X,IPTV-ORG France,https://jmp2.uk/plu-5f92b56a367e170007cd43f4.m3u8,"subtitle,N/A,N/A
 audio
 video,640,360
 audio
@@ -8732,7 +8410,8 @@ audio
 video,426,240
 audio
 ",
-Pluto TV Polar,OK-2X,playlist-reliable.m3u,https://jmp2.uk/plu-5f8ed4dbf6bb0800071ffbcb.m3u8,"subtitle,N/A,N/A
+NOVO19 (1080p),FAIL-1,IPTV-ORG France,http://149.62.177.107:9999/NOVO19/index.m3u8,,[tcp @ 0x5f62ffd3a780] Connection to tcp://149.62.177.107:9999 failed: Connection refused http://149.62.177.107:9999/NOVO19/index.m3u8: Connection refused
+Pluto TV Cuisine,OK-2X,IPTV-ORG France,https://jmp2.uk/plu-5f8ed48146ba9e00078424b6.m3u8,"subtitle,N/A,N/A
 audio
 audio
 video,640,360
@@ -8756,7 +8435,31 @@ subtitle,N/A,N/A
 audio
 audio
 video,426,240",
-Pluto TV Toons FR (720p),OK-2X,playlist-reliable.m3u,https://jmp2.uk/plu-5f8eba14a4ffb8000764e950.m3u8,"subtitle,N/A,N/A
+Pluto TV Polar,OK-2X,IPTV-ORG France,https://jmp2.uk/plu-5f8ed4dbf6bb0800071ffbcb.m3u8,"subtitle,N/A,N/A
+audio
+audio
+video,640,360
+
+subtitle,N/A,N/A
+audio
+audio
+video,854,480
+
+subtitle,N/A,N/A
+audio
+audio
+video,1024,576
+
+subtitle,N/A,N/A
+audio
+audio
+video,1216,684
+
+subtitle,N/A,N/A
+audio
+audio
+video,426,240",
+Pluto TV Toons FR (720p),OK-2X,IPTV-ORG France,https://jmp2.uk/plu-5f8eba14a4ffb8000764e950.m3u8,"subtitle,N/A,N/A
 audio
 video,640,360
 
@@ -8779,198 +8482,6 @@ video,426,240
 subtitle,N/A,N/A
 audio
 video,",
-RMC Decouverte (1080p),FAIL-1,playlist-reliable.m3u,https://d16zzycxcd0m0r.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-hixvx5kymecr9/RMC_Decouverte_FR.m3u8,,"[hls @ 0x5de332656380] URL https://d16zzycxcd0m0r.cloudfront.net/v1/segment/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-hixvx5kymecr9/2c3fada1-c18d-423c-906a-22605aa4d6fa/0/4575184 is not in allowed_segment_extensions, c"
-RMC Life (1080p),OK-2X,playlist-reliable.m3u,https://d3dcdjv6dx07iz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-eaaww2dyp3iih/RMC_Life_FR.m3u8,"video,1920,1080
-audio
-
-video,1280,720
-audio
-
-video,960,540
-audio
-
-video,640,360
-audio
-
-video,1920,1080
-audio
-video,1280,720
-audio
-video,960,540
-audio
-video,640,360
-audio",
-RMC Story (1080p),OK-2X,playlist-reliable.m3u,https://d15aro46bnpfm8.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fqkqiax1078up/RMC_Story_FR.m3u8,"video,1920,1080
-audio
-
-video,1280,720
-audio
-
-video,960,540
-audio
-
-video,640,360
-audio
-
-video,1920,1080
-audio
-video,1280,720
-audio
-video,960,540
-audio
-video,640,360
-audio",
-Tebeo TV (576i),OK-2X,playlist-reliable.m3u,https://tebeo.streamakaci.tv/tebeo/tebeo-multi/playlist.m3u8,"video,640,360
-audio
-
-video,1280,720
-audio
-
-video,1920,1080
-audio
-
-video,640,360
-audio
-video,1280,720
-audio
-video,1920,1080
-audio",
-TMC HD (1080p) [Geo-blocked],OK-2X,playlist-reliable.m3u,http://tv.streambox.fr/live/testlivestream/testlivestream/13.m3u8,"video,1920,1080
-audio
-
-video,1920,1080
-audio",
-Trace Brazuca (1080p),OK-2X,playlist-reliable.m3u,https://amg01131-tracetv-amg01131c4-stirr-us-4390.playouts.now.amagi.tv/playlist.m3u8,"video,640,360
-audio
-
-video,848,480
-audio
-
-video,1280,720
-audio
-
-video,1920,1080
-audio
-
-video,640,360
-audio
-video,848,480
-audio
-video,1280,720
-audio
-video,1920,1080
-audio",
-Trace Jama (1080p),OK-2X,playlist-reliable.m3u,https://channels.trace.plus/Traceprod/JAMA_hd/index.m3u8,"video,1280,720
-audio
-
-video,1280,720
-audio",
-Trace Mziki (1080p),OK-2X,playlist-reliable.m3u,https://channels.trace.plus/Traceprod/MZIKI_hd/index.m3u8,"video,1280,720
-audio
-
-video,1280,720
-audio",
-Trace Naija (1080p),OK-2X,playlist-reliable.m3u,https://channels.trace.plus/Traceprod/NAIJA_hd/index.m3u8,"video,1280,720
-audio
-
-video,1280,720
-audio",
-TV5MONDE Chefs (1080p),OK-2X,playlist-reliable.m3u,https://tvf-tv5ch.otteravision.com/tvf/tv5ch/tv5ch.m3u8,"video,1920,1080
-audio
-data
-data
-subtitle,N/A,N/A
-subtitle,N/A,N/A
-subtitle,N/A,N/A
-
-video,1280,720
-audio
-data
-data
-subtitle,N/A,N/A
-subtitle,N/A,N/A
-subtitle,N/A,N/A
-
-video,960,540
-audio
-data
-data
-subtitle,N/A,N/A
-subtit",
-Walker Texas Ranger,OK-2X,playlist-reliable.m3u,https://jmp2.uk/plu-635659445b4c4700076d2ad1.m3u8,"subtitle,N/A,N/A
-audio
-video,512,288
-audio
-
-subtitle,N/A,N/A
-audio
-video,768,432
-audio
-
-subtitle,N/A,N/A
-audio
-video,768,432
-audio
-
-subtitle,N/A,N/A
-audio
-video,1216,684
-audio
-
-subtitle,N/A,N/A
-audio
-video,512,288
-audio
-",
-"like Gecko) Chrome/108.0.0.0 Safari/537.36"" group-title=""Business;News"",BFM Business (1080p)",OK-2X,IPTV-ORG France,https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_BUSINESS/index.m3u8?end=END&start=LIVE,"audio
-subtitle,N/A,N/A
-subtitle,N/A,N/A
-video,1024,576
-audio
-subtitle,492,250
-
-audio
-subtitle,N/A,N/A
-subtitle,N/A,N/A
-video,320,180
-audio
-subtitle,492,250
-
-audio
-subtitle,N/A,N/A
-subtitle,N/A,N/A
-video,640,360
-audio
-sub",
-"like Gecko) Chrome/108.0.0.0 Safari/537.36"" group-title=""News"",BFM TV (1080p)",OK-2X,IPTV-ORG France,https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TV/index.m3u8?end=END&start=LIVE,"audio
-subtitle,N/A,N/A
-subtitle,N/A,N/A
-video,320,180
-audio
-subtitle,492,250
-
-audio
-subtitle,N/A,N/A
-subtitle,N/A,N/A
-video,640,360
-audio
-subtitle,492,250
-
-audio
-subtitle,N/A,N/A
-subtitle,N/A,N/A
-video,640,360
-audio
-subt",
-BTL TV (Netherlands) (1080p),FAIL-1,IPTV-ORG France,https://cdn.liveplustv.com/v1/live/btl-tv/master.m3u8,,https://cdn.liveplustv.com/v1/live/btl-tv/master.m3u8: Server returned 403 Forbidden (access denied)
-FashionTV Secrets (1080p),FAIL-1,IPTV-ORG France,https://ssai.aniview.com/api/v1/hls/stream.m3u8?AVS_SSAIID=67c0c39764ad6f7dab07aa0b&AV_APPNAME=[ADS.APP_NAME]&AV_APPPKGNAME=[ADS.APP_BUNDLE]&AV_APPSTOREURL=[ADS.APP_STORE_URL]&AV_CCPA=[ADS.US_PRIVACY]&AV_CLIENT_SECTION=ftv_secrets&AV_CONSENT=[ADS.GDPR_CONSENT]&AV_CONTENT_CAT=IAB7&AV_CONTENT_CHANNEL=&AV_CONTENT_CONTEXT=&AV_CONTENT_EPISODE=&AV_CONTENT_GENRE=fashion+and+lifestyle&AV_CONTENT_ID=[ADS.VIDAA_ADS_CONTENTID]&AV_CONTENT_KEYWORDS=&AV_CONTENT_LANGUAGE=en&AV_CONTENT_LENGTH=&AV_CONTENT_NETWORK=&AV_CONTENT_PROVIDER=FTV&AV_CONTENT_RATING=R&AV_CONTENT_SEASON=&AV_CONTENT_SERIES=&AV_CONTENT_TITLE=&AV_CONTENT_URL=&AV_DNT=[ADS.DNT]&AV_GDPR=[ADS.GDPR]&AV_HEIGHT=[ADS.H]&AV_IDFA=[ADS.IFA]&AV_IFA_TYPE=[ADS.IFA_TYPE]&AV_LANGUAGE=[ADS.DEVICE_LANGUAGE]&AV_OSVERS=[ADS.DEVICE_OSV]&AV_RTB_DEVICE_TYPE=[ADS.DEVICE_TYPE]&AV_VAUTH=[ADS.VAUTH]&AV_WIDTH=[ADS.W]&Content_Id=[ADS.ADS_CONTENTID]&ads.vidaa_ads_param=1191723366&cb=[CACHEBUSTER]&content_channel_name=ftv+-fashiontv+Secrets&content_livestream=1,,[hls @ 0x62b3f4e076c0] URL https://ssai.aniview.com/api/v1/hls/mediab/3521763768c4445f8400529db7082f8d?avbidx=1&avbt=5&avcd=8&avcp=0&avu=https%253A%252F%252Ffashiontv-secrets.evrideo.tv%252FV_video_10801920_p_0%252F84775
-France 2 (1080p),FAIL-1,IPTV-ORG France,http://149.62.177.107:9999/France_2/index.m3u8,,[tcp @ 0x654e3b8bd780] Connection to tcp://149.62.177.107:9999 failed: Connection refused http://149.62.177.107:9999/France_2/index.m3u8: Connection refused
-Franceinfo (1080p),FAIL-1,IPTV-ORG France,http://149.62.177.107:9999/franceinfo:/index.m3u8,,[tcp @ 0x60a6a13e7780] Connection to tcp://149.62.177.107:9999 failed: Connection refused http://149.62.177.107:9999/franceinfo:/index.m3u8: Connection refused
-KTO (404p) [Not 24/7],FAIL-1,IPTV-ORG France,https://live-kto.akamaized.net/hls/live/2033284/KTO/master.m3u8,,https://live-kto.akamaized.net/hls/live/2033284/KTO/master.m3u8: Server returned 400 Bad Request
-LCI HD (1080p),FAIL-1,IPTV-ORG France,http://151.80.18.177:86/LCI_HD/index.m3u8,,[tcp @ 0x5801ea216780] Connection to tcp://151.80.18.177:86 failed: Connection timed out http://151.80.18.177:86/LCI_HD/index.m3u8: Connection timed out
-M6 Music,FAIL-1,IPTV-ORG France,https://test.946985.filegear-sg.me/proxy/803c517b325bfafc,,[tcp @ 0x619390ddf9c0] Failed to resolve hostname test.946985.filegear-sg.me: Name or service not known https://test.946985.filegear-sg.me/proxy/803c517b325bfafc: Input/output error
-Monte Carlo Digital Television (1080p),FAIL-1,IPTV-ORG France,https://fl718492-exthls-p1.flovp.com/fl718492/live/live.m3u8,,https://fl718492-exthls-p1.flovp.com/fl718492/live/live.m3u8: Server returned 404 Not Found
-NOVO19 (1080p),FAIL-1,IPTV-ORG France,http://149.62.177.107:9999/NOVO19/index.m3u8,,[tcp @ 0x6082d8f3f780] Connection to tcp://149.62.177.107:9999 failed: Connection refused http://149.62.177.107:9999/NOVO19/index.m3u8: Connection refused
 Qwest TV Jazz & Beyond (1080p),FAIL-1,IPTV-ORG France,https://samsungau-qwestjazz-samsungtv-zw2jc.amagi.tv/playlist/samsungau-qwestjazz-samsungtv/playlist.m3u8,"subtitle,N/A,N/A
 
 subtitle,N/A,N/A
@@ -8979,7 +8490,72 @@ subtitle,N/A,N/A
 
 subtitle,N/A,N/A
 
-subtitle,N/A,N/A",[hls @ 0x619e6e0b2340] URL https://samsungau-qwestjazz-samsungtv-zw2jc.amagi.tv/ts-eu-w1-n2/beacon/samsungau-qwestjazz-samsungtv/cb573d1d7f6c648d92d43b60cef44782c67b3dcb0e6c886470af4a9765d94c06d8fca087b419b33d578f5f82304
+subtitle,N/A,N/A",[hls @ 0x638add082340] URL https://samsungau-qwestjazz-samsungtv-zw2jc.amagi.tv/ts-eu-w1-n2/beacon/samsungau-qwestjazz-samsungtv/cb57381e6573648784c93778d1f14182c67b3dcb0e6c886470af4a9765d94c06d8fca087b419b33d578f5f82304
+RMC Decouverte (1080p),OK-2X,IPTV-ORG France,https://d16zzycxcd0m0r.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-hixvx5kymecr9/RMC_Decouverte_FR.m3u8,"video,1920,1080
+audio
+
+video,1280,720
+audio
+
+video,960,540
+audio
+
+video,640,360
+audio
+
+video,1920,1080
+audio
+video,1280,720
+audio
+video,960,540
+audio
+video,640,360
+audio",
+RMC Life (1080p),OK-2X,IPTV-ORG France,https://d3dcdjv6dx07iz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-eaaww2dyp3iih/RMC_Life_FR.m3u8,"video,1920,1080
+audio
+
+video,1280,720
+audio
+
+video,960,540
+audio
+
+video,640,360
+audio
+
+video,1920,1080
+audio
+video,1280,720
+audio
+video,960,540
+audio
+video,640,360
+audio",
+RMC Story (1080p),OK-2X,IPTV-ORG France,https://d15aro46bnpfm8.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fqkqiax1078up/RMC_Story_FR.m3u8,"video,1920,1080
+audio
+
+video,1280,720
+audio
+
+video,960,540
+audio
+
+video,640,360
+audio
+
+video,1920,1080
+audio
+video,1280,720
+audio
+video,960,540
+audio
+video,640,360
+audio",
+"like Gecko) Chrome/156.0.0.0 Safari/537.36"" group-title=""Entertainment"",SciFi",OK-2X,IPTV-ORG France,http://192.99.186.30/stream/250/index.m3u8,"video,1920,1080
+audio
+
+video,1920,1080
+audio",
 Sony One Hits Comedie (1080p),OK-2X,IPTV-ORG France,https://7aa9671895264ec9a384dfed1b992171.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-818-FR-SONYONEHITSCOMDIE-LG_FR/playlist.m3u8,"video,1920,1080
 audio
 data
@@ -9013,62 +8589,242 @@ video,1280,720
 audio
 data
 dat",
-TF1 Series Films (1080p),FAIL-1,IPTV-ORG France,http://149.62.177.107:9999/TF1_Series_Films/index.m3u8,,[tcp @ 0x58570a3c7780] Connection to tcp://149.62.177.107:9999 failed: Connection refused http://149.62.177.107:9999/TF1_Series_Films/index.m3u8: Connection refused
-Trace Brazuca HD (1080p),FAIL-1,IPTV-ORG France,https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracebrazuca-samsungbr/playlist.m3u8,,[hls @ 0x564b2a3832c0] URL https://amg01131-tracetv-tracebrazuca-samsungbr-rfenz.amagi.tv/ts-eu-w1-n2/beacon/amg01131-tracetv-tracebrazuca-samsungbr/cb573d1d7f6c648d92d43b60cef44782c67b3dcb0e6c886470af4a9765d94c06d8fca08
-TV5Monde Style,FAIL-1,IPTV-ORG France,http://103.190.232.129/stream/tvb/style/master.m3u8?p=967e33767f592e1aaf3d4019f38f380bf784e113b193d89c412d047059d6300d&u=Oleg,,[tcp @ 0x580633b42900] Connection to tcp://103.190.232.129:80 failed: Connection timed out http://103.190.232.129/stream/tvb/style/master.m3u8?p=967e33767f592e1aaf3d4019f38f380bf784e113b193d89c412d047059d6300d&u=Oleg: Co
-TZiK [Not 24/7],FAIL-1,IPTV-ORG France,https://54627d4fc5996.streamlock.net/tzik/tzik/chunklist.m3u8,,[tcp @ 0x5812c06649c0] Connection to tcp://54627d4fc5996.streamlock.net:443 failed: Connection timed out https://54627d4fc5996.streamlock.net/tzik/tzik/chunklist.m3u8: Connection timed out
+Tebeo TV (576i),OK-2X,IPTV-ORG France,https://tebeo.streamakaci.tv/tebeo/tebeo-multi/playlist.m3u8,"video,640,360
+audio
+
+video,1280,720
+audio
+
+video,1920,1080
+audio
+
+video,640,360
+audio
+video,1280,720
+audio
+video,1920,1080
+audio",
+TF1 Series Films (1080p),FAIL-1,IPTV-ORG France,http://149.62.177.107:9999/TF1_Series_Films/index.m3u8,,[tcp @ 0x5d2f7d85a780] Connection to tcp://149.62.177.107:9999 failed: Connection refused http://149.62.177.107:9999/TF1_Series_Films/index.m3u8: Connection refused
+TMC HD (1080p) [Geo-blocked],OK-2X,IPTV-ORG France,http://tv.streambox.fr/live/testlivestream/testlivestream/13.m3u8,"video,1920,1080
+audio
+
+video,1920,1080
+audio",
+Trace Brazuca (1080p),OK-2X,IPTV-ORG France,https://amg01131-tracetv-amg01131c4-stirr-us-4390.playouts.now.amagi.tv/playlist.m3u8,"video,640,360
+audio
+
+video,848,480
+audio
+
+video,1280,720
+audio
+
+video,1920,1080
+audio
+
+video,640,360
+audio
+video,848,480
+audio
+video,1280,720
+audio
+video,1920,1080
+audio",
+Trace Brazuca HD (1080p),FAIL-1,IPTV-ORG France,https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracebrazuca-samsungbr/playlist.m3u8,,[hls @ 0x62f47bce32c0] URL https://amg01131-tracetv-tracebrazuca-samsungbr-rfenz.amagi.tv/ts-eu-w1-n2/beacon/amg01131-tracetv-tracebrazuca-samsungbr/cb57381e6573648784c93778d1f14182c67b3dcb0e6c886470af4a9765d94c06d8fca08
+Trace Jama (1080p),OK-2X,IPTV-ORG France,https://channels.trace.plus/Traceprod/JAMA_hd/index.m3u8,"video,1280,720
+audio
+
+video,1280,720
+audio",
+Trace Mziki (1080p),OK-2X,IPTV-ORG France,https://channels.trace.plus/Traceprod/MZIKI_hd/index.m3u8,"video,1280,720
+audio
+
+video,1280,720
+audio",
+Trace Naija (1080p),OK-2X,IPTV-ORG France,https://channels.trace.plus/Traceprod/NAIJA_hd/index.m3u8,"video,1280,720
+audio
+
+video,1280,720
+audio",
+TV5Monde Style,FAIL-1,IPTV-ORG France,http://103.190.232.129/stream/tvb/style/master.m3u8?p=967e33767f592e1aaf3d4019f38f380bf784e113b193d89c412d047059d6300d&u=Oleg,,[tcp @ 0x5ea6b40cb900] Connection to tcp://103.190.232.129:80 failed: Connection timed out http://103.190.232.129/stream/tvb/style/master.m3u8?p=967e33767f592e1aaf3d4019f38f380bf784e113b193d89c412d047059d6300d&u=Oleg: Co
+TZiK [Not 24/7],FAIL-1,IPTV-ORG France,https://54627d4fc5996.streamlock.net/tzik/tzik/chunklist.m3u8,,[tcp @ 0x591ce3ff79c0] Connection to tcp://54627d4fc5996.streamlock.net:443 failed: Connection timed out https://54627d4fc5996.streamlock.net/tzik/tzik/chunklist.m3u8: Connection timed out
+Walker Texas Ranger,OK-2X,IPTV-ORG France,https://jmp2.uk/plu-635659445b4c4700076d2ad1.m3u8,"subtitle,N/A,N/A
+audio
+video,512,288
+audio
+
+subtitle,N/A,N/A
+audio
+video,768,432
+audio
+
+subtitle,N/A,N/A
+audio
+video,768,432
+audio
+
+subtitle,N/A,N/A
+audio
+video,1216,684
+audio
+
+subtitle,N/A,N/A
+audio
+video,512,288
+audio
+",
 2M Monde (360p),FAIL-1,IPTV-ORG Francais,https://cdn-globecast.akamaized.net/live/eds/2m_monde/hls_video_ts_tuhawxpiemz257adfc/2m_monde.m3u8,,https://cdn-globecast.akamaized.net/live/eds/2m_monde/hls_video_ts_tuhawxpiemz257adfc/2m_monde.m3u8: Server returned 403 Forbidden (access denied)
+Balafon TV [Geo-blocked],OK-2X,IPTV-ORG Francais,https://broadcasting-channels.com:9044/hls/test.m3u8,"video,854,480
+audio
+
+video,854,480
+audio",
 BAM-TV,FAIL-1,IPTV-ORG Francais,https://belafrikamediatv.vedge.infomaniak.com/livecast/ik:belafrikamediatv/manifest.m3u8,,https://belafrikamediatv.vedge.infomaniak.com/livecast/ik:belafrikamediatv/manifest.m3u8: Server returned 404 Not Found
+Benin TV Junior (720p),OK-2X,IPTV-ORG Francais,https://srtblive.streamakaci.tv/ortb/ortb2-multi/playlist_dvr.m3u8,"video,1280,720
+audio
+
+video,854,480
+audio
+
+video,640,360
+audio
+
+video,1280,720
+audio
+video,854,480
+audio
+video,640,360
+audio",
+Bob l'eponge (720p),OK-2X,IPTV-ORG Francais,https://jmp2.uk/plu-66588931a3865300085ca800.m3u8,"subtitle,N/A,N/A
+audio
+video,640,360
+
+subtitle,N/A,N/A
+audio
+video,854,480
+
+subtitle,N/A,N/A
+audio
+video,854,480
+
+subtitle,N/A,N/A
+audio
+video,1280,720
+
+subtitle,N/A,N/A
+audio
+video,426,240
+
+subtitle,N/A,N/A
+audio
+video,",
 Bruzz (720p),FAIL-1,IPTV-ORG Francais,https://hls-origin01-bruzz.cdn02.rambla.be/main/adliveorigin-bruzz/_definst_/V3n5YY.smil/playlist.m3u8,,https://hls-origin01-bruzz.cdn02.rambla.be/main/adliveorigin-bruzz/_definst_/V3n5YY.smil/playlist.m3u8: Server returned 403 Forbidden (access denied)
 BX1 (504p),FAIL-1,IPTV-ORG Francais,https://dlgt0tdl2hpq3.cloudfront.net/rtbf/clr-rtbf/7ec67c8d/index.m3u8,,timeout
 CNM TV (720p) [Not 24/7],FAIL-1,IPTV-ORG Francais,https://stream.sen-gt.com/cnmtv/myStream/playlist.m3u8,,https://stream.sen-gt.com/cnmtv/myStream/playlist.m3u8: Server returned 404 Not Found
+CRTV Sports and Entertainment SD (360p),OK-2X,IPTV-ORG Francais,https://live1.acangroup.org:1929/publiclive/crtv_sport/playlist.m3u8,"video,1920,1080
+audio
+
+video,1920,1080
+audio",
 D3 TV (720p),FAIL-1,IPTV-ORG Francais,https://lbgo.bozztv.com/ssh101/ssh101/d3tvnet/playlist.m3u8,,https://lbgo.bozztv.com/ssh101/ssh101/d3tvnet/playlist.m3u8: Server returned 5XX Server Error reply
-Dounia TV,FAIL-1,IPTV-ORG Francais,https://live20.bozztv.com/dvrfl06/astv/astv-douniatv/index.m3u8,,[tcp @ 0x5d15c37a99c0] Connection to tcp://live20.bozztv.com:443 failed: Connection refused https://live20.bozztv.com/dvrfl06/astv/astv-douniatv/index.m3u8: Connection refused
+Digital Channel (480p),FAIL-1,IPTV-ORG Francais,https://stream.digitalchannel.bj/live/ds_64de185c18c9d786a760f01e0e592348.m3u8,,https://stream.digitalchannel.bj/live/ds_64de185c18c9d786a760f01e0e592348.m3u8: Server returned 404 Not Found
+Dounia TV,FAIL-1,IPTV-ORG Francais,https://live20.bozztv.com/dvrfl06/astv/astv-douniatv/index.m3u8,,[tcp @ 0x589d725369c0] Connection to tcp://live20.bozztv.com:443 failed: Connection refused https://live20.bozztv.com/dvrfl06/astv/astv-douniatv/index.m3u8: Connection refused
 EbS (1080p),FAIL-1,IPTV-ORG Francais,https://streams.prd.commavservices.eu/live/ebs/index.m3u8,,timeout
 EbS+ (1080p),FAIL-1,IPTV-ORG Francais,https://streams.prd.commavservices.eu/live/ebsplus/index.m3u8,,timeout
 "like Gecko) Chrome/147.0.0.0 Safari/537.36"" group-title=""Lifestyle"",FashionTV (India) (576p)",FAIL-1,IPTV-ORG Francais,https://fta.ektv.in/live/144/144_0.m3u8,,https://fta.ektv.in/live/144/144_0.m3u8: Server returned 404 Not Found
+FashionTV (Russia) (1080p),OK-2X,IPTV-ORG Francais,http://fashionlive.mediacdn.ru/cdn/fashiontv/playlist.m3u8,"video,480,270
+audio
+
+video,640,360
+audio
+
+video,1024,576
+audio
+
+video,1280,720
+audio
+
+video,1920,1080
+audio
+
+video,480,270
+audio
+video,640,360
+audio
+video,1024,576
+audio
+video,1280,720
+audio
+video,1920,1080
+audio",
 Ici RDI (720p),FAIL-1,IPTV-ORG Francais,https://rcavlive.akamaized.net/hls/live/704026/canrdi/master.m3u8,,https://rcavlive.akamaized.net/hls/live/704026/canrdi/master.m3u8: Server returned 403 Forbidden (access denied)
-MCM Top (Russia) (576p),FAIL-1,IPTV-ORG Francais,http://46.32.176.50/mcmtop/index.m3u8,,[tcp @ 0x5e8816921640] Connection to tcp://46.32.176.50:80 failed: Connection timed out http://46.32.176.50/mcmtop/index.m3u8: Connection timed out
+JapanimTV (1080p),OK-2X,IPTV-ORG Francais,https://foxkidstv.be:3369/stream/play.m3u8,"video,720,400
+audio
+
+video,720,400
+audio",
+Madras FM TV (1080p),OK-2X,IPTV-ORG Francais,https://edge12.vedge.infomaniak.com/livecast/ik:madrasfmtv/manifest.m3u8,"data
+video,1920,1080
+audio
+
+data
+video,1920,1080
+audio",
+MCM Top (Russia) (576p),FAIL-1,IPTV-ORG Francais,http://46.32.176.50/mcmtop/index.m3u8,,[tcp @ 0x58f9aa576640] Connection to tcp://46.32.176.50:80 failed: Connection timed out http://46.32.176.50/mcmtop/index.m3u8: Connection timed out
+Montreal Greek TV (480p),OK-2X,IPTV-ORG Francais,http://live.greektv.ca/hls1/greektv.m3u8,"video,640,480
+audio
+
+video,640,480
+audio",
+"like Gecko) Chrome/154.0.0.0 Safari/537.36"" group-title=""General"",Nouvelle Caledonie 1ere (1080p)",OK-2X,IPTV-ORG Francais,https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/nouvelle-caledonie-1ere.m3u8,"audio
+audio
+subtitle,N/A,N/A
+video,256,144
+
+audio
+audio
+subtitle,N/A,N/A
+video,384,216
+
+audio
+audio
+subtitle,N/A,N/A
+video,640,360
+
+audio
+audio
+subtitle,N/A,N/A
+video,960,540
+
+audio
+audio
+subtitle,N/A,N/A
+video,1280,720
+",
 ORTM 1,FAIL-1,IPTV-ORG Francais,https://cs2.push2stream.com/ORTM-DVR/playlist.m3u8,,https://cs2.push2stream.com/ORTM-DVR/playlist.m3u8: Server returned 403 Forbidden (access denied)
-RTNB Divertissement,OK-2X,IPTV-ORG Francais,https://tv2-stream.rtnb.bi/hls/master.m3u8,"video,854,480
-audio
-
-video,640,360
-audio
-
-video,426,240
-audio
-
-video,256,144
-audio
-
-video,854,480
-audio
-video,640,360
-audio
-video,426,240
-audio
-video,256,144
-audio",
-RTNB TV,OK-2X,IPTV-ORG Francais,https://tv1-stream.rtnb.bi/hls/master.m3u8,"video,854,480
-audio
-
-video,640,360
-audio
-
-video,426,240
-audio
-
-video,256,144
-audio
-
-video,854,480
-audio
-video,640,360
-audio
-video,426,240
-audio
-video,256,144
-audio",
+RTNB Divertissement,FAIL-1,IPTV-ORG Francais,https://tv2-stream.rtnb.bi/hls/master.m3u8,,timeout
+RTNB TV,FAIL-1,IPTV-ORG Francais,https://tv1-stream.rtnb.bi/hls/master.m3u8,,timeout
 RTNC (1080p),FAIL-1,IPTV-ORG Francais,https://kali.vdopanel.com:3850/live/masterlive.m3u8,,https://kali.vdopanel.com:3850/live/masterlive.m3u8: Server returned 403 Forbidden (access denied)
-TV5Monde Pacific,FAIL-1,IPTV-ORG Francais,http://103.190.232.129/stream/tvb/pacifique/master.m3u8?p=967e33767f592e1aaf3d4019f38f380bf784e113b193d89c412d047059d6300d&u=Oleg,,[tcp @ 0x5b4391f2a900] Connection to tcp://103.190.232.129:80 failed: Connection timed out http://103.190.232.129/stream/tvb/pacifique/master.m3u8?p=967e33767f592e1aaf3d4019f38f380bf784e113b193d89c412d047059d6300d&u=Oleg
+TV5MONDE Chefs (1080p),OK-2X,IPTV-ORG Francais,https://tvf-tv5ch.otteravision.com/tvf/tv5ch/tv5ch.m3u8,"video,1920,1080
+audio
+data
+data
+subtitle,N/A,N/A
+subtitle,N/A,N/A
+subtitle,N/A,N/A
+
+video,1280,720
+audio
+data
+data
+subtitle,N/A,N/A
+subtitle,N/A,N/A
+subtitle,N/A,N/A
+
+video,960,540
+audio
+data
+data
+subtitle,N/A,N/A
+subtit",
+TV5Monde Pacific,FAIL-1,IPTV-ORG Francais,http://103.190.232.129/stream/tvb/pacifique/master.m3u8?p=967e33767f592e1aaf3d4019f38f380bf784e113b193d89c412d047059d6300d&u=Oleg,,[tcp @ 0x55dc92cb3900] Connection to tcp://103.190.232.129:80 failed: Connection timed out http://103.190.232.129/stream/tvb/pacifique/master.m3u8?p=967e33767f592e1aaf3d4019f38f380bf784e113b193d89c412d047059d6300d&u=Oleg
