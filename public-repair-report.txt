@@ -2,12 +2,19 @@ NO_REPLACEMENT | arte (720p)
 NO_REPLACEMENT | Clubbing TV France
 NO_REPLACEMENT | France 3 Lorraine (1080p)
 NO_REPLACEMENT | France 4
+NO_REPLACEMENT | France 5 (720p)
 NO_REPLACEMENT | like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="01 - TNT & GENERALISTES",TF1 (576p)
 NO_REPLACEMENT | like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="01 - TNT & GENERALISTES",TMC (1080p)
+NO_REPLACEMENT | TFX (720p)
 NO_REPLACEMENT | TVM 3 (1080p)
+NO_REPLACEMENT | W9 (1080p)
+NO_REPLACEMENT | Africanews French (720p)
 NO_REPLACEMENT | CNA (360p) [Not 24/7]
+NO_REPLACEMENT | CNews (1080p)
 NO_REPLACEMENT | CNEWS PRIME (1080p)
 NO_REPLACEMENT | Filinfo TV (1080p)
+TEST | LCI HD (1080p) | http://151.80.18.177:86/LCI_HD/index.m3u8 | FAIL | 
+NO_REPLACEMENT | LCI HD (1080p)
 NO_REPLACEMENT | like Gecko) Chrome/108.0.0.0 Safari/537.36" group-title="02 - INFOS",BFM Alsace (1080p)
 NO_REPLACEMENT | like Gecko) Chrome/108.0.0.0 Safari/537.36" group-title="02 - INFOS",BFM DICI Alpes du Sud (1080p)
 NO_REPLACEMENT | like Gecko) Chrome/108.0.0.0 Safari/537.36" group-title="02 - INFOS",BFM DICI Haute-Provence (1080p)
@@ -83,17 +90,17 @@ NO_REPLACEMENT | Canal+ Cinemas (720p)
 NO_REPLACEMENT | Ciné Charme by Pluto TV
 NO_REPLACEMENT | Cine+ Emotion (720p)
 NO_REPLACEMENT | CINEPRIDE
+NO_REPLACEMENT | Comédies - Rakuten TV
 NO_REPLACEMENT | Death Valley Days
 NO_REPLACEMENT | Dick Van Dyke
 NO_REPLACEMENT | FilmRise Série Populaire
-NO_REPLACEMENT | Hot Ones
+NO_REPLACEMENT | Films Romantiques - Rakuten TV
 NO_REPLACEMENT | like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="09 - CINEMA",Cine+ Classic
 NO_REPLACEMENT | like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="09 - CINEMA",Cine+ Frisson (1080p)
 NO_REPLACEMENT | Moviesphere
 NO_REPLACEMENT | MOVIESPHERE
 NO_REPLACEMENT | MyTime Movie Network
 NO_REPLACEMENT | Sony One Action HITS
-NO_REPLACEMENT | Sony One Hits Action (1080p)
 TEST | Sony One HITS Comédie | https://7aa9671895264ec9a384dfed1b992171.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-818-FR-SONYONEHITSCOMDIE-LG_FR/playlist.m3u8 | OK | video,1920,1080
 audio
 data
@@ -147,7 +154,6 @@ NO_REPLACEMENT | Boss Brothers TV (1080p)
 TEST | Caillou | https://do7nccdsswstc.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-1aso0bc668saa/a5233c83-f772-4a81-959a-45ec7877ef61/5.m3u8 | FAIL | 
 NO_REPLACEMENT | Caillou
 NO_REPLACEMENT | Disney Jr. (1080p)
-NO_REPLACEMENT | For You TV
 NO_REPLACEMENT | ICONE TV
 NO_REPLACEMENT | Le Meilleur des Jeux TV
 NO_REPLACEMENT | TG Junior
@@ -162,11 +168,9 @@ NO_REPLACEMENT | SportsGrid
 NO_REPLACEMENT | The World Poker Tour
 NO_REPLACEMENT | The World Poker Tour
 NO_REPLACEMENT | Women's Sports Network
-NO_REPLACEMENT | World Poker Tour
 NO_REPLACEMENT | Congo Planet Télévision (1080p) [Not 24/7]
 NO_REPLACEMENT | Couleur 3 (720p)
 NO_REPLACEMENT | Fun Vision
-NO_REPLACEMENT | Ici Radio-Canada Télé (1080p) [Geo-blocked]
 NO_REPLACEMENT | Ici Radio-Canada Télé Colombie-Britannique/Yukon (CBUFT-DT) [Geo-blocked]
 NO_REPLACEMENT | Ici Radio-Canada Télé Est du Québec (CJBR-DT) [Geo-blocked]
 NO_REPLACEMENT | Ici Radio-Canada Télé Estrie (CKSH-DT) [Geo-blocked]
@@ -187,6 +191,7 @@ NO_REPLACEMENT | NRJ Hits
 NO_REPLACEMENT | Qello Concerts
 NO_REPLACEMENT | Radio Contact (1080p)
 NO_REPLACEMENT | Radio Télé Amen FM (360p) [Not 24/7]
+NO_REPLACEMENT | Radio Tele Ginen
 NO_REPLACEMENT | Radio Télé Kajou (480p) [Not 24/7]
 NO_REPLACEMENT | Radio Tele Puissance
 NO_REPLACEMENT | Radio Tele Sentinel
@@ -207,12 +212,15 @@ NO_REPLACEMENT | Guide Love TV (720p)
 NO_REPLACEMENT | Luxe TV (1080p)
 NO_REPLACEMENT | Dynamic Gospel TV (480p) [Not 24/7]
 NO_REPLACEMENT | Ecclesia TV
+NO_REPLACEMENT | Iqraa Africa & Europe (1080p)
 NO_REPLACEMENT | Iqraa Quran (1080p)
 TEST | KTO (504p) | https://live-kto.akamaized.net/hls/live/2033284/KTO/master.m3u8 | FAIL | 
 NO_REPLACEMENT | KTO (504p)
 NO_REPLACEMENT | Miracle TV+ (720p)
 NO_REPLACEMENT | MTA1 World (720p)
 NO_REPLACEMENT | MTA2 Europe (720p)
+NO_REPLACEMENT | MTA4 Africa (1080p)
+NO_REPLACEMENT | MTA5 Africa (1080p)
 NO_REPLACEMENT | RTH-TV2 Gospel (720p)
 NO_REPLACEMENT | Trace Gospel Africa Franco (1080p)
 NO_REPLACEMENT | Trace Gospel Southern Africa (1080p)
@@ -230,6 +238,7 @@ NO_REPLACEMENT | Brat TV
 NO_REPLACEMENT | C4 en Alerta
 NO_REPLACEMENT | Camp Spoopy
 NO_REPLACEMENT | Canal 9 en Français (1080p)
+NO_REPLACEMENT | Carac 4 (1080p)
 NO_REPLACEMENT | Carac 5
 NO_REPLACEMENT | CBC News
 NO_REPLACEMENT | Cesar's Pack Leader TV
@@ -237,18 +246,26 @@ NO_REPLACEMENT | Classic Rock
 NO_REPLACEMENT | CombaTV
 NO_REPLACEMENT | COPS
 NO_REPLACEMENT | Cosmic Frontiers
+NO_REPLACEMENT | Dr. Phil
 NO_REPLACEMENT | Drive TV
 NO_REPLACEMENT | Dude Perfect
+NO_REPLACEMENT | Easy Listening
 NO_REPLACEMENT | Echos du Monde
 NO_REPLACEMENT | Eddie's Wonderland
 NO_REPLACEMENT | El Conflicto TV
+NO_REPLACEMENT | Éxitos del Momento
 NO_REPLACEMENT | Fight Network
+NO_REPLACEMENT | Flashback 70s
 NO_REPLACEMENT | FUEL TV
 NO_REPLACEMENT | Galxy TV
+NO_REPLACEMENT | Glewed TV
 NO_REPLACEMENT | GUSTOTV
 NO_REPLACEMENT | H2O & Friends
+NO_REPLACEMENT | Hard Knocks
+NO_REPLACEMENT | Hit List
 NO_REPLACEMENT | Ice Pilots NWT
 NO_REPLACEMENT | Ideas En 5 Minutos
+NO_REPLACEMENT | INTER 24/7
 NO_REPLACEMENT | ITV Deportes
 NO_REPLACEMENT | JAIL
 NO_REPLACEMENT | JDS.TV
@@ -270,11 +287,8 @@ NO_REPLACEMENT | NewsWorld
 NO_REPLACEMENT | Nolly Africa HD
 NO_REPLACEMENT | Nosey
 NO_REPLACEMENT | Nosey Escándalos
-NO_REPLACEMENT | Nothin' But 90s
 NO_REPLACEMENT | Novelisima
 NO_REPLACEMENT | Pac-12 Insider
-NO_REPLACEMENT | People are Awesome
-NO_REPLACEMENT | PFL MMA
 NO_REPLACEMENT | PickleTV
 NO_REPLACEMENT | Pitufo TV
 NO_REPLACEMENT | PLL Network
@@ -285,15 +299,22 @@ NO_REPLACEMENT | RACER International
 NO_REPLACEMENT | RCM
 NO_REPLACEMENT | Remember the ‘80s
 NO_REPLACEMENT | Revry
+NO_REPLACEMENT | Robot Wars by Mech+
 NO_REPLACEMENT | RTS 3 (720p)
 NO_REPLACEMENT | RTS Info (1080p)
 NO_REPLACEMENT | Shemaroo Bollywood
 NO_REPLACEMENT | SKWAD
+NO_REPLACEMENT | SLOPES
 NO_REPLACEMENT | Smooth Jazz
 NO_REPLACEMENT | Smurf TV
+NO_REPLACEMENT | Sonic TV
+NO_REPLACEMENT | Stingray Classica Stream
+NO_REPLACEMENT | Stingray Holidayscapes
+NO_REPLACEMENT | Stingray Hot Country
 NO_REPLACEMENT | Stingray Karaoke
 NO_REPLACEMENT | The Carol Burnett Show
 NO_REPLACEMENT | The Design Network
+NO_REPLACEMENT | The Spa
 NO_REPLACEMENT | TNA Wrestling Channel
 NO_REPLACEMENT | Toon Goggles
 NO_REPLACEMENT | Top Sci-Fi
@@ -326,11 +347,8 @@ NO_REPLACEMENT | Unbeaten
 NO_REPLACEMENT | USA TODAY
 NO_REPLACEMENT | Wasabi
 NO_REPLACEMENT | Watch it Kid
-NO_REPLACEMENT | Watch it SCREAM
 NO_REPLACEMENT | Waypoint TV
-NO_REPLACEMENT | World Billiards TV
 NO_REPLACEMENT | XFC TV
-NO_REPLACEMENT | Y2K
 NO_REPLACEMENT | Ya Que La Vérité La Chaine
 NO_REPLACEMENT | Yahoo Finance
 NO_REPLACEMENT | ZenLIFE by Stingray
@@ -346,7 +364,6 @@ NO_REPLACEMENT | TeleMB (1080p)
 NO_REPLACEMENT | Telesambre (504p)
 NO_REPLACEMENT | TVcom (1080p)
 NO_REPLACEMENT | Vedia (1080p)
-NO_REPLACEMENT | Medi1TV Afrique (1080p)
 NO_REPLACEMENT | TV5 Quebec Canada (1080p)
 NO_REPLACEMENT | TVA [Geo-blocked]
 NO_REPLACEMENT | LCN [Geo-blocked]
@@ -375,6 +392,7 @@ NO_REPLACEMENT | Afrique54 TV (720p)
 NO_REPLACEMENT | Afro Magic Channel
 NO_REPLACEMENT | Amani TV (1080p) [Not 24/7]
 NO_REPLACEMENT | Bénin Web TV (720p)
+NO_REPLACEMENT | CRTV (576p)
 NO_REPLACEMENT | Digital Congo TV
 NO_REPLACEMENT | Exploits TV
 NO_REPLACEMENT | Francophonie24 (1080p)
@@ -399,15 +417,16 @@ NO_REPLACEMENT | Trace Muzika (1080p)
 NO_REPLACEMENT | Trace Teranga (1080p)
 NO_REPLACEMENT | Trace Urban Africa Franco (1080p)
 NO_REPLACEMENT | 100% Kidz
+NO_REPLACEMENT | 750g
 NO_REPLACEMENT | Dhar Mann TV
 NO_REPLACEMENT | Émotion
+NO_REPLACEMENT | Epicurieux avec Jamy
 NO_REPLACEMENT | Familles en Scène
 NO_REPLACEMENT | L'effet papillon
 NO_REPLACEMENT | Le meilleur d'Arthur
 NO_REPLACEMENT | Le Meilleur de la TV Réalité
+NO_REPLACEMENT | Les Télétubbies
 NO_REPLACEMENT | Motus
-NO_REPLACEMENT | Mr Bean Animated
-NO_REPLACEMENT | Quantum Makers
 NO_REPLACEMENT | Red Bull TV
 NO_REPLACEMENT | Rolling Stones Takeover
 NO_REPLACEMENT | Rookie Blue
