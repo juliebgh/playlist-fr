@@ -8,10 +8,8 @@ France 5 (720p),01 - TNT & GENERALISTES,TIMEOUT,https://r.eu.cdn-redge.media/liv
 "like Gecko) Chrome/149.0.0.0 Safari/537.36"" group-title=""01 - TNT & GENERALISTES"",TMC (1080p)",01 - TNT & GENERALISTES,TIMEOUT,http://151.80.18.177:86/TMC/index.m3u8
 TFX (720p),01 - TNT & GENERALISTES,TIMEOUT,https://r.eu.cdn-redge.media/livehls/oeu/mt/live/tfx/live.livx/playlist.m3u8
 TVM 3 (1080p),01 - TNT & GENERALISTES,FAIL,https://cache1a.netplus.ch/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzY4MTg5NzQyIiwic2lwIjoiIiwicGF0aCI6Ii9saXZlL2Vkcy90dm0zL2Jyb3dzZXItSExTOC8iLCJzZXNzaW9uX2Nkbl9pZCI6IjNhZmJlZTIxMmU1NjUyODEiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzEwLjAuMjI5LjE5Iiwic2Vzc2lvbl90aW1lb3V0IjowLCJhdWQiOiI1MyIsInNvdXJjZXMiOls0OF19.N29uj_Xo3YmdQUboW5e45wx4lUey-utXtC6RpbbCGgJ8uCl2ngejd8tu_S-3tv7s02OtkHo4Rkf7mitOx_7lcA==/live/eds/tvm3/browser-HLS8/tvm3.m3u8
-W9 (1080p),01 - TNT & GENERALISTES,TIMEOUT,https://r.eu.cdn-redge.media/livehls/oeu/mt/live/w9_fr/live.livx/playlist.m3u8
-Africanews French (720p),02 - INFOS,TIMEOUT,https://cdn-euronews.akamaized.net/live/eds/africanews-fr/25050/index.m3u8
 CNA (360p) [Not 24/7],02 - INFOS,403,https://live.creacast.com/cna/stream/playlist.m3u8
-CNews (1080p),02 - INFOS,TIMEOUT,https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/cnews-dm.m3u8
+CNews (1080p),02 - INFOS,FAIL,https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/cnews-dm.m3u8
 CNEWS PRIME (1080p),02 - INFOS,FAIL,https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/cnews-prime-dm.m3u8
 Filinfo TV (1080p),02 - INFOS,404,https://d2iqjnqfr8pv3b.cloudfront.net/out/v1/d09d2fc718404cd8bccd3eba2444dd70/index.m3u8
 LCI HD (1080p),02 - INFOS,TIMEOUT,https://r.eu.cdn-redge.media/livehls/oeu/mt/live/lci/live.livx/playlist.m3u8
@@ -27,7 +25,6 @@ LCI HD (1080p),02 - INFOS,TIMEOUT,https://r.eu.cdn-redge.media/livehls/oeu/mt/li
 "like Gecko) Chrome/108.0.0.0 Safari/537.36"" group-title=""02 - INFOS"",BFM Tech & Co (1080p)",02 - INFOS,403,https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TECHANDCO/index.m3u8?end=END&start=LIVE
 "like Gecko) Chrome/108.0.0.0 Safari/537.36"" group-title=""02 - INFOS"",BFM Toulon Var (1080p)",02 - INFOS,403,https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TOULONVAR/index.m3u8?end=END&start=LIVE
 NW Info FR (576p),02 - INFOS,403,https://hls.newworldtv.com/nw-info/video/live.m3u8
-Press TV French (1080p),02 - INFOS,FAIL,https://live4.presstv.ir/live/smil:presstvfr.smil/playlist.m3u8
 Crime Beat TV,03 - CRIME & ENQUETES,404,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-68c98e7460586565cc56baab/?X-Plex-Token=MQj5gsQsF79CdBy-xJez
 Crime Scene TV,03 - CRIME & ENQUETES,404,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-685f150c593aba51f211823f/?X-Plex-Token=UZRxUBBGKQzUx9sw8nkR
 Love Crime & History,03 - CRIME & ENQUETES,FAIL,https://jmp2.uk/stvp-FRBD43000016D
@@ -39,6 +36,7 @@ Evasion TV,04 - REPORTAGES & DOCS,FAIL,https://kali.vdopanel.com:3788/hybrid/pla
 Les secrets de nos régions,04 - REPORTAGES & DOCS,FAIL,https://jmp2.uk/stvp-FRBD410000436
 NatureTime,04 - REPORTAGES & DOCS,FAIL,https://jmp2.uk/stvp-FRBB4900002D4
 Popular Science,04 - REPORTAGES & DOCS,FAIL,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-656fb850cb7e8e6a9bc3f36e/?X-Plex-Token=UZRxUBBGKQzUx9sw8nkR
+RMC Découverte,04 - REPORTAGES & DOCS,FAIL,https://jmp2.uk/stvp-FRBD4100008QS
 Stingray Naturescape,04 - REPORTAGES & DOCS,404,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-62fbf36c1567211fdb82e920/?X-Plex-Token=UZRxUBBGKQzUx9sw8nkR
 TV5MONDE Voyage,04 - REPORTAGES & DOCS,404,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-68b74a235dc5413c905efd62/?X-Plex-Token=UZRxUBBGKQzUx9sw8nkR
 WildEarth,04 - REPORTAGES & DOCS,FAIL,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-60d4edddb2fdec002c141135/?X-Plex-Token=UZRxUBBGKQzUx9sw8nkR
@@ -46,10 +44,9 @@ Cap Terre,05 - ANIMAUX & NATURE,FAIL,https://jmp2.uk/stvp-FRBC3900004DS
 Ici Radio-Canada Télé Terre-Neuve-et-Labrador (CBAFT-DT) [Geo-blocked],05 - ANIMAUX & NATURE,403,https://rcavlive.akamaized.net/hls/live/704014/cancbaft/master.m3u8
 Nature Time,05 - ANIMAUX & NATURE,404,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-6827c34ca5c6e573c6904444/?X-Plex-Token=UZRxUBBGKQzUx9sw8nkR
 Trace Urban Caribbean and Indian Ocean (1080p),05 - ANIMAUX & NATURE,403,https://channels.trace.plus/Traceprod/URBAN_DOM_hd/index.m3u8
-Le Monde en 24h,06 - VOYAGE & DECOUVERTE,404,https://stream.berosat.live/hls/monde24h-tv-index/monde24h-tv-index.m3u8
 TiVi5 Monde [Geo-blocked],06 - VOYAGE & DECOUVERTE,403,https://ott.tv5monde.com/Content/HLS/Live/channel(tivi5)/variant.m3u8
 TV5Monde Asia (1080p),06 - VOYAGE & DECOUVERTE,FAIL,http://54.37.19.157/TV5MONDE/index.m3u8
-TV5Monde Europe (1080p),06 - VOYAGE & DECOUVERTE,404,http://5.180.164.197:8080/TV5MONDE/index.m3u8
+TV5Monde Europe (1080p),06 - VOYAGE & DECOUVERTE,TIMEOUT,http://5.180.164.197:8080/TV5MONDE/index.m3u8
 TV5Monde Info (1080p) [Geo-blocked],06 - VOYAGE & DECOUVERTE,FAIL,http://91.235.255.32:8001/1:0:1:2CA:14B4:13E:820000:0:0:0
 TV5Monde Latin America (720p),06 - VOYAGE & DECOUVERTE,TIMEOUT,http://45.162.231.38:7779/TV5_Monde/index.m3u8
 TV5Monde Pacifique (1080p) [Geo-blocked],06 - VOYAGE & DECOUVERTE,403,https://ott.tv5monde.com/Content/HLS/Live/channel(pacifique)/variant.m3u8
@@ -59,6 +56,7 @@ Cooking Panda,07 - CUISINE,404,https://epg.provider.plex.tv/library/parts/6430aa
 TV5MONDE Chefs,07 - CUISINE,404,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-68b74890b5b437bf872b6b72/?X-Plex-Token=UZRxUBBGKQzUx9sw8nkR
 123GO!,08 - MAISON BRICOLAGE DECO,FAIL,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-63eecb32ac23d1ee072087cb/?X-Plex-Token=UZRxUBBGKQzUx9sw8nkR
 5-Minute Crafts,08 - MAISON BRICOLAGE DECO,FAIL,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-63894c1965b848bf2c8a7800/?X-Plex-Token=UZRxUBBGKQzUx9sw8nkR
+CraftsyTV,08 - MAISON BRICOLAGE DECO,FAIL,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-6365779dde08f8eec6c3f21f/?X-Plex-Token=UZRxUBBGKQzUx9sw8nkR
 Creator Television,08 - MAISON BRICOLAGE DECO,FAIL,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-67884bd6d37f2fd48d6220db/?X-Plex-Token=UZRxUBBGKQzUx9sw8nkR
 Million Dollar Dream Home,08 - MAISON BRICOLAGE DECO,FAIL,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-684c2379e32026b0c1f53793/?X-Plex-Token=UZRxUBBGKQzUx9sw8nkR
 100% Cinema,09 - CINEMA,FAIL,https://jmp2.uk/stvp-FR13000020W
@@ -68,12 +66,12 @@ Action Totale,09 - CINEMA,404,https://jmp2.uk/stvp-FR220000105
 Canal+ Cinemas (720p),09 - CINEMA,TIMEOUT,http://151.80.18.177:86/Canal+_cinema_HD/index.m3u8
 Ciné Charme by Pluto TV,09 - CINEMA,404,https://jmp2.uk/plu-6a31608fac88749b9cb85dd8.m3u8
 Cine+ Emotion (720p),09 - CINEMA,403,http://145.239.5.177/337/index.m3u8
+Ciné Rétro by Pluto TV,09 - CINEMA,TIMEOUT,https://jmp2.uk/plu-5f8ed168f72fcd0007e56269.m3u8
+Ciné Sci-Fi by Pluto TV,09 - CINEMA,TIMEOUT,https://jmp2.uk/plu-60c34592c911890007f29a73.m3u8
 CINEPRIDE,09 - CINEMA,404,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-62167144ab2095ca85353ad6/?X-Plex-Token=UZRxUBBGKQzUx9sw8nkR
-Comédies - Rakuten TV,09 - CINEMA,TIMEOUT,https://jmp2.uk/stvp-FR26000068C
 Death Valley Days,09 - CINEMA,FAIL,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-6674b68af04cf4bb9233c916/?X-Plex-Token=UZRxUBBGKQzUx9sw8nkR
 Dick Van Dyke,09 - CINEMA,FAIL,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-6449369eb3ff17382cae5801/?X-Plex-Token=UZRxUBBGKQzUx9sw8nkR
 FilmRise Série Populaire,09 - CINEMA,404,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-65e9d0ad8fe4ef7053c3c870/?X-Plex-Token=UZRxUBBGKQzUx9sw8nkR
-Films Romantiques - Rakuten TV,09 - CINEMA,TIMEOUT,https://jmp2.uk/stvp-FR2600003OZ
 Grjngo - Western Movies,09 - CINEMA,FAIL,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-63489a771159f6a5ce819b7b/?X-Plex-Token=UZRxUBBGKQzUx9sw8nkR
 Hot Ones,09 - CINEMA,FAIL,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-6582a1316b91be4547aa153c/?X-Plex-Token=UZRxUBBGKQzUx9sw8nkR
 "like Gecko) Chrome/149.0.0.0 Safari/537.3"" group-title=""09 - CINEMA"",Cine+ Classic",09 - CINEMA,TIMEOUT,http://99.27.51.147/CineClassic/index.m3u8
@@ -82,6 +80,7 @@ Movie Music by Stingray,09 - CINEMA,FAIL,https://epg.provider.plex.tv/library/pa
 Moviesphere,09 - CINEMA,403,https://jmp2.uk/stvp-FR42000023H
 MOVIESPHERE,09 - CINEMA,404,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-695d5c1d6e5de3b17595a267/?X-Plex-Token=UZRxUBBGKQzUx9sw8nkR
 MyTime Movie Network,09 - CINEMA,FAIL,https://jmp2.uk/stvp-FRBA2200010VN
+Pluto TV Comédies Cultes,09 - CINEMA,TIMEOUT,https://jmp2.uk/plu-67b4b2d976a934282e92d71c.m3u8
 Sony One Action HITS,09 - CINEMA,FAIL,https://jmp2.uk/stvp-FR3000139Z
 Sony One HITS Comédie,09 - CINEMA,FAIL,https://jmp2.uk/stvp-FR300009JQ
 Sony One | Séries Comédie,09 - CINEMA,404,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-6922294e5cbe620c1f9b6bbb/?X-Plex-Token=UZRxUBBGKQzUx9sw8nkR
@@ -99,9 +98,11 @@ Zylo Emotion' L (1080p),09 - CINEMA & SERIES,FAIL,https://rakutenaa-zylo-emotion
 Zylo ScreamIN (1080p),09 - CINEMA & SERIES,FAIL,https://rakutenaa-zylo-screamin-rakuten-p11ej.amagi.tv/playlist/rakutenAA-zylo-screamin-rakuten/playlist.m3u8
 Asian Drama,10 - SERIES,FAIL,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-685f27cca7111a932d28f1ae/?X-Plex-Token=UZRxUBBGKQzUx9sw8nkR
 Banijay Mr Bean Animé (1080p),10 - SERIES,FAIL,https://amg00627-amg00627c31-rakuten-fr-3991.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanfrcc-rakutenfr/playlist.m3u8
+Génération Sitcoms,10 - SERIES,TIMEOUT,https://jmp2.uk/plu-60afb203ec391c00070ea1bf.m3u8
 Génération Sitcoms TV,10 - SERIES,404,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-68e03d842cbc7a5d3189394a/?X-Plex-Token=MQj5gsQsF79CdBy-xJez
 Soap,10 - SERIES,404,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-695d48094ba349f255911f92/?X-Plex-Token=UZRxUBBGKQzUx9sw8nkR
 Zylo Fréquence Novelas (1080p),10 - SERIES,FAIL,https://d20oth1416y9a1.cloudfront.net/playlist/amg00711-zylofast-frequencenovelas-rakutenus/playlist.m3u8
+Beyblade,11 - EMISSIONS & DIVERTISSEMENT,TIMEOUT,https://jmp2.uk/plu-664c8ba33d173b00080ef0c8.m3u8
 Boss Brothers TV (1080p),11 - EMISSIONS & DIVERTISSEMENT,TIMEOUT,http://51.254.199.122:8080/bossbrothersTV/index.m3u8
 Caillou,11 - EMISSIONS & DIVERTISSEMENT,FAIL,https://jmp2.uk/stvp-FR4800002NE
 Disney Jr. (1080p),11 - EMISSIONS & DIVERTISSEMENT,TIMEOUT,http://151.80.18.177:86/Disney_Junior_HD/index.m3u8
@@ -157,14 +158,11 @@ Guide Love TV (720p),16 - LIFESTYLE & BIEN-ETRE,404,https://video1.getstreamhost
 Luxe TV (1080p),16 - LIFESTYLE & BIEN-ETRE,TIMEOUT,http://103.154.3.101:5001/live/1736.m3u8
 Dynamic Gospel TV (480p) [Not 24/7],17 - SPIRITUALITE,FAIL,https://ssh101stream.ssh101.com/akamaissh101/ssh101/tvdynamicstream/playlist.m3u8
 Ecclesia TV,17 - SPIRITUALITE,404,https://video1.getstreamhosting.com:1936/8294/8294/playlist.m3u8
-Iqraa Africa & Europe (1080p),17 - SPIRITUALITE,TIMEOUT,https://playlist.fasttvcdn.com/pl/dlkqw1ftuvuuzkcb4pxdcg/Iqraafasttv1/playlist.m3u8
 Iqraa Quran (1080p),17 - SPIRITUALITE,TIMEOUT,https://playlist.fasttvcdn.com/pl/dlkqw1ftuvuuzkcb4pxdcg/Iqraafasttv2/playlist.m3u8
 KTO (504p),17 - SPIRITUALITE,403,http://145.239.5.177/354/index.m3u8
 Miracle TV+ (720p),17 - SPIRITUALITE,403,https://strhlslb01.streamakaci.tv/str_mtv_mtv/str_mtv_multi/playlist.m3u8
 MTA1 World (720p),17 - SPIRITUALITE,TIMEOUT,https://chlivemta1.akamaized.net/hls/live/2008145/mta1/playlist.m3u8
 MTA2 Europe (720p),17 - SPIRITUALITE,TIMEOUT,https://chlivemta1.akamaized.net/hls/live/2008145/mta2/playlist.m3u8
-MTA4 Africa (1080p),17 - SPIRITUALITE,TIMEOUT,https://chlivemta.akamaized.net/hls/live/2010555/mtaafrica1/playlist.m3u8
-MTA5 Africa (1080p),17 - SPIRITUALITE,TIMEOUT,https://chlivemta.akamaized.net/hls/live/2010555/mtaafrica2/playlist.m3u8
 RTH-TV2 Gospel (720p),17 - SPIRITUALITE,FAIL,https://2-fss-2.streamhoster.com/pl_120/amlst:206708-4202592/playlist.m3u8
 Trace Gospel Africa Franco (1080p),17 - SPIRITUALITE,403,https://channels.trace.plus/Traceprod/GOSPEL_FR_hd/index.m3u8
 Trace Gospel Southern Africa (1080p),17 - SPIRITUALITE,403,https://channels.trace.plus/Traceprod/GOSPEL_SA_hd/index.m3u8
@@ -182,8 +180,6 @@ Brat TV,20 - SUISSE FR,FAIL,https://epg.provider.plex.tv/library/parts/6430aa45f
 C4 en Alerta,20 - SUISSE FR,FAIL,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-65b1568052aa31b8f64da064/?X-Plex-Token=UZRxUBBGKQzUx9sw8nkR
 Camp Spoopy,20 - SUISSE FR,FAIL,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-6164a963766ab4f9f57e81b1/?X-Plex-Token=UZRxUBBGKQzUx9sw8nkR
 Canal 9 en Français (1080p),20 - SUISSE FR,403,https://livehd.vedge.infomaniak.com/livecast/livehd/master.m3u8
-Carac 4 (1080p),20 - SUISSE FR,TIMEOUT,https://edge17.vedge.infomaniak.com/livecast/ik:compack_media_1/playlist.m3u8
-Carac 5,20 - SUISSE FR,TIMEOUT,https://lfmmd.vedge.infomaniak.com/livecast/ik:carac5/manifest.m3u8
 CBC News,20 - SUISSE FR,FAIL,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-64c91830ea7db2f52688c52c/?X-Plex-Token=UZRxUBBGKQzUx9sw8nkR
 Cesar's Pack Leader TV,20 - SUISSE FR,FAIL,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-693cbba358076a970420f597/?X-Plex-Token=UZRxUBBGKQzUx9sw8nkR
 Classic Rock,20 - SUISSE FR,FAIL,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-61aaa0cc784a2161d3caf7ff/?X-Plex-Token=UZRxUBBGKQzUx9sw8nkR
@@ -257,6 +253,7 @@ Smooth Jazz,20 - SUISSE FR,FAIL,https://epg.provider.plex.tv/library/parts/6430a
 Smurf TV,20 - SUISSE FR,404,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-639b8d803f4612cc150a5721/?X-Plex-Token=UZRxUBBGKQzUx9sw8nkR
 Sonic TV,20 - SUISSE FR,FAIL,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-62ba4aaff663580a7238f327/?X-Plex-Token=UZRxUBBGKQzUx9sw8nkR
 Stingray Classica Stream,20 - SUISSE FR,FAIL,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-62d7f68fb19cbf65dc7bef7d/?X-Plex-Token=UZRxUBBGKQzUx9sw8nkR
+Stingray Greatest Hits,20 - SUISSE FR,404,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-61aa97d4113e1e5137fd5325/?X-Plex-Token=Hss1ULyR-2MDkbyfwbhg
 Stingray Holidayscapes,20 - SUISSE FR,FAIL,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-654eb862dde2222e8ba551f1/?X-Plex-Token=UZRxUBBGKQzUx9sw8nkR
 Stingray Hot Country,20 - SUISSE FR,FAIL,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-61aa9e73784a2161d3caf7f9/?X-Plex-Token=UZRxUBBGKQzUx9sw8nkR
 Stingray Karaoke,20 - SUISSE FR,404,https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-62d7f6904d0067dd4d60d0de/?X-Plex-Token=UZRxUBBGKQzUx9sw8nkR
@@ -303,7 +300,6 @@ LCN [Geo-blocked],22 - QUEBEC & CANADA FR,403,https://tvalive.akamaized.net/hls/
 Legislative Assembly of Ontario,22 - QUEBEC & CANADA FR,FAIL,https://temp3.isilive.ca/live/_definst_/ontla/house-en/playlist.m3u8
 TV5 Unis,22 - QUEBEC & CANADA FR,TIMEOUT,http://23.133.220.149/Unis_TV/index.m3u8
 ILTV (720p),23 - FRANCE REGIONS,403,https://live.creacast.com/iltv/smil:iltv.smil/playlist.m3u8
-Puissance TV,23 - FRANCE REGIONS,TIMEOUT,https://event.vedge.infomaniak.com/livecast/ik:puissancetelevision/manifest.m3u8
 Rhône TV (1080p) [Geo-blocked],23 - FRANCE REGIONS,403,https://edge14.vedge.infomaniak.com/livecast/ik:rhonetv/manifest.m3u8
 TéléGohelle,23 - FRANCE REGIONS,404,https://videas.agglo-lenslievin.fr/index.m3u8
 TV78 (720p),23 - FRANCE REGIONS,404,https://streamtv.cdn.dvmr.fr/TV78/ngrp:tv78.stream_all/master.m3u8
@@ -324,7 +320,9 @@ Afrique Media (720p),25 - AFRIQUE FRANCOPHONE,403,https://cloud.odysee.live/cont
 Afrique54 TV (720p),25 - AFRIQUE FRANCOPHONE,404,https://video1.getstreamhosting.com:1936/8318/8318/playlist.m3u8
 Afro Magic Channel,25 - AFRIQUE FRANCOPHONE,404,https://video1.getstreamhosting.com:1936/8306/8306/playlist.m3u8
 Amani TV (1080p) [Not 24/7],25 - AFRIQUE FRANCOPHONE,TIMEOUT,https://goccn.cloud/hls/amanitv/index.m3u8
+Baraka Television (720p) [Not 24/7],25 - AFRIQUE FRANCOPHONE,404,https://stream.berosat.live:19360/baraka-hd/baraka-hd.m3u8
 Bénin Web TV (720p),25 - AFRIQUE FRANCOPHONE,FAIL,https://stream.beninwebtv.bj/2/live/stream.m3u8
+Canaf54 TV,25 - AFRIQUE FRANCOPHONE,404,https://5caf24a595d94.streamlock.net:1937/pvyugfkzkc/pvyugfkzkc/playlist.m3u8
 CRTV (576p),25 - AFRIQUE FRANCOPHONE,FAIL,https://10gb1.acangroup.org:1929/crtv/crtv_all/playlist.m3u8
 Digital Congo TV,25 - AFRIQUE FRANCOPHONE,TIMEOUT,http://51.254.199.122:8080/DigitalCongoTV/index.m3u8
 Exploits TV,25 - AFRIQUE FRANCOPHONE,404,https://stream.berosat.live/hls/exploits-tv/exploits-tv.m3u8
@@ -349,10 +347,8 @@ Trace Muzika (1080p),25 - AFRIQUE FRANCOPHONE,403,https://channels.trace.plus/Tr
 Trace Teranga (1080p),25 - AFRIQUE FRANCOPHONE,403,https://channels.trace.plus/Traceprod/TERANGA_hd/index.m3u8
 Trace Urban Africa Franco (1080p),25 - AFRIQUE FRANCOPHONE,403,https://channels.trace.plus/Traceprod/URBAN_AFRIC_FR_hd/index.m3u8
 100% Kidz,32 - SAMSUNG TV PLUS FR,FAIL,https://jmp2.uk/stvp-FR3400004L5
-750g,32 - SAMSUNG TV PLUS FR,TIMEOUT,https://jmp2.uk/stvp-FRBD4100002R7
 Dhar Mann TV,32 - SAMSUNG TV PLUS FR,TIMEOUT,https://jmp2.uk/stvp-FR3800005NP
 Émotion,32 - SAMSUNG TV PLUS FR,404,https://jmp2.uk/stvp-FRBC900001LB
-Epicurieux avec Jamy,32 - SAMSUNG TV PLUS FR,TIMEOUT,https://jmp2.uk/stvp-FRBD5100003TP
 Familles en Scène,32 - SAMSUNG TV PLUS FR,FAIL,https://jmp2.uk/stvp-FR3600002W2
 L'effet papillon,32 - SAMSUNG TV PLUS FR,FAIL,https://jmp2.uk/stvp-FRBD11000038N
 Le meilleur d'Arthur,32 - SAMSUNG TV PLUS FR,FAIL,https://jmp2.uk/stvp-FRBD1900006NA
@@ -360,6 +356,7 @@ Le Meilleur de la TV Réalité,32 - SAMSUNG TV PLUS FR,FAIL,https://jmp2.uk/stvp
 Les Télétubbies,32 - SAMSUNG TV PLUS FR,FAIL,https://jmp2.uk/stvp-FR1600002TT
 Motus,32 - SAMSUNG TV PLUS FR,FAIL,https://jmp2.uk/stvp-FRBB490000412
 Red Bull TV,32 - SAMSUNG TV PLUS FR,TIMEOUT,https://jmp2.uk/stvp-FR1700004PK
+RMC Life,32 - SAMSUNG TV PLUS FR,FAIL,https://jmp2.uk/stvp-FR4000003O1
 Rolling Stones Takeover,32 - SAMSUNG TV PLUS FR,FAIL,https://jmp2.uk/stvp-FR7000053L
 Rookie Blue,32 - SAMSUNG TV PLUS FR,403,https://jmp2.uk/stvp-FR2100001VM
 Show ! Variété,32 - SAMSUNG TV PLUS FR,404,https://jmp2.uk/stvp-FR3100003KZ
@@ -369,12 +366,14 @@ Top Barça,32 - SAMSUNG TV PLUS FR,403,https://jmp2.uk/stvp-FR110000354
 Trailers,32 - SAMSUNG TV PLUS FR,FAIL,https://jmp2.uk/stvp-FRBC9000041F
 Antenne A,40 - AUTRES FRANCOPHONES,TIMEOUT,http://51.254.199.122:8080/antenne_a-plus/index.m3u8
 Canal 3,40 - AUTRES FRANCOPHONES,403,https://cs2.push2stream.com/CANAL3BENIN/playlist.m3u8
+My TV Channel (720p) [Not 24/7],40 - AUTRES FRANCOPHONES,TIMEOUT,http://connectiktv.ddns.net:5000/mytvchannel/@mytvchannel/playlist.m3u8
 Natural TV (720p) [Not 24/7],40 - AUTRES FRANCOPHONES,TIMEOUT,http://broadcasttr.com:1935/naturaltv/bant1/playlist.m3u8
 NW Economie (576p),40 - AUTRES FRANCOPHONES,403,https://hls.newworldtv.com/nw-economie/video/live.m3u8
 NW Magazine (576p),40 - AUTRES FRANCOPHONES,403,https://hls.newworldtv.com/nw-magazine/video/live.m3u8
 One Nation TV (720p) [Not 24/7],40 - AUTRES FRANCOPHONES,404,https://endour.net/hls/One_nationtv/index.m3u8
+Play TV (720p) [Not 24/7],40 - AUTRES FRANCOPHONES,TIMEOUT,http://connectiktv.ddns.net:5000/playtv/@playtv/playlist.m3u8
+PLEX TV,40 - AUTRES FRANCOPHONES,TIMEOUT,http://connectiktv.ddns.net:5000/plextv/@plextv/playlist.m3u8
 PSTV HD (480p) [Not 24/7],40 - AUTRES FRANCOPHONES,TIMEOUT,http://51.254.199.122:8080/PSTV/index.m3u8
-RL PRO TV,40 - AUTRES FRANCOPHONES,404,https://stream.berosat.live:19360/rlpro-tv/rlpro-tv.m3u8
 RT France (1080p) [Geo-blocked],40 - AUTRES FRANCOPHONES,TIMEOUT,https://rt-fra.rttv.com/dvr/rtfrance/playlist.m3u8
 RTH-TV1 (1080p),40 - AUTRES FRANCOPHONES,FAIL,https://2-fss-2.streamhoster.com/pl_120/amlst:206708-4203440/playlist.m3u8
 RTVS1,40 - AUTRES FRANCOPHONES,TIMEOUT,http://51.254.199.122:8080/RTVS1/index.m3u8
@@ -403,3 +402,4 @@ LBFD RTV (1080p),99 - A VERIFIER LANGUE,404,https://tnt-television.com/LBFD_RTV/
 Mikuba TV (480p) [Not 24/7],99 - A VERIFIER LANGUE,TIMEOUT,http://51.254.199.122:8080/MIKUBATV/index.m3u8
 NETALKOLE TV (720p) [Not 24/7],99 - A VERIFIER LANGUE,FAIL,https://watch.haitilive.net/naktvhd/index.m3u8
 ONE-TV (720p) [Not 24/7],99 - A VERIFIER LANGUE,TIMEOUT,https://core.live-apc.eu:5443/LiveApp/streams/backup.m3u8
+Speedline TV,99 - A VERIFIER LANGUE,404,https://cdn-us-east-prod-ingest-infra-dacast-com.akamaized.net/dbe59037-07a0-4f1c-82a2-7de94b4b62d2/index.m3u8
