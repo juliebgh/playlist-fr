@@ -1,13 +1,12 @@
 NO_REPLACEMENT | arte (720p)
 NO_REPLACEMENT | Clubbing TV France
 NO_REPLACEMENT | France 3 Lorraine (1080p)
+NO_REPLACEMENT | France 5 (720p)
 NO_REPLACEMENT | like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="01 - TNT & GENERALISTES",TF1 (576p)
 NO_REPLACEMENT | like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="01 - TNT & GENERALISTES",TMC (1080p)
 NO_REPLACEMENT | TVM 3 (1080p)
 NO_REPLACEMENT | CNA (360p) [Not 24/7]
-NO_REPLACEMENT | CNews (1080p)
 NO_REPLACEMENT | CNEWS PRIME (1080p)
-NO_REPLACEMENT | Diaspora 24 [Geo-blocked]
 NO_REPLACEMENT | Filinfo TV (1080p)
 NO_REPLACEMENT | like Gecko) Chrome/108.0.0.0 Safari/537.36" group-title="02 - INFOS",BFM Alsace (1080p)
 NO_REPLACEMENT | like Gecko) Chrome/108.0.0.0 Safari/537.36" group-title="02 - INFOS",BFM DICI Alpes du Sud (1080p)
@@ -37,6 +36,7 @@ NO_REPLACEMENT | WildEarth
 NO_REPLACEMENT | Cap Terre
 NO_REPLACEMENT | Ici Radio-Canada Télé Terre-Neuve-et-Labrador (CBAFT-DT) [Geo-blocked]
 NO_REPLACEMENT | Trace Urban Caribbean and Indian Ocean (1080p)
+NO_REPLACEMENT | Le Monde en 24h
 NO_REPLACEMENT | TiVi5 Monde [Geo-blocked]
 NO_REPLACEMENT | TV5Monde Asia (1080p)
 NO_REPLACEMENT | TV5Monde Europe (1080p)
@@ -68,7 +68,7 @@ audio
 data
 data
 sub
-APPLIED | TV5MONDE Chefs | https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-68b74890b5b437bf872b6b72/?X-Plex-Token=t8anmArh-MxbaNHbHzzz -> https://tvf-tv5ch.otteravision.com/tvf/tv5ch/tv5ch.m3u8
+APPLIED | TV5MONDE Chefs | https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-68b74890b5b437bf872b6b72/?X-Plex-Token=TgmF5zVntLjWK3gP1Psw -> https://tvf-tv5ch.otteravision.com/tvf/tv5ch/tv5ch.m3u8
 NO_REPLACEMENT | 123GO!
 NO_REPLACEMENT | 5-Minute Crafts
 NO_REPLACEMENT | Creator Television
@@ -77,6 +77,7 @@ NO_REPLACEMENT | 100% Cinema
 NO_REPLACEMENT | 100% Comedy
 NO_REPLACEMENT | Action Hollywood Movies
 NO_REPLACEMENT | Action Totale
+NO_REPLACEMENT | Allociné
 NO_REPLACEMENT | Canal+ Cinemas (720p)
 NO_REPLACEMENT | Ciné Charme by Pluto TV
 NO_REPLACEMENT | Cine+ Emotion (720p)
@@ -87,7 +88,6 @@ NO_REPLACEMENT | FilmRise Série Populaire
 NO_REPLACEMENT | Hot Ones
 NO_REPLACEMENT | like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="09 - CINEMA",Cine+ Classic
 NO_REPLACEMENT | like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="09 - CINEMA",Cine+ Frisson (1080p)
-NO_REPLACEMENT | Movie Music by Stingray
 NO_REPLACEMENT | Moviesphere
 NO_REPLACEMENT | MOVIESPHERE
 NO_REPLACEMENT | MyTime Movie Network
@@ -134,7 +134,6 @@ NO_REPLACEMENT | like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="09 - CI
 NO_REPLACEMENT | Nollywood TV (720p)
 NO_REPLACEMENT | Novela Channel (720p) [Not 24/7]
 NO_REPLACEMENT | SciFi (720p)
-NO_REPLACEMENT | Sony One Blacklist (1080p)
 NO_REPLACEMENT | Zylo Emotion' L (1080p)
 NO_REPLACEMENT | Zylo ScreamIN (1080p)
 NO_REPLACEMENT | Asian Drama
@@ -146,7 +145,6 @@ NO_REPLACEMENT | Boss Brothers TV (1080p)
 TEST | Caillou | https://do7nccdsswstc.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-1aso0bc668saa/a5233c83-f772-4a81-959a-45ec7877ef61/5.m3u8 | FAIL | 
 NO_REPLACEMENT | Caillou
 NO_REPLACEMENT | Disney Jr. (1080p)
-NO_REPLACEMENT | For You TV
 NO_REPLACEMENT | ICONE TV
 NO_REPLACEMENT | Le Meilleur des Jeux TV
 NO_REPLACEMENT | TG Junior
@@ -220,8 +218,9 @@ audio
 video,1280,720
 audio
 video,192
-APPLIED | FashionTV | https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-6490c01f3b3ce9e1aaad95be/?X-Plex-Token=t8anmArh-MxbaNHbHzzz -> http://fashionlive.mediacdn.ru/cdn/fashiontv/playlist.m3u8
+APPLIED | FashionTV | https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-6490c01f3b3ce9e1aaad95be/?X-Plex-Token=TgmF5zVntLjWK3gP1Psw -> http://fashionlive.mediacdn.ru/cdn/fashiontv/playlist.m3u8
 NO_REPLACEMENT | Guide Love TV (720p)
+NO_REPLACEMENT | Le Nouveau Manager TV
 NO_REPLACEMENT | Luxe TV (1080p)
 NO_REPLACEMENT | Dynamic Gospel TV (480p) [Not 24/7]
 NO_REPLACEMENT | Ecclesia TV
@@ -248,6 +247,7 @@ NO_REPLACEMENT | Brat TV
 NO_REPLACEMENT | C4 en Alerta
 NO_REPLACEMENT | Camp Spoopy
 NO_REPLACEMENT | Canal 9 en Français (1080p)
+NO_REPLACEMENT | Carac 5
 NO_REPLACEMENT | CBC News
 NO_REPLACEMENT | Cesar's Pack Leader TV
 NO_REPLACEMENT | Classic Rock
@@ -270,7 +270,6 @@ NO_REPLACEMENT | Glewed TV
 NO_REPLACEMENT | GUSTOTV
 NO_REPLACEMENT | H2O & Friends
 NO_REPLACEMENT | Hard Knocks
-NO_REPLACEMENT | Hit List
 NO_REPLACEMENT | Ice Pilots NWT
 NO_REPLACEMENT | Ideas En 5 Minutos
 NO_REPLACEMENT | ITV Deportes
@@ -356,7 +355,6 @@ NO_REPLACEMENT | Qu4tre (1080p)
 NO_REPLACEMENT | RTL-TVI (1080p) [Not 24/7]
 NO_REPLACEMENT | TeleMB (1080p)
 NO_REPLACEMENT | Telesambre (504p)
-NO_REPLACEMENT | Tipik (720p)
 NO_REPLACEMENT | TVcom (1080p)
 NO_REPLACEMENT | Vedia (1080p)
 NO_REPLACEMENT | TV5 Quebec Canada (1080p)
@@ -388,6 +386,7 @@ NO_REPLACEMENT | Afro Magic Channel
 NO_REPLACEMENT | Amani TV (1080p) [Not 24/7]
 NO_REPLACEMENT | CRTV (576p)
 NO_REPLACEMENT | Digital Congo TV
+NO_REPLACEMENT | DRTV International
 NO_REPLACEMENT | Exploits TV
 NO_REPLACEMENT | Francophonie24 (1080p)
 NO_REPLACEMENT | Impact TV
