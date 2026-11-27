@@ -1,13 +1,21 @@
+NO_REPLACEMENT | 6ter (1080p)
 NO_REPLACEMENT | arte (720p)
+NO_REPLACEMENT | C Star (1080p)
 NO_REPLACEMENT | Clubbing TV France
 NO_REPLACEMENT | France 3 Lorraine (1080p)
+NO_REPLACEMENT | France 4
 NO_REPLACEMENT | France 5 (720p)
 NO_REPLACEMENT | like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="01 - TNT & GENERALISTES",TF1 (576p)
 NO_REPLACEMENT | like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="01 - TNT & GENERALISTES",TMC (1080p)
+NO_REPLACEMENT | TFX (720p)
 NO_REPLACEMENT | TVM 3 (1080p)
+NO_REPLACEMENT | W9 (1080p)
+NO_REPLACEMENT | Africanews French (720p)
 NO_REPLACEMENT | CNA (360p) [Not 24/7]
 NO_REPLACEMENT | CNEWS PRIME (1080p)
 NO_REPLACEMENT | Filinfo TV (1080p)
+TEST | LCI HD (1080p) | http://151.80.18.177:86/LCI_HD/index.m3u8 | FAIL | 
+NO_REPLACEMENT | LCI HD (1080p)
 NO_REPLACEMENT | like Gecko) Chrome/108.0.0.0 Safari/537.36" group-title="02 - INFOS",BFM Alsace (1080p)
 NO_REPLACEMENT | like Gecko) Chrome/108.0.0.0 Safari/537.36" group-title="02 - INFOS",BFM DICI Alpes du Sud (1080p)
 NO_REPLACEMENT | like Gecko) Chrome/108.0.0.0 Safari/537.36" group-title="02 - INFOS",BFM DICI Haute-Provence (1080p)
@@ -21,7 +29,9 @@ NO_REPLACEMENT | like Gecko) Chrome/108.0.0.0 Safari/537.36" group-title="02 - I
 NO_REPLACEMENT | like Gecko) Chrome/108.0.0.0 Safari/537.36" group-title="02 - INFOS",BFM Toulon Var (1080p)
 NO_REPLACEMENT | NW Info FR (576p)
 NO_REPLACEMENT | Crime Beat TV
+NO_REPLACEMENT | Crime - Rakuten TV
 NO_REPLACEMENT | Crime Scene TV
+NO_REPLACEMENT | IntoCrime
 NO_REPLACEMENT | Love Crime & History
 NO_REPLACEMENT | 100% Docs Crime
 NO_REPLACEMENT | Culture Pub
@@ -31,6 +41,7 @@ NO_REPLACEMENT | Les secrets de nos régions
 NO_REPLACEMENT | NatureTime
 NO_REPLACEMENT | Popular Science
 NO_REPLACEMENT | Stingray Naturescape
+NO_REPLACEMENT | TV5 Monde Voyage
 NO_REPLACEMENT | TV5MONDE Voyage
 NO_REPLACEMENT | WildEarth
 NO_REPLACEMENT | Cap Terre
@@ -47,6 +58,7 @@ TEST | TV5Monde Style (1080p) [Geo-blocked] | http://103.190.232.129/stream/tvb/
 NO_REPLACEMENT | TV5Monde Style (1080p) [Geo-blocked]
 NO_REPLACEMENT | Ça Chauffe en Cuisine
 NO_REPLACEMENT | Cooking Panda
+NO_REPLACEMENT | TV5 MONDE+ Chefs
 TEST | TV5MONDE Chefs | https://tvf-tv5ch.otteravision.com/tvf/tv5ch/tv5ch.m3u8 | OK | video,1920,1080
 audio
 data
@@ -68,7 +80,7 @@ audio
 data
 data
 sub
-APPLIED | TV5MONDE Chefs | https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-68b74890b5b437bf872b6b72/?X-Plex-Token=TgmF5zVntLjWK3gP1Psw -> https://tvf-tv5ch.otteravision.com/tvf/tv5ch/tv5ch.m3u8
+APPLIED | TV5MONDE Chefs | https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-68b74890b5b437bf872b6b72/?X-Plex-Token=yk_xr4bkpR5CmP1g8Z5z -> https://tvf-tv5ch.otteravision.com/tvf/tv5ch/tv5ch.m3u8
 NO_REPLACEMENT | 123GO!
 NO_REPLACEMENT | 5-Minute Crafts
 NO_REPLACEMENT | Creator Television
@@ -77,7 +89,6 @@ NO_REPLACEMENT | 100% Cinema
 NO_REPLACEMENT | 100% Comedy
 NO_REPLACEMENT | Action Hollywood Movies
 NO_REPLACEMENT | Action Totale
-NO_REPLACEMENT | Allociné
 NO_REPLACEMENT | Canal+ Cinemas (720p)
 NO_REPLACEMENT | Ciné Charme by Pluto TV
 NO_REPLACEMENT | Cine+ Emotion (720p)
@@ -92,6 +103,7 @@ NO_REPLACEMENT | Moviesphere
 NO_REPLACEMENT | MOVIESPHERE
 NO_REPLACEMENT | MyTime Movie Network
 NO_REPLACEMENT | Sony One Action HITS
+NO_REPLACEMENT | Sony One Hits Action (1080p)
 TEST | Sony One HITS Comédie | https://7aa9671895264ec9a384dfed1b992171.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-818-FR-SONYONEHITSCOMDIE-LG_FR/playlist.m3u8 | OK | video,1920,1080
 audio
 data
@@ -126,7 +138,6 @@ APPLIED | Sony One HITS Comédie | https://jmp2.uk/stvp-FR300009JQ -> https://7a
 NO_REPLACEMENT | Sony One | Séries Comédie
 NO_REPLACEMENT | Sony One | Séries Thriller
 NO_REPLACEMENT | Surf Cinema
-NO_REPLACEMENT | The Wiggles
 NO_REPLACEMENT | Top Action
 NO_REPLACEMENT | Zylo Ciné Western (1080p)
 NO_REPLACEMENT | AB1 (720p)
@@ -139,6 +150,7 @@ NO_REPLACEMENT | Zylo ScreamIN (1080p)
 NO_REPLACEMENT | Asian Drama
 NO_REPLACEMENT | Banijay Mr Bean Animé (1080p)
 NO_REPLACEMENT | Génération Sitcoms TV
+NO_REPLACEMENT | Serie Club (720p)
 NO_REPLACEMENT | Soap
 NO_REPLACEMENT | Zylo Fréquence Novelas (1080p)
 NO_REPLACEMENT | Boss Brothers TV (1080p)
@@ -150,7 +162,6 @@ NO_REPLACEMENT | Le Meilleur des Jeux TV
 NO_REPLACEMENT | TG Junior
 NO_REPLACEMENT | Equidia (1080p)
 NO_REPLACEMENT | Foot+
-NO_REPLACEMENT | FTF Sports
 NO_REPLACEMENT | GFN Football TV
 NO_REPLACEMENT | like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21" group-title="12 - SPORT",RMC Sport 1
 NO_REPLACEMENT | like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="12 - SPORT",Canal+ Sport 360
@@ -185,7 +196,6 @@ NO_REPLACEMENT | Radio Télé Amen FM (360p) [Not 24/7]
 NO_REPLACEMENT | Radio Tele Ginen
 NO_REPLACEMENT | Radio Télé Kajou (480p) [Not 24/7]
 NO_REPLACEMENT | Radio Tele Puissance
-NO_REPLACEMENT | Radio Tele Sentinel
 NO_REPLACEMENT | Radio Télé Wisdom (360p) [Not 24/7]
 NO_REPLACEMENT | Radio Télévision Shilo (720p) [Not 24/7]
 NO_REPLACEMENT | RFM TV [Not 24/7]
@@ -218,12 +228,12 @@ audio
 video,1280,720
 audio
 video,192
-APPLIED | FashionTV | https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-6490c01f3b3ce9e1aaad95be/?X-Plex-Token=TgmF5zVntLjWK3gP1Psw -> http://fashionlive.mediacdn.ru/cdn/fashiontv/playlist.m3u8
+APPLIED | FashionTV | https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-6490c01f3b3ce9e1aaad95be/?X-Plex-Token=yk_xr4bkpR5CmP1g8Z5z -> http://fashionlive.mediacdn.ru/cdn/fashiontv/playlist.m3u8
 NO_REPLACEMENT | Guide Love TV (720p)
-NO_REPLACEMENT | Le Nouveau Manager TV
 NO_REPLACEMENT | Luxe TV (1080p)
 NO_REPLACEMENT | Dynamic Gospel TV (480p) [Not 24/7]
 NO_REPLACEMENT | Ecclesia TV
+NO_REPLACEMENT | Iqraa Africa & Europe (1080p)
 NO_REPLACEMENT | Iqraa Quran (1080p)
 TEST | KTO (504p) | https://live-kto.akamaized.net/hls/live/2033284/KTO/master.m3u8 | FAIL | 
 NO_REPLACEMENT | KTO (504p)
@@ -247,6 +257,7 @@ NO_REPLACEMENT | Brat TV
 NO_REPLACEMENT | C4 en Alerta
 NO_REPLACEMENT | Camp Spoopy
 NO_REPLACEMENT | Canal 9 en Français (1080p)
+NO_REPLACEMENT | Carac 4 (1080p)
 NO_REPLACEMENT | Carac 5
 NO_REPLACEMENT | CBC News
 NO_REPLACEMENT | Cesar's Pack Leader TV
@@ -269,7 +280,6 @@ NO_REPLACEMENT | Galxy TV
 NO_REPLACEMENT | Glewed TV
 NO_REPLACEMENT | GUSTOTV
 NO_REPLACEMENT | H2O & Friends
-NO_REPLACEMENT | Hard Knocks
 NO_REPLACEMENT | Ice Pilots NWT
 NO_REPLACEMENT | Ideas En 5 Minutos
 NO_REPLACEMENT | ITV Deportes
@@ -283,7 +293,10 @@ NO_REPLACEMENT | Legacy
 NO_REPLACEMENT | Léman Bleu (1080p)
 NO_REPLACEMENT | Les filles d’à côtés TV
 NO_REPLACEMENT | Life Down Under
+NO_REPLACEMENT | Lone Star
 NO_REPLACEMENT | Lucha Plus
+NO_REPLACEMENT | Monster Jam
+NO_REPLACEMENT | More U
 NO_REPLACEMENT | MOTUS La Chaine
 NO_REPLACEMENT | Newsmax2
 NO_REPLACEMENT | NewsWorld
@@ -308,6 +321,7 @@ NO_REPLACEMENT | Revry
 NO_REPLACEMENT | Robot Wars by Mech+
 NO_REPLACEMENT | RTS 3 (720p)
 NO_REPLACEMENT | RTS Info (1080p)
+NO_REPLACEMENT | Runtime
 NO_REPLACEMENT | Shemaroo Bollywood
 NO_REPLACEMENT | SKWAD
 NO_REPLACEMENT | SLOPES
@@ -337,11 +351,8 @@ NO_REPLACEMENT | Unbeaten
 NO_REPLACEMENT | USA TODAY
 NO_REPLACEMENT | Wasabi
 NO_REPLACEMENT | Watch it Kid
-NO_REPLACEMENT | Watch it SCREAM
 NO_REPLACEMENT | Waypoint TV
-NO_REPLACEMENT | World Billiards TV
 NO_REPLACEMENT | XFC TV
-NO_REPLACEMENT | Y2K
 NO_REPLACEMENT | Ya Que La Vérité La Chaine
 NO_REPLACEMENT | Yahoo Finance
 NO_REPLACEMENT | ZenLIFE by Stingray
@@ -350,11 +361,13 @@ NO_REPLACEMENT | Bel RTL (1080p)
 NO_REPLACEMENT | Bouke (504p)
 NO_REPLACEMENT | Canal Zoom [Geo-blocked]
 NO_REPLACEMENT | La Trois (1080p)
+NO_REPLACEMENT | La Une (720p)
 NO_REPLACEMENT | like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21" group-title="21 - BELGIQUE FR",RTL Club
 NO_REPLACEMENT | Qu4tre (1080p)
 NO_REPLACEMENT | RTL-TVI (1080p) [Not 24/7]
 NO_REPLACEMENT | TeleMB (1080p)
 NO_REPLACEMENT | Telesambre (504p)
+NO_REPLACEMENT | Tipik (720p)
 NO_REPLACEMENT | TVcom (1080p)
 NO_REPLACEMENT | Vedia (1080p)
 NO_REPLACEMENT | TV5 Quebec Canada (1080p)
@@ -408,21 +421,47 @@ NO_REPLACEMENT | Trace Mboa (1080p)
 NO_REPLACEMENT | Trace Muzika (1080p)
 NO_REPLACEMENT | Trace Teranga (1080p)
 NO_REPLACEMENT | Trace Urban Africa Franco (1080p)
+NO_REPLACEMENT | Echappées Belles & Co
 NO_REPLACEMENT | 100% Kidz
 NO_REPLACEMENT | Dhar Mann TV
 NO_REPLACEMENT | Émotion
+NO_REPLACEMENT | Epicurieux avec Jamy
 NO_REPLACEMENT | Familles en Scène
+NO_REPLACEMENT | Incroyables Fortunes
 NO_REPLACEMENT | L'effet papillon
 NO_REPLACEMENT | Le meilleur d'Arthur
 NO_REPLACEMENT | Le Meilleur de la TV Réalité
 NO_REPLACEMENT | Les Télétubbies
 NO_REPLACEMENT | Motus
+NO_REPLACEMENT | Passion Bollywood
 NO_REPLACEMENT | Red Bull TV
+TEST | RMC Life | https://d3dcdjv6dx07iz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-eaaww2dyp3iih/RMC_Life_FR.m3u8 | OK | video,1920,1080
+audio
+
+video,1280,720
+audio
+
+video,960,540
+audio
+
+video,640,360
+audio
+
+video,1920,1080
+audio
+video,1280,720
+audio
+video,960,540
+audio
+video,640,360
+audio
+APPLIED | RMC Life | https://jmp2.uk/stvp-FR4000003O1 -> https://d3dcdjv6dx07iz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-eaaww2dyp3iih/RMC_Life_FR.m3u8
 NO_REPLACEMENT | Rolling Stones Takeover
 NO_REPLACEMENT | Rookie Blue
 NO_REPLACEMENT | Show ! Variété
 NO_REPLACEMENT | Skyrock
 NO_REPLACEMENT | SMTOWN
+NO_REPLACEMENT | SuperToons TV
 NO_REPLACEMENT | Top Barça
 NO_REPLACEMENT | Trailers
 NO_REPLACEMENT | Antenne A
@@ -459,3 +498,4 @@ NO_REPLACEMENT | LBFD RTV (1080p)
 NO_REPLACEMENT | Mikuba TV (480p) [Not 24/7]
 NO_REPLACEMENT | NETALKOLE TV (720p) [Not 24/7]
 NO_REPLACEMENT | ONE-TV (720p) [Not 24/7]
+NO_REPLACEMENT | Speedline TV
